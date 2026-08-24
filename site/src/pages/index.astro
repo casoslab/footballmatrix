@@ -1,0 +1,36 @@
+---
+/**
+ * `/` redirects to the default locale: English. A zero-second meta refresh
+ * plus a plain fallback link — no script, so the page needs no exemption from
+ * the site's `script-src 'self'` policy. The target goes through hrefHome so
+ * it keeps the base path when the site is served from `/<repo>/`.
+ */
+import { hrefHome } from "../lib/i18n";
+
+const target = hrefHome("en");
+---
+
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta http-equiv="refresh" content={`0; url=${target}`} />
+    <link rel="canonical" href={target} />
+    <meta name="robots" content="noindex" />
+    <title>Football Matrix</title>
+    <style>
+      @import "../../tokens.css";
+
+      body {
+        margin: var(--space-md);
+        color: var(--color-ink);
+        background: var(--color-paper);
+        font-family: var(--font-body);
+      }
+    </style>
+  </head>
+  <body>
+    <p><a href={target}>Football Matrix</a></p>
+  </body>
+</html>

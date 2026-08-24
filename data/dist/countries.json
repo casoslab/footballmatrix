@@ -1,0 +1,268 @@
+[
+  {
+    "id": "almanya",
+    "nameTr": "Almanya",
+    "nameEn": "Germany",
+    "iso3": "DEU",
+    "flagEmoji": "🇩🇪",
+    "confederation": "UEFA",
+    "theme": {
+      "sky": "#d12d32",
+      "skySoft": "#fff0d7",
+      "navy": "#171717",
+      "gold": "#f2bd2d"
+    }
+  },
+  {
+    "id": "arjantin",
+    "nameTr": "Arjantin",
+    "nameEn": "Argentina",
+    "iso3": "ARG",
+    "flagEmoji": "🇦🇷",
+    "confederation": "CONMEBOL",
+    "theme": {
+      "sky": "#75aadb",
+      "skySoft": "#eaf5ff",
+      "navy": "#14294a",
+      "gold": "#f6c453"
+    }
+  },
+  {
+    "id": "belcika",
+    "nameTr": "Belçika",
+    "nameEn": "Belgium",
+    "iso3": "BEL",
+    "flagEmoji": "🇧🇪",
+    "confederation": "UEFA",
+    "theme": {
+      "sky": "#d3212d",
+      "skySoft": "#fff1ce",
+      "navy": "#1a1a1a",
+      "gold": "#f6c453"
+    }
+  },
+  {
+    "id": "brezilya",
+    "nameTr": "Brezilya",
+    "nameEn": "Brazil",
+    "iso3": "BRA",
+    "flagEmoji": "🇧🇷",
+    "confederation": "CONMEBOL",
+    "theme": {
+      "sky": "#22934f",
+      "skySoft": "#edf9c9",
+      "navy": "#173f75",
+      "gold": "#f4ce34"
+    }
+  },
+  {
+    "id": "danimarka",
+    "nameTr": "Danimarka",
+    "nameEn": "Denmark",
+    "iso3": "DNK",
+    "flagEmoji": "🇩🇰",
+    "confederation": "UEFA",
+    "theme": {
+      "sky": "#c8102e",
+      "skySoft": "#fff0f2",
+      "navy": "#762034",
+      "gold": "#f6c453"
+    }
+  },
+  {
+    "id": "fransa",
+    "nameTr": "Fransa",
+    "nameEn": "France",
+    "iso3": "FRA",
+    "flagEmoji": "🇫🇷",
+    "confederation": "UEFA",
+    "theme": {
+      "sky": "#2461a8",
+      "skySoft": "#edf3ff",
+      "navy": "#132f55",
+      "gold": "#e34a50"
+    }
+  },
+  {
+    "id": "hollanda",
+    "nameTr": "Hollanda",
+    "nameEn": "Netherlands",
+    "iso3": "NLD",
+    "flagEmoji": "🇳🇱",
+    "confederation": "UEFA",
+    "theme": {
+      "sky": "#ef7b21",
+      "skySoft": "#fff1e5",
+      "navy": "#16335f",
+      "gold": "#ef7b21"
+    }
+  },
+  {
+    "id": "ingiltere",
+    "nameTr": "İngiltere",
+    "nameEn": "England",
+    "iso3": "ENG",
+    "flagEmoji": "🇬🇧",
+    "confederation": "UEFA",
+    "theme": {
+      "sky": "#d9353b",
+      "skySoft": "#fff0f1",
+      "navy": "#18294c",
+      "gold": "#d9353b"
+    }
+  },
+  {
+    "id": "ispanya",
+    "nameTr": "İspanya",
+    "nameEn": "Spain",
+    "iso3": "ESP",
+    "flagEmoji": "🇪🇸",
+    "confederation": "UEFA",
+    "theme": {
+      "sky": "#c92832",
+      "skySoft": "#fff2ce",
+      "navy": "#661c28",
+      "gold": "#f5c943"
+    }
+  },
+  {
+    "id": "isvec",
+    "nameTr": "İsveç",
+    "nameEn": "Sweden",
+    "iso3": "SWE",
+    "flagEmoji": "🇸🇪",
+    "confederation": "UEFA",
+    "theme": {
+      "sky": "#1d5fa7",
+      "skySoft": "#fff5bd",
+      "navy": "#16477c",
+      "gold": "#f6c453"
+    }
+  },
+  {
+    "id": "italya",
+    "nameTr": "İtalya",
+    "nameEn": "Italy",
+    "iso3": "ITA",
+    "flagEmoji": "🇮🇹",
+    "confederation": "UEFA",
+    "theme": {
+      "sky": "#188754",
+      "skySoft": "#eaf8f0",
+      "navy": "#174b86",
+      "gold": "#d8474d"
+    }
+  },
+  {
+    "id": "kamerun",
+    "nameTr": "Kamerun",
+    "nameEn": "Cameroon",
+    "iso3": "CMR",
+    "flagEmoji": "🇨🇲",
+    "confederation": "CAF",
+    "theme": {
+      "sky": "#168753",
+      "skySoft": "#fff1bf",
+      "navy": "#7d202e",
+      "gold": "#f6c453"
+    }
+  },
+  {
+    "id": "kolombiya",
+    "nameTr": "Kolombiya",
+    "nameEn": "Colombia",
+    "iso3": "COL",
+    "flagEmoji": "🇨🇴",
+    "confederation": "CONMEBOL",
+    "theme": {
+      "sky": "#e3b51a",
+      "skySoft": "#fff6c9",
+      "navy": "#173f75",
+      "gold": "#f6c453"
+    }
+  },
+  {
+    "id": "meksika",
+    "nameTr": "Meksika",
+    "nameEn": "Mexico",
+    "iso3": "MEX",
+    "flagEmoji": "🇲🇽",
+    "confederation": "CONCACAF",
+    "theme": {
+      "sky": "#168753",
+      "skySoft": "#eaf8f0",
+      "navy": "#8a2835",
+      "gold": "#f6c453"
+    }
+  },
+  {
+    "id": "nijerya",
+    "nameTr": "Nijerya",
+    "nameEn": "Nigeria",
+    "iso3": "NGA",
+    "flagEmoji": "🇳🇬",
+    "confederation": "CAF",
+    "theme": {
+      "sky": "#168753",
+      "skySoft": "#e8f8ef",
+      "navy": "#125239",
+      "gold": "#f6c453"
+    }
+  },
+  {
+    "id": "portekiz",
+    "nameTr": "Portekiz",
+    "nameEn": "Portugal",
+    "iso3": "PRT",
+    "flagEmoji": "🇵🇹",
+    "confederation": "UEFA",
+    "theme": {
+      "sky": "#16754a",
+      "skySoft": "#eaf7ef",
+      "navy": "#7d1f2d",
+      "gold": "#e5b63d"
+    }
+  },
+  {
+    "id": "rusya",
+    "nameTr": "Rusya",
+    "nameEn": "Russia",
+    "iso3": "RUS",
+    "flagEmoji": "🇷🇺",
+    "confederation": "UEFA",
+    "theme": {
+      "sky": "#3567b2",
+      "skySoft": "#edf3ff",
+      "navy": "#7b2632",
+      "gold": "#d84851"
+    }
+  },
+  {
+    "id": "turkiye",
+    "nameTr": "Türkiye",
+    "nameEn": "Turkey",
+    "iso3": "TUR",
+    "flagEmoji": "🇹🇷",
+    "confederation": "UEFA",
+    "theme": {
+      "sky": "#d62f3c",
+      "skySoft": "#fff0f1",
+      "navy": "#711f2a",
+      "gold": "#e9b84a"
+    }
+  },
+  {
+    "id": "uruguay",
+    "nameTr": "Uruguay",
+    "nameEn": "Uruguay",
+    "iso3": "URY",
+    "flagEmoji": "🇺🇾",
+    "confederation": "CONMEBOL",
+    "theme": {
+      "sky": "#65a9df",
+      "skySoft": "#eaf6ff",
+      "navy": "#172f51",
+      "gold": "#e8b844"
+    }
+  }
+]

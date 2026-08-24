@@ -1,0 +1,474 @@
+---
+/** Shared body of the TR and EN data-quality routes. This page is a feature,
+    not an apology: every count below traces to data/dist. */
+import BaseLayout from "../layouts/base.astro";
+import { fmtNumber } from "../lib/format";
+import {
+  countryName,
+  hrefCountry,
+  hrefPlayer,
+  hrefQuality,
+  otherLang,
+  t,
+  type Lang,
+} from "../lib/i18n";
+import {
+  disputes,
+  missingBirthYearCount,
+  missingBirthYears,
+  otherAnomalies,
+  slugCollisions,
+  tiers,
+} from "../lib/quality";
+
+interface Props {
+  lang: Lang;
+}
+
+const { lang } = Astro.props;
+
+const tierRows = [
+  {
+    kind: "confirmed",
+    name: t(lang, "quality.tierConfirmed"),
+    count: tiers.confirmed,
+    desc: t(lang, "quality.tierConfirmedDesc"),
+  },
+  {
+    kind: "disputed",
+    name: t(lang, "quality.tierDisputed"),
+    count: tiers.disputed,
+    desc: t(lang, "quality.tierDisputedDesc"),
+  },
+  {
+    kind: "unverified",
+    name: t(lang, "quality.tierUnverified"),
+    count: tiers.unverified,
+    desc: t(lang, "quality.tierUnverifiedDesc"),
+  },
+];
+
+const disputesHeading = t(lang, "quality.disputesHeading", {
+  count: fmtNumber(lang, disputes.length),
+});
+const birthHeading = t(lang, "quality.birthHeading", {
+  count: fmtNumber(lang, missingBirthYearCount),
+});
+---
+
+<BaseLayout
+  lang={lang}
+  title={t(lang, "meta.qualityTitle")}
+  description={t(lang, "meta.qualityDescription")}
+  otherHref={hrefQuality(otherLang(lang))}
+>
+  <header class="page-head">
+    <h1>{t(lang, "quality.title")}</h1>
+    <p>{t(lang, "quality.intro")}</p>
+  </header>
+
+  <section aria-labelledby="tiers-heading">
+    <h2 id="tiers-heading">{t(lang, "quality.tiersHeading")}</h2>
+    <dl class="band">
+      {tierRows.map((tier) => (
+        <div class={`is-${tier.kind}`}>
+          <dt>{tier.name}</dt>
+          <dd class="tnum">
+            {fmtNumber(lang, tier.count)}
+            <span class="band__unit">{t(lang, "quality.playersUnit")}</span>
+          </dd>
+          <p>{tier.desc}</p>
+        </div>
+      ))}
+    </dl>
+  </section>
+
+  <section aria-labelledby="disputes-heading">
+    <h2 id="disputes-heading">{disputesHeading}</h2>
+    <p class="section-intro">{t(lang, "quality.disputesIntro")}</p>
+
+    <!-- Long tables scroll inside their own container, like the matrix. -->
+    <div class="table-scroll" role="region" aria-label={t(lang, "matrix.scrollAria")} tabindex="0">
+      <table>
+        <caption class="visually-hidden">{disputesHeading}</caption>
+        <thead>
+          <tr>
+            <th scope="col">{t(lang, "quality.colPlayer")}</th>
+            <th scope="col">{t(lang, "quality.colArchive")}</th>
+            <th scope="col">{t(lang, "quality.colWikipedia")}</th>
+            <th scope="col">{t(lang, "quality.colSuggested")}</th>
+          </tr>
+        </thead>
+        <tbody>
+          {disputes.map((row) => (
+            <tr>
+              <th scope="row">
+                {row.player ? (
+                  <a href={hrefPlayer(lang, row.player.id)}>{row.player.name}</a>
+                ) : (
+                  row.fallbackName
+                )}
+              </th>
+              <td>{row.archivePosition}</td>
+              <td class="col-field">
+                {row.wikipediaField}
+                <a class="col-source" href={row.wikipediaUrl} rel="noreferrer">
+                  {t(lang, "player.wikipedia")}
+                </a>
+              </td>
+              <td>{row.suggested}</td>
+            </tr>
+          ))}
+        </tbody>
+      </table>
+    </div>
+  </section>
+
+  <section aria-labelledby="birth-heading">
+    <h2 id="birth-heading">{birthHeading}</h2>
+    <p class="section-intro">{t(lang, "quality.birthIntro")}</p>
+
+    <div class="table-scroll" role="region" aria-label={t(lang, "matrix.scrollAria")} tabindex="0">
+      <table>
+        <caption class="visually-hidden">{birthHeading}</caption>
+        <thead>
+          <tr>
+            <th scope="col">{t(lang, "quality.colPlayer")}</th>
+            <th scope="col">{t(lang, "quality.colCountry")}</th>
+          </tr>
+        </thead>
+        <tbody>
+          {missingBirthYears.map((row) => (
+            <tr>
+              <th scope="row">
+                {row.player ? (
+                  <a href={hrefPlayer(lang, row.player.id)}>{row.player.name}</a>
+                ) : (
+                  row.fallbackTitle
+                )}
+              </th>
+              <td>
+                <a href={hrefCountry(lang, row.country.id)}>{countryName(row.country, lang)}</a>
+              </td>
+            </tr>
+          ))}
+        </tbody>
+      </table>
+    </div>
+  </section>
+
+  <section class="collisions" aria-labelledby="collisions-heading">
+    <h2 id="collisions-heading">
+      {t(lang, "quality.collisionsHeading", { count: fmtNumber(lang, slugCollisions.length) })}
+    </h2>
+    <p class="section-intro">{t(lang, "quality.collisionsIntro")}</p>
+    <ul class="ruled-list">
+      {slugCollisions.map((collision) => (
+        <li>
+          <span class="collision__slug">{collision.baseSlug}</span>
+          <span class="collision__players">
+            {collision.players.map((player, index) => (
+              <Fragment>
+                {index > 0 && " · "}
+                <a href={hrefPlayer(lang, player.playerId)}>{player.wikipediaTitle}</a>
+              </Fragment>
+            ))}
+          </span>
+        </li>
+      ))}
+    </ul>
+  </section>
+
+  <section class="also" aria-labelledby="also-heading">
+    <h2 id="also-heading">{t(lang, "quality.alsoHeading")}</h2>
+    <ul class="ruled-list">
+      <li>
+        {t(lang, "quality.alsoSearchLinks", {
+          count: fmtNumber(lang, otherAnomalies.searchLinks),
+        })}
+      </li>
+      <li>
+        {t(lang, "quality.alsoStandBy", {
+          count: fmtNumber(lang, otherAnomalies.standByRows),
+        })}
+      </li>
+      <li>
+        {t(lang, "quality.alsoShared", {
+          count: fmtNumber(lang, otherAnomalies.sharedPlayers),
+        })}
+      </li>
+      <li>
+        {t(lang, "quality.alsoConflicts", {
+          count: fmtNumber(lang, otherAnomalies.metadataConflicts),
+        })}
+      </li>
+      <li>{t(lang, "quality.alsoEditions")}</li>
+    </ul>
+  </section>
+</BaseLayout>
+
+<style>
+  /* Reference page: long-form prose, read top to bottom. */
+  .page-head {
+    padding: var(--space-lg) var(--space-xl) var(--space-xl);
+    border: var(--rule-hair) solid var(--color-rule);
+    border-block-start: var(--rule-double) solid var(--color-ink);
+    border-radius: var(--radius-container);
+    background: var(--color-paper-2);
+  }
+
+  .page-head h1 {
+    margin: 0;
+    font-size: var(--text-display-s);
+  }
+
+  .page-head p {
+    max-width: var(--measure-prose);
+    margin: var(--space-sm) 0 0;
+    color: var(--color-ink-muted);
+  }
+
+  section {
+    margin-block-start: var(--space-3xl);
+  }
+
+  section h2 {
+    font-family: var(--font-display);
+    font-size: var(--text-lg);
+    margin: 0 0 var(--space-sm);
+  }
+
+  .section-intro {
+    max-width: var(--measure-prose);
+    margin-block: 0 var(--space-sm);
+    font-size: var(--text-sm);
+    color: var(--color-ink-muted);
+  }
+
+  /* ---- Tiers: same narrative-band voice as the country page ---------- */
+  .band {
+    display: grid;
+    grid-template-columns: minmax(0, 1fr);
+    gap: var(--space-sm);
+    margin-block: var(--space-md) 0;
+  }
+
+  .band > div {
+    position: relative;
+    min-width: 0;
+    padding: var(--space-lg);
+    border: var(--rule-hair) solid var(--color-rule);
+    border-radius: var(--radius-control);
+    background: var(--color-paper);
+  }
+
+  .band > div::after {
+    position: absolute;
+    inset-block-start: var(--space-md);
+    inset-inline-end: var(--space-md);
+    display: grid;
+    place-items: center;
+    inline-size: var(--size-control);
+    block-size: var(--size-control);
+    font-family: var(--font-outlier);
+    border: var(--rule-hair) solid var(--color-rule-strong);
+    border-radius: var(--radius-full);
+  }
+
+  .band .is-confirmed {
+    background: var(--color-paper-blue);
+  }
+
+  .band .is-confirmed::after {
+    content: "✓";
+  }
+
+  .band .is-disputed {
+    background: var(--color-accent-soft);
+  }
+
+  .band .is-disputed::after {
+    content: "!";
+  }
+
+  .band .is-unverified {
+    border-style: dashed;
+  }
+
+  .band .is-unverified::after {
+    content: "?";
+  }
+
+  .band dt {
+    font-size: var(--text-xs);
+    letter-spacing: var(--tracking-caps);
+    text-transform: uppercase;
+    color: var(--color-ink-muted);
+  }
+
+  .band dd {
+    margin: var(--space-2xs) 0 0;
+    font-family: var(--font-display);
+    max-width: calc(100% - var(--size-control) - var(--space-md));
+    font-size: var(--text-2xl);
+    line-height: var(--leading-display);
+  }
+
+  .band__unit {
+    font-family: var(--font-body);
+    font-size: var(--text-sm);
+    color: var(--color-ink-muted);
+  }
+
+  .band p {
+    margin: var(--space-2xs) 0 0;
+    font-size: var(--text-sm);
+    color: var(--color-ink-muted);
+  }
+
+  /* ---- Long tables ---------------------------------------------------
+     The scroll lives here and nowhere else; the page body never moves
+     sideways at any width. */
+  .table-scroll {
+    overflow: auto;
+    max-height: var(--matrix-max-height);
+    border: var(--rule-hair) solid var(--color-rule);
+    border-radius: var(--radius-container);
+    background: var(--color-paper);
+  }
+
+  .table-scroll:focus-visible {
+    outline: var(--rule-focus) solid var(--color-focus);
+    outline-offset: 2px;
+  }
+
+  table {
+    width: 100%;
+    border-collapse: separate;
+    border-spacing: 0;
+    font-variant-numeric: tabular-nums;
+  }
+
+  thead th {
+    position: sticky;
+    top: 0;
+    z-index: var(--z-sticky-header);
+    padding: var(--space-xs) var(--space-sm);
+    font-size: var(--text-sm);
+    font-weight: 600;
+    text-align: start;
+    white-space: nowrap;
+    background: var(--color-paper-2);
+    border-block-end: var(--rule-double) solid var(--color-ink);
+  }
+
+  tbody th,
+  tbody td {
+    padding: var(--space-2xs) var(--space-sm);
+    font-weight: 400;
+    text-align: start;
+    vertical-align: baseline;
+    border-block-end: var(--rule-hair) solid var(--color-rule);
+  }
+
+  tbody th {
+    white-space: nowrap;
+  }
+
+  tbody tr:hover th,
+  tbody tr:hover td {
+    background: var(--color-paper-2);
+  }
+
+  tbody a,
+  .ruled-list a {
+    color: inherit;
+    text-decoration-color: var(--color-rule-strong);
+    text-underline-offset: var(--rule-underline-offset);
+  }
+
+  tbody a:hover,
+  .ruled-list a:hover {
+    text-decoration-color: var(--color-accent);
+  }
+
+  tbody a:focus-visible,
+  .ruled-list a:focus-visible {
+    outline: var(--rule-focus) solid var(--color-focus);
+    outline-offset: 2px;
+    border-radius: var(--radius-cell);
+  }
+
+  /* The Wikipedia field is the one cell allowed to wrap; the source link
+     under it stays on a single line. */
+  .col-field {
+    min-width: 14rem;
+  }
+
+  .col-source {
+    display: block;
+    margin-block-start: var(--space-2xs);
+    font-size: var(--text-sm);
+    white-space: nowrap;
+  }
+
+  /* ---- Ruled lists --------------------------------------------------- */
+  .ruled-list {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+  }
+
+  .ruled-list li {
+    padding-block: var(--space-xs);
+    border-block-end: var(--rule-hair) solid var(--color-rule);
+  }
+
+  .collisions li {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: baseline;
+    justify-content: space-between;
+    gap: var(--space-2xs) var(--space-lg);
+  }
+
+  .collision__slug {
+    font-family: var(--font-outlier);
+    font-size: var(--text-sm);
+    color: var(--color-ink-muted);
+    /* Long machine identifiers break instead of pushing the page wide. */
+    overflow-wrap: anywhere;
+  }
+
+  .collision__players a {
+    white-space: nowrap;
+  }
+
+  .also li {
+    max-width: var(--measure-prose);
+  }
+
+  @media (min-width: 40rem) {
+    .band {
+      grid-template-columns: repeat(12, minmax(0, 1fr));
+    }
+
+    .band > div {
+      grid-column: span 6;
+    }
+
+    .band > div:first-child {
+      grid-column: span 12;
+    }
+  }
+
+  @media (min-width: 60rem) {
+    .band > div:first-child {
+      grid-column: span 6;
+    }
+
+    .band > div:not(:first-child) {
+      grid-column: span 3;
+    }
+  }
+</style>

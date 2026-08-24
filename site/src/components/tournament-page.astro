@@ -1,0 +1,332 @@
+---
+/** Shared body of the TR and EN tournament routes. */
+import BaseLayout from "../layouts/base.astro";
+import { getTournamentModel, yearLabel } from "../lib/data";
+import { fmtDate, fmtNumber } from "../lib/format";
+import {
+  countryName,
+  hrefCountry,
+  hrefPlayer,
+  hrefTournament,
+  localeTag,
+  otherLang,
+  t,
+  tournamentName,
+  type Lang,
+} from "../lib/i18n";
+
+interface Props {
+  id: string;
+  lang: Lang;
+}
+
+const { id, lang } = Astro.props;
+const model = getTournamentModel(id);
+const { tournament } = model;
+
+const label = yearLabel(tournament);
+const name = tournamentName(tournament, lang);
+const countryCount = fmtNumber(lang, model.squads.length);
+const typeKey = {
+  "world-cup": "tournament.typeWorldCup",
+  continental: "tournament.typeContinental",
+  olympic: "tournament.typeOlympic",
+} as const;
+const typeLabel = t(lang, typeKey[tournament.type]);
+const squads = [...model.squads].sort((a, b) =>
+  countryName(a.country, lang).localeCompare(countryName(b.country, lang), localeTag(lang), {
+    sensitivity: "base",
+  }),
+);
+---
+
+<BaseLayout
+  lang={lang}
+  title={t(lang, "meta.tournamentTitle", { label, name })}
+  description={t(lang, "meta.tournamentDescription", { label, name, countries: countryCount })}
+  otherHref={hrefTournament(otherLang(lang), id)}
+>
+  <section class:list={["hero", `is-${tournament.type}`]}>
+    <div class="hero__head">
+      <p class="hero__eyebrow">{typeLabel}</p>
+      <h1>{name}</h1>
+      <p class="hero__year tnum">{label}</p>
+    </div>
+
+    <div class="hero__source">
+      <a href={tournament.sourceUrl} rel="noreferrer">{t(lang, "tournament.source")}</a>
+      <p>{t(lang, "tournament.retrieved", { date: fmtDate(lang, tournament.retrievedAt) })}</p>
+    </div>
+  </section>
+
+  <section class="participants" aria-labelledby="participants-heading">
+    <h2 id="participants-heading">{t(lang, "tournament.participants")}</h2>
+
+    <ul class="participant-index">
+      {squads.map(({ country, entries }) => (
+        <li>
+          <a href={`#squad-${country.id}`}>
+            <span aria-hidden="true">{country.flagEmoji}</span>
+            <strong>{countryName(country, lang)}</strong>
+            <span class="tnum">{fmtNumber(lang, entries.length)}</span>
+          </a>
+        </li>
+      ))}
+    </ul>
+
+    <div class="squads">
+      {squads.map(({ country, entries }) => (
+        <section
+          class="squad"
+          aria-labelledby={`squad-${country.id}`}
+          style={`--country-accent: ${country.theme.sky}; --country-soft: ${country.theme.skySoft}`}
+        >
+          <div class="squad__head">
+            <h3 id={`squad-${country.id}`}>
+              <a href={hrefCountry(lang, country.id)}>{country.flagEmoji} {countryName(country, lang)}</a>
+            </h3>
+            <p class="tnum">{t(lang, "tournament.squadSize", { count: fmtNumber(lang, entries.length) })}</p>
+          </div>
+
+          <div class="table-scroll" role="region" aria-labelledby={`squad-${country.id}`} tabindex="0">
+            <table>
+              <caption>{label} · {name} · {countryName(country, lang)}</caption>
+              <thead>
+                <tr>
+                  <th scope="col">{t(lang, "player.colShirt")}</th>
+                  <th scope="col">{t(lang, "matrix.colPlayer")}</th>
+                </tr>
+              </thead>
+              <tbody>
+                {entries.map(({ player, shirtNumber }) => (
+                  <tr>
+                    <td class="tnum">{shirtNumber ?? t(lang, "player.noNumber")}</td>
+                    <th scope="row"><a href={hrefPlayer(lang, player.id)}>{player.name}</a></th>
+                  </tr>
+                ))}
+              </tbody>
+            </table>
+          </div>
+        </section>
+      ))}
+    </div>
+  </section>
+</BaseLayout>
+
+<style>
+  /* Data detail page: a stat block above, tables below. */
+  .hero {
+    display: grid;
+    gap: var(--space-xl);
+    padding: var(--space-lg) var(--space-lg) var(--space-xl);
+    border: var(--rule-hair) solid var(--color-rule);
+    border-block-start: var(--rule-double) solid var(--color-chart-continental);
+    border-radius: var(--radius-container);
+    background: var(--color-paper-2);
+  }
+
+  .hero.is-world-cup {
+    border-block-start-color: var(--color-chart-world);
+  }
+
+  .hero.is-olympic {
+    border-block-start-color: var(--color-chart-olympic);
+  }
+
+  .hero__head {
+    min-width: 0;
+  }
+
+  .hero__eyebrow {
+    margin: 0 0 var(--space-xs);
+    font-size: var(--text-sm);
+    letter-spacing: var(--tracking-caps);
+    text-transform: uppercase;
+    color: var(--color-ink-muted);
+  }
+
+  h1 {
+    margin: 0;
+    font-size: var(--text-display-s);
+  }
+
+  .hero__year {
+    margin: var(--space-2xs) 0 0;
+    font-family: var(--font-outlier);
+    font-size: var(--text-md);
+    color: var(--color-ink-muted);
+  }
+
+  .hero__source {
+    padding-block-start: var(--space-md);
+    border-block-start: var(--rule-hair) solid var(--color-rule);
+  }
+
+  .hero__source a,
+  .squad a {
+    white-space: nowrap;
+  }
+
+  .hero__source p {
+    margin: var(--space-2xs) 0 0;
+    font-size: var(--text-sm);
+    color: var(--color-ink-muted);
+  }
+
+  a:hover {
+    text-decoration-thickness: var(--rule-hair);
+  }
+
+  a:active {
+    color: var(--color-accent);
+  }
+
+  a[aria-disabled="true"] {
+    color: var(--color-ink-muted);
+    cursor: not-allowed;
+  }
+
+  /* ---- Participating countries ------------------------------------ */
+  .participants {
+    margin-block-start: var(--space-3xl);
+  }
+
+  .participants > h2 {
+    margin: 0;
+    font-size: var(--text-xl);
+  }
+
+  .participant-index {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: var(--space-xs);
+    margin: var(--space-lg) 0 0;
+    padding: 0;
+    list-style: none;
+  }
+
+  .participant-index a {
+    display: grid;
+    grid-template-columns: auto minmax(0, 1fr) auto;
+    align-items: center;
+    gap: var(--space-xs);
+    min-block-size: var(--size-control);
+    padding-inline: var(--space-sm);
+    text-decoration: none;
+    border: var(--rule-hair) solid var(--color-rule);
+    border-radius: var(--radius-control);
+    background: var(--color-paper-2);
+  }
+
+  .participant-index strong {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+  }
+
+  .participant-index .tnum {
+    color: var(--color-ink-muted);
+  }
+
+  .squads {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(min(var(--size-squad-column-min), 100%), 1fr));
+    gap: var(--space-2xl) var(--space-xl);
+    margin-block-start: var(--space-xl);
+  }
+
+  .squad {
+    min-width: 0;
+    padding: var(--space-md);
+    border: var(--rule-hair) solid var(--color-rule);
+    border-block-start: var(--rule-double) solid var(--country-accent, var(--color-ink));
+    border-radius: var(--radius-control);
+    background: var(--country-soft, var(--color-paper));
+  }
+
+  .squad__head {
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
+    gap: var(--space-md);
+  }
+
+  .squad__head h3,
+  .squad__head p {
+    margin: 0;
+  }
+
+  .squad__head h3 {
+    font-size: var(--text-lg);
+  }
+
+  .squad__head p {
+    flex: none;
+    font-size: var(--text-sm);
+    color: var(--color-ink-muted);
+  }
+
+  /* The table remains a table at 320px; unusually long names scroll here. */
+  .table-scroll {
+    max-width: 100%;
+    margin-block-start: var(--space-sm);
+    overflow-x: auto;
+    border: var(--rule-hair) solid var(--color-rule-strong);
+    background: var(--color-paper);
+  }
+
+  table {
+    inline-size: max-content;
+    min-inline-size: 100%;
+    border-collapse: collapse;
+  }
+
+  caption {
+    padding-block: var(--space-xs);
+    text-align: start;
+    font-size: var(--text-xs);
+    color: var(--color-ink-muted);
+  }
+
+  th,
+  td {
+    padding: var(--space-xs) var(--space-sm);
+    text-align: start;
+    border-block-end: var(--rule-hair) solid var(--color-rule);
+  }
+
+  thead th {
+    font-size: var(--text-xs);
+    letter-spacing: var(--tracking-caps);
+    text-transform: uppercase;
+    color: var(--color-ink-muted);
+    background: var(--color-paper-2);
+  }
+
+  tbody th {
+    font-weight: 400;
+  }
+
+  tbody tr:last-child > * {
+    border-block-end: 0;
+  }
+
+  @media (min-width: 40rem) {
+    .hero {
+      grid-template-columns: minmax(0, 3fr) minmax(14rem, 2fr);
+      align-items: end;
+    }
+
+    .hero__source {
+      padding-block-start: 0;
+      padding-inline-start: var(--space-lg);
+      text-align: end;
+      border-block-start: 0;
+      border-inline-start: var(--rule-hair) solid var(--color-rule);
+    }
+
+    .participant-index {
+      grid-template-columns: repeat(auto-fit, minmax(min(12rem, 100%), 1fr));
+    }
+  }
+</style>

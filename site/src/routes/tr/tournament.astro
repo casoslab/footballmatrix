@@ -1,0 +1,12 @@
+---
+import TournamentPage from "../../components/tournament-page.astro";
+import { tournaments } from "../../lib/data";
+
+export function getStaticPaths() {
+  return tournaments.map((tournament) => ({ params: { id: tournament.id } }));
+}
+
+const { id } = Astro.params;
+---
+
+<TournamentPage id={id!} lang="tr" />

@@ -1,0 +1,48 @@
+Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+
+This licence covers the DATA in this repository: everything under `data/`,
+including the extracted dataset in `data/dist/` and the HTML provenance archive
+in `data/raw/`.
+
+Full legal text: https://creativecommons.org/licenses/by-sa/4.0/legalcode
+Human-readable summary: https://creativecommons.org/licenses/by-sa/4.0/
+
+Why this licence and not the code's MIT
+---------------------------------------
+
+The dataset is derived from English Wikipedia squad pages, which are published
+under CC BY-SA 4.0. A derivative of CC BY-SA material must itself be CC BY-SA.
+This is not a preference; it is the condition under which the source material
+may be reused at all.
+
+What you must do when you reuse this data
+-----------------------------------------
+
+1. Credit the source. Attribution to Wikipedia and its contributors is
+   satisfied by carrying ATTRIBUTION.md, which lists every source page and the
+   date it was retrieved, or by linking to it.
+2. Link to this licence, or include it.
+3. Say whether you changed anything.
+4. Share your derivative under CC BY-SA 4.0 as well.
+
+You may do all of this commercially. You may not add restrictions that stop
+anyone else from doing the same.
+
+What this licence does not cover
+---------------------------------
+
+- The code (MIT — see LICENSE).
+- The bundled typefaces (SIL Open Font License 1.1 — licence files ship in
+  `site/public/fonts/`).
+- The facts themselves. In most jurisdictions a bare fact — that a given player
+  wore number 10 at a given tournament — is not copyrightable. This licence
+  covers the compilation, the structure and the accompanying text.
+
+No warranty
+-----------
+
+The data is provided as-is. It is transcribed from a source that is itself
+edited by volunteers, and its known gaps are documented rather than hidden:
+3,095 players have no recorded position, 460 have a position that disagrees
+with their Wikipedia infobox, and 401 have no birth year. See
+`data/dist/reports/` and the data-quality page of the site.

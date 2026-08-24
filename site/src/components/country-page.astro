@@ -1,0 +1,375 @@
+---
+/** Shared body of the TR and EN country routes. */
+import BaseLayout from "../layouts/base.astro";
+import SquadMatrix from "./squad-matrix.astro";
+import { countries, getCountryModel, yearLabel } from "../lib/data";
+import { fmtNumber, fmtDate } from "../lib/format";
+import {
+  countryName,
+  hrefCountry,
+  hrefPlayer,
+  otherLang,
+  t,
+  tournamentName,
+  type Lang,
+} from "../lib/i18n";
+
+interface Props {
+  id: string;
+  lang: Lang;
+}
+
+const { id, lang } = Astro.props;
+const model = getCountryModel(id);
+const { country, tournaments, highlights } = model;
+
+const name = countryName(country, lang);
+const families = lang === "tr" ? model.familiesTr : model.familiesEn;
+const oldest = tournaments[tournaments.length - 1]!;
+const newest = tournaments[0]!;
+
+const sorted = [...countries].sort((a, b) =>
+  countryName(a, lang).localeCompare(countryName(b, lang), lang === "tr" ? "tr-TR" : "en-GB"),
+);
+const hasOlympic = tournaments.some((tournament) => tournament.type === "olympic");
+---
+
+<BaseLayout
+  lang={lang}
+  title={`${name} — ${t(lang, "common.wordmark")}`}
+  description={t(lang, "country.intro")}
+  accent={country.theme.sky}
+  otherHref={hrefCountry(otherLang(lang), id)}
+>
+  <section
+    class="hero"
+    style={`--country-accent: ${country.theme.sky}; --country-soft: ${country.theme.skySoft}; --country-ink: ${country.theme.navy}`}
+  >
+    <div class="hero__head">
+      <p class="hero__eyebrow">{families.join(" · ")}</p>
+      <h1>{name}</h1>
+      <p class="hero__span tnum">{model.yearMin}–{model.yearMax}</p>
+    </div>
+
+    <div class="hero__aside">
+      <span class="hero__flag" role="img" aria-label={t(lang, "country.flagAria", { country: name })}>
+        {country.flagEmoji}
+      </span>
+      <label class="hero__switch">
+        <span class="visually-hidden">{t(lang, "country.switcherAria")}</span>
+        <select id="country-switch">
+          {sorted.map((option) => (
+            <option value={hrefCountry(lang, option.id)} selected={option.id === id}>
+              {option.flagEmoji} {countryName(option, lang)}
+            </option>
+          ))}
+        </select>
+      </label>
+    </div>
+  </section>
+
+  <!-- Narrative band. Every figure below is computed from data/dist. -->
+  <dl class="band">
+    <div>
+      <dt>{t(lang, "country.firstTournament")}</dt>
+      <dd class="tnum">{yearLabel(oldest)}</dd>
+      <p>{tournamentName(oldest, lang)}</p>
+    </div>
+    <div>
+      <dt>{t(lang, "country.lastTournament")}</dt>
+      <dd class="tnum">{yearLabel(newest)}</dd>
+      <p>{tournamentName(newest, lang)}</p>
+    </div>
+    <div>
+      <dt>{t(lang, "country.distinctPlayers")}</dt>
+      <dd class="tnum">{fmtNumber(lang, model.distinctPlayers)}</dd>
+      <p>{t(lang, "country.squadRecords")}: {fmtNumber(lang, model.recordCount)}</p>
+    </div>
+    <div>
+      <dt>{t(lang, "country.mostCapped")}</dt>
+      <dd class="band__name">
+        <a href={hrefPlayer(lang, model.mostCapped.player.id)}>{model.mostCapped.player.name}</a>
+      </dd>
+      <p>{t(lang, "country.mostCappedValue", { count: model.mostCapped.count })}</p>
+    </div>
+  </dl>
+  {model.longestGap && (
+    <p class="band-note">
+      <strong>{t(lang, "country.longestGap")}:</strong>{" "}
+      {t(lang, "country.longestGapValue", {
+        years: model.longestGap.years,
+        from: model.longestGap.from,
+        to: model.longestGap.to,
+      })}
+    </p>
+  )}
+
+  {highlights.length > 0 && (
+    <section class="highlights" aria-labelledby="highlights-heading">
+      <h2 id="highlights-heading">{t(lang, "country.highlights")}</h2>
+      <ul>
+        {highlights.map((row) => (
+          <li>
+            <a href={hrefPlayer(lang, row.player.id)}>
+              <strong>{row.player.name}</strong>
+              <span class="tnum">
+                {t(lang, "country.highlightsValue", { count: row.tournamentCount })}
+              </span>
+            </a>
+          </li>
+        ))}
+      </ul>
+    </section>
+  )}
+
+  <SquadMatrix model={model} lang={lang} />
+
+  <section class="source" aria-labelledby="source-heading">
+    <h2 id="source-heading">{t(lang, "country.sourceHeading")}</h2>
+    <p>{t(lang, "country.sourceNote", { date: fmtDate(lang, newest.retrievedAt) })}</p>
+    {hasOlympic && <p class="source__note">{t(lang, "country.olympicNote")}</p>}
+    <h3>{t(lang, "country.squadSizesHeading")}</h3>
+    <ul class="source__sizes">
+      {model.squadSizes.map(({ tournament, size }) => (
+        <li>
+          <a href={tournament.sourceUrl} rel="noreferrer">
+            {yearLabel(tournament)} · {tournamentName(tournament, lang)}
+          </a>
+          <span class="tnum">{size}</span>
+        </li>
+      ))}
+    </ul>
+  </section>
+</BaseLayout>
+
+<script>
+  const switcher = document.getElementById("country-switch") as HTMLSelectElement | null;
+  if (switcher) {
+    switcher.addEventListener("change", () => {
+      window.location.href = switcher.value;
+    });
+  }
+</script>
+
+<style>
+  /* Data detail page: a stat block above, tables below. */
+  .hero {
+    display: grid;
+    gap: var(--space-xl);
+    padding: var(--space-lg) var(--space-lg) var(--space-xl);
+    color: var(--country-ink, var(--color-ink));
+    border: var(--rule-hair) solid var(--color-rule);
+    border-radius: var(--radius-container);
+    background: var(--country-soft, var(--color-paper-2));
+  }
+
+  .hero__head {
+    min-width: 0;
+  }
+
+  .hero__eyebrow {
+    margin: 0 0 var(--space-xs);
+    font-size: var(--text-sm);
+    letter-spacing: var(--tracking-caps);
+    text-transform: uppercase;
+    color: var(--color-ink-muted);
+  }
+
+  h1 {
+    margin: 0;
+    font-size: var(--text-display-s);
+  }
+
+  .hero__span {
+    margin: var(--space-2xs) 0 0;
+    font-family: var(--font-outlier);
+    font-size: var(--text-md);
+    color: var(--color-ink-muted);
+  }
+
+  .hero__aside {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: var(--space-md);
+  }
+
+  .hero__flag {
+    display: grid;
+    place-items: center;
+    inline-size: 3.5rem;
+    block-size: 3.5rem;
+    font-size: var(--text-2xl);
+    line-height: 1;
+    border: var(--rule-hair) solid var(--country-accent, var(--color-rule-strong));
+    border-radius: var(--radius-full);
+    background: var(--color-paper);
+  }
+
+  .hero__switch select {
+    min-width: min(18rem, 100%);
+    padding: var(--space-xs) var(--space-sm);
+    font: inherit;
+    color: var(--color-ink);
+    background: var(--color-paper);
+    border: var(--rule-hair) solid var(--color-rule-strong);
+    border-radius: var(--radius-control);
+  }
+
+  /* ---- Narrative band ---------------------------------------------- */
+  .band {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(min(12rem, 100%), 1fr));
+    gap: var(--space-sm);
+    margin-block: var(--space-xl) 0;
+  }
+
+  .band > div {
+    min-width: 0;
+    padding: var(--space-lg);
+    border: var(--rule-hair) solid var(--color-rule);
+    border-radius: var(--radius-control);
+    background: var(--color-paper-2);
+  }
+
+  .band > div:nth-child(2) {
+    background: var(--color-paper-blue);
+  }
+
+  .band > div:nth-child(4) {
+    background: var(--color-paper-warm);
+  }
+
+  .band dt {
+    font-size: var(--text-xs);
+    letter-spacing: var(--tracking-caps);
+    text-transform: uppercase;
+    color: var(--color-ink-muted);
+  }
+
+  .band dd {
+    margin: var(--space-2xs) 0 0;
+    font-family: var(--font-display);
+    font-size: var(--text-xl);
+    line-height: var(--leading-display);
+  }
+
+  .band__name {
+    font-size: var(--text-md);
+  }
+
+  .band p {
+    margin: var(--space-2xs) 0 0;
+    font-size: var(--text-sm);
+    color: var(--color-ink-muted);
+  }
+
+  .band-note {
+    margin: var(--space-sm) 0 0;
+    font-size: var(--text-sm);
+    color: var(--color-ink-muted);
+  }
+
+  /* ---- Highlights --------------------------------------------------- */
+  .highlights {
+    margin-block-start: var(--space-xl);
+  }
+
+  .highlights h2,
+  .source h2 {
+    font-family: var(--font-display);
+    font-size: var(--text-lg);
+    margin: 0 0 var(--space-sm);
+  }
+
+  .highlights ul {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(min(15rem, 100%), 1fr));
+    gap: var(--space-sm);
+    margin: 0;
+    padding: 0;
+    list-style: none;
+  }
+
+  .highlights li {
+    min-width: 0;
+  }
+
+  .highlights li a {
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
+    gap: var(--space-sm);
+    min-block-size: var(--size-control);
+    padding: var(--space-sm) var(--space-md);
+    text-decoration: none;
+    border: var(--rule-hair) solid var(--color-rule);
+    border-radius: var(--radius-control);
+    background: var(--color-paper);
+  }
+
+  .highlights li strong {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+  }
+
+  .source__sizes li {
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
+    gap: var(--space-sm);
+    padding-block: var(--space-xs);
+    border-block-end: var(--rule-hair) solid var(--color-rule);
+  }
+
+  .highlights span,
+  .source__sizes span {
+    color: var(--color-ink-muted);
+    font-size: var(--text-sm);
+  }
+
+  .highlights span {
+    flex: none;
+    white-space: nowrap;
+  }
+
+  /* ---- Source ------------------------------------------------------- */
+  .source {
+    margin-block-start: var(--space-3xl);
+    padding-block-start: var(--space-lg);
+    border-block-start: var(--rule-double) solid var(--color-ink);
+  }
+
+  .source p {
+    max-width: 65ch;
+    color: var(--color-ink-muted);
+    font-size: var(--text-sm);
+  }
+
+  .source h3 {
+    font-size: var(--text-md);
+    margin-block: var(--space-lg) var(--space-sm);
+  }
+
+  .source__sizes {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(min(18rem, 100%), 1fr));
+    gap: 0 var(--space-lg);
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    font-size: var(--text-sm);
+  }
+
+  @media (min-width: 40rem) {
+    .hero {
+      grid-template-columns: minmax(0, 3fr) auto;
+      align-items: center;
+    }
+
+    .hero__aside {
+      justify-content: end;
+    }
+  }
+</style>

@@ -1,0 +1,153 @@
+/* The single source for every colour, font, size and duration in the site.
+ * A value that is not a token here does not belong in a stylesheet.
+ * See design.md for the system, docs/design-system.md for the build brief.
+ *
+ * anchor hue: 258 (navy, carried from the source archive) · accent: 28 (field red)
+ */
+
+:root {
+  color-scheme: light;
+
+  /* ---- Paper and ink -------------------------------------------------- */
+  /* Never pure white, never pure black: everything tints toward the navy
+     anchor carried over from the source archive. */
+  --color-paper: oklch(98.5% 0.004 250);
+  --color-paper-2: oklch(96.2% 0.006 250);
+  --color-paper-3: oklch(93.5% 0.008 250);
+  --color-paper-warm: oklch(96.5% 0.018 76);
+  --color-paper-blue: oklch(95.5% 0.018 245);
+
+  --color-ink: oklch(24% 0.045 258);
+  --color-ink-muted: oklch(52% 0.03 258);
+  --color-navy: oklch(27% 0.055 258);
+
+  --color-rule: oklch(88% 0.012 250);
+  --color-rule-strong: oklch(72% 0.02 255);
+
+  /* ---- Accent ---------------------------------------------------------- */
+  /* One warm accent, under 5% of any viewport: the active nav mark, the
+     underline on a focused control, the "most tournaments" marker. */
+  --color-accent: oklch(52% 0.155 28);
+  --color-accent-soft: oklch(94% 0.03 30);
+  --color-accent-ink: oklch(98.5% 0.004 250);
+
+  /* Tournament categories are data-visualisation channels, not decorative
+     accents. Labels accompany every colour so no meaning is colour-only. */
+  --color-chart-world: oklch(32% 0.075 258);
+  --color-chart-continental: oklch(58% 0.105 245);
+  --color-chart-olympic: oklch(69% 0.13 82);
+  --color-chart-track: oklch(91% 0.012 250);
+
+  /* Focus is deliberately NOT the accent: a keyboard ring must stay legible
+     on top of accent-coloured surfaces. */
+  --color-focus: oklch(55% 0.14 250);
+
+  /* ---- Per-country masthead tint --------------------------------------- */
+  /* Set per page from data/dist/countries.json `theme`. Scoped to the
+     masthead rule and the flag badge only: it must never become the page
+     accent, or the site reads as 19 different sites. */
+  --color-country: var(--color-navy);
+
+  /* ---- Type ------------------------------------------------------------ */
+  /* Self-hosted only. No font CDN: a third-party font request hands the
+     visitor's IP to another party, which this project does not do. */
+  --font-display: "Newsreader Variable", "Newsreader", ui-serif, Georgia, serif;
+  --font-body: "IBM Plex Sans", ui-sans-serif, system-ui, sans-serif;
+  --font-outlier: "JetBrains Mono", ui-monospace, monospace;
+
+  /* Major third, 1.25, from a 16px body. */
+  --text-xs: 0.64rem;
+  --text-sm: 0.8rem;
+  --text-base: 1rem;
+  --text-md: 1.25rem;
+  --text-lg: 1.5625rem;
+  --text-xl: 1.9531rem;
+  --text-2xl: 2.4414rem;
+  --text-3xl: 3.0518rem;
+  --text-display-s: clamp(2.25rem, 3.5vw + 1rem, 3.5rem);
+  --text-display: clamp(2.75rem, 5vw + 1rem, 5.25rem);
+
+  --leading-display: 1.08;
+  --leading-body: 1.55;
+  --measure-prose: 65ch;
+
+  /* ---- Space: 4pt scale ------------------------------------------------ */
+  --space-2xs: 0.25rem;
+  --space-xs: 0.5rem;
+  --space-sm: 0.75rem;
+  --space-md: 1rem;
+  --space-lg: 1.5rem;
+  --space-xl: 2.5rem;
+  --space-2xl: 4rem;
+  --space-3xl: 6rem;
+
+  /* ---- Radius: one scale, four rungs ----------------------------------- */
+  /* The archive used eight arbitrary values (3, 5, 6, 9, 10, 14, 16, 999). */
+  --radius-cell: 2px;
+  --radius-control: 8px;
+  --radius-container: 14px;
+  --radius-full: 999px;
+
+  /* ---- Components ------------------------------------------------------ */
+  --size-control: 2.75rem;
+  --size-card-min: 16rem;
+  --size-chart-label: 9rem;
+
+  /* ---- Rules ----------------------------------------------------------- */
+  --rule-hair: 1px;
+  --rule-double: 3px;
+  --rule-underline-offset: 2px;
+
+  /* ---- Motion ---------------------------------------------------------- */
+  --dur-fast: 120ms;
+  --dur-base: 200ms;
+  --dur-slow: 320ms;
+  /* Hero figure tick: counts to its target over ~500ms, home page only. */
+  --dur-counter: 500ms;
+  --ease-out: cubic-bezier(0.16, 1, 0.3, 1);
+  --ease-in: cubic-bezier(0.7, 0, 0.84, 0);
+  --ease-in-out: cubic-bezier(0.65, 0, 0.35, 1);
+
+  /* ---- Elevation ------------------------------------------------------- */
+  /* Sticky-chrome shadows (masthead, sticky matrix column), derived from ink. */
+  --color-shadow: oklch(24% 0.045 258 / 0.28);
+  --shadow-whisper: 0 1px 2px oklch(24% 0.045 258 / 0.08);
+
+  /* ---- Layering -------------------------------------------------------- */
+  --z-base: 1;
+  --z-sticky-column: 1;
+  --z-sticky-header: 2;
+  --z-sticky-corner: 3;
+  --z-raised: 10;
+  --z-dropdown: 100;
+  --z-sticky: 200;
+  --z-modal: 400;
+  --z-toast: 500;
+  --z-tooltip: 600;
+
+  /* ---- Focus -------------------------------------------------------------
+     Keyboard ring: instant, never animated, legible on accent surfaces. */
+  --rule-focus: 2px;
+
+  /* ---- Tracking -------------------------------------------------------- */
+  --tracking-caps: 0.09em;
+
+  /* ---- Matrix geometry ------------------------------------------------- */
+  /* Sticky player column: readable at 320px, generous on desktop. */
+  --size-player-column: clamp(7.5rem, 38vw, 13rem);
+  /* Tournament column minimum. */
+  --size-year-column: 3.5rem;
+  /* Two-column tournament index collapses before a squad table is cramped. */
+  --size-squad-column-min: 22rem;
+  /* Vertical scrollport of the matrix; horizontal scroll stays inside too. */
+  --matrix-max-height: 78vh;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  :root {
+    --dur-fast: 0ms;
+    --dur-base: 0ms;
+    --dur-slow: 0ms;
+    --dur-counter: 0ms;
+  }
+}

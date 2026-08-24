@@ -1,0 +1,210 @@
+---
+/** Shared N6 newspaper masthead and Ft4 colophon. */
+import "../styles/global.css";
+import { countries, retrievedAt, siteSpan, stats } from "../lib/data";
+import { fmtDate, fmtNumber } from "../lib/format";
+import {
+  hrefAbout,
+  hrefHome,
+  hrefQuality,
+  otherLang,
+  t,
+  type Lang,
+} from "../lib/i18n";
+
+interface Props {
+  lang: Lang;
+  title: string;
+  description: string;
+  /** Optional per-country masthead tint, quarantined to the rule + badge. */
+  accent?: string;
+  otherHref: string;
+}
+
+const { lang, title, description, accent, otherHref } = Astro.props;
+const other = otherLang(lang);
+const path = Astro.url.pathname;
+const homeCurrent = path.endsWith(`/${lang}/`) || path.endsWith(`/${lang}`);
+const qualityCurrent = path.includes(lang === "tr" ? "/veri-kalitesi/" : "/data-quality/");
+const aboutCurrent = path.includes(lang === "tr" ? "/hakkinda/" : "/about/");
+---
+
+<html lang={lang}>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    {/*
+      GitHub Pages cannot set response headers, so the policy ships as a meta
+      tag. `frame-ancestors` and `report-uri` are ignored in meta form; every
+      directive below is honoured.
+
+      `connect-src 'none'` is the load-bearing one: it makes fetch, XHR,
+      WebSocket and sendBeacon impossible, so the "no telemetry" claim is
+      enforced by the browser rather than promised in a footer.
+
+      `style-src-attr 'unsafe-inline'` exists for exactly one thing: the
+      per-country masthead tint set as a style attribute on <body>. Scripts
+      carry no such exemption — the island scripts are bundled, not inline.
+    */}
+    <meta
+      http-equiv="Content-Security-Policy"
+      content="default-src 'none'; script-src 'self'; style-src 'self'; style-src-attr 'unsafe-inline'; font-src 'self'; img-src 'self' data:; connect-src 'none'; form-action 'none'; base-uri 'none'; frame-src 'none'; object-src 'none'"
+    />
+    <meta name="referrer" content="no-referrer" />
+    <title>{title}</title>
+    <meta name="description" content={description} />
+    <link rel="alternate" hreflang={other} href={otherHref} />
+  </head>
+
+  <body style={accent ? `--color-country: ${accent}` : undefined}>
+    <a class="skip-link" href="#main">{t(lang, "common.skipToContent")}</a>
+
+    <header class="masthead">
+      <div class="page masthead__inner">
+        <p class="masthead__line">
+          {t(lang, "common.mastheadLine", {
+            span: siteSpan,
+            countries: fmtNumber(lang, stats.countryCount),
+            tournaments: fmtNumber(lang, stats.tournamentCount),
+          })}
+        </p>
+        <a class="masthead__wordmark" href={hrefHome(lang)}>{t(lang, "common.wordmark")}</a>
+        <nav class="masthead__nav" aria-label={t(lang, "common.mainNavAria")}>
+          <ul>
+            <li><a href={hrefHome(lang)} aria-current={homeCurrent ? "page" : undefined}>{t(lang, "nav.countries")}</a></li>
+            <li><a href={hrefQuality(lang)} aria-current={qualityCurrent ? "page" : undefined}>{t(lang, "nav.dataQuality")}</a></li>
+            <li><a href={hrefAbout(lang)} aria-current={aboutCurrent ? "page" : undefined}>{t(lang, "nav.about")}</a></li>
+            <li><a href={otherHref} lang={other} aria-label={t(lang, "common.langSwitchAria")}>
+              {t(lang, "common.langSwitch")}
+            </a></li>
+          </ul>
+        </nav>
+      </div>
+    </header>
+
+    <main id="main" class="page">
+      <slot />
+    </main>
+
+    <footer class="colophon">
+      <div class="page colophon__inner">
+        <div>
+          <p class="colophon__wordmark">{t(lang, "common.wordmark")}</p>
+          <p class="colophon__lead">{t(lang, "common.tagline")}</p>
+        </div>
+        <div class="colophon__log">
+          <p class="colophon__line">
+            {t(lang, "footer.dataLine", {
+              countries: fmtNumber(lang, countries.length),
+              tournaments: fmtNumber(lang, stats.tournamentCount),
+              records: fmtNumber(lang, stats.squadEntryCount),
+              span: siteSpan,
+            })}
+          </p>
+          <p class="colophon__line">
+            {t(lang, "footer.sourceLine", { date: fmtDate(lang, retrievedAt) })}
+          </p>
+          <p class="colophon__line">{t(lang, "footer.typeLine")}</p>
+          <p class="colophon__line">{t(lang, "footer.privacyLine")}</p>
+        </div>
+      </div>
+    </footer>
+  </body>
+</html>
+
+<style>
+  .masthead {
+    border-block-end: var(--rule-double) double var(--color-country, var(--color-navy));
+    background: var(--color-paper-2);
+  }
+
+  .masthead__inner {
+    display: grid;
+    justify-items: center;
+    gap: var(--space-xs);
+    padding-block: var(--space-sm) var(--space-md);
+  }
+
+  .masthead__wordmark {
+    font-family: var(--font-display);
+    font-size: var(--text-2xl);
+    font-weight: 600;
+    letter-spacing: -0.015em;
+    text-decoration: none;
+  }
+
+  .masthead__line {
+    margin: 0;
+    font-size: var(--text-xs);
+    letter-spacing: var(--tracking-caps);
+    text-transform: uppercase;
+    color: var(--color-ink-muted);
+  }
+
+  .masthead__nav {
+    font-size: var(--text-sm);
+  }
+
+  .masthead__nav ul {
+    display: grid;
+    grid-template-columns: repeat(2, auto);
+    justify-content: center;
+    gap: var(--space-2xs) var(--space-lg);
+    margin: 0;
+    padding: 0;
+    list-style: none;
+  }
+
+  .masthead__nav a {
+    display: inline-flex;
+    align-items: center;
+    min-block-size: var(--size-control);
+    white-space: nowrap;
+  }
+
+  .masthead__nav a[aria-current="page"] {
+    text-decoration-color: var(--color-accent);
+    text-decoration-thickness: var(--rule-double);
+  }
+
+  .colophon {
+    border-block-start: var(--rule-hair) solid var(--color-rule);
+    background: var(--color-paper-2);
+  }
+
+  .colophon__inner {
+    display: grid;
+    gap: var(--space-xl);
+  }
+
+  .colophon__wordmark {
+    margin: 0;
+    font-family: var(--font-display);
+    font-size: var(--text-xl);
+    font-weight: 600;
+  }
+
+  .colophon__lead {
+    margin: var(--space-xs) 0 0;
+    color: var(--color-ink-muted);
+  }
+
+  .colophon__line {
+    max-width: 70ch;
+    margin: 0 0 var(--space-2xs);
+    font-size: var(--text-sm);
+    color: var(--color-ink-muted);
+  }
+
+  @media (min-width: 40rem) {
+    .masthead__nav ul {
+      display: flex;
+      gap: var(--space-xl);
+    }
+
+    .colophon__inner {
+      grid-template-columns: minmax(0, 2fr) minmax(0, 3fr);
+      align-items: start;
+    }
+  }
+</style>

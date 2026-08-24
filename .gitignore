@@ -1,0 +1,24 @@
+node_modules/
+__pycache__/
+*.pyc
+.venv/
+
+# Build output. data/dist/ is generated too, but it IS committed on purpose:
+# it is the published dataset. Only site/app build artifacts are ignored.
+site/dist/
+site/.astro/
+site/node_modules/
+app/.expo/
+app/dist/
+
+# Local scratch. The provenance archive that IS tracked lives in data/raw/html/;
+# this folder is working material and stays out of the published repository.
+arsiv/
+
+.claude/settings.local.json
+.env
+.env.*
+!.env.example
+
+.DS_Store
+*.log

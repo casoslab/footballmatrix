@@ -1,0 +1,591 @@
+---
+/** Shared TR/EN discovery surface: real archive totals, rankings and countries. */
+import BaseLayout from "../layouts/base.astro";
+import BarChart from "./bar-chart.astro";
+import { getHomeModel, normalizeTr, siteSpan, stats } from "../lib/data";
+import { fmtNumber } from "../lib/format";
+import {
+  countryName,
+  hrefCountry,
+  hrefHome,
+  hrefPlayer,
+  localeTag,
+  otherLang,
+  t,
+  type Lang,
+} from "../lib/i18n";
+
+interface Props {
+  lang: Lang;
+}
+
+const { lang } = Astro.props;
+const model = getHomeModel();
+const locale = localeTag(lang);
+
+const countries = [...model.countries].sort((a, b) =>
+  countryName(a.country, lang).localeCompare(countryName(b.country, lang), locale, {
+    sensitivity: "base",
+  }),
+);
+
+const coverage = [...model.countries]
+  .sort(
+    (a, b) =>
+      b.tournamentCount - a.tournamentCount ||
+      countryName(a.country, lang).localeCompare(countryName(b.country, lang), locale, {
+        sensitivity: "base",
+      }),
+  )
+  .slice(0, 8);
+
+const playerSeries = [
+  {
+    key: "world-cup" as const,
+    label: t(lang, "type.worldCup"),
+    color: "var(--color-chart-world)" as const,
+  },
+  {
+    key: "continental" as const,
+    label: t(lang, "type.continental"),
+    color: "var(--color-chart-continental)" as const,
+  },
+  {
+    key: "olympic" as const,
+    label: t(lang, "type.olympic"),
+    color: "var(--color-chart-olympic)" as const,
+  },
+];
+
+const playerChartItems = model.topPlayers.map((row) => ({
+  label: row.player.name,
+  meta: row.countries.map((country) => country.iso3).join("+"),
+  href: hrefPlayer(lang, row.player.id),
+  total: row.total,
+  accessibleLabel: t(lang, "home.playerChartItem", {
+    player: row.player.name,
+    total: row.total,
+    world: row.byType["world-cup"],
+    continental: row.byType.continental,
+    olympic: row.byType.olympic,
+  }),
+  segments: playerSeries.map((series) => ({
+    ...series,
+    value: row.byType[series.key],
+  })),
+}));
+
+const coverageSeries = [{
+  key: "coverage" as const,
+  label: t(lang, "home.coverageSeries"),
+  color: "var(--color-chart-continental)" as const,
+}];
+const coverageChartItems = coverage.map((row) => ({
+  label: countryName(row.country, lang),
+  meta: row.country.iso3,
+  href: hrefCountry(lang, row.country.id),
+  total: row.tournamentCount,
+  accessibleLabel: t(lang, "home.coverageChartItem", {
+    country: countryName(row.country, lang),
+    count: row.tournamentCount,
+    span: `${row.yearMin}–${row.yearMax}`,
+  }),
+  segments: [{ ...coverageSeries[0], value: row.tournamentCount }],
+}));
+---
+
+<BaseLayout
+  lang={lang}
+  title={t(lang, "meta.homeTitle")}
+  description={t(lang, "meta.homeDescription", {
+    countries: fmtNumber(lang, stats.countryCount),
+  })}
+  otherHref={hrefHome(otherLang(lang))}
+>
+  <section class="hero" data-locale={locale}>
+    <div class="hero__copy">
+      <h1>{t(lang, "hero.title")}</h1>
+      <p>{t(lang, "hero.line", {
+        countries: fmtNumber(lang, stats.countryCount),
+        tournaments: fmtNumber(lang, stats.tournamentCount),
+        span: siteSpan,
+      })}</p>
+    </div>
+    <p class="hero__figure">
+      <span class="hero__number tnum" id="hero-number" data-target={stats.squadEntryCount}>
+        {fmtNumber(lang, stats.squadEntryCount)}
+      </span>
+      <span class="hero__label">{t(lang, "hero.figureLabel")}</span>
+    </p>
+  </section>
+
+  <script>
+    (() => {
+      const hero = document.querySelector<HTMLElement>(".hero");
+      const number = document.getElementById("hero-number");
+      if (!hero || !number) return;
+      const locale = hero.dataset.locale!;
+      const target = Number(number.dataset.target);
+      if (!Number.isFinite(target)) return;
+      const render = (value: number) => {
+        number.textContent = Math.round(value).toLocaleString(locale);
+      };
+      const raw = getComputedStyle(document.documentElement).getPropertyValue("--dur-counter").trim();
+      const duration = raw.endsWith("ms") ? Number.parseFloat(raw) : Number.parseFloat(raw) * 1000;
+      let ticked = false;
+      try {
+        ticked = sessionStorage.getItem("fm-hero-tick") === "1";
+        sessionStorage.setItem("fm-hero-tick", "1");
+      } catch {
+        /* Storage can be blocked; the count remains an optional enhancement. */
+      }
+      if (!duration || ticked) {
+        render(target);
+        return;
+      }
+      const start = performance.now();
+      render(0);
+      const frame = (now: number) => {
+        const progress = Math.min((now - start) / duration, 1);
+        const eased = 1 - Math.pow(1 - progress, 4);
+        render(target * eased);
+        if (progress < 1) requestAnimationFrame(frame);
+        else render(target);
+      };
+      requestAnimationFrame(frame);
+    })();
+  </script>
+
+  <dl class="stats" aria-label={t(lang, "home.statsAria")}>
+    <div>
+      <dt>{t(lang, "home.countriesStat")}</dt>
+      <dd class="tnum">{fmtNumber(lang, stats.countryCount)}</dd>
+    </div>
+    <div>
+      <dt>{t(lang, "home.tournamentsStat")}</dt>
+      <dd class="tnum">{fmtNumber(lang, stats.tournamentCount)}</dd>
+    </div>
+    <div class="stats__wide">
+      <dt>{t(lang, "home.playersStat")}</dt>
+      <dd class="tnum">{fmtNumber(lang, stats.distinctPlayers)}</dd>
+    </div>
+    <div>
+      <dt>{t(lang, "home.spanStat")}</dt>
+      <dd class="tnum">{siteSpan}</dd>
+    </div>
+  </dl>
+
+  <section class="insights" aria-labelledby="insights-heading">
+    <header class="section-head">
+      <h2 id="insights-heading">{t(lang, "home.insightsHeading")}</h2>
+      <p>{t(lang, "home.insightsNote")}</p>
+    </header>
+    <div class="insights__grid">
+      <BarChart
+        title={t(lang, "home.playerChartTitle")}
+        description={t(lang, "home.playerChartDescription")}
+        items={playerChartItems}
+        series={playerSeries}
+        ariaLabel={t(lang, "home.playerChartAria")}
+      />
+      <BarChart
+        title={t(lang, "home.coverageChartTitle")}
+        description={t(lang, "home.coverageChartDescription")}
+        items={coverageChartItems}
+        series={coverageSeries}
+        ariaLabel={t(lang, "home.coverageChartAria")}
+      />
+    </div>
+  </section>
+
+  <section
+    class="index"
+    aria-labelledby="index-heading"
+    data-locale={locale}
+    data-count-template={t(lang, "home.resultCount", { count: "__COUNT__" })}
+  >
+    <header class="section-head">
+      <div>
+        <h2 id="index-heading">{t(lang, "home.countriesHeading")}</h2>
+        <p>{t(lang, "home.countriesIntro")}</p>
+      </div>
+      <p class="index__count" id="country-count" role="status" aria-live="polite">
+        {t(lang, "home.resultCount", { count: fmtNumber(lang, countries.length) })}
+      </p>
+    </header>
+
+    <label class="index__search">
+      <span>{t(lang, "home.searchAria")}</span>
+      <input
+        type="search"
+        id="country-search"
+        autocomplete="off"
+        placeholder={t(lang, "home.searchPlaceholder")}
+      />
+    </label>
+
+    <ul class="country-grid" id="country-list">
+      {countries.map((row, position) => {
+        const name = countryName(row.country, lang);
+        return (
+          <li data-name={normalizeTr(name)} class:list={{ "is-featured": position < 2 }}>
+            <a
+              class="country-card"
+              href={hrefCountry(lang, row.country.id)}
+              style={`--country-accent: ${row.country.theme.sky}; --country-soft: ${row.country.theme.skySoft}; --country-ink: ${row.country.theme.navy}`}
+            >
+              <span class="country-card__head">
+                <span class="country-card__flag" aria-hidden="true">{row.country.flagEmoji}</span>
+                <strong>{name}</strong>
+                <span class="country-card__iso">{row.country.iso3}</span>
+              </span>
+              <span class="country-card__scope tnum">
+                {t(lang, "home.tournamentCount", { count: row.tournamentCount })} · {row.yearMin}–{row.yearMax}
+              </span>
+              <span class="country-card__leader">
+                {t(lang, "home.countryLeader", {
+                  player: row.mostCapped.player.name,
+                  count: row.mostCapped.count,
+                })}
+              </span>
+              <span class="country-card__arrow" aria-hidden="true">↗</span>
+            </a>
+          </li>
+        );
+      })}
+    </ul>
+
+    <p class="index__empty" id="country-empty" hidden>{t(lang, "home.empty")}</p>
+  </section>
+
+  <script>
+    (() => {
+      const section = document.querySelector<HTMLElement>(".index");
+      const search = document.getElementById("country-search") as HTMLInputElement | null;
+      const list = document.getElementById("country-list");
+      const count = document.getElementById("country-count");
+      const empty = document.getElementById("country-empty");
+      if (!section || !search || !list || !count || !empty) return;
+      const locale = section.dataset.locale!;
+      const countTemplate = section.dataset.countTemplate!;
+      const items = Array.from(list.children) as HTMLElement[];
+      const normalize = (value: string) =>
+        value.toLocaleLowerCase(locale).normalize("NFD").replace(/[\u0300-\u036f]/g, "");
+      const applyFilter = () => {
+        const query = normalize(search.value.trim());
+        let visible = 0;
+        for (const item of items) {
+          const show = item.dataset.name!.includes(query);
+          item.hidden = !show;
+          if (show) visible += 1;
+        }
+        count.textContent = countTemplate.replace("__COUNT__", visible.toLocaleString(locale));
+        empty.hidden = visible > 0;
+        count.classList.add("is-updating");
+        requestAnimationFrame(() => count.classList.remove("is-updating"));
+      };
+      search.addEventListener("input", applyFilter);
+    })();
+  </script>
+</BaseLayout>
+
+<style>
+  /* Home hero: an irregular grid of data tiles with hairline borders. */
+  .hero {
+    display: grid;
+    gap: var(--space-xl);
+    padding-block-end: var(--space-xl);
+    border-block-end: var(--rule-double) solid var(--color-ink);
+  }
+
+  .hero__copy {
+    min-width: 0;
+  }
+
+  h1 {
+    max-width: 12ch;
+    margin: 0;
+    font-size: var(--text-display-s);
+  }
+
+  .hero__copy p {
+    max-width: var(--measure-prose);
+    margin: var(--space-md) 0 0;
+    color: var(--color-ink-muted);
+  }
+
+  .hero__figure {
+    align-self: end;
+    margin: 0;
+  }
+
+  .hero__number {
+    display: block;
+    font-family: var(--font-outlier);
+    font-size: var(--text-display);
+    line-height: var(--leading-display);
+  }
+
+  .hero__label {
+    display: block;
+    margin-block-start: var(--space-2xs);
+    font-size: var(--text-sm);
+    letter-spacing: var(--tracking-caps);
+    text-transform: uppercase;
+    color: var(--color-ink-muted);
+  }
+
+  .stats {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: var(--space-sm);
+    margin: var(--space-lg) 0 0;
+  }
+
+  .stats > div {
+    min-width: 0;
+    padding: var(--space-md);
+    border: var(--rule-hair) solid var(--color-rule);
+    border-radius: var(--radius-control);
+    background: var(--color-paper-2);
+  }
+
+  .stats dt {
+    font-size: var(--text-xs);
+    letter-spacing: var(--tracking-caps);
+    text-transform: uppercase;
+    color: var(--color-ink-muted);
+  }
+
+  .stats dd {
+    margin: var(--space-2xs) 0 0;
+    font-family: var(--font-display);
+    font-size: var(--text-xl);
+    font-weight: 600;
+    line-height: var(--leading-display);
+  }
+
+  .insights,
+  .index {
+    margin-block-start: var(--space-3xl);
+  }
+
+  .section-head {
+    display: grid;
+    gap: var(--space-sm);
+    align-items: end;
+    margin-block-end: var(--space-lg);
+  }
+
+  .section-head h2,
+  .section-head p {
+    margin: 0;
+  }
+
+  .section-head h2 {
+    font-size: var(--text-xl);
+  }
+
+  .section-head p {
+    max-width: var(--measure-prose);
+    color: var(--color-ink-muted);
+  }
+
+  .insights__grid {
+    display: grid;
+    grid-template-columns: minmax(0, 1fr);
+    gap: var(--space-md);
+  }
+
+  .index__count {
+    transition: opacity var(--dur-base) var(--ease-out);
+  }
+
+  .index__count.is-updating {
+    opacity: 0.55;
+  }
+
+  .index__search {
+    display: block;
+    margin-block-end: var(--space-lg);
+  }
+
+  .index__search span {
+    display: block;
+    margin-block-end: var(--space-2xs);
+    font-size: var(--text-sm);
+    letter-spacing: var(--tracking-caps);
+    text-transform: uppercase;
+    color: var(--color-ink-muted);
+  }
+
+  .index__search input {
+    width: 100%;
+    padding-inline: var(--space-md);
+    font: inherit;
+    color: var(--color-ink);
+    background: var(--color-paper);
+    border: var(--rule-hair) solid var(--color-rule-strong);
+    border-radius: var(--radius-control);
+  }
+
+  .country-grid {
+    display: grid;
+    grid-template-columns: minmax(0, 1fr);
+    gap: var(--space-md);
+    margin: 0;
+    padding: 0;
+    list-style: none;
+  }
+
+  .country-grid li[hidden] {
+    display: none;
+  }
+
+  .country-card {
+    position: relative;
+    display: grid;
+    grid-template-columns: minmax(0, 1fr) auto;
+    gap: var(--space-sm);
+    min-block-size: 9rem;
+    padding: var(--space-lg);
+    overflow: hidden;
+    color: var(--country-ink, var(--color-ink));
+    text-decoration: none;
+    border: var(--rule-hair) solid var(--color-rule);
+    border-radius: var(--radius-container);
+    background: var(--country-soft, var(--color-paper-2));
+    box-shadow: var(--shadow-whisper);
+    transition: transform var(--dur-fast) var(--ease-out);
+  }
+
+  .country-card::after {
+    content: "";
+    position: absolute;
+    inset-block-start: var(--space-sm);
+    inset-inline-end: var(--space-sm);
+    inline-size: var(--space-xs);
+    block-size: var(--space-xs);
+    background: var(--country-accent, var(--color-accent));
+  }
+
+  @media (hover: hover) and (pointer: fine) {
+    .country-card:hover {
+      transform: translateY(-1px);
+    }
+  }
+
+  .country-card:active {
+    transform: translateY(1px);
+  }
+
+  .country-card__head {
+    display: flex;
+    align-items: center;
+    gap: var(--space-xs);
+    min-width: 0;
+    padding-inline-end: var(--space-md);
+  }
+
+  .country-card__head strong {
+    min-width: 0;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    font-family: var(--font-display);
+    font-size: var(--text-lg);
+  }
+
+  .country-card__flag {
+    font-size: var(--text-md);
+    line-height: 1;
+  }
+
+  .country-card__iso {
+    font-size: var(--text-xs);
+    font-weight: 600;
+    letter-spacing: var(--tracking-caps);
+    color: var(--color-ink-muted);
+  }
+
+  .country-card__scope,
+  .country-card__leader {
+    grid-column: 1;
+    font-size: var(--text-sm);
+  }
+
+  .country-card__leader {
+    align-self: end;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    color: var(--color-ink-muted);
+  }
+
+  .country-card__arrow {
+    grid-column: 2;
+    grid-row: 2 / 4;
+    align-self: end;
+    color: var(--country-accent, var(--color-accent));
+  }
+
+  .index__empty {
+    margin-block-start: var(--space-lg);
+    color: var(--color-ink-muted);
+  }
+
+  @media (min-width: 40rem) {
+    .hero {
+      grid-template-columns: minmax(0, 3fr) minmax(14rem, 2fr);
+      align-items: end;
+    }
+
+    .stats {
+      grid-template-columns: repeat(12, minmax(0, 1fr));
+    }
+
+    .stats > div {
+      grid-column: span 3;
+    }
+
+    .stats > .stats__wide {
+      grid-column: span 4;
+    }
+
+    .stats > div:last-child {
+      grid-column: span 2;
+    }
+
+    .section-head {
+      grid-template-columns: minmax(0, 3fr) minmax(0, 2fr);
+    }
+
+    .section-head > p,
+    .index__count {
+      justify-self: end;
+      text-align: end;
+    }
+
+    .country-grid {
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+    }
+  }
+
+  @media (min-width: 60rem) {
+    .insights__grid {
+      grid-template-columns: minmax(0, 7fr) minmax(0, 5fr);
+    }
+
+    .country-grid {
+      grid-template-columns: repeat(12, minmax(0, 1fr));
+    }
+
+    .country-grid li {
+      grid-column: span 4;
+    }
+
+    .country-grid li.is-featured {
+      grid-column: span 6;
+    }
+  }
+</style>

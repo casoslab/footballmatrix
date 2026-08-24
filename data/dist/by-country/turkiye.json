@@ -1,0 +1,3916 @@
+{
+  "country": {
+    "id": "turkiye",
+    "nameTr": "Türkiye",
+    "nameEn": "Turkey",
+    "iso3": "TUR",
+    "flagEmoji": "🇹🇷",
+    "confederation": "UEFA",
+    "theme": {
+      "sky": "#d62f3c",
+      "skySoft": "#fff0f1",
+      "navy": "#711f2a",
+      "gold": "#e9b84a"
+    }
+  },
+  "tournaments": [
+    {
+      "id": "euro-1996",
+      "type": "continental",
+      "year": 1996,
+      "nameTr": "Avrupa Şampiyonası",
+      "nameEn": "UEFA European Championship",
+      "sourceUrl": "https://en.wikipedia.org/wiki/UEFA_Euro_1996_squads",
+      "retrievedAt": "2026-08-03"
+    },
+    {
+      "id": "euro-2000",
+      "type": "continental",
+      "year": 2000,
+      "nameTr": "Avrupa Şampiyonası",
+      "nameEn": "UEFA European Championship",
+      "sourceUrl": "https://en.wikipedia.org/wiki/UEFA_Euro_2000_squads",
+      "retrievedAt": "2026-08-03"
+    },
+    {
+      "id": "euro-2008",
+      "type": "continental",
+      "year": 2008,
+      "nameTr": "Avrupa Şampiyonası",
+      "nameEn": "UEFA European Championship",
+      "sourceUrl": "https://en.wikipedia.org/wiki/UEFA_Euro_2008_squads",
+      "retrievedAt": "2026-08-03"
+    },
+    {
+      "id": "euro-2016",
+      "type": "continental",
+      "year": 2016,
+      "nameTr": "Avrupa Şampiyonası",
+      "nameEn": "UEFA European Championship",
+      "sourceUrl": "https://en.wikipedia.org/wiki/UEFA_Euro_2016_squads",
+      "retrievedAt": "2026-08-03"
+    },
+    {
+      "id": "euro-2020",
+      "type": "continental",
+      "year": 2020,
+      "nameTr": "Avrupa Şampiyonası",
+      "nameEn": "UEFA European Championship",
+      "sourceUrl": "https://en.wikipedia.org/wiki/UEFA_Euro_2020_squads",
+      "retrievedAt": "2026-08-03"
+    },
+    {
+      "id": "euro-2024",
+      "type": "continental",
+      "year": 2024,
+      "nameTr": "Avrupa Şampiyonası",
+      "nameEn": "UEFA European Championship",
+      "sourceUrl": "https://en.wikipedia.org/wiki/UEFA_Euro_2024_squads",
+      "retrievedAt": "2026-08-03"
+    },
+    {
+      "id": "olympics-1924",
+      "type": "olympic",
+      "year": 1924,
+      "nameTr": "Olimpiyat",
+      "nameEn": "Summer Olympics men's football tournament",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Football_at_the_1924_Summer_Olympics_%E2%80%93_Men%27s_team_squads",
+      "retrievedAt": "2026-08-03"
+    },
+    {
+      "id": "olympics-1928",
+      "type": "olympic",
+      "year": 1928,
+      "nameTr": "Olimpiyat",
+      "nameEn": "Summer Olympics men's football tournament",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Football_at_the_1928_Summer_Olympics_%E2%80%93_Men%27s_team_squads",
+      "retrievedAt": "2026-08-03"
+    },
+    {
+      "id": "olympics-1948",
+      "type": "olympic",
+      "year": 1948,
+      "nameTr": "Olimpiyat",
+      "nameEn": "Summer Olympics men's football tournament",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Football_at_the_1948_Summer_Olympics_%E2%80%93_Men%27s_team_squads",
+      "retrievedAt": "2026-08-03"
+    },
+    {
+      "id": "olympics-1952",
+      "type": "olympic",
+      "year": 1952,
+      "nameTr": "Olimpiyat",
+      "nameEn": "Summer Olympics men's football tournament",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Football_at_the_1952_Summer_Olympics_%E2%80%93_Men%27s_team_squads",
+      "retrievedAt": "2026-08-03"
+    },
+    {
+      "id": "olympics-1960",
+      "type": "olympic",
+      "year": 1960,
+      "nameTr": "Olimpiyat",
+      "nameEn": "Summer Olympics men's football tournament",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Football_at_the_1960_Summer_Olympics_%E2%80%93_Men%27s_team_squads",
+      "retrievedAt": "2026-08-03"
+    },
+    {
+      "id": "world-cup-1954",
+      "type": "world-cup",
+      "year": 1954,
+      "nameTr": "Dünya Kupası",
+      "nameEn": "FIFA World Cup",
+      "sourceUrl": "https://en.wikipedia.org/wiki/1954_FIFA_World_Cup_squads",
+      "retrievedAt": "2026-08-03"
+    },
+    {
+      "id": "world-cup-2002",
+      "type": "world-cup",
+      "year": 2002,
+      "nameTr": "Dünya Kupası",
+      "nameEn": "FIFA World Cup",
+      "sourceUrl": "https://en.wikipedia.org/wiki/2002_FIFA_World_Cup_squads",
+      "retrievedAt": "2026-08-03"
+    },
+    {
+      "id": "world-cup-2026",
+      "type": "world-cup",
+      "year": 2026,
+      "nameTr": "Dünya Kupası",
+      "nameEn": "FIFA World Cup",
+      "sourceUrl": "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+      "retrievedAt": "2026-08-03"
+    }
+  ],
+  "players": [
+    {
+      "id": "abdulkadir-omur",
+      "name": "Abdülkadir Ömür",
+      "wikipediaTitle": "Abdülkadir Ömür",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Abdülkadir_Ömür",
+      "birthYear": 1999,
+      "position": "MF",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "abdulkerim-bardakci",
+      "name": "Abdülkerim Bardakcı",
+      "wikipediaTitle": "Abdülkerim Bardakcı",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Abdülkerim_Bardakcı",
+      "birthYear": 1994,
+      "position": "DF",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "abdullah-ercan",
+      "name": "Abdullah Ercan",
+      "wikipediaTitle": "Abdullah Ercan",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Abdullah_Ercan",
+      "birthYear": 1971,
+      "position": "MF",
+      "positionConfidence": "disputed"
+    },
+    {
+      "id": "adnan-erkan",
+      "name": "Adnan Erkan",
+      "wikipediaTitle": "Adnan Erkan",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Adnan_Erkan",
+      "birthYear": 1968,
+      "position": "GK",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "ahmet-berman",
+      "name": "Ahmet Berman",
+      "wikipediaTitle": "Ahmet Berman",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ahmet_Berman",
+      "birthYear": 1932,
+      "position": "DF",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "ahmet-erol",
+      "name": "Ahmet Erol",
+      "wikipediaTitle": "Ahmet Erol",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ahmet_Erol",
+      "birthYear": 1921,
+      "position": "DF",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "ahmet-tuna-kozan",
+      "name": "Ahmet Tuna Kozan",
+      "wikipediaTitle": "Ahmet Tuna Kozan",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ahmet_Tuna_Kozan",
+      "birthYear": 1943,
+      "position": "MF",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "ahmet-yilmaz-calik",
+      "name": "Ahmet Yılmaz Çalık",
+      "wikipediaTitle": "Ahmet Yılmaz Çalık",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ahmet_Yılmaz_Çalık",
+      "birthYear": 1994,
+      "position": "DF",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "ahmetcan-kaplan",
+      "name": "Ahmetcan Kaplan",
+      "wikipediaTitle": "Ahmetcan Kaplan",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ahmetcan_Kaplan",
+      "birthYear": 2003,
+      "position": "DF",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "akgun-kacmaz",
+      "name": "Akgün Kaçmaz",
+      "wikipediaTitle": "Akgün Kaçmaz",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Akgün_Kaçmaz",
+      "birthYear": 1935,
+      "position": "DF",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "alaattin-baydar",
+      "name": "Alaattin Baydar",
+      "wikipediaTitle": "Alaattin Baydar",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Alaattin_Baydar",
+      "birthYear": 1901,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "ali-beratligil",
+      "name": "Ali Beratlıgil",
+      "wikipediaTitle": "Ali Beratlıgil",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ali_Beratlıgil",
+      "birthYear": 1931,
+      "position": "DF",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "ali-gencay",
+      "name": "Ali Gençay",
+      "wikipediaTitle": "Ali Gençay",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ali_Gençay",
+      "birthYear": 1905,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "alpay-ozalan",
+      "name": "Alpay Özalan",
+      "wikipediaTitle": "Alpay Özalan",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Alpay_Özalan",
+      "birthYear": 1973,
+      "position": "DF",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "altay-bayindir",
+      "name": "Altay Bayındır",
+      "wikipediaTitle": "Altay Bayındır",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Altay_Bayındır",
+      "birthYear": 1998,
+      "position": "GK",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "arda-guler",
+      "name": "Arda Güler",
+      "wikipediaTitle": "Arda Güler",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Arda_Güler",
+      "birthYear": 2005,
+      "position": "FW",
+      "positionConfidence": "disputed"
+    },
+    {
+      "id": "arda-turan",
+      "name": "Arda Turan",
+      "wikipediaTitle": "Arda Turan",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Arda_Turan",
+      "birthYear": 1987,
+      "position": "MF",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "arif-erdem",
+      "name": "Arif Erdem",
+      "wikipediaTitle": "Arif Erdem",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Arif_Erdem",
+      "birthYear": 1972,
+      "position": "FW",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "asim-bayrak",
+      "name": "Asım Bayrak",
+      "wikipediaTitle": "Asım Bayrak",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Asım_Bayrak?action=edit&redlink=1",
+      "birthYear": null,
+      "position": "MF",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "aydogan-cipiloglu",
+      "name": "Aydoğan Çipiloğlu",
+      "wikipediaTitle": "Aydoğan Çipiloğlu",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Aydoğan_Çipiloğlu",
+      "birthYear": 1935,
+      "position": "DF",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "ayhan-akman",
+      "name": "Ayhan Akman",
+      "wikipediaTitle": "Ayhan Akman",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ayhan_Akman",
+      "birthYear": 1977,
+      "position": "MF",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "baris-alper-yilmaz",
+      "name": "Barış Alper Yılmaz",
+      "wikipediaTitle": "Barış Alper Yılmaz",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Barış_Alper_Yılmaz",
+      "birthYear": 2000,
+      "position": "FW",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "baron-feyzi",
+      "name": "Baron Feyzi",
+      "wikipediaTitle": "Baron Feyzi",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Baron_Feyzi",
+      "birthYear": null,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "basri-dirimlili",
+      "name": "Basri Dirimlili",
+      "wikipediaTitle": "Basri Dirimlili",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Basri_Dirimlili",
+      "birthYear": 1929,
+      "position": "DF",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "bedri-gursoy",
+      "name": "Bedri Gürsoy",
+      "wikipediaTitle": "Bedri Gürsoy",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Bedri_Gürsoy",
+      "birthYear": 1902,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "bekir-refet",
+      "name": "Bekir Refet",
+      "wikipediaTitle": "Bekir Refet",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Bekir_Refet",
+      "birthYear": 1899,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "bertug-yildirim",
+      "name": "Bertuğ Yıldırım",
+      "wikipediaTitle": "Bertuğ Yıldırım",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Bertuğ_Yıldırım",
+      "birthYear": 2002,
+      "position": "FW",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "bilge-tarhan-footballer",
+      "name": "Bilge Tarhan",
+      "wikipediaTitle": "Bilge Tarhan (footballer)",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Bilge_Tarhan_(footballer)",
+      "birthYear": 1942,
+      "position": "FW",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "bulent-eken",
+      "name": "Bulent Eken",
+      "wikipediaTitle": "Bulent Eken",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Bulent_Eken",
+      "birthYear": 1923,
+      "position": "DF",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "bulent-korkmaz",
+      "name": "Bülent Korkmaz",
+      "wikipediaTitle": "Bülent Korkmaz",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Bülent_Korkmaz",
+      "birthYear": 1968,
+      "position": "DF",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "burak-yilmaz",
+      "name": "Burak Yılmaz",
+      "wikipediaTitle": "Burak Yılmaz",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Burak_Yılmaz",
+      "birthYear": 1985,
+      "position": "FW",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "burhan-atak",
+      "name": "Burhan Atak",
+      "wikipediaTitle": "Burhan Atak",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Burhan_Atak",
+      "birthYear": 1905,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "burhan-sargun",
+      "name": "Burhan Sargun",
+      "wikipediaTitle": "Burhan Sargun",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Burhan_Sargun",
+      "birthYear": 1929,
+      "position": "FW",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "cafer-cagatay",
+      "name": "Cafer Çağatay",
+      "wikipediaTitle": "Cafer Çağatay",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Cafer_Çağatay",
+      "birthYear": 1899,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "caglar-soyuncu",
+      "name": "Çağlar Söyüncü",
+      "wikipediaTitle": "Çağlar Söyüncü",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Çağlar_Söyüncü",
+      "birthYear": 1996,
+      "position": "DF",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "can-uzun",
+      "name": "Can Uzun",
+      "wikipediaTitle": "Can Uzun",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Can_Uzun",
+      "birthYear": 2005,
+      "position": "FW",
+      "positionConfidence": "disputed"
+    },
+    {
+      "id": "caner-erkin",
+      "name": "Caner Erkin",
+      "wikipediaTitle": "Caner Erkin",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Caner_Erkin",
+      "birthYear": 1988,
+      "position": "MF",
+      "positionConfidence": "disputed"
+    },
+    {
+      "id": "cavit-gokalp",
+      "name": "Cavit Gökalp",
+      "wikipediaTitle": "Cavit Gökalp",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Cavit_Gökalp",
+      "birthYear": 1938,
+      "position": "GK",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "cengiz-under",
+      "name": "Cengiz Ünder",
+      "wikipediaTitle": "Cengiz Ünder",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Cengiz_Ünder",
+      "birthYear": 1997,
+      "position": "FW",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "cenk-tosun",
+      "name": "Cenk Tosun",
+      "wikipediaTitle": "Cenk Tosun",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Cenk_Tosun",
+      "birthYear": 1991,
+      "position": "FW",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "cetin-zeybek",
+      "name": "Çetin Zeybek",
+      "wikipediaTitle": "Çetin Zeybek",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Çetin_Zeybek",
+      "birthYear": 1932,
+      "position": "MF",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "cevat-seyit",
+      "name": "Cevat Seyit",
+      "wikipediaTitle": "Cevat Seyit",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Cevat_Seyit",
+      "birthYear": 1906,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "cihat-arman",
+      "name": "Cihat Arman",
+      "wikipediaTitle": "Cihat Arman",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Cihat_Arman",
+      "birthYear": 1915,
+      "position": "GK",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "colin-kazim-richards",
+      "name": "Colin Kazim-Richards",
+      "wikipediaTitle": "Colin Kazim-Richards",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Colin_Kazim-Richards",
+      "birthYear": 1986,
+      "position": "FW",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "coskun-tas",
+      "name": "Coşkun Taş",
+      "wikipediaTitle": "Coşkun Taş",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Coşkun_Taş",
+      "birthYear": 1934,
+      "position": "FW",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "deniz-gul",
+      "name": "Deniz Gül",
+      "wikipediaTitle": "Deniz Gül",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Deniz_Gül",
+      "birthYear": 2004,
+      "position": "FW",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "dorukhan-tokoz",
+      "name": "Dorukhan Toköz",
+      "wikipediaTitle": "Dorukhan Toköz",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Dorukhan_Toköz",
+      "birthYear": 1996,
+      "position": "MF",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "emre-asik",
+      "name": "Emre Aşık",
+      "wikipediaTitle": "Emre Aşık",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Emre_Aşık",
+      "birthYear": 1973,
+      "position": "DF",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "emre-belozoglu",
+      "name": "Emre Belözoğlu",
+      "wikipediaTitle": "Emre Belözoğlu",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Emre_Belözoğlu",
+      "birthYear": 1980,
+      "position": "MF",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "emre-gungor",
+      "name": "Emre Güngör",
+      "wikipediaTitle": "Emre Güngör",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Emre_Güngör",
+      "birthYear": 1984,
+      "position": "DF",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "emre-mor",
+      "name": "Emre Mor",
+      "wikipediaTitle": "Emre Mor",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Emre_Mor",
+      "birthYear": 1997,
+      "position": "FW",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "emrullah-kucukbay",
+      "name": "Emrullah Küçükbay",
+      "wikipediaTitle": "Emrullah Küçükbay",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Emrullah_Küçükbay",
+      "birthYear": null,
+      "position": "GK",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "enes-unal",
+      "name": "Enes Ünal",
+      "wikipediaTitle": "Enes Ünal",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Enes_Ünal",
+      "birthYear": 1997,
+      "position": "FW",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "ercument-guder",
+      "name": "Ercüment Güder",
+      "wikipediaTitle": "Ercüment Güder",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ercüment_Güder",
+      "birthYear": 1923,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "erdogan-akin",
+      "name": "Erdoğan Akın",
+      "wikipediaTitle": "Erdoğan Akın",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Erdoğan_Akın",
+      "birthYear": 1929,
+      "position": "GK",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "erdogan-atlioglu",
+      "name": "Erdoğan Atlıoğlu",
+      "wikipediaTitle": "Erdoğan Atlıoğlu",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Erdoğan_Atlıoğlu?action=edit&redlink=1",
+      "birthYear": 1929,
+      "position": "FW",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "eren-elmali",
+      "name": "Eren Elmalı",
+      "wikipediaTitle": "Eren Elmalı",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Eren_Elmalı",
+      "birthYear": 2000,
+      "position": "DF",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "ergun-penbe",
+      "name": "Ergün Penbe",
+      "wikipediaTitle": "Ergün Penbe",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ergün_Penbe",
+      "birthYear": 1972,
+      "position": "MF",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "ergun-taner",
+      "name": "Ergun Taner",
+      "wikipediaTitle": "Ergun Taner",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ergun_Taner",
+      "birthYear": 1936,
+      "position": "DF",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "erol-keskin",
+      "name": "Erol Keskin",
+      "wikipediaTitle": "Erol Keskin",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Erol_Keskin",
+      "birthYear": 1927,
+      "position": "FW",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "ertugrul-saglam",
+      "name": "Ertuğrul Sağlam",
+      "wikipediaTitle": "Ertuğrul Sağlam",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ertuğrul_Sağlam",
+      "birthYear": 1969,
+      "position": "FW",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "faruk-yigit",
+      "name": "Faruk Yiğit",
+      "wikipediaTitle": "Faruk Yiğit",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Faruk_Yiğit",
+      "birthYear": 1968,
+      "position": "FW",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "fatih-akyel",
+      "name": "Fatih Akyel",
+      "wikipediaTitle": "Fatih Akyel",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Fatih_Akyel",
+      "birthYear": 1977,
+      "position": "DF",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "ferdi-kadioglu",
+      "name": "Ferdi Kadıoğlu",
+      "wikipediaTitle": "Ferdi Kadıoğlu",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ferdi_Kadıoğlu",
+      "birthYear": 1999,
+      "position": "DF",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "feridun-bugeker",
+      "name": "Feridun Buğeker",
+      "wikipediaTitle": "Feridun Buğeker",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Feridun_Buğeker",
+      "birthYear": 1933,
+      "position": "FW",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "fevzi-tuncay",
+      "name": "Fevzi Tuncay",
+      "wikipediaTitle": "Fevzi Tuncay",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Fevzi_Tuncay",
+      "birthYear": 1977,
+      "position": "GK",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "fikret-kircan",
+      "name": "Fikret Kırcan",
+      "wikipediaTitle": "Fikret Kırcan",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Fikret_Kırcan",
+      "birthYear": 1919,
+      "position": "FW",
+      "positionConfidence": "disputed"
+    },
+    {
+      "id": "galip-haktanir",
+      "name": "Galip Haktanır",
+      "wikipediaTitle": "Galip Haktanır",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Galip_Haktanır",
+      "birthYear": 1921,
+      "position": "MF",
+      "positionConfidence": "disputed"
+    },
+    {
+      "id": "gokdeniz-karadeniz",
+      "name": "Gökdeniz Karadeniz",
+      "wikipediaTitle": "Gökdeniz Karadeniz",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Gökdeniz_Karadeniz",
+      "birthYear": 1980,
+      "position": "MF",
+      "positionConfidence": "disputed"
+    },
+    {
+      "id": "gokhan-gonul",
+      "name": "Gökhan Gönül",
+      "wikipediaTitle": "Gökhan Gönül",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Gökhan_Gönül",
+      "birthYear": 1985,
+      "position": "DF",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "gokhan-zan",
+      "name": "Gökhan Zan",
+      "wikipediaTitle": "Gökhan Zan",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Gökhan_Zan",
+      "birthYear": 1981,
+      "position": "DF",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "gunduz-kilic",
+      "name": "Gündüz Kılıç",
+      "wikipediaTitle": "Gündüz Kılıç",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Gündüz_Kılıç",
+      "birthYear": 1918,
+      "position": "FW",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "hakan-balta",
+      "name": "Hakan Balta",
+      "wikipediaTitle": "Hakan Balta",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Hakan_Balta",
+      "birthYear": 1983,
+      "position": "DF",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "hakan-calhanoglu",
+      "name": "Hakan Çalhanoğlu",
+      "wikipediaTitle": "Hakan Çalhanoğlu",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Hakan_Çalhanoğlu",
+      "birthYear": 1994,
+      "position": "MF",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "hakan-sukur",
+      "name": "Hakan Şükür",
+      "wikipediaTitle": "Hakan Şükür",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Hakan_Şükür",
+      "birthYear": 1971,
+      "position": "FW",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "hakan-unsal",
+      "name": "Hakan Ünsal",
+      "wikipediaTitle": "Hakan Ünsal",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Hakan_Ünsal",
+      "birthYear": 1973,
+      "position": "DF",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "halil-dervisoglu",
+      "name": "Halil Dervişoğlu",
+      "wikipediaTitle": "Halil Dervişoğlu",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Halil_Dervişoğlu",
+      "birthYear": 1999,
+      "position": "MF",
+      "positionConfidence": "disputed"
+    },
+    {
+      "id": "halit-deringor",
+      "name": "Halit Deringör",
+      "wikipediaTitle": "Halit Deringör",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Halit_Deringör",
+      "birthYear": 1922,
+      "position": "FW",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "hami-mandirali",
+      "name": "Hami Mandıralı",
+      "wikipediaTitle": "Hami Mandıralı",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Hami_Mandıralı",
+      "birthYear": 1968,
+      "position": "FW",
+      "positionConfidence": "disputed"
+    },
+    {
+      "id": "hamid-buranheddin",
+      "name": "Hamid Buranheddin",
+      "wikipediaTitle": "Hamid Buranheddin",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Hamid_Buranheddin?action=edit&redlink=1",
+      "birthYear": null,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "hamit-akbay",
+      "name": "Hamit Akbay",
+      "wikipediaTitle": "Hamit Akbay",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Hamit_Akbay",
+      "birthYear": 1900,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "hamit-altintop",
+      "name": "Hamit Altıntop",
+      "wikipediaTitle": "Hamit Altıntop",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Hamit_Altıntop",
+      "birthYear": 1982,
+      "position": "MF",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "hamit-arslan",
+      "name": "Hamit Arslan",
+      "wikipediaTitle": "Hamit Arslan",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Hamit_Arslan",
+      "birthYear": 1894,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "harun-tekin-footballer",
+      "name": "Harun Tekin",
+      "wikipediaTitle": "Harun Tekin (footballer)",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Harun_Tekin_(footballer)",
+      "birthYear": 1989,
+      "position": "GK",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "hasan-sas",
+      "name": "Hasan Şaş",
+      "wikipediaTitle": "Hasan Şaş",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Hasan_Şaş",
+      "birthYear": 1976,
+      "position": "FW",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "hikmet-alpaslan",
+      "name": "Hikmet Alpaslan",
+      "wikipediaTitle": "Hikmet Alpaslan",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Hikmet_Alpaslan?action=edit&redlink=1",
+      "birthYear": 1922,
+      "position": "FW",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "huseyin-saygun",
+      "name": "Hüseyin Saygun",
+      "wikipediaTitle": "Hüseyin Saygun",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Hüseyin_Saygun",
+      "birthYear": 1920,
+      "position": "FW",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "ibrahim-kelle",
+      "name": "İbrahim Kelle",
+      "wikipediaTitle": "İbrahim Kelle",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/İbrahim_Kelle",
+      "birthYear": 1897,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "ibrahim-yalcinkaya",
+      "name": "İbrahim Yalçınkaya",
+      "wikipediaTitle": "İbrahim Yalçınkaya",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/İbrahim_Yalçınkaya",
+      "birthYear": 1941,
+      "position": "FW",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "ilhan-mansiz",
+      "name": "İlhan Mansız",
+      "wikipediaTitle": "İlhan Mansız",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/İlhan_Mansız",
+      "birthYear": 1975,
+      "position": "FW",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "irfan-can-kahveci",
+      "name": "İrfan Can Kahveci",
+      "wikipediaTitle": "İrfan Can Kahveci",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/İrfan_Can_Kahveci",
+      "birthYear": 1995,
+      "position": "FW",
+      "positionConfidence": "disputed"
+    },
+    {
+      "id": "irfan-kahveci",
+      "name": "İrfan Kahveci",
+      "wikipediaTitle": "İrfan Kahveci",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/İrfan_Kahveci",
+      "birthYear": 1995,
+      "position": "MF",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "ismail-koybasi",
+      "name": "İsmail Köybaşı",
+      "wikipediaTitle": "İsmail Köybaşı",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/İsmail_Köybaşı",
+      "birthYear": 1989,
+      "position": "DF",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "ismail-yuksek",
+      "name": "İsmail Yüksek",
+      "wikipediaTitle": "İsmail Yüksek",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/İsmail_Yüksek",
+      "birthYear": 1999,
+      "position": "MF",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "ismet-ulug",
+      "name": "İsmet Uluğ",
+      "wikipediaTitle": "İsmet Uluğ",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/İsmet_Uluğ",
+      "birthYear": 1901,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "izmirli-sevki",
+      "name": "İzmirli Şevki",
+      "wikipediaTitle": "İzmirli Şevki",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/İzmirli_Şevki?action=edit&redlink=1",
+      "birthYear": null,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "kaan-ayhan",
+      "name": "Kaan Ayhan",
+      "wikipediaTitle": "Kaan Ayhan",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Kaan_Ayhan",
+      "birthYear": 1994,
+      "position": "MF",
+      "positionConfidence": "disputed"
+    },
+    {
+      "id": "kadri-aytac",
+      "name": "Kadri Aytaç",
+      "wikipediaTitle": "Kadri Aytaç",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Kadri_Aytaç",
+      "birthYear": 1931,
+      "position": "FW",
+      "positionConfidence": "disputed"
+    },
+    {
+      "id": "kadri-goktulga",
+      "name": "Kadri Göktulga",
+      "wikipediaTitle": "Kadri Göktulga",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Kadri_Göktulga",
+      "birthYear": 1904,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "kamil-altan",
+      "name": "Kamil Altan",
+      "wikipediaTitle": "Kamil Altan",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Kamil_Altan",
+      "birthYear": 1924,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "kamil-rona",
+      "name": "Kamil Rona",
+      "wikipediaTitle": "Kamil Rona",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Kamil_Rona?action=edit&redlink=1",
+      "birthYear": 1894,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "kemal-faruki",
+      "name": "Kemal Faruki",
+      "wikipediaTitle": "Kemal Faruki",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Kemal_Faruki",
+      "birthYear": 1906,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "kemal-rifat-kalpakcioglu",
+      "name": "Kemal Rıfat Kalpakçıoğlu",
+      "wikipediaTitle": "Kemal Rıfat Kalpakçıoğlu",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Kemal_Rıfat_Kalpakçıoğlu",
+      "birthYear": 1899,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "kemal-ruhi",
+      "name": "Kemal Ruhi",
+      "wikipediaTitle": "Kemal Ruhi",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Kemal_Ruhi?action=edit&redlink=1",
+      "birthYear": null,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "kenan-karaman",
+      "name": "Kenan Karaman",
+      "wikipediaTitle": "Kenan Karaman",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Kenan_Karaman",
+      "birthYear": 1994,
+      "position": "FW",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "kenan-yildiz",
+      "name": "Kenan Yıldız",
+      "wikipediaTitle": "Kenan Yıldız",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Kenan_Yıldız",
+      "birthYear": 2005,
+      "position": "FW",
+      "positionConfidence": "disputed"
+    },
+    {
+      "id": "kerem-akturkoglu",
+      "name": "Kerem Aktürkoğlu",
+      "wikipediaTitle": "Kerem Aktürkoğlu",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Kerem_Aktürkoğlu",
+      "birthYear": 1998,
+      "position": "FW",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "latif-yalinli",
+      "name": "Latif Yalınlı",
+      "wikipediaTitle": "Latif Yalınlı",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Latif_Yalınlı",
+      "birthYear": 1906,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "lefter-kucukandonyadis",
+      "name": "Lefter Küçükandonyadis",
+      "wikipediaTitle": "Lefter Küçükandonyadis",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Lefter_Küçükandonyadis",
+      "birthYear": 1925,
+      "position": "FW",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "macit-gurdal",
+      "name": "Macit Gürdal",
+      "wikipediaTitle": "Macit Gürdal",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Macit_Gürdal",
+      "birthYear": 1931,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "mehmet-aurelio",
+      "name": "Mehmet Aurélio",
+      "wikipediaTitle": "Mehmet Aurélio",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Mehmet_Aurélio",
+      "birthYear": 1977,
+      "position": "MF",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "mehmet-dincer",
+      "name": "Mehmet Dinçer",
+      "wikipediaTitle": "Mehmet Dinçer",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Mehmet_Dinçer",
+      "birthYear": 1933,
+      "position": "MF",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "mehmet-leblebi",
+      "name": "Mehmet Leblebi",
+      "wikipediaTitle": "Mehmet Leblebi",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Mehmet_Leblebi",
+      "birthYear": 1908,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "mehmet-topal",
+      "name": "Mehmet Topal",
+      "wikipediaTitle": "Mehmet Topal",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Mehmet_Topal",
+      "birthYear": 1986,
+      "position": "MF",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "merih-demiral",
+      "name": "Merih Demiral",
+      "wikipediaTitle": "Merih Demiral",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Merih_Demiral",
+      "birthYear": 1998,
+      "position": "DF",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "mert-gunok",
+      "name": "Mert Günok",
+      "wikipediaTitle": "Mert Günok",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Mert_Günok",
+      "birthYear": 1989,
+      "position": "GK",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "mert-muldur",
+      "name": "Mert Müldür",
+      "wikipediaTitle": "Mert Müldür",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Mert_Müldür",
+      "birthYear": 1999,
+      "position": "DF",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "mevlut-erdinc",
+      "name": "Mevlüt Erdinç",
+      "wikipediaTitle": "Mevlüt Erdinç",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Mevlüt_Erdinç",
+      "birthYear": 1987,
+      "position": "FW",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "murat-alyuz",
+      "name": "Murat Alyüz",
+      "wikipediaTitle": "Murat Alyüz",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Murat_Alyüz",
+      "birthYear": 1920,
+      "position": "DF",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "muslih-peykoglu",
+      "name": "Muslih Peykoğlu",
+      "wikipediaTitle": "Muslih Peykoğlu",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Muslih_Peykoğlu",
+      "birthYear": 1905,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "mustafa-ertan",
+      "name": "Mustafa Ertan",
+      "wikipediaTitle": "Mustafa Ertan",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Mustafa_Ertan",
+      "birthYear": 1926,
+      "position": "DF",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "muzaffer-tokac",
+      "name": "Muzaffer Tokaç",
+      "wikipediaTitle": "Muzaffer Tokaç",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Muzaffer_Tokaç",
+      "birthYear": 1922,
+      "position": "FW",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "muzzy-izzet",
+      "name": "Muzzy Izzet",
+      "wikipediaTitle": "Muzzy Izzet",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Muzzy_Izzet",
+      "birthYear": 1974,
+      "position": "MF",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "naci-erdem",
+      "name": "Naci Erdem",
+      "wikipediaTitle": "Naci Erdem",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Naci_Erdem",
+      "birthYear": 1931,
+      "position": "DF",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "naci-ozkaya",
+      "name": "Naci Özkaya",
+      "wikipediaTitle": "Naci Özkaya",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Naci_Özkaya",
+      "birthYear": 1922,
+      "position": "MF",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "nafiz-orhun",
+      "name": "Nafiz Orhun",
+      "wikipediaTitle": "Nafiz Orhun",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Nafiz_Orhun?action=edit&redlink=1",
+      "birthYear": null,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "naim-ozaytac",
+      "name": "Naim Özaytaç",
+      "wikipediaTitle": "Naim Özaytaç",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Naim_Özaytaç?action=edit&redlink=1",
+      "birthYear": 1941,
+      "position": "MF",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "necdet-senturk",
+      "name": "Necdet Şentürk",
+      "wikipediaTitle": "Necdet Şentürk",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Necdet_Şentürk",
+      "birthYear": 1928,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "necmi-onarici",
+      "name": "Necmi Onarıcı",
+      "wikipediaTitle": "Necmi Onarıcı",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Necmi_Onarıcı",
+      "birthYear": 1925,
+      "position": "FW",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "nedim-gunar",
+      "name": "Nedim Günar",
+      "wikipediaTitle": "Nedim Günar",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Nedim_Günar",
+      "birthYear": 1932,
+      "position": "DF",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "nedim-kaleci",
+      "name": "Nedim Kaleci",
+      "wikipediaTitle": "Nedim Kaleci",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Nedim_Kaleci",
+      "birthYear": 1900,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "nihat-bekdik",
+      "name": "Nihat Bekdik",
+      "wikipediaTitle": "Nihat Bekdik",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Nihat_Bekdik",
+      "birthYear": 1901,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "nihat-kahveci",
+      "name": "Nihat Kahveci",
+      "wikipediaTitle": "Nihat Kahveci",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Nihat_Kahveci",
+      "birthYear": 1979,
+      "position": "FW",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "nuri-sahin",
+      "name": "Nuri Şahin",
+      "wikipediaTitle": "Nuri Şahin",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Nuri_Şahin",
+      "birthYear": 1988,
+      "position": "MF",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "ogun-temizkanoglu",
+      "name": "Ogün Temizkanoğlu",
+      "wikipediaTitle": "Ogün Temizkanoğlu",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ogün_Temizkanoğlu",
+      "birthYear": 1969,
+      "position": "DF",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "oguz-aydin",
+      "name": "Oğuz Aydın",
+      "wikipediaTitle": "Oğuz Aydın",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Oğuz_Aydın",
+      "birthYear": 2000,
+      "position": "FW",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "oguz-cetin",
+      "name": "Oğuz Çetin",
+      "wikipediaTitle": "Oğuz Çetin",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Oğuz_Çetin",
+      "birthYear": 1963,
+      "position": "MF",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "oguzhan-ozyakup",
+      "name": "Oğuzhan Özyakup",
+      "wikipediaTitle": "Oğuzhan Özyakup",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Oğuzhan_Özyakup",
+      "birthYear": 1992,
+      "position": "MF",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "okan-buruk",
+      "name": "Okan Buruk",
+      "wikipediaTitle": "Okan Buruk",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Okan_Buruk",
+      "birthYear": 1973,
+      "position": "MF",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "okay-yokuslu",
+      "name": "Okay Yokuşlu",
+      "wikipediaTitle": "Okay Yokuşlu",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Okay_Yokuşlu",
+      "birthYear": 1994,
+      "position": "MF",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "oktay-derelioglu",
+      "name": "Oktay Derelioğlu",
+      "wikipediaTitle": "Oktay Derelioğlu",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Oktay_Derelioğlu",
+      "birthYear": 1975,
+      "position": "FW",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "olcay-sahan",
+      "name": "Olcay Şahan",
+      "wikipediaTitle": "Olcay Şahan",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Olcay_Şahan",
+      "birthYear": 1987,
+      "position": "MF",
+      "positionConfidence": "disputed"
+    },
+    {
+      "id": "omer-catkic",
+      "name": "Ömer Çatkıç",
+      "wikipediaTitle": "Ömer Çatkıç",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ömer_Çatkıç",
+      "birthYear": 1974,
+      "position": "GK",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "onur-kivrak",
+      "name": "Onur Kıvrak",
+      "wikipediaTitle": "Onur Kıvrak",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Onur_Kıvrak",
+      "birthYear": 1988,
+      "position": "GK",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "orhan-cikirikci",
+      "name": "Orhan Çıkırıkçı",
+      "wikipediaTitle": "Orhan Çıkırıkçı",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Orhan_Çıkırıkçı",
+      "birthYear": 1967,
+      "position": "MF",
+      "positionConfidence": "disputed"
+    },
+    {
+      "id": "orkun-kokcu",
+      "name": "Orkun Kökçü",
+      "wikipediaTitle": "Orkun Kökçü",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Orkun_Kökçü",
+      "birthYear": 2000,
+      "position": "MF",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "osman-kaptan",
+      "name": "Osman Kaptan",
+      "wikipediaTitle": "Osman Kaptan",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Osman_Kaptan?action=edit&redlink=1",
+      "birthYear": null,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "osman-ozkoylu",
+      "name": "Osman Özköylü",
+      "wikipediaTitle": "Osman Özköylü",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Osman_Özköylü",
+      "birthYear": 1971,
+      "position": "DF",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "ozan-kabak",
+      "name": "Ozan Kabak",
+      "wikipediaTitle": "Ozan Kabak",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ozan_Kabak",
+      "birthYear": 2000,
+      "position": "DF",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "ozan-tufan",
+      "name": "Ozan Tufan",
+      "wikipediaTitle": "Ozan Tufan",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ozan_Tufan",
+      "birthYear": 1995,
+      "position": "MF",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "rahim-zafer",
+      "name": "Rahim Zafer",
+      "wikipediaTitle": "Rahim Zafer",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Rahim_Zafer",
+      "birthYear": 1971,
+      "position": "DF",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "recep-cetin",
+      "name": "Recep Çetin",
+      "wikipediaTitle": "Recep Çetin",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Recep_Çetin",
+      "birthYear": 1965,
+      "position": "DF",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "reha-eken",
+      "name": "Reha Eken",
+      "wikipediaTitle": "Reha Eken",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Reha_Eken",
+      "birthYear": 1925,
+      "position": "FW",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "ridvan-bolatli",
+      "name": "Rıdvan Bolatlı",
+      "wikipediaTitle": "Rıdvan Bolatlı",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Rıdvan_Bolatlı",
+      "birthYear": 1928,
+      "position": "DF",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "ridvan-yilmaz",
+      "name": "Rıdvan Yılmaz",
+      "wikipediaTitle": "Rıdvan Yılmaz",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Rıdvan_Yılmaz",
+      "birthYear": 2001,
+      "position": "DF",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "rober-eryol",
+      "name": "Rober Eryol",
+      "wikipediaTitle": "Rober Eryol",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Rober_Eryol",
+      "birthYear": 1930,
+      "position": "MF",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "rustu-recber",
+      "name": "Rüştü Reçber",
+      "wikipediaTitle": "Rüştü Reçber",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Rüştü_Reçber",
+      "birthYear": 1973,
+      "position": "GK",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "sabih-arca",
+      "name": "Sabih Arca",
+      "wikipediaTitle": "Sabih Arca",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Sabih_Arca",
+      "birthYear": 1901,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "sabri-sarioglu",
+      "name": "Sabri Sarıoğlu",
+      "wikipediaTitle": "Sabri Sarıoğlu",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Sabri_Sarıoğlu",
+      "birthYear": 1984,
+      "position": "DF",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "saffet-sancakli",
+      "name": "Saffet Sancaklı",
+      "wikipediaTitle": "Saffet Sancaklı",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Saffet_Sancaklı",
+      "birthYear": 1966,
+      "position": "FW",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "salih-ozcan",
+      "name": "Salih Özcan",
+      "wikipediaTitle": "Salih Özcan",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Salih_Özcan",
+      "birthYear": 1998,
+      "position": "MF",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "samet-akaydin",
+      "name": "Samet Akaydin",
+      "wikipediaTitle": "Samet Akaydin",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Samet_Akaydin",
+      "birthYear": 1994,
+      "position": "DF",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "samim-var",
+      "name": "Samim Var",
+      "wikipediaTitle": "Samim Var",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Samim_Var?action=edit&redlink=1",
+      "birthYear": 1925,
+      "position": "MF",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "samin-uygun",
+      "name": "Samin Uygun",
+      "wikipediaTitle": "Samin Uygun",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Samin_Uygun",
+      "birthYear": 1939,
+      "position": "MF",
+      "positionConfidence": "disputed"
+    },
+    {
+      "id": "sanver-goymen",
+      "name": "Şanver Göymen",
+      "wikipediaTitle": "Şanver Göymen",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Şanver_Göymen",
+      "birthYear": 1967,
+      "position": "GK",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "selahattin-torkal",
+      "name": "Selahattin Torkal",
+      "wikipediaTitle": "Selahattin Torkal",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Selahattin_Torkal",
+      "birthYear": 1925,
+      "position": "MF",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "selcuk-inan",
+      "name": "Selçuk İnan",
+      "wikipediaTitle": "Selçuk İnan",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Selçuk_İnan",
+      "birthYear": 1985,
+      "position": "MF",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "selim-soydan",
+      "name": "Selim Soydan",
+      "wikipediaTitle": "Selim Soydan",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Selim_Soydan",
+      "birthYear": 1941,
+      "position": "DF",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "semih-kaya",
+      "name": "Semih Kaya",
+      "wikipediaTitle": "Semih Kaya",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Semih_Kaya",
+      "birthYear": 1991,
+      "position": "DF",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "semih-kilicsoy",
+      "name": "Semih Kılıçsoy",
+      "wikipediaTitle": "Semih Kılıçsoy",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Semih_Kılıçsoy",
+      "birthYear": 2005,
+      "position": "FW",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "semih-senturk",
+      "name": "Semih Şentürk",
+      "wikipediaTitle": "Semih Şentürk",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Semih_Şentürk",
+      "birthYear": 1983,
+      "position": "FW",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "sener-ozbayrakli",
+      "name": "Şener Özbayraklı",
+      "wikipediaTitle": "Şener Özbayraklı",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Şener_Özbayraklı",
+      "birthYear": 1990,
+      "position": "DF",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "sergen-yalcin",
+      "name": "Sergen Yalçın",
+      "wikipediaTitle": "Sergen Yalçın",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Sergen_Yalçın",
+      "birthYear": 1972,
+      "position": "MF",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "servet-cetin",
+      "name": "Servet Çetin",
+      "wikipediaTitle": "Servet Çetin",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Servet_Çetin",
+      "birthYear": 1981,
+      "position": "DF",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "special-search-search-stand-by-players-turkiye-1",
+      "name": "- Stand-by players -",
+      "wikipediaTitle": "Special:Search?search=- Stand-by players -#turkiye-1",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Special:Search?search=-%20Stand-by%20players%20-",
+      "birthYear": null,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "suat-kaya",
+      "name": "Suat Kaya",
+      "wikipediaTitle": "Suat Kaya",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Suat_Kaya",
+      "birthYear": 1967,
+      "position": "MF",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "suat-mamat",
+      "name": "Suat Mamat",
+      "wikipediaTitle": "Suat Mamat",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Suat_Mamat",
+      "birthYear": 1930,
+      "position": "FW",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "suat-ozyazici",
+      "name": "Suat Özyazıcı",
+      "wikipediaTitle": "Suat Özyazıcı",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Suat_Özyazıcı",
+      "birthYear": 1936,
+      "position": "MF",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "sukru-erkus",
+      "name": "Şükrü Erkuş",
+      "wikipediaTitle": "Şükrü Erkuş",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Şükrü_Erkuş?action=edit&redlink=1",
+      "birthYear": null,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "sukru-ersoy",
+      "name": "Şükrü Ersoy",
+      "wikipediaTitle": "Şükrü Ersoy",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Şükrü_Ersoy",
+      "birthYear": 1934,
+      "position": "GK",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "sukru-gulesin",
+      "name": "Şükrü Gülesin",
+      "wikipediaTitle": "Şükrü Gülesin",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Şükrü_Gülesin",
+      "birthYear": 1922,
+      "position": "FW",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "tayfun-korkut",
+      "name": "Tayfun Korkut",
+      "wikipediaTitle": "Tayfun Korkut",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Tayfun_Korkut",
+      "birthYear": 1974,
+      "position": "MF",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "tayfur-havutcu",
+      "name": "Tayfur Havutçu",
+      "wikipediaTitle": "Tayfur Havutçu",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Tayfur_Havutçu",
+      "birthYear": 1970,
+      "position": "MF",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "taylan-antalyali",
+      "name": "Taylan Antalyalı",
+      "wikipediaTitle": "Taylan Antalyalı",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Taylan_Antalyalı",
+      "birthYear": 1995,
+      "position": "MF",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "tekin-bilge",
+      "name": "Tekin Bilge",
+      "wikipediaTitle": "Tekin Bilge",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Tekin_Bilge",
+      "birthYear": 1930,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "tolga-zengin",
+      "name": "Tolga Zengin",
+      "wikipediaTitle": "Tolga Zengin",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Tolga_Zengin",
+      "birthYear": 1983,
+      "position": "GK",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "tolunay-kafkas",
+      "name": "Tolunay Kafkas",
+      "wikipediaTitle": "Tolunay Kafkas",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Tolunay_Kafkas",
+      "birthYear": 1968,
+      "position": "MF",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "tugay-kerimoglu",
+      "name": "Tugay Kerimoğlu",
+      "wikipediaTitle": "Tugay Kerimoğlu",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Tugay_Kerimoğlu",
+      "birthYear": 1970,
+      "position": "MF",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "tumer-metin",
+      "name": "Tümer Metin",
+      "wikipediaTitle": "Tümer Metin",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Tümer_Metin",
+      "birthYear": 1974,
+      "position": "MF",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "tuncay-sanli",
+      "name": "Tuncay Şanlı",
+      "wikipediaTitle": "Tuncay Şanlı",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Tuncay_Şanlı",
+      "birthYear": 1982,
+      "position": "FW",
+      "positionConfidence": "disputed"
+    },
+    {
+      "id": "turgay-seren",
+      "name": "Turgay Şeren",
+      "wikipediaTitle": "Turgay Şeren",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Turgay_Şeren",
+      "birthYear": 1932,
+      "position": "GK",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "turhan-yildiz",
+      "name": "Turhan Yıldız",
+      "wikipediaTitle": "Turhan Yıldız",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Turhan_Yıldız",
+      "birthYear": 1940,
+      "position": "MF",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "ugur-boral",
+      "name": "Uğur Boral",
+      "wikipediaTitle": "Uğur Boral",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Uğur_Boral",
+      "birthYear": 1982,
+      "position": "DF",
+      "positionConfidence": "disputed"
+    },
+    {
+      "id": "ugur-koken",
+      "name": "Uğur Köken",
+      "wikipediaTitle": "Uğur Köken",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Uğur_Köken",
+      "birthYear": 1937,
+      "position": "MF",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "ugurcan-cakir",
+      "name": "Uğurcan Çakır",
+      "wikipediaTitle": "Uğurcan Çakır",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Uğurcan_Çakır",
+      "birthYear": 1996,
+      "position": "GK",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "ulvi-yenal",
+      "name": "Ulvi Yenal",
+      "wikipediaTitle": "Ulvi Yenal",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ulvi_Yenal",
+      "birthYear": 1908,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "umit-davala",
+      "name": "Ümit Davala",
+      "wikipediaTitle": "Ümit Davala",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ümit_Davala",
+      "birthYear": 1973,
+      "position": "MF",
+      "positionConfidence": "disputed"
+    },
+    {
+      "id": "umit-ozat",
+      "name": "Ümit Özat",
+      "wikipediaTitle": "Ümit Özat",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ümit_Özat",
+      "birthYear": 1976,
+      "position": "DF",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "umut-meras",
+      "name": "Umut Meraş",
+      "wikipediaTitle": "Umut Meraş",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Umut_Meraş",
+      "birthYear": 1995,
+      "position": "DF",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "vasif-cetinel",
+      "name": "Vasıf Çetinel",
+      "wikipediaTitle": "Vasıf Çetinel",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Vasıf_Çetinel",
+      "birthYear": 1928,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "vedat-inceefe",
+      "name": "Vedat İnceefe",
+      "wikipediaTitle": "Vedat İnceefe",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Vedat_İnceefe",
+      "birthYear": 1974,
+      "position": "DF",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "vedii-tosuncuk",
+      "name": "Vedii Tosuncuk",
+      "wikipediaTitle": "Vedii Tosuncuk",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Vedii_Tosuncuk",
+      "birthYear": 1921,
+      "position": "DF",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "volkan-babacan",
+      "name": "Volkan Babacan",
+      "wikipediaTitle": "Volkan Babacan",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Volkan_Babacan",
+      "birthYear": 1988,
+      "position": "GK",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "volkan-demirel",
+      "name": "Volkan Demirel",
+      "wikipediaTitle": "Volkan Demirel",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Volkan_Demirel",
+      "birthYear": 1981,
+      "position": "GK",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "volkan-sen",
+      "name": "Volkan Şen",
+      "wikipediaTitle": "Volkan Şen",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Volkan_Şen",
+      "birthYear": 1987,
+      "position": "MF",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "yalcin-caka",
+      "name": "Yalçın Çaka",
+      "wikipediaTitle": "Yalçın Çaka",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Yalçın_Çaka",
+      "birthYear": 1931,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "yavuz-ureten",
+      "name": "Yavuz Üreten",
+      "wikipediaTitle": "Yavuz Üreten",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Yavuz_Üreten?action=edit&redlink=1",
+      "birthYear": 1920,
+      "position": "FW",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "yildiray-basturk",
+      "name": "Yıldıray Baştürk",
+      "wikipediaTitle": "Yıldıray Baştürk",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Yıldıray_Baştürk",
+      "birthYear": 1978,
+      "position": "MF",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "yilmaz-tuncer",
+      "name": "Yılmaz Tuncer",
+      "wikipediaTitle": "Yılmaz Tuncer",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Yılmaz_Tuncer?action=edit&redlink=1",
+      "birthYear": 1931,
+      "position": "MF",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "yunus-akgun",
+      "name": "Yunus Akgün",
+      "wikipediaTitle": "Yunus Akgün",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Yunus_Akgün",
+      "birthYear": 2000,
+      "position": "FW",
+      "positionConfidence": "disputed"
+    },
+    {
+      "id": "yunus-malli",
+      "name": "Yunus Mallı",
+      "wikipediaTitle": "Yunus Mallı",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Yunus_Mallı",
+      "birthYear": 1992,
+      "position": "MF",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "yusuf-yazici",
+      "name": "Yusuf Yazıcı",
+      "wikipediaTitle": "Yusuf Yazıcı",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Yusuf_Yazıcı",
+      "birthYear": 1997,
+      "position": "MF",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "zafer-ozgultekin",
+      "name": "Zafer Özgültekin",
+      "wikipediaTitle": "Zafer Özgültekin",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Zafer_Özgültekin",
+      "birthYear": 1975,
+      "position": "GK",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "zeki-celik",
+      "name": "Zeki Çelik",
+      "wikipediaTitle": "Zeki Çelik",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Zeki_Çelik",
+      "birthYear": 1997,
+      "position": "DF",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "zeki-riza-sporel",
+      "name": "Zeki Rıza Sporel",
+      "wikipediaTitle": "Zeki Rıza Sporel",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Zeki_Rıza_Sporel",
+      "birthYear": 1898,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "zeki-sensan",
+      "name": "Zeki Şensan",
+      "wikipediaTitle": "Zeki Şensan",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Zeki_Şensan",
+      "birthYear": 1937,
+      "position": "FW",
+      "positionConfidence": "confirmed"
+    }
+  ],
+  "squadEntries": [
+    {
+      "countryId": "turkiye",
+      "tournamentId": "euro-1996",
+      "playerId": "abdullah-ercan",
+      "shirtNumber": 17
+    },
+    {
+      "countryId": "turkiye",
+      "tournamentId": "euro-1996",
+      "playerId": "adnan-erkan",
+      "shirtNumber": 1
+    },
+    {
+      "countryId": "turkiye",
+      "tournamentId": "euro-1996",
+      "playerId": "alpay-ozalan",
+      "shirtNumber": 3
+    },
+    {
+      "countryId": "turkiye",
+      "tournamentId": "euro-1996",
+      "playerId": "arif-erdem",
+      "shirtNumber": 18
+    },
+    {
+      "countryId": "turkiye",
+      "tournamentId": "euro-1996",
+      "playerId": "bulent-korkmaz",
+      "shirtNumber": 20
+    },
+    {
+      "countryId": "turkiye",
+      "tournamentId": "euro-1996",
+      "playerId": "ertugrul-saglam",
+      "shirtNumber": 6
+    },
+    {
+      "countryId": "turkiye",
+      "tournamentId": "euro-1996",
+      "playerId": "faruk-yigit",
+      "shirtNumber": 12
+    },
+    {
+      "countryId": "turkiye",
+      "tournamentId": "euro-1996",
+      "playerId": "hakan-sukur",
+      "shirtNumber": 9
+    },
+    {
+      "countryId": "turkiye",
+      "tournamentId": "euro-1996",
+      "playerId": "hami-mandirali",
+      "shirtNumber": 7
+    },
+    {
+      "countryId": "turkiye",
+      "tournamentId": "euro-1996",
+      "playerId": "ogun-temizkanoglu",
+      "shirtNumber": 8
+    },
+    {
+      "countryId": "turkiye",
+      "tournamentId": "euro-1996",
+      "playerId": "oguz-cetin",
+      "shirtNumber": 10
+    },
+    {
+      "countryId": "turkiye",
+      "tournamentId": "euro-1996",
+      "playerId": "orhan-cikirikci",
+      "shirtNumber": 11
+    },
+    {
+      "countryId": "turkiye",
+      "tournamentId": "euro-1996",
+      "playerId": "rahim-zafer",
+      "shirtNumber": 13
+    },
+    {
+      "countryId": "turkiye",
+      "tournamentId": "euro-1996",
+      "playerId": "recep-cetin",
+      "shirtNumber": 2
+    },
+    {
+      "countryId": "turkiye",
+      "tournamentId": "euro-1996",
+      "playerId": "rustu-recber",
+      "shirtNumber": 22
+    },
+    {
+      "countryId": "turkiye",
+      "tournamentId": "euro-1996",
+      "playerId": "saffet-sancakli",
+      "shirtNumber": 14
+    },
+    {
+      "countryId": "turkiye",
+      "tournamentId": "euro-1996",
+      "playerId": "sanver-goymen",
+      "shirtNumber": 21
+    },
+    {
+      "countryId": "turkiye",
+      "tournamentId": "euro-1996",
+      "playerId": "sergen-yalcin",
+      "shirtNumber": 16
+    },
+    {
+      "countryId": "turkiye",
+      "tournamentId": "euro-1996",
+      "playerId": "tayfun-korkut",
+      "shirtNumber": 15
+    },
+    {
+      "countryId": "turkiye",
+      "tournamentId": "euro-1996",
+      "playerId": "tolunay-kafkas",
+      "shirtNumber": 19
+    },
+    {
+      "countryId": "turkiye",
+      "tournamentId": "euro-1996",
+      "playerId": "tugay-kerimoglu",
+      "shirtNumber": 5
+    },
+    {
+      "countryId": "turkiye",
+      "tournamentId": "euro-1996",
+      "playerId": "vedat-inceefe",
+      "shirtNumber": 4
+    },
+    {
+      "countryId": "turkiye",
+      "tournamentId": "euro-2000",
+      "playerId": "abdullah-ercan",
+      "shirtNumber": 19
+    },
+    {
+      "countryId": "turkiye",
+      "tournamentId": "euro-2000",
+      "playerId": "alpay-ozalan",
+      "shirtNumber": 5
+    },
+    {
+      "countryId": "turkiye",
+      "tournamentId": "euro-2000",
+      "playerId": "arif-erdem",
+      "shirtNumber": 6
+    },
+    {
+      "countryId": "turkiye",
+      "tournamentId": "euro-2000",
+      "playerId": "ayhan-akman",
+      "shirtNumber": 18
+    },
+    {
+      "countryId": "turkiye",
+      "tournamentId": "euro-2000",
+      "playerId": "ergun-penbe",
+      "shirtNumber": 16
+    },
+    {
+      "countryId": "turkiye",
+      "tournamentId": "euro-2000",
+      "playerId": "fatih-akyel",
+      "shirtNumber": 4
+    },
+    {
+      "countryId": "turkiye",
+      "tournamentId": "euro-2000",
+      "playerId": "fevzi-tuncay",
+      "shirtNumber": 21
+    },
+    {
+      "countryId": "turkiye",
+      "tournamentId": "euro-2000",
+      "playerId": "hakan-sukur",
+      "shirtNumber": 9
+    },
+    {
+      "countryId": "turkiye",
+      "tournamentId": "euro-2000",
+      "playerId": "hakan-unsal",
+      "shirtNumber": 20
+    },
+    {
+      "countryId": "turkiye",
+      "tournamentId": "euro-2000",
+      "playerId": "muzzy-izzet",
+      "shirtNumber": 15
+    },
+    {
+      "countryId": "turkiye",
+      "tournamentId": "euro-2000",
+      "playerId": "ogun-temizkanoglu",
+      "shirtNumber": 3
+    },
+    {
+      "countryId": "turkiye",
+      "tournamentId": "euro-2000",
+      "playerId": "okan-buruk",
+      "shirtNumber": 7
+    },
+    {
+      "countryId": "turkiye",
+      "tournamentId": "euro-2000",
+      "playerId": "oktay-derelioglu",
+      "shirtNumber": 17
+    },
+    {
+      "countryId": "turkiye",
+      "tournamentId": "euro-2000",
+      "playerId": "omer-catkic",
+      "shirtNumber": 12
+    },
+    {
+      "countryId": "turkiye",
+      "tournamentId": "euro-2000",
+      "playerId": "osman-ozkoylu",
+      "shirtNumber": 13
+    },
+    {
+      "countryId": "turkiye",
+      "tournamentId": "euro-2000",
+      "playerId": "rustu-recber",
+      "shirtNumber": 1
+    },
+    {
+      "countryId": "turkiye",
+      "tournamentId": "euro-2000",
+      "playerId": "sergen-yalcin",
+      "shirtNumber": 10
+    },
+    {
+      "countryId": "turkiye",
+      "tournamentId": "euro-2000",
+      "playerId": "suat-kaya",
+      "shirtNumber": 14
+    },
+    {
+      "countryId": "turkiye",
+      "tournamentId": "euro-2000",
+      "playerId": "tayfun-korkut",
+      "shirtNumber": 11
+    },
+    {
+      "countryId": "turkiye",
+      "tournamentId": "euro-2000",
+      "playerId": "tayfur-havutcu",
+      "shirtNumber": 2
+    },
+    {
+      "countryId": "turkiye",
+      "tournamentId": "euro-2000",
+      "playerId": "tugay-kerimoglu",
+      "shirtNumber": 8
+    },
+    {
+      "countryId": "turkiye",
+      "tournamentId": "euro-2000",
+      "playerId": "umit-davala",
+      "shirtNumber": 22
+    },
+    {
+      "countryId": "turkiye",
+      "tournamentId": "euro-2008",
+      "playerId": "arda-turan",
+      "shirtNumber": 14
+    },
+    {
+      "countryId": "turkiye",
+      "tournamentId": "euro-2008",
+      "playerId": "ayhan-akman",
+      "shirtNumber": 19
+    },
+    {
+      "countryId": "turkiye",
+      "tournamentId": "euro-2008",
+      "playerId": "colin-kazim-richards",
+      "shirtNumber": 18
+    },
+    {
+      "countryId": "turkiye",
+      "tournamentId": "euro-2008",
+      "playerId": "emre-asik",
+      "shirtNumber": 15
+    },
+    {
+      "countryId": "turkiye",
+      "tournamentId": "euro-2008",
+      "playerId": "emre-belozoglu",
+      "shirtNumber": 5
+    },
+    {
+      "countryId": "turkiye",
+      "tournamentId": "euro-2008",
+      "playerId": "emre-gungor",
+      "shirtNumber": 13
+    },
+    {
+      "countryId": "turkiye",
+      "tournamentId": "euro-2008",
+      "playerId": "gokdeniz-karadeniz",
+      "shirtNumber": 10
+    },
+    {
+      "countryId": "turkiye",
+      "tournamentId": "euro-2008",
+      "playerId": "gokhan-zan",
+      "shirtNumber": 4
+    },
+    {
+      "countryId": "turkiye",
+      "tournamentId": "euro-2008",
+      "playerId": "hakan-balta",
+      "shirtNumber": 3
+    },
+    {
+      "countryId": "turkiye",
+      "tournamentId": "euro-2008",
+      "playerId": "hamit-altintop",
+      "shirtNumber": 22
+    },
+    {
+      "countryId": "turkiye",
+      "tournamentId": "euro-2008",
+      "playerId": "mehmet-aurelio",
+      "shirtNumber": 7
+    },
+    {
+      "countryId": "turkiye",
+      "tournamentId": "euro-2008",
+      "playerId": "mehmet-topal",
+      "shirtNumber": 6
+    },
+    {
+      "countryId": "turkiye",
+      "tournamentId": "euro-2008",
+      "playerId": "mevlut-erdinc",
+      "shirtNumber": 21
+    },
+    {
+      "countryId": "turkiye",
+      "tournamentId": "euro-2008",
+      "playerId": "nihat-kahveci",
+      "shirtNumber": 8
+    },
+    {
+      "countryId": "turkiye",
+      "tournamentId": "euro-2008",
+      "playerId": "rustu-recber",
+      "shirtNumber": 1
+    },
+    {
+      "countryId": "turkiye",
+      "tournamentId": "euro-2008",
+      "playerId": "sabri-sarioglu",
+      "shirtNumber": 20
+    },
+    {
+      "countryId": "turkiye",
+      "tournamentId": "euro-2008",
+      "playerId": "semih-senturk",
+      "shirtNumber": 9
+    },
+    {
+      "countryId": "turkiye",
+      "tournamentId": "euro-2008",
+      "playerId": "servet-cetin",
+      "shirtNumber": 2
+    },
+    {
+      "countryId": "turkiye",
+      "tournamentId": "euro-2008",
+      "playerId": "tolga-zengin",
+      "shirtNumber": 12
+    },
+    {
+      "countryId": "turkiye",
+      "tournamentId": "euro-2008",
+      "playerId": "tumer-metin",
+      "shirtNumber": 11
+    },
+    {
+      "countryId": "turkiye",
+      "tournamentId": "euro-2008",
+      "playerId": "tuncay-sanli",
+      "shirtNumber": 17
+    },
+    {
+      "countryId": "turkiye",
+      "tournamentId": "euro-2008",
+      "playerId": "ugur-boral",
+      "shirtNumber": 16
+    },
+    {
+      "countryId": "turkiye",
+      "tournamentId": "euro-2008",
+      "playerId": "volkan-demirel",
+      "shirtNumber": 23
+    },
+    {
+      "countryId": "turkiye",
+      "tournamentId": "euro-2016",
+      "playerId": "ahmet-yilmaz-calik",
+      "shirtNumber": 4
+    },
+    {
+      "countryId": "turkiye",
+      "tournamentId": "euro-2016",
+      "playerId": "arda-turan",
+      "shirtNumber": 10
+    },
+    {
+      "countryId": "turkiye",
+      "tournamentId": "euro-2016",
+      "playerId": "burak-yilmaz",
+      "shirtNumber": 17
+    },
+    {
+      "countryId": "turkiye",
+      "tournamentId": "euro-2016",
+      "playerId": "caner-erkin",
+      "shirtNumber": 18
+    },
+    {
+      "countryId": "turkiye",
+      "tournamentId": "euro-2016",
+      "playerId": "cenk-tosun",
+      "shirtNumber": 9
+    },
+    {
+      "countryId": "turkiye",
+      "tournamentId": "euro-2016",
+      "playerId": "emre-mor",
+      "shirtNumber": 21
+    },
+    {
+      "countryId": "turkiye",
+      "tournamentId": "euro-2016",
+      "playerId": "gokhan-gonul",
+      "shirtNumber": 7
+    },
+    {
+      "countryId": "turkiye",
+      "tournamentId": "euro-2016",
+      "playerId": "hakan-balta",
+      "shirtNumber": 3
+    },
+    {
+      "countryId": "turkiye",
+      "tournamentId": "euro-2016",
+      "playerId": "hakan-calhanoglu",
+      "shirtNumber": 6
+    },
+    {
+      "countryId": "turkiye",
+      "tournamentId": "euro-2016",
+      "playerId": "harun-tekin-footballer",
+      "shirtNumber": 23
+    },
+    {
+      "countryId": "turkiye",
+      "tournamentId": "euro-2016",
+      "playerId": "ismail-koybasi",
+      "shirtNumber": 13
+    },
+    {
+      "countryId": "turkiye",
+      "tournamentId": "euro-2016",
+      "playerId": "mehmet-topal",
+      "shirtNumber": 15
+    },
+    {
+      "countryId": "turkiye",
+      "tournamentId": "euro-2016",
+      "playerId": "nuri-sahin",
+      "shirtNumber": 5
+    },
+    {
+      "countryId": "turkiye",
+      "tournamentId": "euro-2016",
+      "playerId": "oguzhan-ozyakup",
+      "shirtNumber": 14
+    },
+    {
+      "countryId": "turkiye",
+      "tournamentId": "euro-2016",
+      "playerId": "olcay-sahan",
+      "shirtNumber": 11
+    },
+    {
+      "countryId": "turkiye",
+      "tournamentId": "euro-2016",
+      "playerId": "onur-kivrak",
+      "shirtNumber": 12
+    },
+    {
+      "countryId": "turkiye",
+      "tournamentId": "euro-2016",
+      "playerId": "ozan-tufan",
+      "shirtNumber": 16
+    },
+    {
+      "countryId": "turkiye",
+      "tournamentId": "euro-2016",
+      "playerId": "selcuk-inan",
+      "shirtNumber": 8
+    },
+    {
+      "countryId": "turkiye",
+      "tournamentId": "euro-2016",
+      "playerId": "semih-kaya",
+      "shirtNumber": 2
+    },
+    {
+      "countryId": "turkiye",
+      "tournamentId": "euro-2016",
+      "playerId": "sener-ozbayrakli",
+      "shirtNumber": 22
+    },
+    {
+      "countryId": "turkiye",
+      "tournamentId": "euro-2016",
+      "playerId": "volkan-babacan",
+      "shirtNumber": 1
+    },
+    {
+      "countryId": "turkiye",
+      "tournamentId": "euro-2016",
+      "playerId": "volkan-sen",
+      "shirtNumber": 20
+    },
+    {
+      "countryId": "turkiye",
+      "tournamentId": "euro-2016",
+      "playerId": "yunus-malli",
+      "shirtNumber": 19
+    },
+    {
+      "countryId": "turkiye",
+      "tournamentId": "euro-2020",
+      "playerId": "abdulkadir-omur",
+      "shirtNumber": 20
+    },
+    {
+      "countryId": "turkiye",
+      "tournamentId": "euro-2020",
+      "playerId": "altay-bayindir",
+      "shirtNumber": 12
+    },
+    {
+      "countryId": "turkiye",
+      "tournamentId": "euro-2020",
+      "playerId": "burak-yilmaz",
+      "shirtNumber": 17
+    },
+    {
+      "countryId": "turkiye",
+      "tournamentId": "euro-2020",
+      "playerId": "caglar-soyuncu",
+      "shirtNumber": 4
+    },
+    {
+      "countryId": "turkiye",
+      "tournamentId": "euro-2020",
+      "playerId": "cengiz-under",
+      "shirtNumber": 7
+    },
+    {
+      "countryId": "turkiye",
+      "tournamentId": "euro-2020",
+      "playerId": "dorukhan-tokoz",
+      "shirtNumber": 8
+    },
+    {
+      "countryId": "turkiye",
+      "tournamentId": "euro-2020",
+      "playerId": "enes-unal",
+      "shirtNumber": 16
+    },
+    {
+      "countryId": "turkiye",
+      "tournamentId": "euro-2020",
+      "playerId": "hakan-calhanoglu",
+      "shirtNumber": 10
+    },
+    {
+      "countryId": "turkiye",
+      "tournamentId": "euro-2020",
+      "playerId": "halil-dervisoglu",
+      "shirtNumber": 26
+    },
+    {
+      "countryId": "turkiye",
+      "tournamentId": "euro-2020",
+      "playerId": "irfan-kahveci",
+      "shirtNumber": 21
+    },
+    {
+      "countryId": "turkiye",
+      "tournamentId": "euro-2020",
+      "playerId": "kaan-ayhan",
+      "shirtNumber": 22
+    },
+    {
+      "countryId": "turkiye",
+      "tournamentId": "euro-2020",
+      "playerId": "kenan-karaman",
+      "shirtNumber": 9
+    },
+    {
+      "countryId": "turkiye",
+      "tournamentId": "euro-2020",
+      "playerId": "kerem-akturkoglu",
+      "shirtNumber": 24
+    },
+    {
+      "countryId": "turkiye",
+      "tournamentId": "euro-2020",
+      "playerId": "merih-demiral",
+      "shirtNumber": 3
+    },
+    {
+      "countryId": "turkiye",
+      "tournamentId": "euro-2020",
+      "playerId": "mert-gunok",
+      "shirtNumber": 1
+    },
+    {
+      "countryId": "turkiye",
+      "tournamentId": "euro-2020",
+      "playerId": "mert-muldur",
+      "shirtNumber": 25
+    },
+    {
+      "countryId": "turkiye",
+      "tournamentId": "euro-2020",
+      "playerId": "okay-yokuslu",
+      "shirtNumber": 5
+    },
+    {
+      "countryId": "turkiye",
+      "tournamentId": "euro-2020",
+      "playerId": "orkun-kokcu",
+      "shirtNumber": 19
+    },
+    {
+      "countryId": "turkiye",
+      "tournamentId": "euro-2020",
+      "playerId": "ozan-kabak",
+      "shirtNumber": 15
+    },
+    {
+      "countryId": "turkiye",
+      "tournamentId": "euro-2020",
+      "playerId": "ozan-tufan",
+      "shirtNumber": 6
+    },
+    {
+      "countryId": "turkiye",
+      "tournamentId": "euro-2020",
+      "playerId": "ridvan-yilmaz",
+      "shirtNumber": 18
+    },
+    {
+      "countryId": "turkiye",
+      "tournamentId": "euro-2020",
+      "playerId": "taylan-antalyali",
+      "shirtNumber": 14
+    },
+    {
+      "countryId": "turkiye",
+      "tournamentId": "euro-2020",
+      "playerId": "ugurcan-cakir",
+      "shirtNumber": 23
+    },
+    {
+      "countryId": "turkiye",
+      "tournamentId": "euro-2020",
+      "playerId": "umut-meras",
+      "shirtNumber": 13
+    },
+    {
+      "countryId": "turkiye",
+      "tournamentId": "euro-2020",
+      "playerId": "yusuf-yazici",
+      "shirtNumber": 11
+    },
+    {
+      "countryId": "turkiye",
+      "tournamentId": "euro-2020",
+      "playerId": "zeki-celik",
+      "shirtNumber": 2
+    },
+    {
+      "countryId": "turkiye",
+      "tournamentId": "euro-2024",
+      "playerId": "abdulkerim-bardakci",
+      "shirtNumber": 14
+    },
+    {
+      "countryId": "turkiye",
+      "tournamentId": "euro-2024",
+      "playerId": "ahmetcan-kaplan",
+      "shirtNumber": 13
+    },
+    {
+      "countryId": "turkiye",
+      "tournamentId": "euro-2024",
+      "playerId": "altay-bayindir",
+      "shirtNumber": 12
+    },
+    {
+      "countryId": "turkiye",
+      "tournamentId": "euro-2024",
+      "playerId": "arda-guler",
+      "shirtNumber": 8
+    },
+    {
+      "countryId": "turkiye",
+      "tournamentId": "euro-2024",
+      "playerId": "baris-alper-yilmaz",
+      "shirtNumber": 21
+    },
+    {
+      "countryId": "turkiye",
+      "tournamentId": "euro-2024",
+      "playerId": "bertug-yildirim",
+      "shirtNumber": 26
+    },
+    {
+      "countryId": "turkiye",
+      "tournamentId": "euro-2024",
+      "playerId": "cenk-tosun",
+      "shirtNumber": 9
+    },
+    {
+      "countryId": "turkiye",
+      "tournamentId": "euro-2024",
+      "playerId": "ferdi-kadioglu",
+      "shirtNumber": 20
+    },
+    {
+      "countryId": "turkiye",
+      "tournamentId": "euro-2024",
+      "playerId": "hakan-calhanoglu",
+      "shirtNumber": 10
+    },
+    {
+      "countryId": "turkiye",
+      "tournamentId": "euro-2024",
+      "playerId": "irfan-can-kahveci",
+      "shirtNumber": 17
+    },
+    {
+      "countryId": "turkiye",
+      "tournamentId": "euro-2024",
+      "playerId": "ismail-yuksek",
+      "shirtNumber": 16
+    },
+    {
+      "countryId": "turkiye",
+      "tournamentId": "euro-2024",
+      "playerId": "kaan-ayhan",
+      "shirtNumber": 22
+    },
+    {
+      "countryId": "turkiye",
+      "tournamentId": "euro-2024",
+      "playerId": "kenan-yildiz",
+      "shirtNumber": 19
+    },
+    {
+      "countryId": "turkiye",
+      "tournamentId": "euro-2024",
+      "playerId": "kerem-akturkoglu",
+      "shirtNumber": 7
+    },
+    {
+      "countryId": "turkiye",
+      "tournamentId": "euro-2024",
+      "playerId": "merih-demiral",
+      "shirtNumber": 3
+    },
+    {
+      "countryId": "turkiye",
+      "tournamentId": "euro-2024",
+      "playerId": "mert-gunok",
+      "shirtNumber": 1
+    },
+    {
+      "countryId": "turkiye",
+      "tournamentId": "euro-2024",
+      "playerId": "mert-muldur",
+      "shirtNumber": 18
+    },
+    {
+      "countryId": "turkiye",
+      "tournamentId": "euro-2024",
+      "playerId": "okay-yokuslu",
+      "shirtNumber": 5
+    },
+    {
+      "countryId": "turkiye",
+      "tournamentId": "euro-2024",
+      "playerId": "orkun-kokcu",
+      "shirtNumber": 6
+    },
+    {
+      "countryId": "turkiye",
+      "tournamentId": "euro-2024",
+      "playerId": "salih-ozcan",
+      "shirtNumber": 15
+    },
+    {
+      "countryId": "turkiye",
+      "tournamentId": "euro-2024",
+      "playerId": "samet-akaydin",
+      "shirtNumber": 4
+    },
+    {
+      "countryId": "turkiye",
+      "tournamentId": "euro-2024",
+      "playerId": "semih-kilicsoy",
+      "shirtNumber": 24
+    },
+    {
+      "countryId": "turkiye",
+      "tournamentId": "euro-2024",
+      "playerId": "ugurcan-cakir",
+      "shirtNumber": 23
+    },
+    {
+      "countryId": "turkiye",
+      "tournamentId": "euro-2024",
+      "playerId": "yunus-akgun",
+      "shirtNumber": 25
+    },
+    {
+      "countryId": "turkiye",
+      "tournamentId": "euro-2024",
+      "playerId": "yusuf-yazici",
+      "shirtNumber": 11
+    },
+    {
+      "countryId": "turkiye",
+      "tournamentId": "euro-2024",
+      "playerId": "zeki-celik",
+      "shirtNumber": 2
+    },
+    {
+      "countryId": "turkiye",
+      "tournamentId": "olympics-1924",
+      "playerId": "alaattin-baydar",
+      "shirtNumber": 8
+    },
+    {
+      "countryId": "turkiye",
+      "tournamentId": "olympics-1924",
+      "playerId": "ali-gencay",
+      "shirtNumber": 3
+    },
+    {
+      "countryId": "turkiye",
+      "tournamentId": "olympics-1924",
+      "playerId": "bedri-gursoy",
+      "shirtNumber": 11
+    },
+    {
+      "countryId": "turkiye",
+      "tournamentId": "olympics-1924",
+      "playerId": "bekir-refet",
+      "shirtNumber": 10
+    },
+    {
+      "countryId": "turkiye",
+      "tournamentId": "olympics-1924",
+      "playerId": "cafer-cagatay",
+      "shirtNumber": 2
+    },
+    {
+      "countryId": "turkiye",
+      "tournamentId": "olympics-1924",
+      "playerId": "hamid-buranheddin",
+      "shirtNumber": 14
+    },
+    {
+      "countryId": "turkiye",
+      "tournamentId": "olympics-1924",
+      "playerId": "hamit-akbay",
+      "shirtNumber": 12
+    },
+    {
+      "countryId": "turkiye",
+      "tournamentId": "olympics-1924",
+      "playerId": "hamit-arslan",
+      "shirtNumber": 15
+    },
+    {
+      "countryId": "turkiye",
+      "tournamentId": "olympics-1924",
+      "playerId": "ibrahim-kelle",
+      "shirtNumber": 18
+    },
+    {
+      "countryId": "turkiye",
+      "tournamentId": "olympics-1924",
+      "playerId": "ismet-ulug",
+      "shirtNumber": 5
+    },
+    {
+      "countryId": "turkiye",
+      "tournamentId": "olympics-1924",
+      "playerId": "kadri-goktulga",
+      "shirtNumber": 4
+    },
+    {
+      "countryId": "turkiye",
+      "tournamentId": "olympics-1924",
+      "playerId": "kamil-rona",
+      "shirtNumber": 13
+    },
+    {
+      "countryId": "turkiye",
+      "tournamentId": "olympics-1924",
+      "playerId": "kemal-rifat-kalpakcioglu",
+      "shirtNumber": 16
+    },
+    {
+      "countryId": "turkiye",
+      "tournamentId": "olympics-1924",
+      "playerId": "kemal-ruhi",
+      "shirtNumber": 19
+    },
+    {
+      "countryId": "turkiye",
+      "tournamentId": "olympics-1924",
+      "playerId": "mehmet-leblebi",
+      "shirtNumber": 7
+    },
+    {
+      "countryId": "turkiye",
+      "tournamentId": "olympics-1924",
+      "playerId": "muslih-peykoglu",
+      "shirtNumber": 20
+    },
+    {
+      "countryId": "turkiye",
+      "tournamentId": "olympics-1924",
+      "playerId": "nedim-kaleci",
+      "shirtNumber": 1
+    },
+    {
+      "countryId": "turkiye",
+      "tournamentId": "olympics-1924",
+      "playerId": "nihat-bekdik",
+      "shirtNumber": 6
+    },
+    {
+      "countryId": "turkiye",
+      "tournamentId": "olympics-1924",
+      "playerId": "sabih-arca",
+      "shirtNumber": 17
+    },
+    {
+      "countryId": "turkiye",
+      "tournamentId": "olympics-1924",
+      "playerId": "zeki-riza-sporel",
+      "shirtNumber": 9
+    },
+    {
+      "countryId": "turkiye",
+      "tournamentId": "olympics-1928",
+      "playerId": "alaattin-baydar",
+      "shirtNumber": 8
+    },
+    {
+      "countryId": "turkiye",
+      "tournamentId": "olympics-1928",
+      "playerId": "baron-feyzi",
+      "shirtNumber": 17
+    },
+    {
+      "countryId": "turkiye",
+      "tournamentId": "olympics-1928",
+      "playerId": "bedri-gursoy",
+      "shirtNumber": 13
+    },
+    {
+      "countryId": "turkiye",
+      "tournamentId": "olympics-1928",
+      "playerId": "bekir-refet",
+      "shirtNumber": 10
+    },
+    {
+      "countryId": "turkiye",
+      "tournamentId": "olympics-1928",
+      "playerId": "burhan-atak",
+      "shirtNumber": 3
+    },
+    {
+      "countryId": "turkiye",
+      "tournamentId": "olympics-1928",
+      "playerId": "cevat-seyit",
+      "shirtNumber": 4
+    },
+    {
+      "countryId": "turkiye",
+      "tournamentId": "olympics-1928",
+      "playerId": "ismet-ulug",
+      "shirtNumber": 6
+    },
+    {
+      "countryId": "turkiye",
+      "tournamentId": "olympics-1928",
+      "playerId": "izmirli-sevki",
+      "shirtNumber": 14
+    },
+    {
+      "countryId": "turkiye",
+      "tournamentId": "olympics-1928",
+      "playerId": "kadri-goktulga",
+      "shirtNumber": 2
+    },
+    {
+      "countryId": "turkiye",
+      "tournamentId": "olympics-1928",
+      "playerId": "kemal-faruki",
+      "shirtNumber": 12
+    },
+    {
+      "countryId": "turkiye",
+      "tournamentId": "olympics-1928",
+      "playerId": "latif-yalinli",
+      "shirtNumber": 19
+    },
+    {
+      "countryId": "turkiye",
+      "tournamentId": "olympics-1928",
+      "playerId": "mehmet-leblebi",
+      "shirtNumber": 7
+    },
+    {
+      "countryId": "turkiye",
+      "tournamentId": "olympics-1928",
+      "playerId": "muslih-peykoglu",
+      "shirtNumber": 11
+    },
+    {
+      "countryId": "turkiye",
+      "tournamentId": "olympics-1928",
+      "playerId": "nafiz-orhun",
+      "shirtNumber": 16
+    },
+    {
+      "countryId": "turkiye",
+      "tournamentId": "olympics-1928",
+      "playerId": "nihat-bekdik",
+      "shirtNumber": 5
+    },
+    {
+      "countryId": "turkiye",
+      "tournamentId": "olympics-1928",
+      "playerId": "osman-kaptan",
+      "shirtNumber": 18
+    },
+    {
+      "countryId": "turkiye",
+      "tournamentId": "olympics-1928",
+      "playerId": "sabih-arca",
+      "shirtNumber": 15
+    },
+    {
+      "countryId": "turkiye",
+      "tournamentId": "olympics-1928",
+      "playerId": "sukru-erkus",
+      "shirtNumber": 20
+    },
+    {
+      "countryId": "turkiye",
+      "tournamentId": "olympics-1928",
+      "playerId": "ulvi-yenal",
+      "shirtNumber": 1
+    },
+    {
+      "countryId": "turkiye",
+      "tournamentId": "olympics-1928",
+      "playerId": "zeki-riza-sporel",
+      "shirtNumber": 9
+    },
+    {
+      "countryId": "turkiye",
+      "tournamentId": "olympics-1948",
+      "playerId": "ahmet-erol",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "turkiye",
+      "tournamentId": "olympics-1948",
+      "playerId": "bulent-eken",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "turkiye",
+      "tournamentId": "olympics-1948",
+      "playerId": "cihat-arman",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "turkiye",
+      "tournamentId": "olympics-1948",
+      "playerId": "erdogan-atlioglu",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "turkiye",
+      "tournamentId": "olympics-1948",
+      "playerId": "erol-keskin",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "turkiye",
+      "tournamentId": "olympics-1948",
+      "playerId": "fikret-kircan",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "turkiye",
+      "tournamentId": "olympics-1948",
+      "playerId": "galip-haktanir",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "turkiye",
+      "tournamentId": "olympics-1948",
+      "playerId": "gunduz-kilic",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "turkiye",
+      "tournamentId": "olympics-1948",
+      "playerId": "halit-deringor",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "turkiye",
+      "tournamentId": "olympics-1948",
+      "playerId": "hikmet-alpaslan",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "turkiye",
+      "tournamentId": "olympics-1948",
+      "playerId": "huseyin-saygun",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "turkiye",
+      "tournamentId": "olympics-1948",
+      "playerId": "lefter-kucukandonyadis",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "turkiye",
+      "tournamentId": "olympics-1948",
+      "playerId": "murat-alyuz",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "turkiye",
+      "tournamentId": "olympics-1948",
+      "playerId": "muzaffer-tokac",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "turkiye",
+      "tournamentId": "olympics-1948",
+      "playerId": "naci-ozkaya",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "turkiye",
+      "tournamentId": "olympics-1948",
+      "playerId": "reha-eken",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "turkiye",
+      "tournamentId": "olympics-1948",
+      "playerId": "samim-var",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "turkiye",
+      "tournamentId": "olympics-1948",
+      "playerId": "selahattin-torkal",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "turkiye",
+      "tournamentId": "olympics-1948",
+      "playerId": "special-search-search-stand-by-players-turkiye-1",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "turkiye",
+      "tournamentId": "olympics-1948",
+      "playerId": "sukru-gulesin",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "turkiye",
+      "tournamentId": "olympics-1948",
+      "playerId": "vedii-tosuncuk",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "turkiye",
+      "tournamentId": "olympics-1948",
+      "playerId": "yavuz-ureten",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "turkiye",
+      "tournamentId": "olympics-1952",
+      "playerId": "basri-dirimlili",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "turkiye",
+      "tournamentId": "olympics-1952",
+      "playerId": "ercument-guder",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "turkiye",
+      "tournamentId": "olympics-1952",
+      "playerId": "erdogan-akin",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "turkiye",
+      "tournamentId": "olympics-1952",
+      "playerId": "kamil-altan",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "turkiye",
+      "tournamentId": "olympics-1952",
+      "playerId": "macit-gurdal",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "turkiye",
+      "tournamentId": "olympics-1952",
+      "playerId": "mustafa-ertan",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "turkiye",
+      "tournamentId": "olympics-1952",
+      "playerId": "muzaffer-tokac",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "turkiye",
+      "tournamentId": "olympics-1952",
+      "playerId": "necdet-senturk",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "turkiye",
+      "tournamentId": "olympics-1952",
+      "playerId": "ridvan-bolatli",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "turkiye",
+      "tournamentId": "olympics-1952",
+      "playerId": "tekin-bilge",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "turkiye",
+      "tournamentId": "olympics-1952",
+      "playerId": "vasif-cetinel",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "turkiye",
+      "tournamentId": "olympics-1952",
+      "playerId": "yalcin-caka",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "turkiye",
+      "tournamentId": "olympics-1960",
+      "playerId": "ahmet-tuna-kozan",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "turkiye",
+      "tournamentId": "olympics-1960",
+      "playerId": "asim-bayrak",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "turkiye",
+      "tournamentId": "olympics-1960",
+      "playerId": "aydogan-cipiloglu",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "turkiye",
+      "tournamentId": "olympics-1960",
+      "playerId": "bilge-tarhan-footballer",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "turkiye",
+      "tournamentId": "olympics-1960",
+      "playerId": "cavit-gokalp",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "turkiye",
+      "tournamentId": "olympics-1960",
+      "playerId": "emrullah-kucukbay",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "turkiye",
+      "tournamentId": "olympics-1960",
+      "playerId": "ergun-taner",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "turkiye",
+      "tournamentId": "olympics-1960",
+      "playerId": "ibrahim-yalcinkaya",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "turkiye",
+      "tournamentId": "olympics-1960",
+      "playerId": "mustafa-ertan",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "turkiye",
+      "tournamentId": "olympics-1960",
+      "playerId": "naim-ozaytac",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "turkiye",
+      "tournamentId": "olympics-1960",
+      "playerId": "samin-uygun",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "turkiye",
+      "tournamentId": "olympics-1960",
+      "playerId": "selim-soydan",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "turkiye",
+      "tournamentId": "olympics-1960",
+      "playerId": "suat-ozyazici",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "turkiye",
+      "tournamentId": "olympics-1960",
+      "playerId": "turhan-yildiz",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "turkiye",
+      "tournamentId": "olympics-1960",
+      "playerId": "ugur-koken",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "turkiye",
+      "tournamentId": "olympics-1960",
+      "playerId": "yilmaz-tuncer",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "turkiye",
+      "tournamentId": "olympics-1960",
+      "playerId": "zeki-sensan",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "turkiye",
+      "tournamentId": "world-cup-1954",
+      "playerId": "ahmet-berman",
+      "shirtNumber": 19
+    },
+    {
+      "countryId": "turkiye",
+      "tournamentId": "world-cup-1954",
+      "playerId": "akgun-kacmaz",
+      "shirtNumber": 18
+    },
+    {
+      "countryId": "turkiye",
+      "tournamentId": "world-cup-1954",
+      "playerId": "ali-beratligil",
+      "shirtNumber": 14
+    },
+    {
+      "countryId": "turkiye",
+      "tournamentId": "world-cup-1954",
+      "playerId": "basri-dirimlili",
+      "shirtNumber": 3
+    },
+    {
+      "countryId": "turkiye",
+      "tournamentId": "world-cup-1954",
+      "playerId": "bulent-eken",
+      "shirtNumber": 13
+    },
+    {
+      "countryId": "turkiye",
+      "tournamentId": "world-cup-1954",
+      "playerId": "burhan-sargun",
+      "shirtNumber": 10
+    },
+    {
+      "countryId": "turkiye",
+      "tournamentId": "world-cup-1954",
+      "playerId": "cetin-zeybek",
+      "shirtNumber": 5
+    },
+    {
+      "countryId": "turkiye",
+      "tournamentId": "world-cup-1954",
+      "playerId": "coskun-tas",
+      "shirtNumber": 22
+    },
+    {
+      "countryId": "turkiye",
+      "tournamentId": "world-cup-1954",
+      "playerId": "erol-keskin",
+      "shirtNumber": 7
+    },
+    {
+      "countryId": "turkiye",
+      "tournamentId": "world-cup-1954",
+      "playerId": "feridun-bugeker",
+      "shirtNumber": 9
+    },
+    {
+      "countryId": "turkiye",
+      "tournamentId": "world-cup-1954",
+      "playerId": "kadri-aytac",
+      "shirtNumber": 21
+    },
+    {
+      "countryId": "turkiye",
+      "tournamentId": "world-cup-1954",
+      "playerId": "lefter-kucukandonyadis",
+      "shirtNumber": 11
+    },
+    {
+      "countryId": "turkiye",
+      "tournamentId": "world-cup-1954",
+      "playerId": "mehmet-dincer",
+      "shirtNumber": 15
+    },
+    {
+      "countryId": "turkiye",
+      "tournamentId": "world-cup-1954",
+      "playerId": "mustafa-ertan",
+      "shirtNumber": 4
+    },
+    {
+      "countryId": "turkiye",
+      "tournamentId": "world-cup-1954",
+      "playerId": "naci-erdem",
+      "shirtNumber": 17
+    },
+    {
+      "countryId": "turkiye",
+      "tournamentId": "world-cup-1954",
+      "playerId": "necmi-onarici",
+      "shirtNumber": 20
+    },
+    {
+      "countryId": "turkiye",
+      "tournamentId": "world-cup-1954",
+      "playerId": "nedim-gunar",
+      "shirtNumber": 16
+    },
+    {
+      "countryId": "turkiye",
+      "tournamentId": "world-cup-1954",
+      "playerId": "ridvan-bolatli",
+      "shirtNumber": 2
+    },
+    {
+      "countryId": "turkiye",
+      "tournamentId": "world-cup-1954",
+      "playerId": "rober-eryol",
+      "shirtNumber": 6
+    },
+    {
+      "countryId": "turkiye",
+      "tournamentId": "world-cup-1954",
+      "playerId": "suat-mamat",
+      "shirtNumber": 8
+    },
+    {
+      "countryId": "turkiye",
+      "tournamentId": "world-cup-1954",
+      "playerId": "sukru-ersoy",
+      "shirtNumber": 12
+    },
+    {
+      "countryId": "turkiye",
+      "tournamentId": "world-cup-1954",
+      "playerId": "turgay-seren",
+      "shirtNumber": 1
+    },
+    {
+      "countryId": "turkiye",
+      "tournamentId": "world-cup-2002",
+      "playerId": "abdullah-ercan",
+      "shirtNumber": 19
+    },
+    {
+      "countryId": "turkiye",
+      "tournamentId": "world-cup-2002",
+      "playerId": "alpay-ozalan",
+      "shirtNumber": 5
+    },
+    {
+      "countryId": "turkiye",
+      "tournamentId": "world-cup-2002",
+      "playerId": "arif-erdem",
+      "shirtNumber": 6
+    },
+    {
+      "countryId": "turkiye",
+      "tournamentId": "world-cup-2002",
+      "playerId": "bulent-korkmaz",
+      "shirtNumber": 3
+    },
+    {
+      "countryId": "turkiye",
+      "tournamentId": "world-cup-2002",
+      "playerId": "emre-asik",
+      "shirtNumber": 2
+    },
+    {
+      "countryId": "turkiye",
+      "tournamentId": "world-cup-2002",
+      "playerId": "emre-belozoglu",
+      "shirtNumber": 21
+    },
+    {
+      "countryId": "turkiye",
+      "tournamentId": "world-cup-2002",
+      "playerId": "ergun-penbe",
+      "shirtNumber": 18
+    },
+    {
+      "countryId": "turkiye",
+      "tournamentId": "world-cup-2002",
+      "playerId": "fatih-akyel",
+      "shirtNumber": 4
+    },
+    {
+      "countryId": "turkiye",
+      "tournamentId": "world-cup-2002",
+      "playerId": "hakan-sukur",
+      "shirtNumber": 9
+    },
+    {
+      "countryId": "turkiye",
+      "tournamentId": "world-cup-2002",
+      "playerId": "hakan-unsal",
+      "shirtNumber": 20
+    },
+    {
+      "countryId": "turkiye",
+      "tournamentId": "world-cup-2002",
+      "playerId": "hasan-sas",
+      "shirtNumber": 11
+    },
+    {
+      "countryId": "turkiye",
+      "tournamentId": "world-cup-2002",
+      "playerId": "ilhan-mansiz",
+      "shirtNumber": 17
+    },
+    {
+      "countryId": "turkiye",
+      "tournamentId": "world-cup-2002",
+      "playerId": "muzzy-izzet",
+      "shirtNumber": 13
+    },
+    {
+      "countryId": "turkiye",
+      "tournamentId": "world-cup-2002",
+      "playerId": "nihat-kahveci",
+      "shirtNumber": 15
+    },
+    {
+      "countryId": "turkiye",
+      "tournamentId": "world-cup-2002",
+      "playerId": "okan-buruk",
+      "shirtNumber": 7
+    },
+    {
+      "countryId": "turkiye",
+      "tournamentId": "world-cup-2002",
+      "playerId": "omer-catkic",
+      "shirtNumber": 12
+    },
+    {
+      "countryId": "turkiye",
+      "tournamentId": "world-cup-2002",
+      "playerId": "rustu-recber",
+      "shirtNumber": 1
+    },
+    {
+      "countryId": "turkiye",
+      "tournamentId": "world-cup-2002",
+      "playerId": "tayfur-havutcu",
+      "shirtNumber": 14
+    },
+    {
+      "countryId": "turkiye",
+      "tournamentId": "world-cup-2002",
+      "playerId": "tugay-kerimoglu",
+      "shirtNumber": 8
+    },
+    {
+      "countryId": "turkiye",
+      "tournamentId": "world-cup-2002",
+      "playerId": "umit-davala",
+      "shirtNumber": 22
+    },
+    {
+      "countryId": "turkiye",
+      "tournamentId": "world-cup-2002",
+      "playerId": "umit-ozat",
+      "shirtNumber": 16
+    },
+    {
+      "countryId": "turkiye",
+      "tournamentId": "world-cup-2002",
+      "playerId": "yildiray-basturk",
+      "shirtNumber": 10
+    },
+    {
+      "countryId": "turkiye",
+      "tournamentId": "world-cup-2002",
+      "playerId": "zafer-ozgultekin",
+      "shirtNumber": 23
+    },
+    {
+      "countryId": "turkiye",
+      "tournamentId": "world-cup-2026",
+      "playerId": "abdulkerim-bardakci",
+      "shirtNumber": 14
+    },
+    {
+      "countryId": "turkiye",
+      "tournamentId": "world-cup-2026",
+      "playerId": "altay-bayindir",
+      "shirtNumber": 12
+    },
+    {
+      "countryId": "turkiye",
+      "tournamentId": "world-cup-2026",
+      "playerId": "arda-guler",
+      "shirtNumber": 8
+    },
+    {
+      "countryId": "turkiye",
+      "tournamentId": "world-cup-2026",
+      "playerId": "baris-alper-yilmaz",
+      "shirtNumber": 21
+    },
+    {
+      "countryId": "turkiye",
+      "tournamentId": "world-cup-2026",
+      "playerId": "caglar-soyuncu",
+      "shirtNumber": 4
+    },
+    {
+      "countryId": "turkiye",
+      "tournamentId": "world-cup-2026",
+      "playerId": "can-uzun",
+      "shirtNumber": 26
+    },
+    {
+      "countryId": "turkiye",
+      "tournamentId": "world-cup-2026",
+      "playerId": "deniz-gul",
+      "shirtNumber": 9
+    },
+    {
+      "countryId": "turkiye",
+      "tournamentId": "world-cup-2026",
+      "playerId": "eren-elmali",
+      "shirtNumber": 13
+    },
+    {
+      "countryId": "turkiye",
+      "tournamentId": "world-cup-2026",
+      "playerId": "ferdi-kadioglu",
+      "shirtNumber": 20
+    },
+    {
+      "countryId": "turkiye",
+      "tournamentId": "world-cup-2026",
+      "playerId": "hakan-calhanoglu",
+      "shirtNumber": 10
+    },
+    {
+      "countryId": "turkiye",
+      "tournamentId": "world-cup-2026",
+      "playerId": "irfan-can-kahveci",
+      "shirtNumber": 17
+    },
+    {
+      "countryId": "turkiye",
+      "tournamentId": "world-cup-2026",
+      "playerId": "ismail-yuksek",
+      "shirtNumber": 16
+    },
+    {
+      "countryId": "turkiye",
+      "tournamentId": "world-cup-2026",
+      "playerId": "kaan-ayhan",
+      "shirtNumber": 22
+    },
+    {
+      "countryId": "turkiye",
+      "tournamentId": "world-cup-2026",
+      "playerId": "kenan-yildiz",
+      "shirtNumber": 11
+    },
+    {
+      "countryId": "turkiye",
+      "tournamentId": "world-cup-2026",
+      "playerId": "kerem-akturkoglu",
+      "shirtNumber": 7
+    },
+    {
+      "countryId": "turkiye",
+      "tournamentId": "world-cup-2026",
+      "playerId": "merih-demiral",
+      "shirtNumber": 3
+    },
+    {
+      "countryId": "turkiye",
+      "tournamentId": "world-cup-2026",
+      "playerId": "mert-gunok",
+      "shirtNumber": 1
+    },
+    {
+      "countryId": "turkiye",
+      "tournamentId": "world-cup-2026",
+      "playerId": "mert-muldur",
+      "shirtNumber": 18
+    },
+    {
+      "countryId": "turkiye",
+      "tournamentId": "world-cup-2026",
+      "playerId": "oguz-aydin",
+      "shirtNumber": 24
+    },
+    {
+      "countryId": "turkiye",
+      "tournamentId": "world-cup-2026",
+      "playerId": "orkun-kokcu",
+      "shirtNumber": 6
+    },
+    {
+      "countryId": "turkiye",
+      "tournamentId": "world-cup-2026",
+      "playerId": "ozan-kabak",
+      "shirtNumber": 15
+    },
+    {
+      "countryId": "turkiye",
+      "tournamentId": "world-cup-2026",
+      "playerId": "salih-ozcan",
+      "shirtNumber": 5
+    },
+    {
+      "countryId": "turkiye",
+      "tournamentId": "world-cup-2026",
+      "playerId": "samet-akaydin",
+      "shirtNumber": 25
+    },
+    {
+      "countryId": "turkiye",
+      "tournamentId": "world-cup-2026",
+      "playerId": "ugurcan-cakir",
+      "shirtNumber": 23
+    },
+    {
+      "countryId": "turkiye",
+      "tournamentId": "world-cup-2026",
+      "playerId": "yunus-akgun",
+      "shirtNumber": 19
+    },
+    {
+      "countryId": "turkiye",
+      "tournamentId": "world-cup-2026",
+      "playerId": "zeki-celik",
+      "shirtNumber": 2
+    }
+  ]
+}

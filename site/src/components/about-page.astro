@@ -1,0 +1,202 @@
+---
+/** Shared body of the TR and EN about routes. */
+import BaseLayout from "../layouts/base.astro";
+import { retrievedAt, siteSpan, stats } from "../lib/data";
+import { fmtDate, fmtNumber } from "../lib/format";
+import { hrefAbout, otherLang, t, type Lang } from "../lib/i18n";
+
+interface Props {
+  lang: Lang;
+}
+
+const { lang } = Astro.props;
+
+/* Licences and attribution live in the project's own repository. */
+const repo = (path: string) =>
+  `https://github.com/casoslab/footballmatrix/blob/main/${path}`;
+
+/* OFL files are public assets; prefix the base path the way hrefX() does,
+   since a bare `/fonts/...` would 404 when the site is served from `/<repo>/`. */
+const base = import.meta.env.BASE_URL;
+const hrefFont = (file: string) => `${base}fonts/${file}`;
+
+const sections = [
+  {
+    id: "scope",
+    heading: t(lang, "about.scopeHeading"),
+    body: t(lang, "about.scope", {
+      countries: fmtNumber(lang, stats.countryCount),
+      span: siteSpan,
+    }),
+  },
+  {
+    id: "method",
+    heading: t(lang, "about.methodHeading"),
+    body: t(lang, "about.method"),
+  },
+  {
+    id: "sources",
+    heading: t(lang, "about.sourcesHeading"),
+    body: t(lang, "about.sources", { date: fmtDate(lang, retrievedAt) }),
+  },
+  {
+    id: "positions",
+    heading: t(lang, "about.positionsHeading"),
+    body: t(lang, "about.positions"),
+  },
+];
+const [scopeSection, ...detailSections] = sections;
+---
+
+<BaseLayout
+  lang={lang}
+  title={t(lang, "meta.aboutTitle")}
+  description={t(lang, "meta.aboutDescription")}
+  otherHref={hrefAbout(otherLang(lang))}
+>
+  <header class="page-head">
+    <h1>{t(lang, "about.title")}</h1>
+  </header>
+
+  <div class="about-layout">
+    <article class="prose">
+      <section class="lede" aria-labelledby={`${scopeSection.id}-heading`}>
+        <h2 id={`${scopeSection.id}-heading`}>{scopeSection.heading}</h2>
+        <p>{scopeSection.body}</p>
+      </section>
+
+      {detailSections.map((section) => (
+        <section aria-labelledby={`${section.id}-heading`}>
+          <h2 id={`${section.id}-heading`}>{section.heading}</h2>
+          <p>{section.body}</p>
+        </section>
+      ))}
+
+      <section aria-labelledby="site-heading">
+        <h2 id="site-heading">{t(lang, "about.siteHeading")}</h2>
+        <p>{t(lang, "about.site")}</p>
+        <ul class="site-links">
+          <li><a href={repo("ATTRIBUTION.md")} rel="noreferrer">ATTRIBUTION.md</a></li>
+          <li><a href={repo("LICENSE")} rel="noreferrer">LICENSE</a></li>
+          <li><a href={repo("LICENSE-DATA")} rel="noreferrer">LICENSE-DATA</a></li>
+          <li>
+            {t(lang, "about.fontsLink")}: <a href={hrefFont("ofl-newsreader.txt")}>Newsreader</a> ·
+            <a href={hrefFont("ofl-ibm-plex-sans.txt")}>IBM Plex Sans</a> ·
+            <a href={hrefFont("ofl-jetbrains-mono.txt")}>JetBrains Mono</a>
+          </li>
+        </ul>
+      </section>
+    </article>
+
+    <aside class="archive-note" aria-label={t(lang, "home.statsAria")}>
+      <dl>
+        <div><dt>{t(lang, "home.countriesStat")}</dt><dd>{fmtNumber(lang, stats.countryCount)}</dd></div>
+        <div><dt>{t(lang, "home.tournamentsStat")}</dt><dd>{fmtNumber(lang, stats.tournamentCount)}</dd></div>
+        <div><dt>{t(lang, "home.spanStat")}</dt><dd>{siteSpan}</dd></div>
+      </dl>
+    </aside>
+  </div>
+</BaseLayout>
+
+<style>
+  /* Reference page: long-form prose, read top to bottom. */
+  .page-head {
+    padding-block-end: var(--space-xl);
+    border-block-end: var(--rule-double) solid var(--color-ink);
+  }
+
+  .page-head h1 {
+    margin: 0;
+    font-size: var(--text-display-s);
+  }
+
+  .about-layout {
+    display: grid;
+    gap: var(--space-2xl);
+  }
+
+  .prose section {
+    margin-block-start: var(--space-xl);
+  }
+
+  .prose section h2 {
+    font-family: var(--font-display);
+    font-size: var(--text-lg);
+    margin: 0 0 var(--space-sm);
+  }
+
+  .prose section p {
+    max-width: var(--measure-prose);
+    margin: 0;
+  }
+
+  .lede p {
+    font-family: var(--font-display);
+    font-size: var(--text-lg);
+    line-height: 1.45;
+  }
+
+  .archive-note {
+    align-self: start;
+    margin-block-start: var(--space-xl);
+    padding-block-start: var(--space-md);
+    border-block-start: var(--rule-double) solid var(--color-accent);
+  }
+
+  .archive-note dl {
+    margin: 0;
+  }
+
+  .archive-note div {
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
+    gap: var(--space-lg);
+    padding-block: var(--space-sm);
+    border-block-end: var(--rule-hair) solid var(--color-rule);
+  }
+
+  .archive-note dt {
+    color: var(--color-ink-muted);
+  }
+
+  .archive-note dd {
+    margin: 0;
+    font-family: var(--font-outlier);
+    font-variant-numeric: tabular-nums;
+  }
+
+  .site-links {
+    margin: var(--space-md) 0 0;
+    padding: 0;
+    list-style: none;
+  }
+
+  .site-links li {
+    padding-block: var(--space-xs);
+    border-block-end: var(--rule-hair) solid var(--color-rule);
+  }
+
+  .site-links a {
+    /* Clickable text never wraps to two lines. */
+    white-space: nowrap;
+    text-decoration-color: var(--color-rule-strong);
+    text-underline-offset: var(--rule-underline-offset);
+  }
+
+  .site-links a:hover {
+    text-decoration-color: var(--color-accent);
+  }
+
+  @media (min-width: 60rem) {
+    .about-layout {
+      grid-template-columns: minmax(0, 2fr) minmax(14rem, 1fr);
+      align-items: start;
+    }
+
+    .archive-note {
+      position: sticky;
+      top: var(--space-lg);
+    }
+  }
+</style>

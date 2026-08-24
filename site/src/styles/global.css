@@ -1,0 +1,172 @@
+@import "@fontsource-variable/newsreader";
+@import "@fontsource/ibm-plex-sans/400.css";
+@import "@fontsource/ibm-plex-sans/600.css";
+@import "@fontsource/jetbrains-mono/400.css";
+@import "../../tokens.css";
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+/* `clip`, never `hidden`: `hidden` on the root turns every `position: sticky`
+   descendant into a non-sticky one. */
+html,
+body {
+  overflow-x: clip;
+}
+
+::selection {
+  color: var(--color-accent-ink);
+  background: var(--color-accent);
+}
+
+html {
+  -webkit-text-size-adjust: 100%;
+}
+
+body {
+  margin: 0;
+  color: var(--color-ink);
+  background: var(--color-paper);
+  font-family: var(--font-body);
+  font-size: var(--text-base);
+  line-height: var(--leading-body);
+}
+
+h1,
+h2,
+h3 {
+  font-family: var(--font-display);
+  font-weight: 600;
+  font-style: normal;
+  line-height: var(--leading-display);
+  letter-spacing: -0.02em;
+  /* Long Turkish compounds must break inside the word rather than push the
+     page wide at 320px. */
+  overflow-wrap: anywhere;
+  min-width: 0;
+}
+
+a {
+  color: var(--color-ink);
+  text-decoration-color: var(--color-rule-strong);
+  text-underline-offset: var(--rule-underline-offset);
+}
+
+@media (hover: hover) and (pointer: fine) {
+  a:hover {
+    text-decoration-color: var(--color-accent);
+  }
+}
+
+a:active {
+  color: var(--color-accent);
+}
+
+button:active {
+  color: var(--color-accent);
+}
+
+a:focus-visible,
+button:focus-visible,
+input:focus-visible,
+select:focus-visible {
+  outline: var(--rule-focus) solid var(--color-focus);
+  outline-offset: 2px;
+}
+
+input,
+select,
+button {
+  min-block-size: var(--size-control);
+}
+
+input,
+select {
+  outline: var(--rule-focus) solid transparent;
+  outline-offset: 1px;
+  transition:
+    background-color var(--dur-base) var(--ease-out),
+    border-color var(--dur-base) var(--ease-out);
+}
+
+@media (hover: hover) and (pointer: fine) {
+  input:hover,
+  select:hover {
+    background: var(--color-paper-2);
+  }
+}
+
+input:disabled,
+select:disabled,
+button:disabled,
+[aria-disabled="true"] {
+  opacity: 0.55;
+  cursor: not-allowed;
+}
+
+a[aria-disabled="true"] {
+  pointer-events: none;
+}
+
+input[aria-busy="true"],
+select[aria-busy="true"],
+button[aria-busy="true"],
+[data-state="loading"] {
+  opacity: 0.7;
+  cursor: progress;
+}
+
+input[aria-invalid="true"],
+select[aria-invalid="true"] {
+  border-color: var(--color-accent);
+}
+
+input[data-state="success"],
+select[data-state="success"],
+button[data-state="success"] {
+  border-color: var(--color-chart-continental);
+}
+
+button[data-state="error"] {
+  border-color: var(--color-accent);
+}
+
+.page {
+  inline-size: min(78rem, calc(100% - 2 * clamp(var(--space-md), 4vw, var(--space-lg))));
+  margin-inline: auto;
+  padding-block: var(--space-xl) var(--space-3xl);
+}
+
+.skip-link {
+  position: absolute;
+  inset-block-start: var(--space-xs);
+  inset-inline-start: var(--space-xs);
+  z-index: var(--z-raised);
+  padding: var(--space-xs) var(--space-sm);
+  background: var(--color-paper);
+  border: var(--rule-hair) solid var(--color-ink);
+  border-radius: var(--radius-control);
+  /* Clickable text never wraps to two lines, even at 320px. */
+  white-space: nowrap;
+  transform: translateY(-200%);
+}
+
+.skip-link:focus {
+  transform: none;
+}
+
+.tnum {
+  font-variant-numeric: tabular-nums;
+}
+
+.visually-hidden {
+  position: absolute;
+  inline-size: 1px;
+  block-size: 1px;
+  overflow: hidden;
+  clip-path: inset(50%);
+  white-space: nowrap;
+}

@@ -1,0 +1,5377 @@
+{
+  "country": {
+    "id": "portekiz",
+    "nameTr": "Portekiz",
+    "nameEn": "Portugal",
+    "iso3": "PRT",
+    "flagEmoji": "🇵🇹",
+    "confederation": "UEFA",
+    "theme": {
+      "sky": "#16754a",
+      "skySoft": "#eaf7ef",
+      "navy": "#7d1f2d",
+      "gold": "#e5b63d"
+    }
+  },
+  "tournaments": [
+    {
+      "id": "euro-1984",
+      "type": "continental",
+      "year": 1984,
+      "nameTr": "Avrupa Şampiyonası",
+      "nameEn": "UEFA European Championship",
+      "sourceUrl": "https://en.wikipedia.org/wiki/UEFA_Euro_1984_squads",
+      "retrievedAt": "2026-08-03"
+    },
+    {
+      "id": "euro-1996",
+      "type": "continental",
+      "year": 1996,
+      "nameTr": "Avrupa Şampiyonası",
+      "nameEn": "UEFA European Championship",
+      "sourceUrl": "https://en.wikipedia.org/wiki/UEFA_Euro_1996_squads",
+      "retrievedAt": "2026-08-03"
+    },
+    {
+      "id": "euro-2000",
+      "type": "continental",
+      "year": 2000,
+      "nameTr": "Avrupa Şampiyonası",
+      "nameEn": "UEFA European Championship",
+      "sourceUrl": "https://en.wikipedia.org/wiki/UEFA_Euro_2000_squads",
+      "retrievedAt": "2026-08-03"
+    },
+    {
+      "id": "euro-2004",
+      "type": "continental",
+      "year": 2004,
+      "nameTr": "Avrupa Şampiyonası",
+      "nameEn": "UEFA European Championship",
+      "sourceUrl": "https://en.wikipedia.org/wiki/UEFA_Euro_2004_squads",
+      "retrievedAt": "2026-08-03"
+    },
+    {
+      "id": "euro-2008",
+      "type": "continental",
+      "year": 2008,
+      "nameTr": "Avrupa Şampiyonası",
+      "nameEn": "UEFA European Championship",
+      "sourceUrl": "https://en.wikipedia.org/wiki/UEFA_Euro_2008_squads",
+      "retrievedAt": "2026-08-03"
+    },
+    {
+      "id": "euro-2012",
+      "type": "continental",
+      "year": 2012,
+      "nameTr": "Avrupa Şampiyonası",
+      "nameEn": "UEFA European Championship",
+      "sourceUrl": "https://en.wikipedia.org/wiki/UEFA_Euro_2012_squads",
+      "retrievedAt": "2026-08-03"
+    },
+    {
+      "id": "euro-2016",
+      "type": "continental",
+      "year": 2016,
+      "nameTr": "Avrupa Şampiyonası",
+      "nameEn": "UEFA European Championship",
+      "sourceUrl": "https://en.wikipedia.org/wiki/UEFA_Euro_2016_squads",
+      "retrievedAt": "2026-08-03"
+    },
+    {
+      "id": "euro-2020",
+      "type": "continental",
+      "year": 2020,
+      "nameTr": "Avrupa Şampiyonası",
+      "nameEn": "UEFA European Championship",
+      "sourceUrl": "https://en.wikipedia.org/wiki/UEFA_Euro_2020_squads",
+      "retrievedAt": "2026-08-03"
+    },
+    {
+      "id": "euro-2024",
+      "type": "continental",
+      "year": 2024,
+      "nameTr": "Avrupa Şampiyonası",
+      "nameEn": "UEFA European Championship",
+      "sourceUrl": "https://en.wikipedia.org/wiki/UEFA_Euro_2024_squads",
+      "retrievedAt": "2026-08-03"
+    },
+    {
+      "id": "olympics-1928",
+      "type": "olympic",
+      "year": 1928,
+      "nameTr": "Olimpiyat",
+      "nameEn": "Summer Olympics men's football tournament",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Football_at_the_1928_Summer_Olympics_%E2%80%93_Men%27s_team_squads",
+      "retrievedAt": "2026-08-03"
+    },
+    {
+      "id": "olympics-1996",
+      "type": "olympic",
+      "year": 1996,
+      "nameTr": "Olimpiyat",
+      "nameEn": "Summer Olympics men's football tournament",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Football_at_the_1996_Summer_Olympics_%E2%80%93_Men%27s_team_squads",
+      "retrievedAt": "2026-08-03"
+    },
+    {
+      "id": "olympics-2004",
+      "type": "olympic",
+      "year": 2004,
+      "nameTr": "Olimpiyat",
+      "nameEn": "Summer Olympics men's football tournament",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Football_at_the_2004_Summer_Olympics_%E2%80%93_Men%27s_team_squads",
+      "retrievedAt": "2026-08-03"
+    },
+    {
+      "id": "olympics-2016",
+      "type": "olympic",
+      "year": 2016,
+      "nameTr": "Olimpiyat",
+      "nameEn": "Summer Olympics men's football tournament",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Football_at_the_2016_Summer_Olympics_%E2%80%93_Men%27s_team_squads",
+      "retrievedAt": "2026-08-03"
+    },
+    {
+      "id": "world-cup-1966",
+      "type": "world-cup",
+      "year": 1966,
+      "nameTr": "Dünya Kupası",
+      "nameEn": "FIFA World Cup",
+      "sourceUrl": "https://en.wikipedia.org/wiki/1966_FIFA_World_Cup_squads",
+      "retrievedAt": "2026-08-03"
+    },
+    {
+      "id": "world-cup-1986",
+      "type": "world-cup",
+      "year": 1986,
+      "nameTr": "Dünya Kupası",
+      "nameEn": "FIFA World Cup",
+      "sourceUrl": "https://en.wikipedia.org/wiki/1986_FIFA_World_Cup_squads",
+      "retrievedAt": "2026-08-03"
+    },
+    {
+      "id": "world-cup-2002",
+      "type": "world-cup",
+      "year": 2002,
+      "nameTr": "Dünya Kupası",
+      "nameEn": "FIFA World Cup",
+      "sourceUrl": "https://en.wikipedia.org/wiki/2002_FIFA_World_Cup_squads",
+      "retrievedAt": "2026-08-03"
+    },
+    {
+      "id": "world-cup-2006",
+      "type": "world-cup",
+      "year": 2006,
+      "nameTr": "Dünya Kupası",
+      "nameEn": "FIFA World Cup",
+      "sourceUrl": "https://en.wikipedia.org/wiki/2006_FIFA_World_Cup_squads",
+      "retrievedAt": "2026-08-03"
+    },
+    {
+      "id": "world-cup-2010",
+      "type": "world-cup",
+      "year": 2010,
+      "nameTr": "Dünya Kupası",
+      "nameEn": "FIFA World Cup",
+      "sourceUrl": "https://en.wikipedia.org/wiki/2010_FIFA_World_Cup_squads",
+      "retrievedAt": "2026-08-03"
+    },
+    {
+      "id": "world-cup-2014",
+      "type": "world-cup",
+      "year": 2014,
+      "nameTr": "Dünya Kupası",
+      "nameEn": "FIFA World Cup",
+      "sourceUrl": "https://en.wikipedia.org/wiki/2014_FIFA_World_Cup_squads",
+      "retrievedAt": "2026-08-03"
+    },
+    {
+      "id": "world-cup-2018",
+      "type": "world-cup",
+      "year": 2018,
+      "nameTr": "Dünya Kupası",
+      "nameEn": "FIFA World Cup",
+      "sourceUrl": "https://en.wikipedia.org/wiki/2018_FIFA_World_Cup_squads",
+      "retrievedAt": "2026-08-03"
+    },
+    {
+      "id": "world-cup-2022",
+      "type": "world-cup",
+      "year": 2022,
+      "nameTr": "Dünya Kupası",
+      "nameEn": "FIFA World Cup",
+      "sourceUrl": "https://en.wikipedia.org/wiki/2022_FIFA_World_Cup_squads",
+      "retrievedAt": "2026-08-03"
+    },
+    {
+      "id": "world-cup-2026",
+      "type": "world-cup",
+      "year": 2026,
+      "nameTr": "Dünya Kupası",
+      "nameEn": "FIFA World Cup",
+      "sourceUrl": "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+      "retrievedAt": "2026-08-03"
+    }
+  ],
+  "players": [
+    {
+      "id": "abel-xavier",
+      "name": "Abel Xavier",
+      "wikipediaTitle": "Abel Xavier",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Abel_Xavier",
+      "birthYear": 1972,
+      "position": "DF",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "adrien-silva",
+      "name": "Adrien Silva",
+      "wikipediaTitle": "Adrien Silva",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Adrien_Silva",
+      "birthYear": 1989,
+      "position": "MF",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "afonso-martins",
+      "name": "Afonso Martins",
+      "wikipediaTitle": "Afonso Martins",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Afonso_Martins",
+      "birthYear": 1973,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "alberto-festa",
+      "name": "Alberto Festa",
+      "wikipediaTitle": "Alberto Festa",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Alberto_Festa",
+      "birthYear": 1939,
+      "position": "DF",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "alexandre-baptista",
+      "name": "Alexandre Baptista",
+      "wikipediaTitle": "Alexandre Baptista",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Alexandre_Baptista",
+      "birthYear": 1941,
+      "position": "DF",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "alfredo-castro-footballer",
+      "name": "Alfredo Castro",
+      "wikipediaTitle": "Alfredo Castro (footballer)",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Alfredo_Castro_(footballer)",
+      "birthYear": 1962,
+      "position": "GK",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "alfredo-ramos-portuguese-footballer",
+      "name": "Alfredo Ramos",
+      "wikipediaTitle": "Alfredo Ramos (Portuguese footballer)",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Alfredo_Ramos_(Portuguese_footballer)",
+      "birthYear": 1906,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "alvaro-magalhaes",
+      "name": "Álvaro",
+      "wikipediaTitle": "Álvaro Magalhães",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Álvaro_Magalhães",
+      "birthYear": 1961,
+      "position": "DF",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "americo-lopes",
+      "name": "Américo",
+      "wikipediaTitle": "Américo Lopes",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Américo_Lopes",
+      "birthYear": 1933,
+      "position": "GK",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "andre-almeida-footballer-born-1990",
+      "name": "André Almeida",
+      "wikipediaTitle": "André Almeida (footballer, born 1990)",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/André_Almeida_(footballer,_born_1990)",
+      "birthYear": 1990,
+      "position": "DF",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "andre-gomes",
+      "name": "André Gomes",
+      "wikipediaTitle": "André Gomes",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/André_Gomes",
+      "birthYear": 1993,
+      "position": "MF",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "andre-martins-footballer-born-1990",
+      "name": "André Martins",
+      "wikipediaTitle": "André Martins (footballer, born 1990)",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/André_Martins_(footballer,_born_1990)",
+      "birthYear": 1990,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "andre-silva-footballer-born-1995",
+      "name": "André Silva",
+      "wikipediaTitle": "André Silva (footballer, born 1995)",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/André_Silva_(footballer,_born_1995)",
+      "birthYear": 1995,
+      "position": "FW",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "anibal-jose",
+      "name": "Anibal José",
+      "wikipediaTitle": "Anibal José",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Anibal_José",
+      "birthYear": 1904,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "anthony-lopes",
+      "name": "Anthony Lopes",
+      "wikipediaTitle": "Anthony Lopes",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Anthony_Lopes",
+      "birthYear": 1990,
+      "position": "GK",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "antonio-andre",
+      "name": "António André",
+      "wikipediaTitle": "António André",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/António_André",
+      "birthYear": 1957,
+      "position": "MF",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "antonio-bastos-lopes",
+      "name": "António Bastos Lopes",
+      "wikipediaTitle": "António Bastos Lopes",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/António_Bastos_Lopes",
+      "birthYear": 1953,
+      "position": "MF",
+      "positionConfidence": "disputed"
+    },
+    {
+      "id": "antonio-folha",
+      "name": "António Folha",
+      "wikipediaTitle": "António Folha",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/António_Folha",
+      "birthYear": 1971,
+      "position": "MF",
+      "positionConfidence": "disputed"
+    },
+    {
+      "id": "antonio-frasco",
+      "name": "António Frasco",
+      "wikipediaTitle": "António Frasco",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/António_Frasco",
+      "birthYear": 1955,
+      "position": "MF",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "antonio-henriques-jesus-oliveira",
+      "name": "António Oliveira",
+      "wikipediaTitle": "António Henriques Jesus Oliveira",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/António_Henriques_Jesus_Oliveira",
+      "birthYear": 1958,
+      "position": "DF",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "antonio-lima-pereira",
+      "name": "António Lima Pereira",
+      "wikipediaTitle": "António Lima Pereira",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/António_Lima_Pereira",
+      "birthYear": 1952,
+      "position": "DF",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "antonio-morato-footballer-born-1964",
+      "name": "António Morato",
+      "wikipediaTitle": "António Morato (footballer, born 1964)",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/António_Morato_(footballer,_born_1964)",
+      "birthYear": 1964,
+      "position": "DF",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "antonio-roquete-footballer",
+      "name": "António Roquete",
+      "wikipediaTitle": "António Roquete (footballer)",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/António_Roquete_(footballer)",
+      "birthYear": 1906,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "antonio-silva-footballer",
+      "name": "António Silva",
+      "wikipediaTitle": "António Silva (footballer)",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/António_Silva_(footballer)",
+      "birthYear": 2003,
+      "position": "DF",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "antonio-simoes",
+      "name": "António Simões",
+      "wikipediaTitle": "António Simões",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/António_Simões",
+      "birthYear": 1943,
+      "position": "MF",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "antonio-sousa",
+      "name": "António Sousa",
+      "wikipediaTitle": "António Sousa",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/António_Sousa",
+      "birthYear": 1957,
+      "position": "MF",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "antonio-veloso",
+      "name": "António Veloso",
+      "wikipediaTitle": "António Veloso",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/António_Veloso",
+      "birthYear": 1957,
+      "position": "DF",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "armando-martins",
+      "name": "Armando Martins",
+      "wikipediaTitle": "Armando Martins",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Armando_Martins",
+      "birthYear": 1905,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "augusto-inacio",
+      "name": "Augusto Inácio",
+      "wikipediaTitle": "Augusto Inácio",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Augusto_Inácio",
+      "birthYear": 1955,
+      "position": "DF",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "augusto-silva-footballer-born-1902",
+      "name": "Augusto Silva",
+      "wikipediaTitle": "Augusto Silva (footballer, born 1902)",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Augusto_Silva_(footballer,_born_1902)",
+      "birthYear": 1902,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "bernardo-silva",
+      "name": "Bernardo Silva",
+      "wikipediaTitle": "Bernardo Silva",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Bernardo_Silva",
+      "birthYear": 1994,
+      "position": "MF",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "beto-footballer-born-1982",
+      "name": "Beto (1982)",
+      "wikipediaTitle": "Beto (footballer, born 1982)",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Beto_(footballer,_born_1982)",
+      "birthYear": 1982,
+      "position": "GK",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "beto-footballer-born-may-1976",
+      "name": "Beto (1976)",
+      "wikipediaTitle": "Beto (footballer, born May 1976)",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Beto_(footballer,_born_May_1976)",
+      "birthYear": 1976,
+      "position": "DF",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "bruno-alves",
+      "name": "Bruno Alves",
+      "wikipediaTitle": "Bruno Alves",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Bruno_Alves",
+      "birthYear": 1981,
+      "position": "DF",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "bruno-fernandes",
+      "name": "Bruno Fernandes",
+      "wikipediaTitle": "Bruno Fernandes",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Bruno_Fernandes",
+      "birthYear": 1994,
+      "position": "MF",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "bruno-vale",
+      "name": "Bruno Vale",
+      "wikipediaTitle": "Bruno Vale",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Bruno_Vale",
+      "birthYear": 1983,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "bruno-varela",
+      "name": "Bruno Varela",
+      "wikipediaTitle": "Bruno Varela",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Bruno_Varela",
+      "birthYear": 1994,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "capucho-footballer",
+      "name": "Capucho",
+      "wikipediaTitle": "Capucho (footballer)",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Capucho_(footballer)",
+      "birthYear": 1972,
+      "position": "MF",
+      "positionConfidence": "disputed"
+    },
+    {
+      "id": "carlos-alves-junior",
+      "name": "Carlos Alves",
+      "wikipediaTitle": "Carlos Alves Júnior",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Carlos_Alves_Júnior",
+      "birthYear": 1903,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "carlos-de-oliveira-magalhaes",
+      "name": "Litos",
+      "wikipediaTitle": "Carlos de Oliveira Magalhães",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Carlos_de_Oliveira_Magalhães",
+      "birthYear": 1974,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "carlos-mane",
+      "name": "Carlos Mané",
+      "wikipediaTitle": "Carlos Mané",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Carlos_Mané",
+      "birthYear": 1994,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "carlos-manuel",
+      "name": "Carlos Manuel",
+      "wikipediaTitle": "Carlos Manuel",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Carlos_Manuel",
+      "birthYear": 1958,
+      "position": "MF",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "carlos-martins-footballer",
+      "name": "Carlos Martins",
+      "wikipediaTitle": "Carlos Martins (footballer)",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Carlos_Martins_(footballer)",
+      "birthYear": 1982,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "carlos-secretario",
+      "name": "Carlos Secretário",
+      "wikipediaTitle": "Carlos Secretário",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Carlos_Secretário",
+      "birthYear": 1970,
+      "position": "DF",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "cedric-soares",
+      "name": "Cédric",
+      "wikipediaTitle": "Cédric Soares",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Cédric_Soares",
+      "birthYear": 1991,
+      "position": "DF",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "cesar-de-matos",
+      "name": "César de Matos",
+      "wikipediaTitle": "César de Matos",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/César_de_Matos",
+      "birthYear": 1902,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "chico-ramos",
+      "name": "Francisco Ramos",
+      "wikipediaTitle": "Chico Ramos",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Chico_Ramos",
+      "birthYear": 1995,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "cipriano-santos",
+      "name": "Cipriano Santos",
+      "wikipediaTitle": "Cipriano Santos",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Cipriano_Santos",
+      "birthYear": 1901,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "costinha",
+      "name": "Costinha (1974)",
+      "wikipediaTitle": "Costinha",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Costinha",
+      "birthYear": 1974,
+      "position": "MF",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "cristiano-ronaldo",
+      "name": "Cristiano Ronaldo",
+      "wikipediaTitle": "Cristiano Ronaldo",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Cristiano_Ronaldo",
+      "birthYear": 1985,
+      "position": "FW",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "custodio-castro",
+      "name": "Custódio",
+      "wikipediaTitle": "Custódio Castro",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Custódio_Castro",
+      "birthYear": 1983,
+      "position": "MF",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "custodio-pinto",
+      "name": "Custódio Pinto",
+      "wikipediaTitle": "Custódio Pinto",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Custódio_Pinto",
+      "birthYear": 1942,
+      "position": "MF",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "daniel-da-cruz-carvalho",
+      "name": "Dani",
+      "wikipediaTitle": "Daniel da Cruz Carvalho",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Daniel_da_Cruz_Carvalho",
+      "birthYear": 1976,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "daniel-fernandes-footballer",
+      "name": "Daniel Fernandes",
+      "wikipediaTitle": "Daniel Fernandes (footballer)",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Daniel_Fernandes_(footballer)",
+      "birthYear": 1983,
+      "position": "GK",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "daniel-kenedy",
+      "name": "Kenedy",
+      "wikipediaTitle": "Daniel Kenedy",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Daniel_Kenedy",
+      "birthYear": 1974,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "danilo-pereira",
+      "name": "Danilo Pereira",
+      "wikipediaTitle": "Danilo Pereira",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Danilo_Pereira",
+      "birthYear": 1991,
+      "position": "MF",
+      "positionConfidence": "disputed"
+    },
+    {
+      "id": "danilo-pereira-portuguese-footballer",
+      "name": "Danilo",
+      "wikipediaTitle": "Danilo Pereira (Portuguese footballer)",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Danilo_Pereira_(Portuguese_footballer)",
+      "birthYear": 1991,
+      "position": "MF",
+      "positionConfidence": "disputed"
+    },
+    {
+      "id": "danny-footballer",
+      "name": "Danny",
+      "wikipediaTitle": "Danny (footballer)",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Danny_(footballer)",
+      "birthYear": 1983,
+      "position": "MF",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "deco",
+      "name": "Deco",
+      "wikipediaTitle": "Deco",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Deco",
+      "birthYear": 1977,
+      "position": "MF",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "diamantino-miranda",
+      "name": "Diamantino",
+      "wikipediaTitle": "Diamantino Miranda",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Diamantino_Miranda",
+      "birthYear": 1959,
+      "position": "MF",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "dimas-footballer",
+      "name": "Dimas",
+      "wikipediaTitle": "Dimas (footballer)",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Dimas_(footballer)",
+      "birthYear": 1969,
+      "position": "DF",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "dimas-teixeira",
+      "name": "Dimas Teixeira",
+      "wikipediaTitle": "Dimas Teixeira",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Dimas_Teixeira",
+      "birthYear": 1969,
+      "position": "DF",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "diogo-costa",
+      "name": "Diogo Costa",
+      "wikipediaTitle": "Diogo Costa",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Diogo_Costa",
+      "birthYear": 1999,
+      "position": "GK",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "diogo-dalot",
+      "name": "Diogo Dalot",
+      "wikipediaTitle": "Diogo Dalot",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Diogo_Dalot",
+      "birthYear": 1999,
+      "position": "DF",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "diogo-jota",
+      "name": "Diogo Jota",
+      "wikipediaTitle": "Diogo Jota",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Diogo_Jota",
+      "birthYear": 1996,
+      "position": "FW",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "domingos-paciencia",
+      "name": "Domingos",
+      "wikipediaTitle": "Domingos Paciência",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Domingos_Paciência",
+      "birthYear": 1969,
+      "position": "FW",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "duda-footballer-born-1980",
+      "name": "Duda",
+      "wikipediaTitle": "Duda (footballer, born 1980)",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Duda_(footballer,_born_1980)",
+      "birthYear": 1980,
+      "position": "MF",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "eder-portuguese-footballer",
+      "name": "Eder",
+      "wikipediaTitle": "Eder (Portuguese footballer)",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Eder_(Portuguese_footballer)",
+      "birthYear": 1987,
+      "position": "FW",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "edgar-ie",
+      "name": "Edgar Ié",
+      "wikipediaTitle": "Edgar Ié",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Edgar_Ié",
+      "birthYear": 1994,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "eduardo-carvalho",
+      "name": "Eduardo",
+      "wikipediaTitle": "Eduardo Carvalho",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Eduardo_Carvalho",
+      "birthYear": 1982,
+      "position": "GK",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "eduardo-luis",
+      "name": "Eduardo Luís",
+      "wikipediaTitle": "Eduardo Luís",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Eduardo_Luís",
+      "birthYear": 1955,
+      "position": "DF",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "eliseu",
+      "name": "Eliseu",
+      "wikipediaTitle": "Eliseu",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Eliseu",
+      "birthYear": 1983,
+      "position": "DF",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "emilio-peixe",
+      "name": "Peixe",
+      "wikipediaTitle": "Emílio Peixe",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Emílio_Peixe",
+      "birthYear": 1973,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "ernesto-figueiredo",
+      "name": "Ernesto Figueiredo",
+      "wikipediaTitle": "Ernesto Figueiredo",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ernesto_Figueiredo",
+      "birthYear": 1937,
+      "position": "FW",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "eurico-gomes",
+      "name": "Eurico",
+      "wikipediaTitle": "Eurico Gomes",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Eurico_Gomes",
+      "birthYear": 1955,
+      "position": "DF",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "eusebio",
+      "name": "Eusébio",
+      "wikipediaTitle": "Eusébio",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Eusébio",
+      "birthYear": 1942,
+      "position": "FW",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "fabio-coentrao",
+      "name": "Fábio Coentrão",
+      "wikipediaTitle": "Fábio Coentrão",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Fábio_Coentrão",
+      "birthYear": 1988,
+      "position": "DF",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "fernando-bandeirinha",
+      "name": "Fernando Bandeirinha",
+      "wikipediaTitle": "Fernando Bandeirinha",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Fernando_Bandeirinha",
+      "birthYear": 1962,
+      "position": "DF",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "fernando-chalana",
+      "name": "Fernando Chalana",
+      "wikipediaTitle": "Fernando Chalana",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Fernando_Chalana",
+      "birthYear": 1959,
+      "position": "MF",
+      "positionConfidence": "disputed"
+    },
+    {
+      "id": "fernando-couto",
+      "name": "Fernando Couto",
+      "wikipediaTitle": "Fernando Couto",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Fernando_Couto",
+      "birthYear": 1969,
+      "position": "DF",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "fernando-cruz-footballer",
+      "name": "Fernando Cruz",
+      "wikipediaTitle": "Fernando Cruz (footballer)",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Fernando_Cruz_(footballer)",
+      "birthYear": 1940,
+      "position": "MF",
+      "positionConfidence": "disputed"
+    },
+    {
+      "id": "fernando-fonseca",
+      "name": "Fernando Fonseca",
+      "wikipediaTitle": "Fernando Fonseca",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Fernando_Fonseca",
+      "birthYear": 1997,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "fernando-gomes-portuguese-footballer",
+      "name": "Fernando Gomes",
+      "wikipediaTitle": "Fernando Gomes (Portuguese footballer)",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Fernando_Gomes_(Portuguese_footballer)",
+      "birthYear": 1956,
+      "position": "FW",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "fernando-meira",
+      "name": "Fernando Meira",
+      "wikipediaTitle": "Fernando Meira",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Fernando_Meira",
+      "birthYear": 1978,
+      "position": "DF",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "fernando-peres",
+      "name": "Fernando Peres",
+      "wikipediaTitle": "Fernando Peres",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Fernando_Peres",
+      "birthYear": 1942,
+      "position": "MF",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "francisco-conceicao",
+      "name": "Francisco Conceição",
+      "wikipediaTitle": "Francisco Conceição",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Francisco_Conceição",
+      "birthYear": 2002,
+      "position": "FW",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "francisco-trincao",
+      "name": "Francisco Trincão",
+      "wikipediaTitle": "Francisco Trincão",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Francisco_Trincão",
+      "birthYear": 1999,
+      "position": "FW",
+      "positionConfidence": "disputed"
+    },
+    {
+      "id": "frederico-rosa",
+      "name": "Frederico",
+      "wikipediaTitle": "Frederico Rosa",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Frederico_Rosa",
+      "birthYear": 1957,
+      "position": "DF",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "gelson-martins",
+      "name": "Gelson Martins",
+      "wikipediaTitle": "Gelson Martins",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Gelson_Martins",
+      "birthYear": 1995,
+      "position": "FW",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "germano-de-figueiredo",
+      "name": "Germano",
+      "wikipediaTitle": "Germano de Figueiredo",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Germano_de_Figueiredo",
+      "birthYear": 1933,
+      "position": "DF",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "goncalo-guedes",
+      "name": "Gonçalo Guedes",
+      "wikipediaTitle": "Gonçalo Guedes",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Gonçalo_Guedes",
+      "birthYear": 1996,
+      "position": "FW",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "goncalo-inacio",
+      "name": "Gonçalo Inácio",
+      "wikipediaTitle": "Gonçalo Inácio",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Gonçalo_Inácio",
+      "birthYear": 2001,
+      "position": "DF",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "goncalo-paciencia",
+      "name": "Gonçalo Paciência",
+      "wikipediaTitle": "Gonçalo Paciência",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Gonçalo_Paciência",
+      "birthYear": 1994,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "goncalo-ramos",
+      "name": "Gonçalo Ramos",
+      "wikipediaTitle": "Gonçalo Ramos",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Gonçalo_Ramos",
+      "birthYear": 2001,
+      "position": "FW",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "helder-footballer-born-1971",
+      "name": "Hélder",
+      "wikipediaTitle": "Hélder (footballer, born 1971)",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Hélder_(footballer,_born_1971)",
+      "birthYear": 1971,
+      "position": "DF",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "helder-postiga",
+      "name": "Hélder Postiga",
+      "wikipediaTitle": "Hélder Postiga",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Hélder_Postiga",
+      "birthYear": 1982,
+      "position": "FW",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "hilario-conceicao",
+      "name": "Hilário",
+      "wikipediaTitle": "Hilário Conceição",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Hilário_Conceição",
+      "birthYear": 1939,
+      "position": "MF",
+      "positionConfidence": "disputed"
+    },
+    {
+      "id": "hugo-almeida",
+      "name": "Hugo Almeida",
+      "wikipediaTitle": "Hugo Almeida",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Hugo_Almeida",
+      "birthYear": 1984,
+      "position": "FW",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "hugo-porfirio",
+      "name": "Hugo Porfírio",
+      "wikipediaTitle": "Hugo Porfírio",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Hugo_Porfírio",
+      "birthYear": 1973,
+      "position": "MF",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "hugo-viana",
+      "name": "Hugo Viana",
+      "wikipediaTitle": "Hugo Viana",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Hugo_Viana",
+      "birthYear": 1983,
+      "position": "MF",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "jaime-graca",
+      "name": "Jaime Graça",
+      "wikipediaTitle": "Jaime Graça",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Jaime_Graça",
+      "birthYear": 1942,
+      "position": "MF",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "jaime-magalhaes",
+      "name": "Jaime Magalhães",
+      "wikipediaTitle": "Jaime Magalhães",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Jaime_Magalhães",
+      "birthYear": 1962,
+      "position": "MF",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "jaime-pacheco",
+      "name": "Jaime Pacheco",
+      "wikipediaTitle": "Jaime Pacheco",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Jaime_Pacheco",
+      "birthYear": 1958,
+      "position": "MF",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "joao-cancelo",
+      "name": "João Cancelo",
+      "wikipediaTitle": "João Cancelo",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/João_Cancelo",
+      "birthYear": 1994,
+      "position": "DF",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "joao-felix",
+      "name": "João Félix",
+      "wikipediaTitle": "João Félix",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/João_Félix",
+      "birthYear": 1999,
+      "position": "FW",
+      "positionConfidence": "disputed"
+    },
+    {
+      "id": "joao-lourenco-footballer-born-1942",
+      "name": "João Lourenço",
+      "wikipediaTitle": "João Lourenço (footballer, born 1942)",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/João_Lourenço_(footballer,_born_1942)",
+      "birthYear": 1942,
+      "position": "FW",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "joao-mario-footballer-born-january-1993",
+      "name": "João Mário",
+      "wikipediaTitle": "João Mário (footballer, born January 1993)",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/João_Mário_(footballer,_born_January_1993)",
+      "birthYear": 1993,
+      "position": "MF",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "joao-morais",
+      "name": "João Morais",
+      "wikipediaTitle": "João Morais",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/João_Morais",
+      "birthYear": 1935,
+      "position": "DF",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "joao-moutinho",
+      "name": "João Moutinho",
+      "wikipediaTitle": "João Moutinho",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/João_Moutinho",
+      "birthYear": 1986,
+      "position": "MF",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "joao-neves",
+      "name": "João Neves",
+      "wikipediaTitle": "João Neves",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/João_Neves",
+      "birthYear": 2004,
+      "position": "MF",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "joao-palhinha",
+      "name": "João Palhinha",
+      "wikipediaTitle": "João Palhinha",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/João_Palhinha",
+      "birthYear": 1995,
+      "position": "MF",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "joao-paulo-footballer-born-june-1981",
+      "name": "João Paulo",
+      "wikipediaTitle": "João Paulo (footballer, born June 1981)",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/João_Paulo_(footballer,_born_June_1981)",
+      "birthYear": 1981,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "joao-pereira-footballer-born-1984",
+      "name": "João Pereira",
+      "wikipediaTitle": "João Pereira (footballer, born 1984)",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/João_Pereira_(footballer,_born_1984)",
+      "birthYear": 1984,
+      "position": "DF",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "joao-pinto",
+      "name": "João Pinto (1971)",
+      "wikipediaTitle": "João Pinto",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/João_Pinto",
+      "birthYear": 1971,
+      "position": "FW",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "joao-pinto-footballer-born-1961",
+      "name": "João Pinto (1961)",
+      "wikipediaTitle": "João Pinto (footballer, born 1961)",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/João_Pinto_(footballer,_born_1961)",
+      "birthYear": 1961,
+      "position": "DF",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "joao-santos-portuguese-footballer",
+      "name": "João Santos",
+      "wikipediaTitle": "João Santos (Portuguese footballer)",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/João_Santos_(Portuguese_footballer)",
+      "birthYear": 1909,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "joaquim-carvalho-footballer",
+      "name": "Joaquim Carvalho",
+      "wikipediaTitle": "Joaquim Carvalho (footballer)",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Joaquim_Carvalho_(footballer)",
+      "birthYear": 1937,
+      "position": "GK",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "joel-castro-pereira",
+      "name": "Joel Castro Pereira",
+      "wikipediaTitle": "Joel Castro Pereira",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Joel_Castro_Pereira",
+      "birthYear": 1996,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "jorge-andrade",
+      "name": "Jorge Andrade",
+      "wikipediaTitle": "Jorge Andrade",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Jorge_Andrade",
+      "birthYear": 1978,
+      "position": "DF",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "jorge-cadete",
+      "name": "Jorge Cadete",
+      "wikipediaTitle": "Jorge Cadete",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Jorge_Cadete",
+      "birthYear": 1968,
+      "position": "FW",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "jorge-costa",
+      "name": "Jorge Costa",
+      "wikipediaTitle": "Jorge Costa",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Jorge_Costa",
+      "birthYear": 1971,
+      "position": "DF",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "jorge-gomes-vieira",
+      "name": "Jorge Vieira",
+      "wikipediaTitle": "Jorge Gomes Vieira",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Jorge_Gomes_Vieira",
+      "birthYear": 1898,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "jorge-goncalves-tavares",
+      "name": "Jorge Tavares",
+      "wikipediaTitle": "Jorge Gonçalves Tavares",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Jorge_Gonçalves_Tavares",
+      "birthYear": 1905,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "jorge-martins",
+      "name": "Jorge Martins",
+      "wikipediaTitle": "Jorge Martins",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Jorge_Martins",
+      "birthYear": 1954,
+      "position": "GK",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "jorge-ribeiro",
+      "name": "Jorge Ribeiro",
+      "wikipediaTitle": "Jorge Ribeiro",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Jorge_Ribeiro",
+      "birthYear": 1981,
+      "position": "DF",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "jose-antonio-bargiela",
+      "name": "José António",
+      "wikipediaTitle": "José António Bargiela",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/José_António_Bargiela",
+      "birthYear": 1957,
+      "position": "DF",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "jose-augusto-footballer",
+      "name": "José Augusto",
+      "wikipediaTitle": "José Augusto (footballer)",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/José_Augusto_(footballer)",
+      "birthYear": 1937,
+      "position": "MF",
+      "positionConfidence": "disputed"
+    },
+    {
+      "id": "jose-bosingwa",
+      "name": "José Bosingwa",
+      "wikipediaTitle": "José Bosingwa",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/José_Bosingwa",
+      "birthYear": 1982,
+      "position": "DF",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "jose-calado",
+      "name": "Calado",
+      "wikipediaTitle": "José Calado",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/José_Calado",
+      "birthYear": 1974,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "jose-carlos-da-silva-jose",
+      "name": "José Carlos",
+      "wikipediaTitle": "José Carlos da Silva José",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/José_Carlos_da_Silva_José",
+      "birthYear": 1941,
+      "position": "DF",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "jose-dominguez",
+      "name": "José Dominguez",
+      "wikipediaTitle": "José Dominguez",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/José_Dominguez",
+      "birthYear": 1974,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "jose-fonte",
+      "name": "José Fonte",
+      "wikipediaTitle": "José Fonte",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/José_Fonte",
+      "birthYear": 1983,
+      "position": "DF",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "jose-luis-vidigal",
+      "name": "José Luís Vidigal",
+      "wikipediaTitle": "José Luís Vidigal",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/José_Luís_Vidigal",
+      "birthYear": 1973,
+      "position": "MF",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "jose-manuel-martins",
+      "name": "José Martins",
+      "wikipediaTitle": "José Manuel Martins",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/José_Manuel_Martins",
+      "birthYear": 1906,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "jose-moreira",
+      "name": "José Moreira",
+      "wikipediaTitle": "José Moreira",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/José_Moreira",
+      "birthYear": 1982,
+      "position": "GK",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "jose-pereira-footballer",
+      "name": "José Pereira",
+      "wikipediaTitle": "José Pereira (footballer)",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/José_Pereira_(footballer)",
+      "birthYear": 1931,
+      "position": "GK",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "jose-ribeiro",
+      "name": "José Ribeiro",
+      "wikipediaTitle": "José Ribeiro",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/José_Ribeiro",
+      "birthYear": 1957,
+      "position": "MF",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "jose-sa",
+      "name": "José Sá",
+      "wikipediaTitle": "José Sá",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/José_Sá",
+      "birthYear": 1993,
+      "position": "GK",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "jose-tavares-footballer",
+      "name": "José Tavares",
+      "wikipediaTitle": "José Tavares (footballer)",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/José_Tavares_(footballer)",
+      "birthYear": 1966,
+      "position": "MF",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "jose-torres-footballer-born-1938",
+      "name": "José Torres",
+      "wikipediaTitle": "José Torres (footballer, born 1938)",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/José_Torres_(footballer,_born_1938)",
+      "birthYear": 1938,
+      "position": "FW",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "liberto-dos-santos",
+      "name": "Liberto dos Santos",
+      "wikipediaTitle": "Liberto dos Santos",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Liberto_dos_Santos",
+      "birthYear": 1908,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "liedson",
+      "name": "Liédson",
+      "wikipediaTitle": "Liédson",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Liédson",
+      "birthYear": 1977,
+      "position": "FW",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "luis-andrade",
+      "name": "Andrade",
+      "wikipediaTitle": "Luís Andrade",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Luís_Andrade",
+      "birthYear": 1973,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "luis-boa-morte",
+      "name": "Luís Boa Morte",
+      "wikipediaTitle": "Luís Boa Morte",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Luís_Boa_Morte",
+      "birthYear": 1977,
+      "position": "MF",
+      "positionConfidence": "disputed"
+    },
+    {
+      "id": "luis-figo",
+      "name": "Luís Figo",
+      "wikipediaTitle": "Luís Figo",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Luís_Figo",
+      "birthYear": 1972,
+      "position": "MF",
+      "positionConfidence": "disputed"
+    },
+    {
+      "id": "luis-lourenco",
+      "name": "Luís Lourenço",
+      "wikipediaTitle": "Luís Lourenço",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Luís_Lourenço",
+      "birthYear": 1983,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "luis-neto",
+      "name": "Luís Neto",
+      "wikipediaTitle": "Luís Neto",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Luís_Neto",
+      "birthYear": 1988,
+      "position": "DF",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "luis-sobrinho",
+      "name": "Luís Sobrinho",
+      "wikipediaTitle": "Luís Sobrinho",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Luís_Sobrinho",
+      "birthYear": 1961,
+      "position": "DF",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "maniche",
+      "name": "Maniche",
+      "wikipediaTitle": "Maniche",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Maniche",
+      "birthYear": 1977,
+      "position": "MF",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "manuel-bento",
+      "name": "Manuel Bento",
+      "wikipediaTitle": "Manuel Bento",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Manuel_Bento",
+      "birthYear": 1948,
+      "position": "GK",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "manuel-duarte",
+      "name": "Manuel Duarte",
+      "wikipediaTitle": "Manuel Duarte",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Manuel_Duarte",
+      "birthYear": 1943,
+      "position": "FW",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "manuel-fernandes-footballer-born-1986",
+      "name": "Manuel Fernandes",
+      "wikipediaTitle": "Manuel Fernandes (footballer, born 1986)",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Manuel_Fernandes_(footballer,_born_1986)",
+      "birthYear": 1986,
+      "position": "MF",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "marco-caneira",
+      "name": "Marco Caneira",
+      "wikipediaTitle": "Marco Caneira",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Marco_Caneira",
+      "birthYear": 1979,
+      "position": "DF",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "mario-coluna",
+      "name": "Mário Coluna",
+      "wikipediaTitle": "Mário Coluna",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Mário_Coluna",
+      "birthYear": 1935,
+      "position": "MF",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "mario-rui",
+      "name": "Mário Rui",
+      "wikipediaTitle": "Mário Rui",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Mário_Rui",
+      "birthYear": 1991,
+      "position": "DF",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "mario-sergio-footballer-born-1981",
+      "name": "Mário Sérgio",
+      "wikipediaTitle": "Mário Sérgio (footballer, born 1981)",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Mário_Sérgio_(footballer,_born_1981)",
+      "birthYear": 1981,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "matheus-nunes",
+      "name": "Matheus Nunes",
+      "wikipediaTitle": "Matheus Nunes",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Matheus_Nunes",
+      "birthYear": 1998,
+      "position": "MF",
+      "positionConfidence": "disputed"
+    },
+    {
+      "id": "miguel-lopes",
+      "name": "Miguel Lopes",
+      "wikipediaTitle": "Miguel Lopes",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Miguel_Lopes",
+      "birthYear": 1986,
+      "position": "DF",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "miguel-monteiro",
+      "name": "Miguel",
+      "wikipediaTitle": "Miguel Monteiro",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Miguel_Monteiro",
+      "birthYear": 1980,
+      "position": "DF",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "miguel-veloso",
+      "name": "Miguel Veloso",
+      "wikipediaTitle": "Miguel Veloso",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Miguel_Veloso",
+      "birthYear": 1986,
+      "position": "MF",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "nani-footballer",
+      "name": "Nani",
+      "wikipediaTitle": "Nani (footballer)",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Nani_(footballer)",
+      "birthYear": 1986,
+      "position": "FW",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "nelson-oliveira",
+      "name": "Nélson Oliveira",
+      "wikipediaTitle": "Nélson Oliveira",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Nélson_Oliveira",
+      "birthYear": 1991,
+      "position": "FW",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "nelson-pereira",
+      "name": "Nélson Pereira",
+      "wikipediaTitle": "Nélson Pereira",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Nélson_Pereira",
+      "birthYear": 1975,
+      "position": "GK",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "nelson-semedo",
+      "name": "Nélson Semedo",
+      "wikipediaTitle": "Nélson Semedo",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Nélson_Semedo",
+      "birthYear": 1993,
+      "position": "DF",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "nene-footballer-born-1949",
+      "name": "Nené",
+      "wikipediaTitle": "Nené (footballer, born 1949)",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Nené_(footballer,_born_1949)",
+      "birthYear": 1949,
+      "position": "FW",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "nuno-afonso",
+      "name": "Nuno Afonso",
+      "wikipediaTitle": "Nuno Afonso",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Nuno_Afonso",
+      "birthYear": 1974,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "nuno-espirito-santo",
+      "name": "Nuno",
+      "wikipediaTitle": "Nuno Espírito Santo",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Nuno_Espírito_Santo",
+      "birthYear": 1974,
+      "position": "GK",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "nuno-frechaut",
+      "name": "Nuno Frechaut",
+      "wikipediaTitle": "Nuno Frechaut",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Nuno_Frechaut",
+      "birthYear": 1977,
+      "position": "DF",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "nuno-gomes",
+      "name": "Nuno Gomes",
+      "wikipediaTitle": "Nuno Gomes",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Nuno_Gomes",
+      "birthYear": 1976,
+      "position": "FW",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "nuno-mendes-footballer-born-2002",
+      "name": "Nuno Mendes",
+      "wikipediaTitle": "Nuno Mendes (footballer, born 2002)",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Nuno_Mendes_(footballer,_born_2002)",
+      "birthYear": 2002,
+      "position": "DF",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "nuno-valente",
+      "name": "Nuno Valente",
+      "wikipediaTitle": "Nuno Valente",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Nuno_Valente",
+      "birthYear": 1974,
+      "position": "DF",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "oceano-cruz",
+      "name": "Oceano",
+      "wikipediaTitle": "Oceano Cruz",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Oceano_Cruz",
+      "birthYear": 1962,
+      "position": "MF",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "oscar-vasques-de-carvalho",
+      "name": "Óscar de Carvalho",
+      "wikipediaTitle": "Óscar Vasques de Carvalho",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Óscar_Vasques_de_Carvalho",
+      "birthYear": 1903,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "otavio-footballer-born-1995",
+      "name": "Otávio",
+      "wikipediaTitle": "Otávio (footballer, born 1995)",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Otávio_(footballer,_born_1995)",
+      "birthYear": 1995,
+      "position": "MF",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "pauleta",
+      "name": "Pauleta",
+      "wikipediaTitle": "Pauleta",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Pauleta",
+      "birthYear": 1973,
+      "position": "FW",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "paulinho-santos",
+      "name": "Paulinho Santos",
+      "wikipediaTitle": "Paulinho Santos",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Paulinho_Santos",
+      "birthYear": 1970,
+      "position": "MF",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "paulo-alves-footballer-born-1969",
+      "name": "Paulo Alves",
+      "wikipediaTitle": "Paulo Alves (footballer, born 1969)",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Paulo_Alves_(footballer,_born_1969)",
+      "birthYear": 1969,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "paulo-bento",
+      "name": "Paulo Bento",
+      "wikipediaTitle": "Paulo Bento",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Paulo_Bento",
+      "birthYear": 1969,
+      "position": "MF",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "paulo-costinha",
+      "name": "Costinha",
+      "wikipediaTitle": "Paulo Costinha",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Paulo_Costinha",
+      "birthYear": 1973,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "paulo-ferreira",
+      "name": "Paulo Ferreira",
+      "wikipediaTitle": "Paulo Ferreira",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Paulo_Ferreira",
+      "birthYear": 1979,
+      "position": "DF",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "paulo-futre",
+      "name": "Paulo Futre",
+      "wikipediaTitle": "Paulo Futre",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Paulo_Futre",
+      "birthYear": 1966,
+      "position": "FW",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "paulo-henrique-portuguese-footballer",
+      "name": "Paulo Henrique",
+      "wikipediaTitle": "Paulo Henrique (Portuguese footballer)",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Paulo_Henrique_(Portuguese_footballer)",
+      "birthYear": 1996,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "paulo-madeira",
+      "name": "Paulo Madeira",
+      "wikipediaTitle": "Paulo Madeira",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Paulo_Madeira",
+      "birthYear": 1970,
+      "position": "DF",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "paulo-santos-portuguese-footballer",
+      "name": "Paulo Santos",
+      "wikipediaTitle": "Paulo Santos (Portuguese footballer)",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Paulo_Santos_(Portuguese_footballer)",
+      "birthYear": 1972,
+      "position": "GK",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "paulo-sousa",
+      "name": "Paulo Sousa",
+      "wikipediaTitle": "Paulo Sousa",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Paulo_Sousa",
+      "birthYear": 1970,
+      "position": "MF",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "pedro-barbosa",
+      "name": "Pedro Barbosa",
+      "wikipediaTitle": "Pedro Barbosa",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Pedro_Barbosa",
+      "birthYear": 1970,
+      "position": "MF",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "pedro-espinha",
+      "name": "Pedro Espinha",
+      "wikipediaTitle": "Pedro Espinha",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Pedro_Espinha",
+      "birthYear": 1965,
+      "position": "GK",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "pedro-goncalves",
+      "name": "Pedro Gonçalves",
+      "wikipediaTitle": "Pedro Gonçalves",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Pedro_Gonçalves",
+      "birthYear": 1998,
+      "position": "MF",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "pedro-mendes-footballer-born-1979",
+      "name": "Pedro Mendes",
+      "wikipediaTitle": "Pedro Mendes (footballer, born 1979)",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Pedro_Mendes_(footballer,_born_1979)",
+      "birthYear": 1979,
+      "position": "MF",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "pedro-neto",
+      "name": "Pedro Neto",
+      "wikipediaTitle": "Pedro Neto",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Pedro_Neto",
+      "birthYear": 2000,
+      "position": "FW",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "pepe-footballer-born-1983",
+      "name": "Pepe (1983)",
+      "wikipediaTitle": "Pepe (footballer, born 1983)",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Pepe_(footballer,_born_1983)",
+      "birthYear": 1983,
+      "position": "DF",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "pepe-soares",
+      "name": "Pepe",
+      "wikipediaTitle": "Pepe Soares",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Pepe_Soares",
+      "birthYear": 1908,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "petit-portuguese-footballer",
+      "name": "Petit",
+      "wikipediaTitle": "Petit (Portuguese footballer)",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Petit_(Portuguese_footballer)",
+      "birthYear": 1976,
+      "position": "MF",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "pite",
+      "name": "Pité",
+      "wikipediaTitle": "Pité",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Pité",
+      "birthYear": 1994,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "quim-footballer-born-1975",
+      "name": "Quim",
+      "wikipediaTitle": "Quim (footballer, born 1975)",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Quim_(footballer,_born_1975)",
+      "birthYear": 1975,
+      "position": "GK",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "rafa-silva",
+      "name": "Rafa Silva",
+      "wikipediaTitle": "Rafa Silva",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Rafa_Silva",
+      "birthYear": 1993,
+      "position": "FW",
+      "positionConfidence": "disputed"
+    },
+    {
+      "id": "rafael-leao",
+      "name": "Rafael Leão",
+      "wikipediaTitle": "Rafael Leão",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Rafael_Leão",
+      "birthYear": 1999,
+      "position": "FW",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "raphael-guerreiro",
+      "name": "Raphaël Guerreiro",
+      "wikipediaTitle": "Raphaël Guerreiro",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Raphaël_Guerreiro",
+      "birthYear": 1993,
+      "position": "DF",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "raul-meireles",
+      "name": "Raul Meireles",
+      "wikipediaTitle": "Raul Meireles",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Raul_Meireles",
+      "birthYear": 1983,
+      "position": "MF",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "renato-sanches",
+      "name": "Renato Sanches",
+      "wikipediaTitle": "Renato Sanches",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Renato_Sanches",
+      "birthYear": 1997,
+      "position": "MF",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "renato-veiga",
+      "name": "Renato Veiga",
+      "wikipediaTitle": "Renato Veiga",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Renato_Veiga",
+      "birthYear": 2003,
+      "position": "DF",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "ricardo-carvalho",
+      "name": "Ricardo Carvalho",
+      "wikipediaTitle": "Ricardo Carvalho",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ricardo_Carvalho",
+      "birthYear": 1978,
+      "position": "DF",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "ricardo-costa-footballer-born-1981",
+      "name": "Ricardo Costa",
+      "wikipediaTitle": "Ricardo Costa (footballer, born 1981)",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ricardo_Costa_(footballer,_born_1981)",
+      "birthYear": 1981,
+      "position": "DF",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "ricardo-esgaio",
+      "name": "Ricardo Esgaio",
+      "wikipediaTitle": "Ricardo Esgaio",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ricardo_Esgaio",
+      "birthYear": 1993,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "ricardo-footballer-born-1976",
+      "name": "Ricardo",
+      "wikipediaTitle": "Ricardo (footballer, born 1976)",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ricardo_(footballer,_born_1976)",
+      "birthYear": 1976,
+      "position": "GK",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "ricardo-horta",
+      "name": "Ricardo Horta",
+      "wikipediaTitle": "Ricardo Horta",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ricardo_Horta",
+      "birthYear": 1994,
+      "position": "FW",
+      "positionConfidence": "disputed"
+    },
+    {
+      "id": "ricardo-pereira-footballer-born-1993",
+      "name": "Ricardo Pereira",
+      "wikipediaTitle": "Ricardo Pereira (footballer, born 1993)",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ricardo_Pereira_(footballer,_born_1993)",
+      "birthYear": 1993,
+      "position": "DF",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "ricardo-quaresma",
+      "name": "Ricardo Quaresma",
+      "wikipediaTitle": "Ricardo Quaresma",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ricardo_Quaresma",
+      "birthYear": 1983,
+      "position": "FW",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "ricardo-sa-pinto",
+      "name": "Ricardo Sá Pinto",
+      "wikipediaTitle": "Ricardo Sá Pinto",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ricardo_Sá_Pinto",
+      "birthYear": 1972,
+      "position": "FW",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "rolando-footballer",
+      "name": "Rolando",
+      "wikipediaTitle": "Rolando (footballer)",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Rolando_(footballer)",
+      "birthYear": 1985,
+      "position": "DF",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "ruben-amorim",
+      "name": "Ruben Amorim",
+      "wikipediaTitle": "Ruben Amorim",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ruben_Amorim",
+      "birthYear": 1985,
+      "position": "MF",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "ruben-dias",
+      "name": "Rúben Dias",
+      "wikipediaTitle": "Rúben Dias",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Rúben_Dias",
+      "birthYear": 1997,
+      "position": "DF",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "ruben-micael",
+      "name": "Rúben Micael",
+      "wikipediaTitle": "Rúben Micael",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Rúben_Micael",
+      "birthYear": 1986,
+      "position": "MF",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "ruben-neves",
+      "name": "Rúben Neves",
+      "wikipediaTitle": "Rúben Neves",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Rúben_Neves",
+      "birthYear": 1997,
+      "position": "MF",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "rui-aguas-footballer",
+      "name": "Rui Águas",
+      "wikipediaTitle": "Rui Águas (footballer)",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Rui_Águas_(footballer)",
+      "birthYear": 1960,
+      "position": "FW",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "rui-bento",
+      "name": "Rui Bento",
+      "wikipediaTitle": "Rui Bento",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Rui_Bento",
+      "birthYear": 1972,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "rui-correia",
+      "name": "Rui Correia",
+      "wikipediaTitle": "Rui Correia",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Rui_Correia",
+      "birthYear": 1967,
+      "position": "GK",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "rui-costa",
+      "name": "Rui Costa",
+      "wikipediaTitle": "Rui Costa",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Rui_Costa",
+      "birthYear": 1972,
+      "position": "MF",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "rui-jordao",
+      "name": "Rui Jordão",
+      "wikipediaTitle": "Rui Jordão",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Rui_Jordão",
+      "birthYear": 1952,
+      "position": "FW",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "rui-jorge",
+      "name": "Rui Jorge",
+      "wikipediaTitle": "Rui Jorge",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Rui_Jorge",
+      "birthYear": 1973,
+      "position": "DF",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "rui-patricio",
+      "name": "Rui Patrício",
+      "wikipediaTitle": "Rui Patrício",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Rui_Patrício",
+      "birthYear": 1988,
+      "position": "GK",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "rui-silva-footballer-born-1994",
+      "name": "Rui Silva",
+      "wikipediaTitle": "Rui Silva (footballer, born 1994)",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Rui_Silva_(footballer,_born_1994)",
+      "birthYear": 1994,
+      "position": "GK",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "salvador-agra",
+      "name": "Salvador Agra",
+      "wikipediaTitle": "Salvador Agra",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Salvador_Agra",
+      "birthYear": 1991,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "samu-costa",
+      "name": "Samú Costa",
+      "wikipediaTitle": "Samú Costa",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Samú_Costa",
+      "birthYear": 2000,
+      "position": "DF",
+      "positionConfidence": "disputed"
+    },
+    {
+      "id": "sergio-conceicao",
+      "name": "Sérgio Conceição",
+      "wikipediaTitle": "Sérgio Conceição",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Sérgio_Conceição",
+      "birthYear": 1974,
+      "position": "MF",
+      "positionConfidence": "disputed"
+    },
+    {
+      "id": "sergio-oliveira",
+      "name": "Sérgio Oliveira",
+      "wikipediaTitle": "Sérgio Oliveira",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Sérgio_Oliveira",
+      "birthYear": 1992,
+      "position": "MF",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "silvestre-varela",
+      "name": "Silvestre Varela",
+      "wikipediaTitle": "Silvestre Varela",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Silvestre_Varela",
+      "birthYear": 1985,
+      "position": "MF",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "simao-sabrosa",
+      "name": "Simão",
+      "wikipediaTitle": "Simão Sabrosa",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Simão_Sabrosa",
+      "birthYear": 1979,
+      "position": "MF",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "tamanqueiro-portuguese-footballer",
+      "name": "Tamanqueiro",
+      "wikipediaTitle": "Tamanqueiro (Portuguese footballer)",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Tamanqueiro_(Portuguese_footballer)",
+      "birthYear": 1903,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "tiago-ilori",
+      "name": "Tiago Ilori",
+      "wikipediaTitle": "Tiago Ilori",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Tiago_Ilori",
+      "birthYear": 1993,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "tiago-mendes",
+      "name": "Tiago",
+      "wikipediaTitle": "Tiago Mendes",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Tiago_Mendes",
+      "birthYear": 1981,
+      "position": "MF",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "tiago-silva-footballer-born-1993",
+      "name": "Tiago Silva",
+      "wikipediaTitle": "Tiago Silva (footballer, born 1993)",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Tiago_Silva_(footballer,_born_1993)",
+      "birthYear": 1993,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "tobias-figueiredo",
+      "name": "Tobias Figueiredo",
+      "wikipediaTitle": "Tobias Figueiredo",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Tobias_Figueiredo",
+      "birthYear": 1994,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "tomas-araujo",
+      "name": "Tomás Araújo",
+      "wikipediaTitle": "Tomás Araújo",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Tomás_Araújo",
+      "birthYear": 2002,
+      "position": "DF",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "tomas-podstawski",
+      "name": "Tomás Podstawski",
+      "wikipediaTitle": "Tomás Podstawski",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Tomás_Podstawski",
+      "birthYear": 1995,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "valdemar-mota",
+      "name": "Valdemar Mota",
+      "wikipediaTitle": "Valdemar Mota",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Valdemar_Mota",
+      "birthYear": 1906,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "vermelhinho",
+      "name": "Vermelhinho",
+      "wikipediaTitle": "Vermelhinho",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Vermelhinho",
+      "birthYear": 1959,
+      "position": "MF",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "vicente-lucas",
+      "name": "Vicente",
+      "wikipediaTitle": "Vicente Lucas",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Vicente_Lucas",
+      "birthYear": 1935,
+      "position": "DF",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "vieirinha",
+      "name": "Vieirinha",
+      "wikipediaTitle": "Vieirinha",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Vieirinha",
+      "birthYear": 1986,
+      "position": "MF",
+      "positionConfidence": "disputed"
+    },
+    {
+      "id": "vitinha",
+      "name": "Vitinha",
+      "wikipediaTitle": "Vitinha",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Vitinha",
+      "birthYear": 2000,
+      "position": "MF",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "vitor-baia",
+      "name": "Vítor Baía",
+      "wikipediaTitle": "Vítor Baía",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Vítor_Baía",
+      "birthYear": 1969,
+      "position": "GK",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "vitor-damas",
+      "name": "Vítor Damas",
+      "wikipediaTitle": "Vítor Damas",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Vítor_Damas",
+      "birthYear": 1947,
+      "position": "GK",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "vitor-paneira",
+      "name": "Vítor Paneira",
+      "wikipediaTitle": "Vítor Paneira",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Vítor_Paneira",
+      "birthYear": 1966,
+      "position": "MF",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "vitor-silva",
+      "name": "Vítor Silva",
+      "wikipediaTitle": "Vítor Silva",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Vítor_Silva",
+      "birthYear": 1909,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "william-carvalho",
+      "name": "William Carvalho",
+      "wikipediaTitle": "William Carvalho",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/William_Carvalho",
+      "birthYear": 1992,
+      "position": "MF",
+      "positionConfidence": "confirmed"
+    }
+  ],
+  "squadEntries": [
+    {
+      "countryId": "portekiz",
+      "tournamentId": "euro-1984",
+      "playerId": "alvaro-magalhaes",
+      "shirtNumber": 17
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "euro-1984",
+      "playerId": "antonio-bastos-lopes",
+      "shirtNumber": 16
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "euro-1984",
+      "playerId": "antonio-frasco",
+      "shirtNumber": 14
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "euro-1984",
+      "playerId": "antonio-lima-pereira",
+      "shirtNumber": 10
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "euro-1984",
+      "playerId": "antonio-sousa",
+      "shirtNumber": 13
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "euro-1984",
+      "playerId": "antonio-veloso",
+      "shirtNumber": 8
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "euro-1984",
+      "playerId": "carlos-manuel",
+      "shirtNumber": 7
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "euro-1984",
+      "playerId": "diamantino-miranda",
+      "shirtNumber": 19
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "euro-1984",
+      "playerId": "eduardo-luis",
+      "shirtNumber": 18
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "euro-1984",
+      "playerId": "eurico-gomes",
+      "shirtNumber": 11
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "euro-1984",
+      "playerId": "fernando-chalana",
+      "shirtNumber": 4
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "euro-1984",
+      "playerId": "fernando-gomes-portuguese-footballer",
+      "shirtNumber": 6
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "euro-1984",
+      "playerId": "jaime-pacheco",
+      "shirtNumber": 15
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "euro-1984",
+      "playerId": "joao-pinto-footballer-born-1961",
+      "shirtNumber": 9
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "euro-1984",
+      "playerId": "jorge-martins",
+      "shirtNumber": 12
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "euro-1984",
+      "playerId": "manuel-bento",
+      "shirtNumber": 1
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "euro-1984",
+      "playerId": "nene-footballer-born-1949",
+      "shirtNumber": 2
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "euro-1984",
+      "playerId": "rui-jordao",
+      "shirtNumber": 3
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "euro-1984",
+      "playerId": "vermelhinho",
+      "shirtNumber": 5
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "euro-1984",
+      "playerId": "vitor-damas",
+      "shirtNumber": 20
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "euro-1996",
+      "playerId": "alfredo-castro-footballer",
+      "shirtNumber": 12
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "euro-1996",
+      "playerId": "antonio-folha",
+      "shirtNumber": 18
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "euro-1996",
+      "playerId": "carlos-secretario",
+      "shirtNumber": 2
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "euro-1996",
+      "playerId": "dimas-footballer",
+      "shirtNumber": 13
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "euro-1996",
+      "playerId": "domingos-paciencia",
+      "shirtNumber": 15
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "euro-1996",
+      "playerId": "fernando-couto",
+      "shirtNumber": 5
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "euro-1996",
+      "playerId": "helder-footballer-born-1971",
+      "shirtNumber": 16
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "euro-1996",
+      "playerId": "hugo-porfirio",
+      "shirtNumber": 17
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "euro-1996",
+      "playerId": "joao-pinto",
+      "shirtNumber": 8
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "euro-1996",
+      "playerId": "jorge-cadete",
+      "shirtNumber": 11
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "euro-1996",
+      "playerId": "jose-tavares-footballer",
+      "shirtNumber": 6
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "euro-1996",
+      "playerId": "luis-figo",
+      "shirtNumber": 20
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "euro-1996",
+      "playerId": "oceano-cruz",
+      "shirtNumber": 4
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "euro-1996",
+      "playerId": "paulinho-santos",
+      "shirtNumber": 3
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "euro-1996",
+      "playerId": "paulo-madeira",
+      "shirtNumber": 21
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "euro-1996",
+      "playerId": "paulo-sousa",
+      "shirtNumber": 19
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "euro-1996",
+      "playerId": "pedro-barbosa",
+      "shirtNumber": 14
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "euro-1996",
+      "playerId": "ricardo-sa-pinto",
+      "shirtNumber": 9
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "euro-1996",
+      "playerId": "rui-correia",
+      "shirtNumber": 22
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "euro-1996",
+      "playerId": "rui-costa",
+      "shirtNumber": 10
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "euro-1996",
+      "playerId": "vitor-baia",
+      "shirtNumber": 1
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "euro-1996",
+      "playerId": "vitor-paneira",
+      "shirtNumber": 7
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "euro-2000",
+      "playerId": "abel-xavier",
+      "shirtNumber": 14
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "euro-2000",
+      "playerId": "beto-footballer-born-may-1976",
+      "shirtNumber": 16
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "euro-2000",
+      "playerId": "capucho-footballer",
+      "shirtNumber": 19
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "euro-2000",
+      "playerId": "carlos-secretario",
+      "shirtNumber": 20
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "euro-2000",
+      "playerId": "costinha",
+      "shirtNumber": 15
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "euro-2000",
+      "playerId": "dimas-teixeira",
+      "shirtNumber": 13
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "euro-2000",
+      "playerId": "fernando-couto",
+      "shirtNumber": 5
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "euro-2000",
+      "playerId": "joao-pinto",
+      "shirtNumber": 8
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "euro-2000",
+      "playerId": "jorge-costa",
+      "shirtNumber": 2
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "euro-2000",
+      "playerId": "jose-luis-vidigal",
+      "shirtNumber": 4
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "euro-2000",
+      "playerId": "luis-figo",
+      "shirtNumber": 7
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "euro-2000",
+      "playerId": "nuno-gomes",
+      "shirtNumber": 21
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "euro-2000",
+      "playerId": "pauleta",
+      "shirtNumber": 18
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "euro-2000",
+      "playerId": "paulo-bento",
+      "shirtNumber": 17
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "euro-2000",
+      "playerId": "paulo-sousa",
+      "shirtNumber": 6
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "euro-2000",
+      "playerId": "pedro-espinha",
+      "shirtNumber": 12
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "euro-2000",
+      "playerId": "quim-footballer-born-1975",
+      "shirtNumber": 22
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "euro-2000",
+      "playerId": "ricardo-sa-pinto",
+      "shirtNumber": 9
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "euro-2000",
+      "playerId": "rui-costa",
+      "shirtNumber": 10
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "euro-2000",
+      "playerId": "rui-jorge",
+      "shirtNumber": 3
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "euro-2000",
+      "playerId": "sergio-conceicao",
+      "shirtNumber": 11
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "euro-2000",
+      "playerId": "vitor-baia",
+      "shirtNumber": 1
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "euro-2004",
+      "playerId": "beto-footballer-born-may-1976",
+      "shirtNumber": 15
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "euro-2004",
+      "playerId": "costinha",
+      "shirtNumber": 6
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "euro-2004",
+      "playerId": "cristiano-ronaldo",
+      "shirtNumber": 17
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "euro-2004",
+      "playerId": "deco",
+      "shirtNumber": 20
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "euro-2004",
+      "playerId": "fernando-couto",
+      "shirtNumber": 5
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "euro-2004",
+      "playerId": "helder-postiga",
+      "shirtNumber": 23
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "euro-2004",
+      "playerId": "jorge-andrade",
+      "shirtNumber": 4
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "euro-2004",
+      "playerId": "jose-moreira",
+      "shirtNumber": 22
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "euro-2004",
+      "playerId": "luis-figo",
+      "shirtNumber": 7
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "euro-2004",
+      "playerId": "maniche",
+      "shirtNumber": 18
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "euro-2004",
+      "playerId": "miguel-monteiro",
+      "shirtNumber": 13
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "euro-2004",
+      "playerId": "nuno-gomes",
+      "shirtNumber": 21
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "euro-2004",
+      "playerId": "nuno-valente",
+      "shirtNumber": 14
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "euro-2004",
+      "playerId": "pauleta",
+      "shirtNumber": 9
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "euro-2004",
+      "playerId": "paulo-ferreira",
+      "shirtNumber": 2
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "euro-2004",
+      "playerId": "petit-portuguese-footballer",
+      "shirtNumber": 8
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "euro-2004",
+      "playerId": "quim-footballer-born-1975",
+      "shirtNumber": 12
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "euro-2004",
+      "playerId": "ricardo-carvalho",
+      "shirtNumber": 16
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "euro-2004",
+      "playerId": "ricardo-footballer-born-1976",
+      "shirtNumber": 1
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "euro-2004",
+      "playerId": "rui-costa",
+      "shirtNumber": 10
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "euro-2004",
+      "playerId": "rui-jorge",
+      "shirtNumber": 3
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "euro-2004",
+      "playerId": "simao-sabrosa",
+      "shirtNumber": 11
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "euro-2004",
+      "playerId": "tiago-mendes",
+      "shirtNumber": 19
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "euro-2008",
+      "playerId": "bruno-alves",
+      "shirtNumber": 3
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "euro-2008",
+      "playerId": "cristiano-ronaldo",
+      "shirtNumber": 7
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "euro-2008",
+      "playerId": "deco",
+      "shirtNumber": 20
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "euro-2008",
+      "playerId": "fernando-meira",
+      "shirtNumber": 5
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "euro-2008",
+      "playerId": "helder-postiga",
+      "shirtNumber": 23
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "euro-2008",
+      "playerId": "hugo-almeida",
+      "shirtNumber": 9
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "euro-2008",
+      "playerId": "joao-moutinho",
+      "shirtNumber": 10
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "euro-2008",
+      "playerId": "jorge-ribeiro",
+      "shirtNumber": 14
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "euro-2008",
+      "playerId": "jose-bosingwa",
+      "shirtNumber": 4
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "euro-2008",
+      "playerId": "miguel-monteiro",
+      "shirtNumber": 13
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "euro-2008",
+      "playerId": "miguel-veloso",
+      "shirtNumber": 18
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "euro-2008",
+      "playerId": "nani-footballer",
+      "shirtNumber": 19
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "euro-2008",
+      "playerId": "nuno-espirito-santo",
+      "shirtNumber": 12
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "euro-2008",
+      "playerId": "nuno-gomes",
+      "shirtNumber": 21
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "euro-2008",
+      "playerId": "paulo-ferreira",
+      "shirtNumber": 2
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "euro-2008",
+      "playerId": "pepe-footballer-born-1983",
+      "shirtNumber": 15
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "euro-2008",
+      "playerId": "petit-portuguese-footballer",
+      "shirtNumber": 8
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "euro-2008",
+      "playerId": "raul-meireles",
+      "shirtNumber": 6
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "euro-2008",
+      "playerId": "ricardo-carvalho",
+      "shirtNumber": 16
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "euro-2008",
+      "playerId": "ricardo-footballer-born-1976",
+      "shirtNumber": 1
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "euro-2008",
+      "playerId": "ricardo-quaresma",
+      "shirtNumber": 17
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "euro-2008",
+      "playerId": "rui-patricio",
+      "shirtNumber": 22
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "euro-2008",
+      "playerId": "simao-sabrosa",
+      "shirtNumber": 11
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "euro-2012",
+      "playerId": "beto-footballer-born-1982",
+      "shirtNumber": 22
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "euro-2012",
+      "playerId": "bruno-alves",
+      "shirtNumber": 2
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "euro-2012",
+      "playerId": "cristiano-ronaldo",
+      "shirtNumber": 7
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "euro-2012",
+      "playerId": "custodio-castro",
+      "shirtNumber": 6
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "euro-2012",
+      "playerId": "eduardo-carvalho",
+      "shirtNumber": 1
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "euro-2012",
+      "playerId": "fabio-coentrao",
+      "shirtNumber": 5
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "euro-2012",
+      "playerId": "helder-postiga",
+      "shirtNumber": 23
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "euro-2012",
+      "playerId": "hugo-almeida",
+      "shirtNumber": 9
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "euro-2012",
+      "playerId": "hugo-viana",
+      "shirtNumber": 20
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "euro-2012",
+      "playerId": "joao-moutinho",
+      "shirtNumber": 8
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "euro-2012",
+      "playerId": "joao-pereira-footballer-born-1984",
+      "shirtNumber": 21
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "euro-2012",
+      "playerId": "miguel-lopes",
+      "shirtNumber": 19
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "euro-2012",
+      "playerId": "miguel-veloso",
+      "shirtNumber": 4
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "euro-2012",
+      "playerId": "nani-footballer",
+      "shirtNumber": 17
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "euro-2012",
+      "playerId": "nelson-oliveira",
+      "shirtNumber": 11
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "euro-2012",
+      "playerId": "pepe-footballer-born-1983",
+      "shirtNumber": 3
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "euro-2012",
+      "playerId": "raul-meireles",
+      "shirtNumber": 16
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "euro-2012",
+      "playerId": "ricardo-costa-footballer-born-1981",
+      "shirtNumber": 13
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "euro-2012",
+      "playerId": "ricardo-quaresma",
+      "shirtNumber": 10
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "euro-2012",
+      "playerId": "rolando-footballer",
+      "shirtNumber": 14
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "euro-2012",
+      "playerId": "ruben-micael",
+      "shirtNumber": 15
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "euro-2012",
+      "playerId": "rui-patricio",
+      "shirtNumber": 12
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "euro-2012",
+      "playerId": "silvestre-varela",
+      "shirtNumber": 18
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "euro-2016",
+      "playerId": "adrien-silva",
+      "shirtNumber": 23
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "euro-2016",
+      "playerId": "andre-gomes",
+      "shirtNumber": 15
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "euro-2016",
+      "playerId": "anthony-lopes",
+      "shirtNumber": 12
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "euro-2016",
+      "playerId": "bruno-alves",
+      "shirtNumber": 2
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "euro-2016",
+      "playerId": "cedric-soares",
+      "shirtNumber": 21
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "euro-2016",
+      "playerId": "cristiano-ronaldo",
+      "shirtNumber": 7
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "euro-2016",
+      "playerId": "danilo-pereira-portuguese-footballer",
+      "shirtNumber": 13
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "euro-2016",
+      "playerId": "eder-portuguese-footballer",
+      "shirtNumber": 9
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "euro-2016",
+      "playerId": "eduardo-carvalho",
+      "shirtNumber": 22
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "euro-2016",
+      "playerId": "eliseu",
+      "shirtNumber": 19
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "euro-2016",
+      "playerId": "joao-mario-footballer-born-january-1993",
+      "shirtNumber": 10
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "euro-2016",
+      "playerId": "joao-moutinho",
+      "shirtNumber": 8
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "euro-2016",
+      "playerId": "jose-fonte",
+      "shirtNumber": 4
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "euro-2016",
+      "playerId": "nani-footballer",
+      "shirtNumber": 17
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "euro-2016",
+      "playerId": "pepe-footballer-born-1983",
+      "shirtNumber": 3
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "euro-2016",
+      "playerId": "rafa-silva",
+      "shirtNumber": 18
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "euro-2016",
+      "playerId": "raphael-guerreiro",
+      "shirtNumber": 5
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "euro-2016",
+      "playerId": "renato-sanches",
+      "shirtNumber": 16
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "euro-2016",
+      "playerId": "ricardo-carvalho",
+      "shirtNumber": 6
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "euro-2016",
+      "playerId": "ricardo-quaresma",
+      "shirtNumber": 20
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "euro-2016",
+      "playerId": "rui-patricio",
+      "shirtNumber": 1
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "euro-2016",
+      "playerId": "vieirinha",
+      "shirtNumber": 11
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "euro-2016",
+      "playerId": "william-carvalho",
+      "shirtNumber": 14
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "euro-2020",
+      "playerId": "andre-silva-footballer-born-1995",
+      "shirtNumber": 9
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "euro-2020",
+      "playerId": "anthony-lopes",
+      "shirtNumber": 12
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "euro-2020",
+      "playerId": "bernardo-silva",
+      "shirtNumber": 10
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "euro-2020",
+      "playerId": "bruno-fernandes",
+      "shirtNumber": 11
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "euro-2020",
+      "playerId": "cristiano-ronaldo",
+      "shirtNumber": 7
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "euro-2020",
+      "playerId": "danilo-pereira",
+      "shirtNumber": 13
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "euro-2020",
+      "playerId": "diogo-dalot",
+      "shirtNumber": 20
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "euro-2020",
+      "playerId": "diogo-jota",
+      "shirtNumber": 21
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "euro-2020",
+      "playerId": "goncalo-guedes",
+      "shirtNumber": 17
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "euro-2020",
+      "playerId": "joao-felix",
+      "shirtNumber": 23
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "euro-2020",
+      "playerId": "joao-moutinho",
+      "shirtNumber": 8
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "euro-2020",
+      "playerId": "joao-palhinha",
+      "shirtNumber": 26
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "euro-2020",
+      "playerId": "jose-fonte",
+      "shirtNumber": 6
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "euro-2020",
+      "playerId": "nelson-semedo",
+      "shirtNumber": 2
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "euro-2020",
+      "playerId": "nuno-mendes-footballer-born-2002",
+      "shirtNumber": 25
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "euro-2020",
+      "playerId": "pedro-goncalves",
+      "shirtNumber": 19
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "euro-2020",
+      "playerId": "pepe-footballer-born-1983",
+      "shirtNumber": 3
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "euro-2020",
+      "playerId": "rafa-silva",
+      "shirtNumber": 15
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "euro-2020",
+      "playerId": "raphael-guerreiro",
+      "shirtNumber": 5
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "euro-2020",
+      "playerId": "renato-sanches",
+      "shirtNumber": 16
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "euro-2020",
+      "playerId": "ruben-dias",
+      "shirtNumber": 4
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "euro-2020",
+      "playerId": "ruben-neves",
+      "shirtNumber": 18
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "euro-2020",
+      "playerId": "rui-patricio",
+      "shirtNumber": 1
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "euro-2020",
+      "playerId": "rui-silva-footballer-born-1994",
+      "shirtNumber": 22
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "euro-2020",
+      "playerId": "sergio-oliveira",
+      "shirtNumber": 24
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "euro-2020",
+      "playerId": "william-carvalho",
+      "shirtNumber": 14
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "euro-2024",
+      "playerId": "antonio-silva-footballer",
+      "shirtNumber": 24
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "euro-2024",
+      "playerId": "bernardo-silva",
+      "shirtNumber": 10
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "euro-2024",
+      "playerId": "bruno-fernandes",
+      "shirtNumber": 8
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "euro-2024",
+      "playerId": "cristiano-ronaldo",
+      "shirtNumber": 7
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "euro-2024",
+      "playerId": "danilo-pereira",
+      "shirtNumber": 13
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "euro-2024",
+      "playerId": "diogo-costa",
+      "shirtNumber": 22
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "euro-2024",
+      "playerId": "diogo-dalot",
+      "shirtNumber": 5
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "euro-2024",
+      "playerId": "diogo-jota",
+      "shirtNumber": 21
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "euro-2024",
+      "playerId": "francisco-conceicao",
+      "shirtNumber": 26
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "euro-2024",
+      "playerId": "goncalo-inacio",
+      "shirtNumber": 14
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "euro-2024",
+      "playerId": "goncalo-ramos",
+      "shirtNumber": 9
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "euro-2024",
+      "playerId": "joao-cancelo",
+      "shirtNumber": 20
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "euro-2024",
+      "playerId": "joao-felix",
+      "shirtNumber": 11
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "euro-2024",
+      "playerId": "joao-neves",
+      "shirtNumber": 15
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "euro-2024",
+      "playerId": "joao-palhinha",
+      "shirtNumber": 6
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "euro-2024",
+      "playerId": "jose-sa",
+      "shirtNumber": 12
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "euro-2024",
+      "playerId": "matheus-nunes",
+      "shirtNumber": 16
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "euro-2024",
+      "playerId": "nelson-semedo",
+      "shirtNumber": 2
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "euro-2024",
+      "playerId": "nuno-mendes-footballer-born-2002",
+      "shirtNumber": 19
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "euro-2024",
+      "playerId": "pedro-neto",
+      "shirtNumber": 25
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "euro-2024",
+      "playerId": "pepe-footballer-born-1983",
+      "shirtNumber": 3
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "euro-2024",
+      "playerId": "rafael-leao",
+      "shirtNumber": 17
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "euro-2024",
+      "playerId": "ruben-dias",
+      "shirtNumber": 4
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "euro-2024",
+      "playerId": "ruben-neves",
+      "shirtNumber": 18
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "euro-2024",
+      "playerId": "rui-patricio",
+      "shirtNumber": 1
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "euro-2024",
+      "playerId": "vitinha",
+      "shirtNumber": 23
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "olympics-1928",
+      "playerId": "alfredo-ramos-portuguese-footballer",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "olympics-1928",
+      "playerId": "anibal-jose",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "olympics-1928",
+      "playerId": "antonio-roquete-footballer",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "olympics-1928",
+      "playerId": "armando-martins",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "olympics-1928",
+      "playerId": "augusto-silva-footballer-born-1902",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "olympics-1928",
+      "playerId": "carlos-alves-junior",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "olympics-1928",
+      "playerId": "cesar-de-matos",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "olympics-1928",
+      "playerId": "cipriano-santos",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "olympics-1928",
+      "playerId": "joao-santos-portuguese-footballer",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "olympics-1928",
+      "playerId": "jorge-gomes-vieira",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "olympics-1928",
+      "playerId": "jorge-goncalves-tavares",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "olympics-1928",
+      "playerId": "jose-manuel-martins",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "olympics-1928",
+      "playerId": "liberto-dos-santos",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "olympics-1928",
+      "playerId": "oscar-vasques-de-carvalho",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "olympics-1928",
+      "playerId": "pepe-soares",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "olympics-1928",
+      "playerId": "tamanqueiro-portuguese-footballer",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "olympics-1928",
+      "playerId": "valdemar-mota",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "olympics-1928",
+      "playerId": "vitor-silva",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "olympics-1996",
+      "playerId": "afonso-martins",
+      "shirtNumber": 10
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "olympics-1996",
+      "playerId": "beto-footballer-born-may-1976",
+      "shirtNumber": 5
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "olympics-1996",
+      "playerId": "capucho-footballer",
+      "shirtNumber": 8
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "olympics-1996",
+      "playerId": "carlos-de-oliveira-magalhaes",
+      "shirtNumber": 17
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "olympics-1996",
+      "playerId": "daniel-da-cruz-carvalho",
+      "shirtNumber": 18
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "olympics-1996",
+      "playerId": "daniel-kenedy",
+      "shirtNumber": 2
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "olympics-1996",
+      "playerId": "emilio-peixe",
+      "shirtNumber": 4
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "olympics-1996",
+      "playerId": "hugo-porfirio",
+      "shirtNumber": 16
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "olympics-1996",
+      "playerId": "jose-calado",
+      "shirtNumber": 14
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "olympics-1996",
+      "playerId": "jose-dominguez",
+      "shirtNumber": 7
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "olympics-1996",
+      "playerId": "jose-luis-vidigal",
+      "shirtNumber": 13
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "olympics-1996",
+      "playerId": "luis-andrade",
+      "shirtNumber": 6
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "olympics-1996",
+      "playerId": "nuno-afonso",
+      "shirtNumber": 20
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "olympics-1996",
+      "playerId": "nuno-espirito-santo",
+      "shirtNumber": 12
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "olympics-1996",
+      "playerId": "nuno-gomes",
+      "shirtNumber": 15
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "olympics-1996",
+      "playerId": "paulo-alves-footballer-born-1969",
+      "shirtNumber": 9
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "olympics-1996",
+      "playerId": "paulo-costinha",
+      "shirtNumber": 1
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "olympics-1996",
+      "playerId": "rui-bento",
+      "shirtNumber": 3
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "olympics-1996",
+      "playerId": "rui-jorge",
+      "shirtNumber": 11
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "olympics-2004",
+      "playerId": "bruno-alves",
+      "shirtNumber": 4
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "olympics-2004",
+      "playerId": "bruno-vale",
+      "shirtNumber": 18
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "olympics-2004",
+      "playerId": "carlos-martins-footballer",
+      "shirtNumber": 10
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "olympics-2004",
+      "playerId": "cristiano-ronaldo",
+      "shirtNumber": 7
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "olympics-2004",
+      "playerId": "danny-footballer",
+      "shirtNumber": 17
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "olympics-2004",
+      "playerId": "fernando-meira",
+      "shirtNumber": 6
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "olympics-2004",
+      "playerId": "hugo-almeida",
+      "shirtNumber": 9
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "olympics-2004",
+      "playerId": "hugo-viana",
+      "shirtNumber": 8
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "olympics-2004",
+      "playerId": "joao-paulo-footballer-born-june-1981",
+      "shirtNumber": 16
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "olympics-2004",
+      "playerId": "jorge-ribeiro",
+      "shirtNumber": 11
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "olympics-2004",
+      "playerId": "jose-bosingwa",
+      "shirtNumber": 14
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "olympics-2004",
+      "playerId": "jose-moreira",
+      "shirtNumber": 1
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "olympics-2004",
+      "playerId": "luis-boa-morte",
+      "shirtNumber": 13
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "olympics-2004",
+      "playerId": "luis-lourenco",
+      "shirtNumber": 15
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "olympics-2004",
+      "playerId": "mario-sergio-footballer-born-1981",
+      "shirtNumber": 2
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "olympics-2004",
+      "playerId": "nuno-frechaut",
+      "shirtNumber": 12
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "olympics-2004",
+      "playerId": "raul-meireles",
+      "shirtNumber": 3
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "olympics-2004",
+      "playerId": "ricardo-costa-footballer-born-1981",
+      "shirtNumber": 5
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "olympics-2016",
+      "playerId": "andre-martins-footballer-born-1990",
+      "shirtNumber": 7
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "olympics-2016",
+      "playerId": "bruno-fernandes",
+      "shirtNumber": 10
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "olympics-2016",
+      "playerId": "bruno-varela",
+      "shirtNumber": 1
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "olympics-2016",
+      "playerId": "carlos-mane",
+      "shirtNumber": 17
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "olympics-2016",
+      "playerId": "chico-ramos",
+      "shirtNumber": 16
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "olympics-2016",
+      "playerId": "edgar-ie",
+      "shirtNumber": 5
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "olympics-2016",
+      "playerId": "fernando-fonseca",
+      "shirtNumber": 15
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "olympics-2016",
+      "playerId": "goncalo-paciencia",
+      "shirtNumber": 9
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "olympics-2016",
+      "playerId": "joel-castro-pereira",
+      "shirtNumber": 12
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "olympics-2016",
+      "playerId": "paulo-henrique-portuguese-footballer",
+      "shirtNumber": 14
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "olympics-2016",
+      "playerId": "pite",
+      "shirtNumber": 13
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "olympics-2016",
+      "playerId": "ricardo-esgaio",
+      "shirtNumber": 2
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "olympics-2016",
+      "playerId": "salvador-agra",
+      "shirtNumber": 11
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "olympics-2016",
+      "playerId": "sergio-oliveira",
+      "shirtNumber": 8
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "olympics-2016",
+      "playerId": "tiago-ilori",
+      "shirtNumber": 3
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "olympics-2016",
+      "playerId": "tiago-silva-footballer-born-1993",
+      "shirtNumber": 18
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "olympics-2016",
+      "playerId": "tobias-figueiredo",
+      "shirtNumber": 4
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "olympics-2016",
+      "playerId": "tomas-podstawski",
+      "shirtNumber": 6
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "world-cup-1966",
+      "playerId": "alberto-festa",
+      "shirtNumber": 22
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "world-cup-1966",
+      "playerId": "alexandre-baptista",
+      "shirtNumber": 20
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "world-cup-1966",
+      "playerId": "americo-lopes",
+      "shirtNumber": 1
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "world-cup-1966",
+      "playerId": "antonio-simoes",
+      "shirtNumber": 11
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "world-cup-1966",
+      "playerId": "custodio-pinto",
+      "shirtNumber": 19
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "world-cup-1966",
+      "playerId": "ernesto-figueiredo",
+      "shirtNumber": 7
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "world-cup-1966",
+      "playerId": "eusebio",
+      "shirtNumber": 13
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "world-cup-1966",
+      "playerId": "fernando-cruz-footballer",
+      "shirtNumber": 14
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "world-cup-1966",
+      "playerId": "fernando-peres",
+      "shirtNumber": 6
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "world-cup-1966",
+      "playerId": "germano-de-figueiredo",
+      "shirtNumber": 5
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "world-cup-1966",
+      "playerId": "hilario-conceicao",
+      "shirtNumber": 9
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "world-cup-1966",
+      "playerId": "jaime-graca",
+      "shirtNumber": 16
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "world-cup-1966",
+      "playerId": "joao-lourenco-footballer-born-1942",
+      "shirtNumber": 8
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "world-cup-1966",
+      "playerId": "joao-morais",
+      "shirtNumber": 17
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "world-cup-1966",
+      "playerId": "joaquim-carvalho-footballer",
+      "shirtNumber": 2
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "world-cup-1966",
+      "playerId": "jose-augusto-footballer",
+      "shirtNumber": 12
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "world-cup-1966",
+      "playerId": "jose-carlos-da-silva-jose",
+      "shirtNumber": 21
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "world-cup-1966",
+      "playerId": "jose-pereira-footballer",
+      "shirtNumber": 3
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "world-cup-1966",
+      "playerId": "jose-torres-footballer-born-1938",
+      "shirtNumber": 18
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "world-cup-1966",
+      "playerId": "manuel-duarte",
+      "shirtNumber": 15
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "world-cup-1966",
+      "playerId": "mario-coluna",
+      "shirtNumber": 10
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "world-cup-1966",
+      "playerId": "vicente-lucas",
+      "shirtNumber": 4
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "world-cup-1986",
+      "playerId": "alvaro-magalhaes",
+      "shirtNumber": 5
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "world-cup-1986",
+      "playerId": "antonio-andre",
+      "shirtNumber": 21
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "world-cup-1986",
+      "playerId": "antonio-henriques-jesus-oliveira",
+      "shirtNumber": 15
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "world-cup-1986",
+      "playerId": "antonio-morato-footballer-born-1964",
+      "shirtNumber": 13
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "world-cup-1986",
+      "playerId": "antonio-sousa",
+      "shirtNumber": 3
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "world-cup-1986",
+      "playerId": "augusto-inacio",
+      "shirtNumber": 20
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "world-cup-1986",
+      "playerId": "carlos-manuel",
+      "shirtNumber": 6
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "world-cup-1986",
+      "playerId": "diamantino-miranda",
+      "shirtNumber": 17
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "world-cup-1986",
+      "playerId": "fernando-bandeirinha",
+      "shirtNumber": 11
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "world-cup-1986",
+      "playerId": "fernando-gomes-portuguese-footballer",
+      "shirtNumber": 9
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "world-cup-1986",
+      "playerId": "frederico-rosa",
+      "shirtNumber": 8
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "world-cup-1986",
+      "playerId": "jaime-magalhaes",
+      "shirtNumber": 14
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "world-cup-1986",
+      "playerId": "jaime-pacheco",
+      "shirtNumber": 7
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "world-cup-1986",
+      "playerId": "joao-pinto-footballer-born-1961",
+      "shirtNumber": 2
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "world-cup-1986",
+      "playerId": "jorge-martins",
+      "shirtNumber": 12
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "world-cup-1986",
+      "playerId": "jose-antonio-bargiela",
+      "shirtNumber": 16
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "world-cup-1986",
+      "playerId": "jose-ribeiro",
+      "shirtNumber": 4
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "world-cup-1986",
+      "playerId": "luis-sobrinho",
+      "shirtNumber": 18
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "world-cup-1986",
+      "playerId": "manuel-bento",
+      "shirtNumber": 1
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "world-cup-1986",
+      "playerId": "paulo-futre",
+      "shirtNumber": 10
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "world-cup-1986",
+      "playerId": "rui-aguas-footballer",
+      "shirtNumber": 19
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "world-cup-1986",
+      "playerId": "vitor-damas",
+      "shirtNumber": 22
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "world-cup-2002",
+      "playerId": "abel-xavier",
+      "shirtNumber": 3
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "world-cup-2002",
+      "playerId": "beto-footballer-born-may-1976",
+      "shirtNumber": 22
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "world-cup-2002",
+      "playerId": "capucho-footballer",
+      "shirtNumber": 19
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "world-cup-2002",
+      "playerId": "fernando-couto",
+      "shirtNumber": 5
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "world-cup-2002",
+      "playerId": "hugo-viana",
+      "shirtNumber": 12
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "world-cup-2002",
+      "playerId": "joao-pinto",
+      "shirtNumber": 8
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "world-cup-2002",
+      "playerId": "jorge-andrade",
+      "shirtNumber": 13
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "world-cup-2002",
+      "playerId": "jorge-costa",
+      "shirtNumber": 2
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "world-cup-2002",
+      "playerId": "luis-figo",
+      "shirtNumber": 7
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "world-cup-2002",
+      "playerId": "marco-caneira",
+      "shirtNumber": 4
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "world-cup-2002",
+      "playerId": "nelson-pereira",
+      "shirtNumber": 15
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "world-cup-2002",
+      "playerId": "nuno-frechaut",
+      "shirtNumber": 18
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "world-cup-2002",
+      "playerId": "nuno-gomes",
+      "shirtNumber": 21
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "world-cup-2002",
+      "playerId": "pauleta",
+      "shirtNumber": 9
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "world-cup-2002",
+      "playerId": "paulo-bento",
+      "shirtNumber": 17
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "world-cup-2002",
+      "playerId": "paulo-sousa",
+      "shirtNumber": 6
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "world-cup-2002",
+      "playerId": "pedro-barbosa",
+      "shirtNumber": 14
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "world-cup-2002",
+      "playerId": "petit-portuguese-footballer",
+      "shirtNumber": 20
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "world-cup-2002",
+      "playerId": "ricardo-footballer-born-1976",
+      "shirtNumber": 16
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "world-cup-2002",
+      "playerId": "rui-costa",
+      "shirtNumber": 10
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "world-cup-2002",
+      "playerId": "rui-jorge",
+      "shirtNumber": 23
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "world-cup-2002",
+      "playerId": "sergio-conceicao",
+      "shirtNumber": 11
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "world-cup-2002",
+      "playerId": "vitor-baia",
+      "shirtNumber": 1
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "world-cup-2006",
+      "playerId": "costinha",
+      "shirtNumber": 6
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "world-cup-2006",
+      "playerId": "cristiano-ronaldo",
+      "shirtNumber": 17
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "world-cup-2006",
+      "playerId": "deco",
+      "shirtNumber": 20
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "world-cup-2006",
+      "playerId": "fernando-meira",
+      "shirtNumber": 5
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "world-cup-2006",
+      "playerId": "helder-postiga",
+      "shirtNumber": 23
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "world-cup-2006",
+      "playerId": "hugo-viana",
+      "shirtNumber": 10
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "world-cup-2006",
+      "playerId": "luis-boa-morte",
+      "shirtNumber": 15
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "world-cup-2006",
+      "playerId": "luis-figo",
+      "shirtNumber": 7
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "world-cup-2006",
+      "playerId": "maniche",
+      "shirtNumber": 18
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "world-cup-2006",
+      "playerId": "marco-caneira",
+      "shirtNumber": 3
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "world-cup-2006",
+      "playerId": "miguel-monteiro",
+      "shirtNumber": 13
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "world-cup-2006",
+      "playerId": "nuno-gomes",
+      "shirtNumber": 21
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "world-cup-2006",
+      "playerId": "nuno-valente",
+      "shirtNumber": 14
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "world-cup-2006",
+      "playerId": "pauleta",
+      "shirtNumber": 9
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "world-cup-2006",
+      "playerId": "paulo-ferreira",
+      "shirtNumber": 2
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "world-cup-2006",
+      "playerId": "paulo-santos-portuguese-footballer",
+      "shirtNumber": 22
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "world-cup-2006",
+      "playerId": "petit-portuguese-footballer",
+      "shirtNumber": 8
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "world-cup-2006",
+      "playerId": "quim-footballer-born-1975",
+      "shirtNumber": 12
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "world-cup-2006",
+      "playerId": "ricardo-carvalho",
+      "shirtNumber": 16
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "world-cup-2006",
+      "playerId": "ricardo-costa-footballer-born-1981",
+      "shirtNumber": 4
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "world-cup-2006",
+      "playerId": "ricardo-footballer-born-1976",
+      "shirtNumber": 1
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "world-cup-2006",
+      "playerId": "simao-sabrosa",
+      "shirtNumber": 11
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "world-cup-2006",
+      "playerId": "tiago-mendes",
+      "shirtNumber": 19
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "world-cup-2010",
+      "playerId": "beto-footballer-born-1982",
+      "shirtNumber": 12
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "world-cup-2010",
+      "playerId": "bruno-alves",
+      "shirtNumber": 2
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "world-cup-2010",
+      "playerId": "cristiano-ronaldo",
+      "shirtNumber": 7
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "world-cup-2010",
+      "playerId": "daniel-fernandes-footballer",
+      "shirtNumber": 22
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "world-cup-2010",
+      "playerId": "danny-footballer",
+      "shirtNumber": 10
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "world-cup-2010",
+      "playerId": "deco",
+      "shirtNumber": 20
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "world-cup-2010",
+      "playerId": "duda-footballer-born-1980",
+      "shirtNumber": 5
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "world-cup-2010",
+      "playerId": "eduardo-carvalho",
+      "shirtNumber": 1
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "world-cup-2010",
+      "playerId": "fabio-coentrao",
+      "shirtNumber": 23
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "world-cup-2010",
+      "playerId": "hugo-almeida",
+      "shirtNumber": 18
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "world-cup-2010",
+      "playerId": "liedson",
+      "shirtNumber": 9
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "world-cup-2010",
+      "playerId": "miguel-monteiro",
+      "shirtNumber": 13
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "world-cup-2010",
+      "playerId": "miguel-veloso",
+      "shirtNumber": 14
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "world-cup-2010",
+      "playerId": "paulo-ferreira",
+      "shirtNumber": 3
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "world-cup-2010",
+      "playerId": "pedro-mendes-footballer-born-1979",
+      "shirtNumber": 8
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "world-cup-2010",
+      "playerId": "pepe-footballer-born-1983",
+      "shirtNumber": 15
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "world-cup-2010",
+      "playerId": "raul-meireles",
+      "shirtNumber": 16
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "world-cup-2010",
+      "playerId": "ricardo-carvalho",
+      "shirtNumber": 6
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "world-cup-2010",
+      "playerId": "ricardo-costa-footballer-born-1981",
+      "shirtNumber": 21
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "world-cup-2010",
+      "playerId": "rolando-footballer",
+      "shirtNumber": 4
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "world-cup-2010",
+      "playerId": "ruben-amorim",
+      "shirtNumber": 17
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "world-cup-2010",
+      "playerId": "simao-sabrosa",
+      "shirtNumber": 11
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "world-cup-2010",
+      "playerId": "tiago-mendes",
+      "shirtNumber": 19
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "world-cup-2014",
+      "playerId": "andre-almeida-footballer-born-1990",
+      "shirtNumber": 19
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "world-cup-2014",
+      "playerId": "beto-footballer-born-1982",
+      "shirtNumber": 22
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "world-cup-2014",
+      "playerId": "bruno-alves",
+      "shirtNumber": 2
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "world-cup-2014",
+      "playerId": "cristiano-ronaldo",
+      "shirtNumber": 7
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "world-cup-2014",
+      "playerId": "eder-portuguese-footballer",
+      "shirtNumber": 11
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "world-cup-2014",
+      "playerId": "eduardo-carvalho",
+      "shirtNumber": 1
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "world-cup-2014",
+      "playerId": "fabio-coentrao",
+      "shirtNumber": 5
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "world-cup-2014",
+      "playerId": "helder-postiga",
+      "shirtNumber": 23
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "world-cup-2014",
+      "playerId": "hugo-almeida",
+      "shirtNumber": 9
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "world-cup-2014",
+      "playerId": "joao-moutinho",
+      "shirtNumber": 8
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "world-cup-2014",
+      "playerId": "joao-pereira-footballer-born-1984",
+      "shirtNumber": 21
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "world-cup-2014",
+      "playerId": "luis-neto",
+      "shirtNumber": 14
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "world-cup-2014",
+      "playerId": "miguel-veloso",
+      "shirtNumber": 4
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "world-cup-2014",
+      "playerId": "nani-footballer",
+      "shirtNumber": 17
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "world-cup-2014",
+      "playerId": "pepe-footballer-born-1983",
+      "shirtNumber": 3
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "world-cup-2014",
+      "playerId": "rafa-silva",
+      "shirtNumber": 15
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "world-cup-2014",
+      "playerId": "raul-meireles",
+      "shirtNumber": 16
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "world-cup-2014",
+      "playerId": "ricardo-costa-footballer-born-1981",
+      "shirtNumber": 13
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "world-cup-2014",
+      "playerId": "ruben-amorim",
+      "shirtNumber": 20
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "world-cup-2014",
+      "playerId": "rui-patricio",
+      "shirtNumber": 12
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "world-cup-2014",
+      "playerId": "silvestre-varela",
+      "shirtNumber": 18
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "world-cup-2014",
+      "playerId": "vieirinha",
+      "shirtNumber": 10
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "world-cup-2014",
+      "playerId": "william-carvalho",
+      "shirtNumber": 6
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "world-cup-2018",
+      "playerId": "adrien-silva",
+      "shirtNumber": 23
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "world-cup-2018",
+      "playerId": "andre-silva-footballer-born-1995",
+      "shirtNumber": 9
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "world-cup-2018",
+      "playerId": "anthony-lopes",
+      "shirtNumber": 12
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "world-cup-2018",
+      "playerId": "bernardo-silva",
+      "shirtNumber": 11
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "world-cup-2018",
+      "playerId": "beto-footballer-born-1982",
+      "shirtNumber": 22
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "world-cup-2018",
+      "playerId": "bruno-alves",
+      "shirtNumber": 2
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "world-cup-2018",
+      "playerId": "bruno-fernandes",
+      "shirtNumber": 16
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "world-cup-2018",
+      "playerId": "cedric-soares",
+      "shirtNumber": 21
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "world-cup-2018",
+      "playerId": "cristiano-ronaldo",
+      "shirtNumber": 7
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "world-cup-2018",
+      "playerId": "gelson-martins",
+      "shirtNumber": 18
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "world-cup-2018",
+      "playerId": "goncalo-guedes",
+      "shirtNumber": 17
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "world-cup-2018",
+      "playerId": "joao-mario-footballer-born-january-1993",
+      "shirtNumber": 10
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "world-cup-2018",
+      "playerId": "joao-moutinho",
+      "shirtNumber": 8
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "world-cup-2018",
+      "playerId": "jose-fonte",
+      "shirtNumber": 6
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "world-cup-2018",
+      "playerId": "manuel-fernandes-footballer-born-1986",
+      "shirtNumber": 4
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "world-cup-2018",
+      "playerId": "mario-rui",
+      "shirtNumber": 19
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "world-cup-2018",
+      "playerId": "pepe-footballer-born-1983",
+      "shirtNumber": 3
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "world-cup-2018",
+      "playerId": "raphael-guerreiro",
+      "shirtNumber": 5
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "world-cup-2018",
+      "playerId": "ricardo-pereira-footballer-born-1993",
+      "shirtNumber": 15
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "world-cup-2018",
+      "playerId": "ricardo-quaresma",
+      "shirtNumber": 20
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "world-cup-2018",
+      "playerId": "ruben-dias",
+      "shirtNumber": 13
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "world-cup-2018",
+      "playerId": "rui-patricio",
+      "shirtNumber": 1
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "world-cup-2018",
+      "playerId": "william-carvalho",
+      "shirtNumber": 14
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "world-cup-2022",
+      "playerId": "andre-silva-footballer-born-1995",
+      "shirtNumber": 9
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "world-cup-2022",
+      "playerId": "antonio-silva-footballer",
+      "shirtNumber": 24
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "world-cup-2022",
+      "playerId": "bernardo-silva",
+      "shirtNumber": 10
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "world-cup-2022",
+      "playerId": "bruno-fernandes",
+      "shirtNumber": 8
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "world-cup-2022",
+      "playerId": "cristiano-ronaldo",
+      "shirtNumber": 7
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "world-cup-2022",
+      "playerId": "danilo-pereira",
+      "shirtNumber": 13
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "world-cup-2022",
+      "playerId": "diogo-costa",
+      "shirtNumber": 22
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "world-cup-2022",
+      "playerId": "diogo-dalot",
+      "shirtNumber": 2
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "world-cup-2022",
+      "playerId": "goncalo-ramos",
+      "shirtNumber": 26
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "world-cup-2022",
+      "playerId": "joao-cancelo",
+      "shirtNumber": 20
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "world-cup-2022",
+      "playerId": "joao-felix",
+      "shirtNumber": 11
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "world-cup-2022",
+      "playerId": "joao-mario-footballer-born-january-1993",
+      "shirtNumber": 17
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "world-cup-2022",
+      "playerId": "joao-palhinha",
+      "shirtNumber": 6
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "world-cup-2022",
+      "playerId": "jose-sa",
+      "shirtNumber": 12
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "world-cup-2022",
+      "playerId": "matheus-nunes",
+      "shirtNumber": 23
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "world-cup-2022",
+      "playerId": "nuno-mendes-footballer-born-2002",
+      "shirtNumber": 19
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "world-cup-2022",
+      "playerId": "otavio-footballer-born-1995",
+      "shirtNumber": 25
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "world-cup-2022",
+      "playerId": "pepe-footballer-born-1983",
+      "shirtNumber": 3
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "world-cup-2022",
+      "playerId": "rafael-leao",
+      "shirtNumber": 15
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "world-cup-2022",
+      "playerId": "raphael-guerreiro",
+      "shirtNumber": 5
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "world-cup-2022",
+      "playerId": "ricardo-horta",
+      "shirtNumber": 21
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "world-cup-2022",
+      "playerId": "ruben-dias",
+      "shirtNumber": 4
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "world-cup-2022",
+      "playerId": "ruben-neves",
+      "shirtNumber": 18
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "world-cup-2022",
+      "playerId": "rui-patricio",
+      "shirtNumber": 1
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "world-cup-2022",
+      "playerId": "vitinha",
+      "shirtNumber": 16
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "world-cup-2022",
+      "playerId": "william-carvalho",
+      "shirtNumber": 14
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "world-cup-2026",
+      "playerId": "bernardo-silva",
+      "shirtNumber": 10
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "world-cup-2026",
+      "playerId": "bruno-fernandes",
+      "shirtNumber": 8
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "world-cup-2026",
+      "playerId": "cristiano-ronaldo",
+      "shirtNumber": 7
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "world-cup-2026",
+      "playerId": "diogo-costa",
+      "shirtNumber": 1
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "world-cup-2026",
+      "playerId": "diogo-dalot",
+      "shirtNumber": 5
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "world-cup-2026",
+      "playerId": "francisco-conceicao",
+      "shirtNumber": 26
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "world-cup-2026",
+      "playerId": "francisco-trincao",
+      "shirtNumber": 16
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "world-cup-2026",
+      "playerId": "goncalo-guedes",
+      "shirtNumber": 19
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "world-cup-2026",
+      "playerId": "goncalo-inacio",
+      "shirtNumber": 14
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "world-cup-2026",
+      "playerId": "goncalo-ramos",
+      "shirtNumber": 9
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "world-cup-2026",
+      "playerId": "joao-cancelo",
+      "shirtNumber": 20
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "world-cup-2026",
+      "playerId": "joao-felix",
+      "shirtNumber": 11
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "world-cup-2026",
+      "playerId": "joao-neves",
+      "shirtNumber": 15
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "world-cup-2026",
+      "playerId": "jose-sa",
+      "shirtNumber": 12
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "world-cup-2026",
+      "playerId": "matheus-nunes",
+      "shirtNumber": 6
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "world-cup-2026",
+      "playerId": "nelson-semedo",
+      "shirtNumber": 2
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "world-cup-2026",
+      "playerId": "nuno-mendes-footballer-born-2002",
+      "shirtNumber": 25
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "world-cup-2026",
+      "playerId": "pedro-neto",
+      "shirtNumber": 18
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "world-cup-2026",
+      "playerId": "rafael-leao",
+      "shirtNumber": 17
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "world-cup-2026",
+      "playerId": "renato-veiga",
+      "shirtNumber": 13
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "world-cup-2026",
+      "playerId": "ruben-dias",
+      "shirtNumber": 3
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "world-cup-2026",
+      "playerId": "ruben-neves",
+      "shirtNumber": 21
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "world-cup-2026",
+      "playerId": "rui-silva-footballer-born-1994",
+      "shirtNumber": 22
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "world-cup-2026",
+      "playerId": "samu-costa",
+      "shirtNumber": 24
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "world-cup-2026",
+      "playerId": "tomas-araujo",
+      "shirtNumber": 4
+    },
+    {
+      "countryId": "portekiz",
+      "tournamentId": "world-cup-2026",
+      "playerId": "vitinha",
+      "shirtNumber": 23
+    }
+  ]
+}

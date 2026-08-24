@@ -1,0 +1,6349 @@
+{
+  "country": {
+    "id": "danimarka",
+    "nameTr": "Danimarka",
+    "nameEn": "Denmark",
+    "iso3": "DNK",
+    "flagEmoji": "🇩🇰",
+    "confederation": "UEFA",
+    "theme": {
+      "sky": "#c8102e",
+      "skySoft": "#fff0f2",
+      "navy": "#762034",
+      "gold": "#f6c453"
+    }
+  },
+  "tournaments": [
+    {
+      "id": "euro-1964",
+      "type": "continental",
+      "year": 1964,
+      "nameTr": "Avrupa Şampiyonası",
+      "nameEn": "UEFA European Championship",
+      "sourceUrl": "https://en.wikipedia.org/wiki/UEFA_Euro_1964_squads",
+      "retrievedAt": "2026-08-03"
+    },
+    {
+      "id": "euro-1984",
+      "type": "continental",
+      "year": 1984,
+      "nameTr": "Avrupa Şampiyonası",
+      "nameEn": "UEFA European Championship",
+      "sourceUrl": "https://en.wikipedia.org/wiki/UEFA_Euro_1984_squads",
+      "retrievedAt": "2026-08-03"
+    },
+    {
+      "id": "euro-1988",
+      "type": "continental",
+      "year": 1988,
+      "nameTr": "Avrupa Şampiyonası",
+      "nameEn": "UEFA European Championship",
+      "sourceUrl": "https://en.wikipedia.org/wiki/UEFA_Euro_1988_squads",
+      "retrievedAt": "2026-08-03"
+    },
+    {
+      "id": "euro-1992",
+      "type": "continental",
+      "year": 1992,
+      "nameTr": "Avrupa Şampiyonası",
+      "nameEn": "UEFA European Championship",
+      "sourceUrl": "https://en.wikipedia.org/wiki/UEFA_Euro_1992_squads",
+      "retrievedAt": "2026-08-03"
+    },
+    {
+      "id": "euro-1996",
+      "type": "continental",
+      "year": 1996,
+      "nameTr": "Avrupa Şampiyonası",
+      "nameEn": "UEFA European Championship",
+      "sourceUrl": "https://en.wikipedia.org/wiki/UEFA_Euro_1996_squads",
+      "retrievedAt": "2026-08-03"
+    },
+    {
+      "id": "euro-2000",
+      "type": "continental",
+      "year": 2000,
+      "nameTr": "Avrupa Şampiyonası",
+      "nameEn": "UEFA European Championship",
+      "sourceUrl": "https://en.wikipedia.org/wiki/UEFA_Euro_2000_squads",
+      "retrievedAt": "2026-08-03"
+    },
+    {
+      "id": "euro-2004",
+      "type": "continental",
+      "year": 2004,
+      "nameTr": "Avrupa Şampiyonası",
+      "nameEn": "UEFA European Championship",
+      "sourceUrl": "https://en.wikipedia.org/wiki/UEFA_Euro_2004_squads",
+      "retrievedAt": "2026-08-03"
+    },
+    {
+      "id": "euro-2012",
+      "type": "continental",
+      "year": 2012,
+      "nameTr": "Avrupa Şampiyonası",
+      "nameEn": "UEFA European Championship",
+      "sourceUrl": "https://en.wikipedia.org/wiki/UEFA_Euro_2012_squads",
+      "retrievedAt": "2026-08-03"
+    },
+    {
+      "id": "euro-2020",
+      "type": "continental",
+      "year": 2020,
+      "nameTr": "Avrupa Şampiyonası",
+      "nameEn": "UEFA European Championship",
+      "sourceUrl": "https://en.wikipedia.org/wiki/UEFA_Euro_2020_squads",
+      "retrievedAt": "2026-08-03"
+    },
+    {
+      "id": "euro-2024",
+      "type": "continental",
+      "year": 2024,
+      "nameTr": "Avrupa Şampiyonası",
+      "nameEn": "UEFA European Championship",
+      "sourceUrl": "https://en.wikipedia.org/wiki/UEFA_Euro_2024_squads",
+      "retrievedAt": "2026-08-03"
+    },
+    {
+      "id": "olympics-1908",
+      "type": "olympic",
+      "year": 1908,
+      "nameTr": "Olimpiyat",
+      "nameEn": "Summer Olympics men's football tournament",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Football_at_the_1908_Summer_Olympics_%E2%80%93_Men%27s_team_squads",
+      "retrievedAt": "2026-08-03"
+    },
+    {
+      "id": "olympics-1912",
+      "type": "olympic",
+      "year": 1912,
+      "nameTr": "Olimpiyat",
+      "nameEn": "Summer Olympics men's football tournament",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Football_at_the_1912_Summer_Olympics_%E2%80%93_Men%27s_team_squads",
+      "retrievedAt": "2026-08-03"
+    },
+    {
+      "id": "olympics-1920",
+      "type": "olympic",
+      "year": 1920,
+      "nameTr": "Olimpiyat",
+      "nameEn": "Summer Olympics men's football tournament",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Football_at_the_1920_Summer_Olympics_%E2%80%93_Men%27s_team_squads",
+      "retrievedAt": "2026-08-03"
+    },
+    {
+      "id": "olympics-1948",
+      "type": "olympic",
+      "year": 1948,
+      "nameTr": "Olimpiyat",
+      "nameEn": "Summer Olympics men's football tournament",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Football_at_the_1948_Summer_Olympics_%E2%80%93_Men%27s_team_squads",
+      "retrievedAt": "2026-08-03"
+    },
+    {
+      "id": "olympics-1952",
+      "type": "olympic",
+      "year": 1952,
+      "nameTr": "Olimpiyat",
+      "nameEn": "Summer Olympics men's football tournament",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Football_at_the_1952_Summer_Olympics_%E2%80%93_Men%27s_team_squads",
+      "retrievedAt": "2026-08-03"
+    },
+    {
+      "id": "olympics-1960",
+      "type": "olympic",
+      "year": 1960,
+      "nameTr": "Olimpiyat",
+      "nameEn": "Summer Olympics men's football tournament",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Football_at_the_1960_Summer_Olympics_%E2%80%93_Men%27s_team_squads",
+      "retrievedAt": "2026-08-03"
+    },
+    {
+      "id": "olympics-1972",
+      "type": "olympic",
+      "year": 1972,
+      "nameTr": "Olimpiyat",
+      "nameEn": "Summer Olympics men's football tournament",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Football_at_the_1972_Summer_Olympics_%E2%80%93_Men%27s_team_squads",
+      "retrievedAt": "2026-08-03"
+    },
+    {
+      "id": "olympics-1992",
+      "type": "olympic",
+      "year": 1992,
+      "nameTr": "Olimpiyat",
+      "nameEn": "Summer Olympics men's football tournament",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Football_at_the_1992_Summer_Olympics_%E2%80%93_Men%27s_team_squads",
+      "retrievedAt": "2026-08-03"
+    },
+    {
+      "id": "olympics-2016",
+      "type": "olympic",
+      "year": 2016,
+      "nameTr": "Olimpiyat",
+      "nameEn": "Summer Olympics men's football tournament",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Football_at_the_2016_Summer_Olympics_%E2%80%93_Men%27s_team_squads",
+      "retrievedAt": "2026-08-03"
+    },
+    {
+      "id": "world-cup-1986",
+      "type": "world-cup",
+      "year": 1986,
+      "nameTr": "Dünya Kupası",
+      "nameEn": "FIFA World Cup",
+      "sourceUrl": "https://en.wikipedia.org/wiki/1986_FIFA_World_Cup_squads",
+      "retrievedAt": "2026-08-03"
+    },
+    {
+      "id": "world-cup-1998",
+      "type": "world-cup",
+      "year": 1998,
+      "nameTr": "Dünya Kupası",
+      "nameEn": "FIFA World Cup",
+      "sourceUrl": "https://en.wikipedia.org/wiki/1998_FIFA_World_Cup_squads",
+      "retrievedAt": "2026-08-03"
+    },
+    {
+      "id": "world-cup-2002",
+      "type": "world-cup",
+      "year": 2002,
+      "nameTr": "Dünya Kupası",
+      "nameEn": "FIFA World Cup",
+      "sourceUrl": "https://en.wikipedia.org/wiki/2002_FIFA_World_Cup_squads",
+      "retrievedAt": "2026-08-03"
+    },
+    {
+      "id": "world-cup-2010",
+      "type": "world-cup",
+      "year": 2010,
+      "nameTr": "Dünya Kupası",
+      "nameEn": "FIFA World Cup",
+      "sourceUrl": "https://en.wikipedia.org/wiki/2010_FIFA_World_Cup_squads",
+      "retrievedAt": "2026-08-03"
+    },
+    {
+      "id": "world-cup-2018",
+      "type": "world-cup",
+      "year": 2018,
+      "nameTr": "Dünya Kupası",
+      "nameEn": "FIFA World Cup",
+      "sourceUrl": "https://en.wikipedia.org/wiki/2018_FIFA_World_Cup_squads",
+      "retrievedAt": "2026-08-03"
+    },
+    {
+      "id": "world-cup-2022",
+      "type": "world-cup",
+      "year": 2022,
+      "nameTr": "Dünya Kupası",
+      "nameEn": "FIFA World Cup",
+      "sourceUrl": "https://en.wikipedia.org/wiki/2022_FIFA_World_Cup_squads",
+      "retrievedAt": "2026-08-03"
+    }
+  ],
+  "players": [
+    {
+      "id": "aage-rou-jensen",
+      "name": "Aage Rou Jensen",
+      "wikipediaTitle": "Aage Rou Jensen",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Aage_Rou_Jensen",
+      "birthYear": 1924,
+      "position": "FW",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "alexander-bah",
+      "name": "Alexander Bah",
+      "wikipediaTitle": "Alexander Bah",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Alexander_Bah",
+      "birthYear": 1997,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "alf-olsen-footballer",
+      "name": "Alf Olsen",
+      "wikipediaTitle": "Alf Olsen (footballer)",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Alf_Olsen_(footballer)",
+      "birthYear": 1893,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "allan-nielsen",
+      "name": "Allan Nielsen",
+      "wikipediaTitle": "Allan Nielsen",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Allan_Nielsen",
+      "birthYear": 1971,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "allan-simonsen",
+      "name": "Allan Simonsen",
+      "wikipediaTitle": "Allan Simonsen",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Allan_Simonsen",
+      "birthYear": 1952,
+      "position": "FW",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "anders-christiansen",
+      "name": "Anders Christiansen",
+      "wikipediaTitle": "Anders Christiansen",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Anders_Christiansen",
+      "birthYear": 1990,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "anders-dreyer",
+      "name": "Anders Dreyer",
+      "wikipediaTitle": "Anders Dreyer",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Anders_Dreyer",
+      "birthYear": 1998,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "anders-lindegaard",
+      "name": "Anders Lindegaard",
+      "wikipediaTitle": "Anders Lindegaard",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Anders_Lindegaard",
+      "birthYear": 1984,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "andreas-bjelland",
+      "name": "Andreas Bjelland",
+      "wikipediaTitle": "Andreas Bjelland",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Andreas_Bjelland",
+      "birthYear": 1988,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "andreas-christensen",
+      "name": "Andreas Christensen",
+      "wikipediaTitle": "Andreas Christensen",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Andreas_Christensen",
+      "birthYear": 1996,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "andreas-cornelius",
+      "name": "Andreas Cornelius",
+      "wikipediaTitle": "Andreas Cornelius",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Andreas_Cornelius",
+      "birthYear": 1993,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "andreas-maxso",
+      "name": "Andreas Maxsø",
+      "wikipediaTitle": "Andreas Maxsø",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Andreas_Maxsø",
+      "birthYear": 1994,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "andreas-skov-olsen",
+      "name": "Andreas Skov Olsen",
+      "wikipediaTitle": "Andreas Skov Olsen",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Andreas_Skov_Olsen",
+      "birthYear": 1999,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "anthon-olsen",
+      "name": "Anthon Olsen",
+      "wikipediaTitle": "Anthon Olsen",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Anthon_Olsen",
+      "birthYear": 1889,
+      "position": "FW",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "august-lindgren",
+      "name": "August Lindgren",
+      "wikipediaTitle": "August Lindgren",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/August_Lindgren",
+      "birthYear": 1883,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "axel-dyrberg",
+      "name": "Axel Dyrberg",
+      "wikipediaTitle": "Axel Dyrberg",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Axel_Dyrberg?action=edit&redlink=1",
+      "birthYear": 1889,
+      "position": "MF",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "axel-petersen-footballer",
+      "name": "Axel Petersen",
+      "wikipediaTitle": "Axel Petersen (footballer)",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Axel_Petersen_(footballer)",
+      "birthYear": 1887,
+      "position": "FW",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "axel-pilmark",
+      "name": "Axel Pilmark",
+      "wikipediaTitle": "Axel Pilmark",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Axel_Pilmark",
+      "birthYear": 1925,
+      "position": "MF",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "axel-thufason",
+      "name": "Axel Thufason",
+      "wikipediaTitle": "Axel Thufason",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Axel_Thufason",
+      "birthYear": 1889,
+      "position": "FW",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "bent-christensen-arensoe",
+      "name": "Bent Christensen",
+      "wikipediaTitle": "Bent Christensen Arensøe",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Bent_Christensen_Arensøe",
+      "birthYear": 1967,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "bent-hansen-footballer",
+      "name": "Bent Hansen",
+      "wikipediaTitle": "Bent Hansen (footballer)",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Bent_Hansen_(footballer)",
+      "birthYear": 1933,
+      "position": "DF",
+      "positionConfidence": "disputed"
+    },
+    {
+      "id": "bent-krog",
+      "name": "Bent Krog",
+      "wikipediaTitle": "Bent Krog",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Bent_Krog",
+      "birthYear": 1935,
+      "position": "MF",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "bent-wolmar",
+      "name": "Bent Wolmar",
+      "wikipediaTitle": "Bent Wolmar",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Bent_Wolmar",
+      "birthYear": 1937,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "bernhard-andersen",
+      "name": "Bernhard Andersen",
+      "wikipediaTitle": "Bernhard Andersen",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Bernhard_Andersen",
+      "birthYear": 1892,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "birger-larsen-footballer",
+      "name": "Birger Larsen",
+      "wikipediaTitle": "Birger Larsen (footballer)",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Birger_Larsen_(footballer)",
+      "birthYear": 1942,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "bjarne-goldbaek",
+      "name": "Bjarne Goldbæk",
+      "wikipediaTitle": "Bjarne Goldbæk",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Bjarne_Goldbæk",
+      "birthYear": 1968,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "bjorn-kristensen-footballer-born-1963",
+      "name": "Bjørn Kristensen",
+      "wikipediaTitle": "Bjørn Kristensen (footballer, born 1963)",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Bjørn_Kristensen_(footballer,_born_1963)",
+      "birthYear": 1963,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "bjorn-rasmussen",
+      "name": "Bjørn Rasmussen",
+      "wikipediaTitle": "Bjørn Rasmussen",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Bjørn_Rasmussen",
+      "birthYear": 1885,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "brian-flies",
+      "name": "Brian Flies",
+      "wikipediaTitle": "Brian Flies",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Brian_Flies",
+      "birthYear": 1969,
+      "position": "GK",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "brian-laudrup",
+      "name": "Brian Laudrup",
+      "wikipediaTitle": "Brian Laudrup",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Brian_Laudrup",
+      "birthYear": 1969,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "brian-priske",
+      "name": "Brian Priske",
+      "wikipediaTitle": "Brian Priske",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Brian_Priske",
+      "birthYear": 1977,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "brian-steen-nielsen",
+      "name": "Brian Steen Nielsen",
+      "wikipediaTitle": "Brian Steen Nielsen",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Brian_Steen_Nielsen",
+      "birthYear": 1968,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "carl-aage-praest",
+      "name": "Carl Aage Præst",
+      "wikipediaTitle": "Carl Aage Præst",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Carl_Aage_Præst",
+      "birthYear": 1922,
+      "position": "FW",
+      "positionConfidence": "disputed"
+    },
+    {
+      "id": "carl-bertelsen",
+      "name": "Carl Bertelsen",
+      "wikipediaTitle": "Carl Bertelsen",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Carl_Bertelsen",
+      "birthYear": 1937,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "carl-hansen-footballer",
+      "name": "Carl Hansen",
+      "wikipediaTitle": "Carl Hansen (footballer)",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Carl_Hansen_(footballer)",
+      "birthYear": 1898,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "carl-holm",
+      "name": "Carl Holm",
+      "wikipediaTitle": "Carl Holm",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Carl_Holm",
+      "birthYear": 1927,
+      "position": "FW",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "casper-nielsen",
+      "name": "Casper Nielsen",
+      "wikipediaTitle": "Casper Nielsen",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Casper_Nielsen",
+      "birthYear": 1994,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "charles-buchwald",
+      "name": "Charles Buchwald",
+      "wikipediaTitle": "Charles Buchwald",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Charles_Buchwald",
+      "birthYear": 1880,
+      "position": "DF",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "christian-eriksen",
+      "name": "Christian Eriksen",
+      "wikipediaTitle": "Christian Eriksen",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Christian_Eriksen",
+      "birthYear": 1992,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "christian-grothan",
+      "name": "Christian Grøthan",
+      "wikipediaTitle": "Christian Grøthan",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Christian_Grøthan",
+      "birthYear": 1890,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "christian-morville",
+      "name": "Christian Morville",
+      "wikipediaTitle": "Christian Morville",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Christian_Morville",
+      "birthYear": 1891,
+      "position": "MF",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "christian-norgaard",
+      "name": "Christian Nørgaard",
+      "wikipediaTitle": "Christian Nørgaard",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Christian_Nørgaard",
+      "birthYear": 1994,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "christian-poulsen",
+      "name": "Christian Poulsen",
+      "wikipediaTitle": "Christian Poulsen",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Christian_Poulsen",
+      "birthYear": 1980,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "claus-christiansen-footballer-born-1967",
+      "name": "Claus Christiansen",
+      "wikipediaTitle": "Claus Christiansen (footballer, born 1967)",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Claus_Christiansen_(footballer,_born_1967)",
+      "birthYear": 1967,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "claus-jensen",
+      "name": "Claus Jensen",
+      "wikipediaTitle": "Claus Jensen",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Claus_Jensen",
+      "birthYear": 1977,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "claus-thomsen",
+      "name": "Claus Thomsen",
+      "wikipediaTitle": "Claus Thomsen",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Claus_Thomsen",
+      "birthYear": 1970,
+      "position": "DF",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "daniel-agger",
+      "name": "Daniel Agger",
+      "wikipediaTitle": "Daniel Agger",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Daniel_Agger",
+      "birthYear": 1984,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "daniel-jensen",
+      "name": "Daniel Jensen",
+      "wikipediaTitle": "Daniel Jensen",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Daniel_Jensen",
+      "birthYear": 1979,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "daniel-wass",
+      "name": "Daniel Wass",
+      "wikipediaTitle": "Daniel Wass",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Daniel_Wass",
+      "birthYear": 1989,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "dennis-rommedahl",
+      "name": "Dennis Rommedahl",
+      "wikipediaTitle": "Dennis Rommedahl",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Dennis_Rommedahl",
+      "birthYear": 1978,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "dion-ornvold",
+      "name": "Dion Ørnvold",
+      "wikipediaTitle": "Dion Ørnvold",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Dion_Ørnvold",
+      "birthYear": 1921,
+      "position": "MF",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "ebbe-sand",
+      "name": "Ebbe Sand",
+      "wikipediaTitle": "Ebbe Sand",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ebbe_Sand",
+      "birthYear": 1972,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "edigeison-gomes",
+      "name": "Edigeison Gomes",
+      "wikipediaTitle": "Edigeison Gomes",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Edigeison_Gomes",
+      "birthYear": 1988,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "edvin-hansen",
+      "name": "Edvin Hansen",
+      "wikipediaTitle": "Edvin Hansen",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Edvin_Hansen",
+      "birthYear": 1920,
+      "position": "DF",
+      "positionConfidence": "disputed"
+    },
+    {
+      "id": "eigil-nielsen-footballer-born-1918",
+      "name": "Eigil Nielsen",
+      "wikipediaTitle": "Eigil Nielsen (footballer born 1918)",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Eigil_Nielsen_(footballer_born_1918)",
+      "birthYear": 1918,
+      "position": "GK",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "einar-middelboe",
+      "name": "Einar Middelboe",
+      "wikipediaTitle": "Einar Middelboe",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Einar_Middelboe",
+      "birthYear": 1883,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "emil-jorgensen",
+      "name": "Emil Jørgensen",
+      "wikipediaTitle": "Emil Jørgensen",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Emil_Jørgensen",
+      "birthYear": 1882,
+      "position": "MF",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "emil-larsen",
+      "name": "Emil Larsen",
+      "wikipediaTitle": "Emil Larsen",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Emil_Larsen",
+      "birthYear": 1991,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "erik-bo-andersen",
+      "name": "Erik Bo Andersen",
+      "wikipediaTitle": "Erik Bo Andersen",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Erik_Bo_Andersen",
+      "birthYear": 1970,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "erik-gaardhoje",
+      "name": "Erik Gaardhøje",
+      "wikipediaTitle": "Erik Gaardhøje",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Erik_Gaardhøje",
+      "birthYear": 1938,
+      "position": "GK",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "erik-kuld-jensen",
+      "name": "Erik Kuld Jensen",
+      "wikipediaTitle": "Erik Kuld Jensen",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Erik_Kuld_Jensen",
+      "birthYear": 1925,
+      "position": "FW",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "erik-terkelsen",
+      "name": "Erik Terkelsen",
+      "wikipediaTitle": "Erik Terkelsen",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Erik_Terkelsen",
+      "birthYear": 1926,
+      "position": "MF",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "erling-linde-larsen",
+      "name": "Erling Linde Larsen",
+      "wikipediaTitle": "Erling Linde Larsen",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Erling_Linde_Larsen",
+      "birthYear": 1931,
+      "position": "FW",
+      "positionConfidence": "disputed"
+    },
+    {
+      "id": "erling-nielsen-footballer",
+      "name": "Erling Nielsen",
+      "wikipediaTitle": "Erling Nielsen (footballer)",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Erling_Nielsen_(footballer)",
+      "birthYear": 1935,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "erling-sorensen",
+      "name": "Erling Sørensen",
+      "wikipediaTitle": "Erling Sørensen",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Erling_Sørensen",
+      "birthYear": 1920,
+      "position": "FW",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "finn-sterobo",
+      "name": "Finn Sterobo",
+      "wikipediaTitle": "Finn Sterobo",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Finn_Sterobo",
+      "birthYear": 1933,
+      "position": "GK",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "flemming-ahlberg",
+      "name": "Flemming Ahlberg",
+      "wikipediaTitle": "Flemming Ahlberg",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Flemming_Ahlberg",
+      "birthYear": 1946,
+      "position": "DF",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "flemming-christensen",
+      "name": "Flemming Christensen",
+      "wikipediaTitle": "Flemming Christensen",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Flemming_Christensen",
+      "birthYear": 1958,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "flemming-nielsen",
+      "name": "Flemming Nielsen",
+      "wikipediaTitle": "Flemming Nielsen",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Flemming_Nielsen",
+      "birthYear": 1934,
+      "position": "MF",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "flemming-pedersen-footballer",
+      "name": "Flemming Pedersen",
+      "wikipediaTitle": "Flemming Pedersen (footballer)",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Flemming_Pedersen_(footballer)",
+      "birthYear": 1947,
+      "position": "DF",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "flemming-povlsen",
+      "name": "Flemming Povlsen",
+      "wikipediaTitle": "Flemming Povlsen",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Flemming_Povlsen",
+      "birthYear": 1966,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "frank-arnesen",
+      "name": "Frank Arnesen",
+      "wikipediaTitle": "Frank Arnesen",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Frank_Arnesen",
+      "birthYear": 1956,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "frederik-borsting",
+      "name": "Frederik Børsting",
+      "wikipediaTitle": "Frederik Børsting",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Frederik_Børsting",
+      "birthYear": 1995,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "frederik-ronnow",
+      "name": "Frederik Rønnow",
+      "wikipediaTitle": "Frederik Rønnow",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Frederik_Rønnow",
+      "birthYear": 1992,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "fritz-tarp",
+      "name": "Fritz Tarp",
+      "wikipediaTitle": "Fritz Tarp",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Fritz_Tarp",
+      "birthYear": 1899,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "gunnar-aaby",
+      "name": "Gunnar Aaby",
+      "wikipediaTitle": "Gunnar Aaby",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Gunnar_Aaby",
+      "birthYear": 1895,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "hans-christian-nielsen",
+      "name": "Hans Christian Nielsen",
+      "wikipediaTitle": "Hans Christian Nielsen",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Hans_Christian_Nielsen",
+      "birthYear": 1928,
+      "position": "FW",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "hans-colberg",
+      "name": "Hans Colberg",
+      "wikipediaTitle": "Hans Colberg",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Hans_Colberg",
+      "birthYear": 1921,
+      "position": "DF",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "hans-ewald-hansen",
+      "name": "Hans Ewald Hansen",
+      "wikipediaTitle": "Hans Ewald Hansen",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Hans_Ewald_Hansen",
+      "birthYear": 1944,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "harald-bohr",
+      "name": "Harald Bohr",
+      "wikipediaTitle": "Harald Bohr",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Harald_Bohr",
+      "birthYear": 1887,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "harald-hansen-footballer",
+      "name": "Harald Hansen",
+      "wikipediaTitle": "Harald Hansen (footballer)",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Harald_Hansen_(footballer)",
+      "birthYear": 1884,
+      "position": "DF",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "harald-nielsen",
+      "name": "Harald Nielsen",
+      "wikipediaTitle": "Harald Nielsen",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Harald_Nielsen",
+      "birthYear": 1941,
+      "position": "FW",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "heino-hansen",
+      "name": "Heino Hansen",
+      "wikipediaTitle": "Heino Hansen",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Heino_Hansen",
+      "birthYear": 1947,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "heinz-hildebrandt",
+      "name": "Heinz Hildebrandt",
+      "wikipediaTitle": "Heinz Hildebrandt",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Heinz_Hildebrandt",
+      "birthYear": 1943,
+      "position": "GK",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "helge-jorgensen-footballer-born-1937",
+      "name": "Helge Jørgensen",
+      "wikipediaTitle": "Helge Jørgensen (footballer, born 1937)",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Helge_Jørgensen_(footballer,_born_1937)",
+      "birthYear": 1937,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "helge-vonsyld",
+      "name": "Helge Vonsyld",
+      "wikipediaTitle": "Helge Vonsyld",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Helge_Vonsyld",
+      "birthYear": 1947,
+      "position": "DF",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "henning-enoksen",
+      "name": "Henning Enoksen",
+      "wikipediaTitle": "Henning Enoksen",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Henning_Enoksen",
+      "birthYear": 1935,
+      "position": "FW",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "henning-helbrandt",
+      "name": "Henning Helbrandt",
+      "wikipediaTitle": "Henning Helbrandt",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Henning_Helbrandt",
+      "birthYear": 1935,
+      "position": "DF",
+      "positionConfidence": "disputed"
+    },
+    {
+      "id": "henrik-andersen",
+      "name": "Henrik Andersen",
+      "wikipediaTitle": "Henrik Andersen",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Henrik_Andersen",
+      "birthYear": 1965,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "henrik-dalsgaard",
+      "name": "Henrik Dalsgaard",
+      "wikipediaTitle": "Henrik Dalsgaard",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Henrik_Dalsgaard",
+      "birthYear": 1989,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "henrik-larsen",
+      "name": "Henrik Larsen",
+      "wikipediaTitle": "Henrik Larsen",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Henrik_Larsen",
+      "birthYear": 1966,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "henry-from",
+      "name": "Henry From",
+      "wikipediaTitle": "Henry From",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Henry_From",
+      "birthYear": 1926,
+      "position": "GK",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "hjalmar-christoffersen",
+      "name": "Hjalmar Christoffersen",
+      "wikipediaTitle": "Hjalmar Christoffersen",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Hjalmar_Christoffersen",
+      "birthYear": 1889,
+      "position": "FW",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "holger-forchhammer",
+      "name": "Holger Forchhammer",
+      "wikipediaTitle": "Holger Forchhammer",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Holger_Forchhammer",
+      "birthYear": null,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "holger-seebach",
+      "name": "Holger Seebach",
+      "wikipediaTitle": "Holger Seebach",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Holger_Seebach",
+      "birthYear": 1922,
+      "position": "FW",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "ivan-jensen",
+      "name": "Ivan Jensen",
+      "wikipediaTitle": "Ivan Jensen",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ivan_Jensen",
+      "birthYear": 1922,
+      "position": "MF",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "ivan-nielsen",
+      "name": "Ivan Nielsen",
+      "wikipediaTitle": "Ivan Nielsen",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ivan_Nielsen",
+      "birthYear": 1956,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "ivar-lykke-footballer",
+      "name": "Ivar Lykke",
+      "wikipediaTitle": "Ivar Lykke (footballer)",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ivar_Lykke_(footballer)",
+      "birthYear": 1889,
+      "position": "MF",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "jack-hansen-danish-footballer",
+      "name": "Jack Hansen",
+      "wikipediaTitle": "Jack Hansen (Danish footballer)",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Jack_Hansen_(Danish_footballer)",
+      "birthYear": 1947,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "jacob-barrett-laursen",
+      "name": "Jacob Barrett Laursen",
+      "wikipediaTitle": "Jacob Barrett Laursen",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Jacob_Barrett_Laursen",
+      "birthYear": 1994,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "jacob-bruun-larsen",
+      "name": "Jacob Bruun Larsen",
+      "wikipediaTitle": "Jacob Bruun Larsen",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Jacob_Bruun_Larsen",
+      "birthYear": 1998,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "jacob-laursen",
+      "name": "Jacob Laursen",
+      "wikipediaTitle": "Jacob Laursen",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Jacob_Laursen",
+      "birthYear": 1971,
+      "position": "DF",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "jakob-blabjerg",
+      "name": "Jakob Blåbjerg",
+      "wikipediaTitle": "Jakob Blåbjerg",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Jakob_Blåbjerg",
+      "birthYear": 1995,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "jakob-kjeldbjerg",
+      "name": "Jakob Kjeldbjerg",
+      "wikipediaTitle": "Jakob Kjeldbjerg",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Jakob_Kjeldbjerg",
+      "birthYear": 1969,
+      "position": "MF",
+      "positionConfidence": "disputed"
+    },
+    {
+      "id": "jakob-poulsen",
+      "name": "Jakob Poulsen",
+      "wikipediaTitle": "Jakob Poulsen",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Jakob_Poulsen",
+      "birthYear": 1983,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "jan-bartram",
+      "name": "Jan Bartram",
+      "wikipediaTitle": "Jan Bartram",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Jan_Bartram",
+      "birthYear": 1962,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "jan-heintze",
+      "name": "Jan Heintze",
+      "wikipediaTitle": "Jan Heintze",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Jan_Heintze",
+      "birthYear": 1963,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "jan-michaelsen",
+      "name": "Jan Michaelsen",
+      "wikipediaTitle": "Jan Michaelsen",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Jan_Michaelsen",
+      "birthYear": 1970,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "jan-molby",
+      "name": "Jan Mølby",
+      "wikipediaTitle": "Jan Mølby",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Jan_Mølby",
+      "birthYear": 1963,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "jannik-vestergaard",
+      "name": "Jannik Vestergaard",
+      "wikipediaTitle": "Jannik Vestergaard",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Jannik_Vestergaard",
+      "birthYear": 1992,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "jens-christian-madsen",
+      "name": "Jens Christian Madsen",
+      "wikipediaTitle": "Jens Christian Madsen",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Jens_Christian_Madsen",
+      "birthYear": 1970,
+      "position": "MF",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "jens-christian-mosegaard-madsen",
+      "name": "Jens Christian Mosegaard Madsen",
+      "wikipediaTitle": "Jens Christian Mosegaard Madsen",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Jens_Christian_Mosegaard_Madsen",
+      "birthYear": 1970,
+      "position": "FW",
+      "positionConfidence": "disputed"
+    },
+    {
+      "id": "jens-jensen-footballer",
+      "name": "Jens Jensen",
+      "wikipediaTitle": "Jens Jensen (footballer)",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Jens_Jensen_(footballer)",
+      "birthYear": 1890,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "jens-jonsson",
+      "name": "Jens Jønsson",
+      "wikipediaTitle": "Jens Jønsson",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Jens_Jønsson",
+      "birthYear": 1993,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "jens-jorgen-hansen",
+      "name": "Jens Jørgen Hansen",
+      "wikipediaTitle": "Jens Jørgen Hansen",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Jens_Jørgen_Hansen",
+      "birthYear": 1939,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "jens-jorn-bertelsen",
+      "name": "Jens Jørn Bertelsen",
+      "wikipediaTitle": "Jens Jørn Bertelsen",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Jens_Jørn_Bertelsen",
+      "birthYear": 1952,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "jens-peter-hansen",
+      "name": "Jens Peter Hansen",
+      "wikipediaTitle": "Jens Peter Hansen",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Jens_Peter_Hansen",
+      "birthYear": 1927,
+      "position": "FW",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "jens-risager",
+      "name": "Jens Risager",
+      "wikipediaTitle": "Jens Risager",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Jens_Risager",
+      "birthYear": 1971,
+      "position": "DF",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "jens-stryger-larsen",
+      "name": "Jens Stryger Larsen",
+      "wikipediaTitle": "Jens Stryger Larsen",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Jens_Stryger_Larsen",
+      "birthYear": 1991,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "jens-torstensen",
+      "name": "Jens Torstensen",
+      "wikipediaTitle": "Jens Torstensen",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Jens_Torstensen",
+      "birthYear": 1928,
+      "position": "FW",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "jeppe-hojbjerg",
+      "name": "Jeppe Højbjerg",
+      "wikipediaTitle": "Jeppe Højbjerg",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Jeppe_Højbjerg",
+      "birthYear": 1995,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "jes-hogh",
+      "name": "Jes Høgh",
+      "wikipediaTitle": "Jes Høgh",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Jes_Høgh",
+      "birthYear": 1966,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "jesper-christiansen-footballer-born-1978",
+      "name": "Jesper Christiansen",
+      "wikipediaTitle": "Jesper Christiansen (footballer, born 1978)",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Jesper_Christiansen_(footballer,_born_1978)",
+      "birthYear": 1978,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "jesper-gronkjaer",
+      "name": "Jesper Grønkjær",
+      "wikipediaTitle": "Jesper Grønkjær",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Jesper_Grønkjær",
+      "birthYear": 1977,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "jesper-lindstrom",
+      "name": "Jesper Lindstrøm",
+      "wikipediaTitle": "Jesper Lindstrøm",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Jesper_Lindstrøm",
+      "birthYear": 2000,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "jesper-olsen",
+      "name": "Jesper Olsen",
+      "wikipediaTitle": "Jesper Olsen",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Jesper_Olsen",
+      "birthYear": 1961,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "joachim-andersen-footballer",
+      "name": "Joachim Andersen",
+      "wikipediaTitle": "Joachim Andersen (footballer)",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Joachim_Andersen_(footballer)",
+      "birthYear": 1996,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "joakim-maehle",
+      "name": "Joakim Mæhle",
+      "wikipediaTitle": "Joakim Mæhle",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Joakim_Mæhle",
+      "birthYear": 1997,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "johannes-gandil",
+      "name": "Johannes Gandil",
+      "wikipediaTitle": "Johannes Gandil",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Johannes_Gandil",
+      "birthYear": 1873,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "johannes-ploger",
+      "name": "Johannes Pløger",
+      "wikipediaTitle": "Johannes Pløger",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Johannes_Pløger",
+      "birthYear": 1922,
+      "position": "FW",
+      "positionConfidence": "disputed"
+    },
+    {
+      "id": "john-amdisen",
+      "name": "John Amdisen",
+      "wikipediaTitle": "John Amdisen",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/John_Amdisen",
+      "birthYear": 1934,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "john-danielsen",
+      "name": "John Danielsen",
+      "wikipediaTitle": "John Danielsen",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/John_Danielsen",
+      "birthYear": 1939,
+      "position": "FW",
+      "positionConfidence": "disputed"
+    },
+    {
+      "id": "john-eriksen",
+      "name": "John Eriksen",
+      "wikipediaTitle": "John Eriksen",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/John_Eriksen",
+      "birthYear": 1957,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "john-hansen-danish-footballer",
+      "name": "John Hansen",
+      "wikipediaTitle": "John Hansen (Danish footballer)",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/John_Hansen_(Danish_footballer)",
+      "birthYear": 1924,
+      "position": "FW",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "john-helt",
+      "name": "John Helt",
+      "wikipediaTitle": "John Helt",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/John_Helt",
+      "birthYear": 1959,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "john-jensen",
+      "name": "John Jensen",
+      "wikipediaTitle": "John Jensen",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/John_Jensen",
+      "birthYear": 1965,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "john-lauridsen",
+      "name": "John Lauridsen",
+      "wikipediaTitle": "John Lauridsen",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/John_Lauridsen",
+      "birthYear": 1959,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "john-sivebaek",
+      "name": "John Sivebæk",
+      "wikipediaTitle": "John Sivebæk",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/John_Sivebæk",
+      "birthYear": 1961,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "johnny-molby",
+      "name": "Johnny Mølby",
+      "wikipediaTitle": "Johnny Mølby",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Johnny_Mølby",
+      "birthYear": 1969,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "jon-dahl-tomasson",
+      "name": "Jon Dahl Tomasson",
+      "wikipediaTitle": "Jon Dahl Tomasson",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Jon_Dahl_Tomasson",
+      "birthYear": 1976,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "jonas-knudsen",
+      "name": "Jonas Knudsen",
+      "wikipediaTitle": "Jonas Knudsen",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Jonas_Knudsen",
+      "birthYear": 1992,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "jonas-lossl",
+      "name": "Jonas Lössl",
+      "wikipediaTitle": "Jonas Lössl",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Jonas_Lössl",
+      "birthYear": 1989,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "jonas-wind",
+      "name": "Jonas Wind",
+      "wikipediaTitle": "Jonas Wind",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Jonas_Wind",
+      "birthYear": 1999,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "jores-okore",
+      "name": "Jores Okore",
+      "wikipediaTitle": "Jores Okore",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Jores_Okore",
+      "birthYear": 1992,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "jorgen-hansen-footballer",
+      "name": "Jørgen Hansen",
+      "wikipediaTitle": "Jørgen Hansen (footballer)",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Jørgen_Hansen_(footballer)",
+      "birthYear": 1931,
+      "position": "FW",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "jorgen-johansen",
+      "name": "Jørgen Johansen",
+      "wikipediaTitle": "Jørgen Johansen",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Jørgen_Johansen",
+      "birthYear": 1928,
+      "position": "GK",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "jorgen-leschly-sorensen",
+      "name": "Jørgen Leschly Sørensen",
+      "wikipediaTitle": "Jørgen Leschly Sørensen",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Jørgen_Leschly_Sørensen",
+      "birthYear": 1922,
+      "position": "FW",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "jorgen-olesen",
+      "name": "Jørgen Olesen",
+      "wikipediaTitle": "Jørgen Olesen",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Jørgen_Olesen",
+      "birthYear": 1924,
+      "position": "MF",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "jorgen-rasmussen-footballer-born-1937",
+      "name": "Jørgen Rasmussen (1937)",
+      "wikipediaTitle": "Jørgen Rasmussen (footballer, born 1937)",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Jørgen_Rasmussen_(footballer,_born_1937)",
+      "birthYear": 1937,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "jorgen-rasmussen-footballer-born-1945",
+      "name": "Jørgen Rasmussen",
+      "wikipediaTitle": "Jørgen Rasmussen (footballer, born 1945)",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Jørgen_Rasmussen_(footballer,_born_1945)",
+      "birthYear": 1945,
+      "position": "DF",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "jorgen-w-hansen",
+      "name": "Jørgen W. Hansen",
+      "wikipediaTitle": "Jørgen W. Hansen",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Jørgen_W._Hansen",
+      "birthYear": 1925,
+      "position": "FW",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "jorgen-wagner-hansen",
+      "name": "Jørgen Wagner Hansen",
+      "wikipediaTitle": "Jørgen Wagner Hansen",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Jørgen_Wagner_Hansen",
+      "birthYear": 1925,
+      "position": "FW",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "jorn-sorensen",
+      "name": "Jørn Sørensen",
+      "wikipediaTitle": "Jørn Sørensen",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Jørn_Sørensen",
+      "birthYear": 1936,
+      "position": "FW",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "kaj-hansen-footballer-born-1940",
+      "name": "Kaj Hansen",
+      "wikipediaTitle": "Kaj Hansen (footballer, born 1940)",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Kaj_Hansen_(footballer,_born_1940)",
+      "birthYear": 1940,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "karl-aage-hansen",
+      "name": "Karl Aage Hansen",
+      "wikipediaTitle": "Karl Aage Hansen",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Karl_Aage_Hansen",
+      "birthYear": 1921,
+      "position": "FW",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "kasper-bogelund",
+      "name": "Kasper Bøgelund",
+      "wikipediaTitle": "Kasper Bøgelund",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Kasper_Bøgelund",
+      "birthYear": 1980,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "kasper-dolberg",
+      "name": "Kasper Dolberg",
+      "wikipediaTitle": "Kasper Dolberg",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Kasper_Dolberg",
+      "birthYear": 1997,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "kasper-larsen",
+      "name": "Kasper Larsen",
+      "wikipediaTitle": "Kasper Larsen",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Kasper_Larsen",
+      "birthYear": 1993,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "kasper-schmeichel",
+      "name": "Kasper Schmeichel",
+      "wikipediaTitle": "Kasper Schmeichel",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Kasper_Schmeichel",
+      "birthYear": 1986,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "keld-bak",
+      "name": "Keld Bak",
+      "wikipediaTitle": "Keld Bak",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Keld_Bak",
+      "birthYear": 1944,
+      "position": "FW",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "kenneth-brylle-larsen",
+      "name": "Kenneth Brylle",
+      "wikipediaTitle": "Kenneth Brylle Larsen",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Kenneth_Brylle_Larsen",
+      "birthYear": 1959,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "kenneth-perez",
+      "name": "Kenneth Perez",
+      "wikipediaTitle": "Kenneth Perez",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Kenneth_Perez",
+      "birthYear": 1974,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "kent-nielsen-footballer",
+      "name": "Kent Nielsen",
+      "wikipediaTitle": "Kent Nielsen (footballer)",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Kent_Nielsen_(footballer)",
+      "birthYear": 1961,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "kim-christofte",
+      "name": "Kim Christofte",
+      "wikipediaTitle": "Kim Christofte",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Kim_Christofte",
+      "birthYear": 1960,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "kim-vilfort",
+      "name": "Kim Vilfort",
+      "wikipediaTitle": "Kim Vilfort",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Kim_Vilfort",
+      "birthYear": 1962,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "kjeld-thorst",
+      "name": "Kjeld Thorst",
+      "wikipediaTitle": "Kjeld Thorst",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Kjeld_Thorst",
+      "birthYear": 1940,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "klaus-berggreen",
+      "name": "Klaus Berggreen",
+      "wikipediaTitle": "Klaus Berggreen",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Klaus_Berggreen",
+      "birthYear": 1958,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "knud-bastrup-birk",
+      "name": "Knud Bastrup-Birk",
+      "wikipediaTitle": "Knud Bastrup-Birk",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Knud_Bastrup-Birk",
+      "birthYear": 1919,
+      "position": "DF",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "knud-blak-jensen",
+      "name": "Knud Blak Jensen",
+      "wikipediaTitle": "Knud Blak Jensen",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Knud_Blak_Jensen",
+      "birthYear": 1925,
+      "position": "DF",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "knud-borge-overgaard",
+      "name": "Knud Børge Overgaard",
+      "wikipediaTitle": "Knud Børge Overgaard",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Knud_Børge_Overgaard",
+      "birthYear": 1918,
+      "position": "MF",
+      "positionConfidence": "disputed"
+    },
+    {
+      "id": "knud-hansen",
+      "name": "Knud Hansen",
+      "wikipediaTitle": "Knud Hansen",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Knud_Hansen?action=edit&redlink=1",
+      "birthYear": null,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "knud-lundberg",
+      "name": "Knud Lundberg",
+      "wikipediaTitle": "Knud Lundberg",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Knud_Lundberg",
+      "birthYear": 1920,
+      "position": "FW",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "kristen-nygaard-footballer",
+      "name": "Kristen Nygaard",
+      "wikipediaTitle": "Kristen Nygaard (footballer)",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Kristen_Nygaard_(footballer)",
+      "birthYear": 1949,
+      "position": "FW",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "kristian-middelboe",
+      "name": "Kristian Middelboe",
+      "wikipediaTitle": "Kristian Middelboe",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Kristian_Middelboe",
+      "birthYear": 1881,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "kurt-berthelsen",
+      "name": "Kurt Berthelsen",
+      "wikipediaTitle": "Kurt Berthelsen",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Kurt_Berthelsen",
+      "birthYear": 1943,
+      "position": "FW",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "lars-elstrup",
+      "name": "Lars Elstrup",
+      "wikipediaTitle": "Lars Elstrup",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Lars_Elstrup",
+      "birthYear": 1963,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "lars-hogh",
+      "name": "Lars Høgh",
+      "wikipediaTitle": "Lars Høgh",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Lars_Høgh",
+      "birthYear": 1959,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "lars-hojer",
+      "name": "Lars Højer",
+      "wikipediaTitle": "Lars Højer",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Lars_Højer",
+      "birthYear": 1970,
+      "position": "MF",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "lars-jacobsen",
+      "name": "Lars Jacobsen",
+      "wikipediaTitle": "Lars Jacobsen",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Lars_Jacobsen",
+      "birthYear": 1979,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "lars-olsen",
+      "name": "Lars Olsen",
+      "wikipediaTitle": "Lars Olsen",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Lars_Olsen",
+      "birthYear": 1961,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "lasse-schone",
+      "name": "Lasse Schöne",
+      "wikipediaTitle": "Lasse Schöne",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Lasse_Schöne",
+      "birthYear": 1986,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "lasse-vibe",
+      "name": "Lasse Vibe",
+      "wikipediaTitle": "Lasse Vibe",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Lasse_Vibe",
+      "birthYear": 1987,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "leif-nielsen",
+      "name": "Leif Nielsen",
+      "wikipediaTitle": "Leif Nielsen",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Leif_Nielsen",
+      "birthYear": 1942,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "leif-printzlau",
+      "name": "Leif Printzlau",
+      "wikipediaTitle": "Leif Printzlau",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Leif_Printzlau",
+      "birthYear": 1948,
+      "position": "FW",
+      "positionConfidence": "disputed"
+    },
+    {
+      "id": "leo-dannin",
+      "name": "Leo Dannin",
+      "wikipediaTitle": "Leo Dannin",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Leo_Dannin",
+      "birthYear": 1898,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "ludvig-drescher",
+      "name": "Ludvig Drescher",
+      "wikipediaTitle": "Ludvig Drescher",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ludvig_Drescher",
+      "birthYear": 1881,
+      "position": "GK",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "lukas-fernandes-footballer",
+      "name": "Lukas Fernandes",
+      "wikipediaTitle": "Lukas Fernandes (footballer)",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Lukas_Fernandes_(footballer)",
+      "birthYear": 1993,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "lukas-lerager",
+      "name": "Lukas Lerager",
+      "wikipediaTitle": "Lukas Lerager",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Lukas_Lerager",
+      "birthYear": 1993,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "mads-hermansen",
+      "name": "Mads Hermansen",
+      "wikipediaTitle": "Mads Hermansen",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Mads_Hermansen",
+      "birthYear": 2000,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "magnus-beck",
+      "name": "Magnus Beck",
+      "wikipediaTitle": "Magnus Beck",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Magnus_Beck?action=edit&redlink=1",
+      "birthYear": 1889,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "marc-rieper",
+      "name": "Marc Rieper",
+      "wikipediaTitle": "Marc Rieper",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Marc_Rieper",
+      "birthYear": 1968,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "martin-braithwaite",
+      "name": "Martin Braithwaite",
+      "wikipediaTitle": "Martin Braithwaite",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Martin_Braithwaite",
+      "birthYear": 1991,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "martin-jorgensen",
+      "name": "Martin Jørgensen",
+      "wikipediaTitle": "Martin Jørgensen",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Martin_Jørgensen",
+      "birthYear": 1975,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "martin-laursen",
+      "name": "Martin Laursen",
+      "wikipediaTitle": "Martin Laursen",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Martin_Laursen",
+      "birthYear": 1977,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "mathias-hebo",
+      "name": "Mathias Hebo",
+      "wikipediaTitle": "Mathias Hebo",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Mathias_Hebo",
+      "birthYear": 1995,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "mathias-jensen",
+      "name": "Mathias Jensen",
+      "wikipediaTitle": "Mathias Jensen",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Mathias_Jensen",
+      "birthYear": 1996,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "mathias-jorgensen",
+      "name": "Mathias Jørgensen",
+      "wikipediaTitle": "Mathias Jørgensen",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Mathias_Jørgensen",
+      "birthYear": 1990,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "max-rasmussen",
+      "name": "Max Rasmussen",
+      "wikipediaTitle": "Max Rasmussen",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Max_Rasmussen",
+      "birthYear": 1945,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "michael-hansen-footballer",
+      "name": "Michael Hansen",
+      "wikipediaTitle": "Michael Hansen (footballer)",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Michael_Hansen_(footballer)",
+      "birthYear": 1971,
+      "position": "MF",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "michael-johansen",
+      "name": "Michael Johansen",
+      "wikipediaTitle": "Michael Johansen",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Michael_Johansen",
+      "birthYear": 1972,
+      "position": "MF",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "michael-krohn-dehli",
+      "name": "Michael Krohn-Dehli",
+      "wikipediaTitle": "Michael Krohn-Dehli",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Michael_Krohn-Dehli",
+      "birthYear": 1983,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "michael-larsen-footballer",
+      "name": "Michael Larsen",
+      "wikipediaTitle": "Michael Larsen (footballer)",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Michael_Larsen_(footballer)",
+      "birthYear": 1969,
+      "position": "MF",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "michael-laudrup",
+      "name": "Michael Laudrup",
+      "wikipediaTitle": "Michael Laudrup",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Michael_Laudrup",
+      "birthYear": 1964,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "michael-rohde-footballer",
+      "name": "Michael Rohde",
+      "wikipediaTitle": "Michael Rohde (footballer)",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Michael_Rohde_(footballer)",
+      "birthYear": 1894,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "michael-schjonberg",
+      "name": "Michael Schjønberg",
+      "wikipediaTitle": "Michael Schjønberg",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Michael_Schjønberg",
+      "birthYear": 1967,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "michael-silberbauer",
+      "name": "Michael Silberbauer",
+      "wikipediaTitle": "Michael Silberbauer",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Michael_Silberbauer",
+      "birthYear": 1981,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "mikkel-beck",
+      "name": "Mikkel Beck",
+      "wikipediaTitle": "Mikkel Beck",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Mikkel_Beck",
+      "birthYear": 1973,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "mikkel-beckmann",
+      "name": "Mikkel Beckmann",
+      "wikipediaTitle": "Mikkel Beckmann",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Mikkel_Beckmann",
+      "birthYear": 1983,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "mikkel-damsgaard",
+      "name": "Mikkel Damsgaard",
+      "wikipediaTitle": "Mikkel Damsgaard",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Mikkel_Damsgaard",
+      "birthYear": 2000,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "mikkel-desler",
+      "name": "Mikkel Desler",
+      "wikipediaTitle": "Mikkel Desler",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Mikkel_Desler",
+      "birthYear": 1995,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "miklos-molnar",
+      "name": "Miklos Molnar",
+      "wikipediaTitle": "Miklos Molnar",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Miklos_Molnar",
+      "birthYear": 1970,
+      "position": "FW",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "mogens-krogh",
+      "name": "Mogens Krogh",
+      "wikipediaTitle": "Mogens Krogh",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Mogens_Krogh",
+      "birthYear": 1963,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "mogens-therkildsen",
+      "name": "Mogens Therkildsen",
+      "wikipediaTitle": "Mogens Therkildsen",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Mogens_Therkildsen",
+      "birthYear": 1940,
+      "position": "GK",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "morten-bisgaard",
+      "name": "Morten Bisgaard",
+      "wikipediaTitle": "Morten Bisgaard",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Morten_Bisgaard",
+      "birthYear": 1974,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "morten-bruun",
+      "name": "Morten Bruun",
+      "wikipediaTitle": "Morten Bruun",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Morten_Bruun",
+      "birthYear": 1965,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "morten-hjulmand",
+      "name": "Morten Hjulmand",
+      "wikipediaTitle": "Morten Hjulmand",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Morten_Hjulmand",
+      "birthYear": 1999,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "morten-olsen",
+      "name": "Morten Olsen",
+      "wikipediaTitle": "Morten Olsen",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Morten_Olsen",
+      "birthYear": 1949,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "morten-wieghorst",
+      "name": "Morten Wieghorst",
+      "wikipediaTitle": "Morten Wieghorst",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Morten_Wieghorst",
+      "birthYear": 1971,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "nicklas-bendtner",
+      "name": "Nicklas Bendtner",
+      "wikipediaTitle": "Nicklas Bendtner",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Nicklas_Bendtner",
+      "birthYear": 1988,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "nicklas-pedersen",
+      "name": "Nicklas Pedersen",
+      "wikipediaTitle": "Nicklas Pedersen",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Nicklas_Pedersen",
+      "birthYear": 1987,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "niclas-jensen",
+      "name": "Niclas Jensen",
+      "wikipediaTitle": "Niclas Jensen",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Niclas_Jensen",
+      "birthYear": 1974,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "nicolai-boilesen",
+      "name": "Nicolai Boilesen",
+      "wikipediaTitle": "Nicolai Boilesen",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Nicolai_Boilesen",
+      "birthYear": 1992,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "nicolai-brock-madsen",
+      "name": "Nicolai Brock-Madsen",
+      "wikipediaTitle": "Nicolai Brock-Madsen",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Nicolai_Brock-Madsen",
+      "birthYear": 1993,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "nicolai-jorgensen",
+      "name": "Nicolai Jørgensen",
+      "wikipediaTitle": "Nicolai Jørgensen",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Nicolai_Jørgensen",
+      "birthYear": 1991,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "niels-jorgensen",
+      "name": "Niels Jørgensen",
+      "wikipediaTitle": "Niels Jørgensen",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Niels_Jørgensen",
+      "birthYear": 1971,
+      "position": "GK",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "niki-zimling",
+      "name": "Niki Zimling",
+      "wikipediaTitle": "Niki Zimling",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Niki_Zimling",
+      "birthYear": 1985,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "nils-middelboe",
+      "name": "Nils Middelboe",
+      "wikipediaTitle": "Nils Middelboe",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Nils_Middelboe",
+      "birthYear": 1887,
+      "position": "MF",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "odbert-e-bjarnholt",
+      "name": "Ødbert E. Bjarnholt",
+      "wikipediaTitle": "Ødbert E. Bjarnholt",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ødbert_E._Bjarnholt",
+      "birthYear": 1885,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "ole-kjaer",
+      "name": "Ole Kjær",
+      "wikipediaTitle": "Ole Kjær",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ole_Kjær",
+      "birthYear": 1954,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "ole-madsen",
+      "name": "Ole Madsen",
+      "wikipediaTitle": "Ole Madsen",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ole_Madsen",
+      "birthYear": 1934,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "ole-qvist",
+      "name": "Ole Qvist",
+      "wikipediaTitle": "Ole Qvist",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ole_Qvist",
+      "birthYear": 1950,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "ole-rasmussen-footballer-born-1952",
+      "name": "Ole Rasmussen",
+      "wikipediaTitle": "Ole Rasmussen (footballer born 1952)",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ole_Rasmussen_(footballer_born_1952)",
+      "birthYear": 1952,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "ole-sorensen-footballer",
+      "name": "Ole Sørensen",
+      "wikipediaTitle": "Ole Sørensen (footballer)",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ole_Sørensen_(footballer)",
+      "birthYear": 1937,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "oliver-christensen",
+      "name": "Oliver Christensen",
+      "wikipediaTitle": "Oliver Christensen",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Oliver_Christensen",
+      "birthYear": 1999,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "oskar-nielsen",
+      "name": "Oskar Nielsen",
+      "wikipediaTitle": "Oskar Nielsen",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Oskar_Nielsen",
+      "birthYear": 1882,
+      "position": "FW",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "ove-jensen",
+      "name": "Ove Jensen",
+      "wikipediaTitle": "Ove Jensen",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ove_Jensen",
+      "birthYear": 1919,
+      "position": "GK",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "pascal-gregor",
+      "name": "Pascal Gregor",
+      "wikipediaTitle": "Pascal Gregor",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Pascal_Gregor",
+      "birthYear": 1994,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "patrick-mtiliga",
+      "name": "Patrick Mtiliga",
+      "wikipediaTitle": "Patrick Mtiliga",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Patrick_Mtiliga",
+      "birthYear": 1981,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "paul-berth",
+      "name": "Paul Berth",
+      "wikipediaTitle": "Paul Berth",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Paul_Berth",
+      "birthYear": 1890,
+      "position": "MF",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "per-frandsen",
+      "name": "Per Frandsen",
+      "wikipediaTitle": "Per Frandsen",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Per_Frandsen",
+      "birthYear": 1970,
+      "position": "MF",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "per-frimann",
+      "name": "Per Frimann",
+      "wikipediaTitle": "Per Frimann",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Per_Frimann",
+      "birthYear": 1962,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "per-knudsen-danish-footballer",
+      "name": "Per Knudsen",
+      "wikipediaTitle": "Per Knudsen (Danish footballer)",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Per_Knudsen_(Danish_footballer)",
+      "birthYear": 1925,
+      "position": "DF",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "per-kroldrup",
+      "name": "Per Krøldrup",
+      "wikipediaTitle": "Per Krøldrup",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Per_Krøldrup",
+      "birthYear": 1979,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "per-rontved",
+      "name": "Per Røntved",
+      "wikipediaTitle": "Per Røntved",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Per_Røntved",
+      "birthYear": 1949,
+      "position": "DF",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "peter-frank-footballer",
+      "name": "Peter Frank",
+      "wikipediaTitle": "Peter Frank (footballer)",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Peter_Frank_(footballer)",
+      "birthYear": 1970,
+      "position": "DF",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "peter-kjaer-footballer",
+      "name": "Peter Kjær",
+      "wikipediaTitle": "Peter Kjær (footballer)",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Peter_Kjær_(footballer)",
+      "birthYear": 1965,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "peter-lovenkrands",
+      "name": "Peter Løvenkrands",
+      "wikipediaTitle": "Peter Løvenkrands",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Peter_Løvenkrands",
+      "birthYear": 1980,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "peter-madsen-footballer",
+      "name": "Peter Madsen",
+      "wikipediaTitle": "Peter Madsen (footballer)",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Peter_Madsen_(footballer)",
+      "birthYear": 1978,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "peter-marius-andersen",
+      "name": "Peter Marius Andersen",
+      "wikipediaTitle": "Peter Marius Andersen",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Peter_Marius_Andersen",
+      "birthYear": 1885,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "peter-moller",
+      "name": "Peter Møller",
+      "wikipediaTitle": "Peter Møller",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Peter_Møller",
+      "birthYear": 1972,
+      "position": "FW",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "peter-nielsen-footballer",
+      "name": "Peter Nielsen",
+      "wikipediaTitle": "Peter Nielsen (footballer)",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Peter_Nielsen_(footballer)",
+      "birthYear": 1968,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "peter-schmeichel",
+      "name": "Peter Schmeichel",
+      "wikipediaTitle": "Peter Schmeichel",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Peter_Schmeichel",
+      "birthYear": 1963,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "peter-skov-jensen",
+      "name": "Peter Skov-Jensen",
+      "wikipediaTitle": "Peter Skov-Jensen",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Peter_Skov-Jensen",
+      "birthYear": 1971,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "pierre-emile-hojbjerg",
+      "name": "Pierre-Emile Højbjerg",
+      "wikipediaTitle": "Pierre-Emile Højbjerg",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Pierre-Emile_Højbjerg",
+      "birthYear": 1995,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "pione-sisto",
+      "name": "Pione Sisto",
+      "wikipediaTitle": "Pione Sisto",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Pione_Sisto",
+      "birthYear": 1995,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "poul-andersen-footballer-born-1928",
+      "name": "Poul Andersen (1928)",
+      "wikipediaTitle": "Poul Andersen (footballer born 1928)",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Poul_Andersen_(footballer_born_1928)",
+      "birthYear": 1928,
+      "position": "MF",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "poul-andersen-footballer-born-1930",
+      "name": "Poul Andersen (1930)",
+      "wikipediaTitle": "Poul Andersen (footballer born 1930)",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Poul_Andersen_(footballer_born_1930)",
+      "birthYear": 1930,
+      "position": "FW",
+      "positionConfidence": "disputed"
+    },
+    {
+      "id": "poul-erik-petersen",
+      "name": "Poul Erik Petersen",
+      "wikipediaTitle": "Poul Erik Petersen",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Poul_Erik_Petersen",
+      "birthYear": 1927,
+      "position": "FW",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "poul-graae",
+      "name": "Poul Graae",
+      "wikipediaTitle": "Poul Graae",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Poul_Graae",
+      "birthYear": 1899,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "poul-jensen-footballer-born-1934",
+      "name": "Poul Jensen",
+      "wikipediaTitle": "Poul Jensen (footballer born 1934)",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Poul_Jensen_(footballer_born_1934)",
+      "birthYear": 1934,
+      "position": "DF",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "poul-mejer",
+      "name": "Poul Mejer",
+      "wikipediaTitle": "Poul Mejer",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Poul_Mejer",
+      "birthYear": 1931,
+      "position": "FW",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "poul-nielsen",
+      "name": "Poul Nielsen (1891)",
+      "wikipediaTitle": "Poul Nielsen",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Poul_Nielsen",
+      "birthYear": 1891,
+      "position": "FW",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "poul-nielsen-footballer-born-1895",
+      "name": "Poul Nielsen (1895)",
+      "wikipediaTitle": "Poul Nielsen (footballer, born 1895)",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Poul_Nielsen_(footballer,_born_1895)",
+      "birthYear": 1895,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "poul-pedersen",
+      "name": "Poul Pedersen",
+      "wikipediaTitle": "Poul Pedersen",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Poul_Pedersen",
+      "birthYear": 1932,
+      "position": "FW",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "poul-petersen-footballer",
+      "name": "Poul Petersen",
+      "wikipediaTitle": "Poul Petersen (footballer)",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Poul_Petersen_(footballer)",
+      "birthYear": 1921,
+      "position": "DF",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "preben-elkjaer",
+      "name": "Preben Elkjær",
+      "wikipediaTitle": "Preben Elkjær",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Preben_Elkjær",
+      "birthYear": 1957,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "ralf-ginsborg",
+      "name": "Ralf Ginsborg",
+      "wikipediaTitle": "Ralf Ginsborg",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ralf_Ginsborg",
+      "birthYear": 1927,
+      "position": "MF",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "rasmus-hojlund",
+      "name": "Rasmus Højlund",
+      "wikipediaTitle": "Rasmus Højlund",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Rasmus_Højlund",
+      "birthYear": 2003,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "rasmus-kristensen",
+      "name": "Rasmus Kristensen",
+      "wikipediaTitle": "Rasmus Kristensen",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Rasmus_Kristensen",
+      "birthYear": 1997,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "rene-henriksen",
+      "name": "René Henriksen",
+      "wikipediaTitle": "René Henriksen",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/René_Henriksen",
+      "birthYear": 1969,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "robert-skov",
+      "name": "Robert Skov",
+      "wikipediaTitle": "Robert Skov",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Robert_Skov",
+      "birthYear": 1996,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "ronnie-ekelund",
+      "name": "Ronnie Ekelund",
+      "wikipediaTitle": "Ronnie Ekelund",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ronnie_Ekelund",
+      "birthYear": 1972,
+      "position": "MF",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "samuel-thorsteinsson",
+      "name": "Samuel Thorsteinsson",
+      "wikipediaTitle": "Samuel Thorsteinsson",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Samuel_Thorsteinsson",
+      "birthYear": 1893,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "simon-kjaer",
+      "name": "Simon Kjær",
+      "wikipediaTitle": "Simon Kjær",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Simon_Kjær",
+      "birthYear": 1989,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "simon-poulsen",
+      "name": "Simon Poulsen",
+      "wikipediaTitle": "Simon Poulsen",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Simon_Poulsen",
+      "birthYear": 1984,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "sophus-hansen",
+      "name": "Sophus Hansen",
+      "wikipediaTitle": "Sophus Hansen",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Sophus_Hansen",
+      "birthYear": 1889,
+      "position": "GK",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "sophus-nielsen",
+      "name": "Sophus Nielsen",
+      "wikipediaTitle": "Sophus Nielsen",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Sophus_Nielsen",
+      "birthYear": 1888,
+      "position": "FW",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "soren-andersen",
+      "name": "Søren Andersen (1970)",
+      "wikipediaTitle": "Søren Andersen",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Søren_Andersen",
+      "birthYear": 1970,
+      "position": "FW",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "soren-andersen-footballer-born-1925",
+      "name": "Søren Andersen",
+      "wikipediaTitle": "Søren Andersen (footballer born 1925)",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Søren_Andersen_(footballer_born_1925)",
+      "birthYear": 1925,
+      "position": "FW",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "soren-busk",
+      "name": "Søren Busk",
+      "wikipediaTitle": "Søren Busk",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Søren_Busk",
+      "birthYear": 1953,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "soren-colding",
+      "name": "Søren Colding",
+      "wikipediaTitle": "Søren Colding",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Søren_Colding",
+      "birthYear": 1972,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "soren-larsen",
+      "name": "Søren Larsen",
+      "wikipediaTitle": "Søren Larsen",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Søren_Larsen",
+      "birthYear": 1981,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "soren-lerby",
+      "name": "Søren Lerby",
+      "wikipediaTitle": "Søren Lerby",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Søren_Lerby",
+      "birthYear": 1958,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "special-search-search-stand-by-players-danimarka-1",
+      "name": "- Stand-by players - (farklı oyuncu) · 1",
+      "wikipediaTitle": "Special:Search?search=- Stand-by players -#danimarka-1",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Special:Search?search=-%20Stand-by%20players%20-",
+      "birthYear": null,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "special-search-search-stand-by-players-danimarka-2",
+      "name": "- Stand-by players - (farklı oyuncu) · 2",
+      "wikipediaTitle": "Special:Search?search=- Stand-by players -#danimarka-2",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Special:Search?search=-%20Stand-by%20players%20-",
+      "birthYear": null,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "steen-blicher-footballer",
+      "name": "Steen Blicher",
+      "wikipediaTitle": "Steen Blicher (footballer)",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Steen_Blicher_(footballer)",
+      "birthYear": 1923,
+      "position": "MF",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "steen-steensen-blicher-footballer",
+      "name": "Steen Steensen Blicher",
+      "wikipediaTitle": "Steen Steensen Blicher (footballer)",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Steen_Steensen_Blicher_(footballer)",
+      "birthYear": 1899,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "steen-thychosen",
+      "name": "Steen Thychosen",
+      "wikipediaTitle": "Steen Thychosen",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Steen_Thychosen",
+      "birthYear": 1958,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "sten-ziegler",
+      "name": "Sten Ziegler",
+      "wikipediaTitle": "Sten Ziegler",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Sten_Ziegler",
+      "birthYear": 1950,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "stephan-andersen",
+      "name": "Stephan Andersen",
+      "wikipediaTitle": "Stephan Andersen",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Stephan_Andersen",
+      "birthYear": 1981,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "steven-lustu",
+      "name": "Steven Lustü",
+      "wikipediaTitle": "Steven Lustü",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Steven_Lustü",
+      "birthYear": 1971,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "stig-tofting",
+      "name": "Stig Tøfting",
+      "wikipediaTitle": "Stig Tøfting",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Stig_Tøfting",
+      "birthYear": 1969,
+      "position": "MF",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "svend-aage-castella",
+      "name": "Svend Aage Castella",
+      "wikipediaTitle": "Svend Aage Castella",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Svend_Aage_Castella",
+      "birthYear": 1890,
+      "position": "DF",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "svend-aage-rask",
+      "name": "Svend Aage Rask",
+      "wikipediaTitle": "Svend Aage Rask",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Svend_Aage_Rask",
+      "birthYear": 1935,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "svend-andresen",
+      "name": "Svend Andresen",
+      "wikipediaTitle": "Svend Andresen",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Svend_Andresen",
+      "birthYear": 1950,
+      "position": "DF",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "svend-nielsen-footballer",
+      "name": "Svend Nielsen",
+      "wikipediaTitle": "Svend Nielsen (footballer)",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Svend_Nielsen_(footballer)",
+      "birthYear": 1928,
+      "position": "DF",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "svend-ringsted",
+      "name": "Svend Ringsted",
+      "wikipediaTitle": "Svend Ringsted",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Svend_Ringsted",
+      "birthYear": 1893,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "thomas-delaney",
+      "name": "Thomas Delaney",
+      "wikipediaTitle": "Thomas Delaney",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Thomas_Delaney",
+      "birthYear": 1991,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "thomas-enevoldsen",
+      "name": "Thomas Enevoldsen",
+      "wikipediaTitle": "Thomas Enevoldsen",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Thomas_Enevoldsen",
+      "birthYear": 1987,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "thomas-gravesen",
+      "name": "Thomas Gravesen",
+      "wikipediaTitle": "Thomas Gravesen",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Thomas_Gravesen",
+      "birthYear": 1976,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "thomas-helveg",
+      "name": "Thomas Helveg",
+      "wikipediaTitle": "Thomas Helveg",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Thomas_Helveg",
+      "birthYear": 1971,
+      "position": "DF",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "thomas-kahlenberg",
+      "name": "Thomas Kahlenberg",
+      "wikipediaTitle": "Thomas Kahlenberg",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Thomas_Kahlenberg",
+      "birthYear": 1983,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "thomas-sorensen",
+      "name": "Thomas Sørensen",
+      "wikipediaTitle": "Thomas Sørensen",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Thomas_Sørensen",
+      "birthYear": 1976,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "tobias-mikkelsen",
+      "name": "Tobias Mikkelsen",
+      "wikipediaTitle": "Tobias Mikkelsen",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Tobias_Mikkelsen",
+      "birthYear": 1986,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "tom-sondergaard",
+      "name": "Tom Søndergaard",
+      "wikipediaTitle": "Tom Søndergaard",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Tom_Søndergaard",
+      "birthYear": 1944,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "tommy-troelsen",
+      "name": "Tommy Troelsen",
+      "wikipediaTitle": "Tommy Troelsen",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Tommy_Troelsen",
+      "birthYear": 1940,
+      "position": "FW",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "torben-frank",
+      "name": "Torben Frank",
+      "wikipediaTitle": "Torben Frank",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Torben_Frank",
+      "birthYear": 1968,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "torben-piechnik",
+      "name": "Torben Piechnik",
+      "wikipediaTitle": "Torben Piechnik",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Torben_Piechnik",
+      "birthYear": 1963,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "troels-rasmussen",
+      "name": "Troels Rasmussen",
+      "wikipediaTitle": "Troels Rasmussen",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Troels_Rasmussen",
+      "birthYear": 1961,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "valdemar-hansen",
+      "name": "Valdemar Hansen",
+      "wikipediaTitle": "Valdemar Hansen",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Valdemar_Hansen",
+      "birthYear": 1945,
+      "position": "GK",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "victor-kristiansen",
+      "name": "Victor Kristiansen",
+      "wikipediaTitle": "Victor Kristiansen",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Victor_Kristiansen",
+      "birthYear": 2002,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "victor-nelsson",
+      "name": "Victor Nelsson",
+      "wikipediaTitle": "Victor Nelsson",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Victor_Nelsson",
+      "birthYear": 1998,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "viggo-jensen-footballer-born-1921",
+      "name": "Viggo Jensen",
+      "wikipediaTitle": "Viggo Jensen (footballer born 1921)",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Viggo_Jensen_(footballer_born_1921)",
+      "birthYear": 1921,
+      "position": "MF",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "viggo-jorgensen",
+      "name": "Viggo Jørgensen",
+      "wikipediaTitle": "Viggo Jørgensen",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Viggo_Jørgensen",
+      "birthYear": 1899,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "viggo-malmqvist",
+      "name": "Viggo Malmqvist",
+      "wikipediaTitle": "Viggo Malmqvist",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Viggo_Malmqvist?action=edit&redlink=1",
+      "birthYear": 1892,
+      "position": "MF",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "viktor-fischer",
+      "name": "Viktor Fischer",
+      "wikipediaTitle": "Viktor Fischer",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Viktor_Fischer",
+      "birthYear": 1994,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "vilhelm-jorgensen",
+      "name": "Vilhelm Jørgensen",
+      "wikipediaTitle": "Vilhelm Jørgensen",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Vilhelm_Jørgensen",
+      "birthYear": 1897,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "vilhelm-wolfhagen",
+      "name": "Vilhelm Wolfhagen",
+      "wikipediaTitle": "Vilhelm Wolfhagen",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Vilhelm_Wolfhagen",
+      "birthYear": 1889,
+      "position": "FW",
+      "positionConfidence": "confirmed"
+    },
+    {
+      "id": "william-kvist",
+      "name": "William Kvist",
+      "wikipediaTitle": "William Kvist",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/William_Kvist",
+      "birthYear": 1985,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "yussuf-poulsen",
+      "name": "Yussuf Poulsen",
+      "wikipediaTitle": "Yussuf Poulsen",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Yussuf_Poulsen",
+      "birthYear": 1994,
+      "position": null,
+      "positionConfidence": "unverified"
+    }
+  ],
+  "squadEntries": [
+    {
+      "countryId": "danimarka",
+      "tournamentId": "euro-1964",
+      "playerId": "bent-hansen-footballer",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "euro-1964",
+      "playerId": "bent-wolmar",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "euro-1964",
+      "playerId": "birger-larsen-footballer",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "euro-1964",
+      "playerId": "carl-bertelsen",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "euro-1964",
+      "playerId": "erling-nielsen-footballer",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "euro-1964",
+      "playerId": "helge-jorgensen-footballer-born-1937",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "euro-1964",
+      "playerId": "jens-jorgen-hansen",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "euro-1964",
+      "playerId": "john-amdisen",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "euro-1964",
+      "playerId": "john-danielsen",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "euro-1964",
+      "playerId": "jorgen-rasmussen-footballer-born-1937",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "euro-1964",
+      "playerId": "kaj-hansen-footballer-born-1940",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "euro-1964",
+      "playerId": "kjeld-thorst",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "euro-1964",
+      "playerId": "leif-nielsen",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "euro-1964",
+      "playerId": "ole-madsen",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "euro-1964",
+      "playerId": "ole-sorensen-footballer",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "euro-1964",
+      "playerId": "svend-aage-rask",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "euro-1964",
+      "playerId": "tom-sondergaard",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "euro-1984",
+      "playerId": "allan-simonsen",
+      "shirtNumber": 9
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "euro-1984",
+      "playerId": "frank-arnesen",
+      "shirtNumber": 15
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "euro-1984",
+      "playerId": "ivan-nielsen",
+      "shirtNumber": 5
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "euro-1984",
+      "playerId": "jan-molby",
+      "shirtNumber": 12
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "euro-1984",
+      "playerId": "jens-jorn-bertelsen",
+      "shirtNumber": 7
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "euro-1984",
+      "playerId": "jesper-olsen",
+      "shirtNumber": 8
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "euro-1984",
+      "playerId": "john-lauridsen",
+      "shirtNumber": 13
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "euro-1984",
+      "playerId": "john-sivebaek",
+      "shirtNumber": 18
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "euro-1984",
+      "playerId": "kenneth-brylle-larsen",
+      "shirtNumber": 19
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "euro-1984",
+      "playerId": "klaus-berggreen",
+      "shirtNumber": 11
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "euro-1984",
+      "playerId": "michael-laudrup",
+      "shirtNumber": 14
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "euro-1984",
+      "playerId": "morten-olsen",
+      "shirtNumber": 4
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "euro-1984",
+      "playerId": "ole-kjaer",
+      "shirtNumber": 1
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "euro-1984",
+      "playerId": "ole-qvist",
+      "shirtNumber": 20
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "euro-1984",
+      "playerId": "ole-rasmussen-footballer-born-1952",
+      "shirtNumber": 2
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "euro-1984",
+      "playerId": "preben-elkjaer",
+      "shirtNumber": 10
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "euro-1984",
+      "playerId": "soren-busk",
+      "shirtNumber": 3
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "euro-1984",
+      "playerId": "soren-lerby",
+      "shirtNumber": 6
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "euro-1984",
+      "playerId": "steen-thychosen",
+      "shirtNumber": 17
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "euro-1984",
+      "playerId": "troels-rasmussen",
+      "shirtNumber": 16
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "euro-1988",
+      "playerId": "bjorn-kristensen-footballer-born-1963",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "euro-1988",
+      "playerId": "flemming-povlsen",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "euro-1988",
+      "playerId": "ivan-nielsen",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "euro-1988",
+      "playerId": "jan-heintze",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "euro-1988",
+      "playerId": "jesper-olsen",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "euro-1988",
+      "playerId": "john-eriksen",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "euro-1988",
+      "playerId": "john-helt",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "euro-1988",
+      "playerId": "john-jensen",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "euro-1988",
+      "playerId": "john-sivebaek",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "euro-1988",
+      "playerId": "kim-vilfort",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "euro-1988",
+      "playerId": "klaus-berggreen",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "euro-1988",
+      "playerId": "lars-olsen",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "euro-1988",
+      "playerId": "michael-laudrup",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "euro-1988",
+      "playerId": "morten-olsen",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "euro-1988",
+      "playerId": "per-frimann",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "euro-1988",
+      "playerId": "peter-schmeichel",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "euro-1988",
+      "playerId": "preben-elkjaer",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "euro-1988",
+      "playerId": "soren-busk",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "euro-1988",
+      "playerId": "soren-lerby",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "euro-1988",
+      "playerId": "troels-rasmussen",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "euro-1992",
+      "playerId": "bent-christensen-arensoe",
+      "shirtNumber": 15
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "euro-1992",
+      "playerId": "brian-laudrup",
+      "shirtNumber": 11
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "euro-1992",
+      "playerId": "claus-christiansen-footballer-born-1967",
+      "shirtNumber": 17
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "euro-1992",
+      "playerId": "flemming-povlsen",
+      "shirtNumber": 9
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "euro-1992",
+      "playerId": "henrik-andersen",
+      "shirtNumber": 5
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "euro-1992",
+      "playerId": "henrik-larsen",
+      "shirtNumber": 13
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "euro-1992",
+      "playerId": "john-jensen",
+      "shirtNumber": 7
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "euro-1992",
+      "playerId": "john-sivebaek",
+      "shirtNumber": 2
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "euro-1992",
+      "playerId": "johnny-molby",
+      "shirtNumber": 8
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "euro-1992",
+      "playerId": "kent-nielsen-footballer",
+      "shirtNumber": 3
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "euro-1992",
+      "playerId": "kim-christofte",
+      "shirtNumber": 6
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "euro-1992",
+      "playerId": "kim-vilfort",
+      "shirtNumber": 18
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "euro-1992",
+      "playerId": "lars-elstrup",
+      "shirtNumber": 10
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "euro-1992",
+      "playerId": "lars-olsen",
+      "shirtNumber": 4
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "euro-1992",
+      "playerId": "mogens-krogh",
+      "shirtNumber": 16
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "euro-1992",
+      "playerId": "morten-bruun",
+      "shirtNumber": 20
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "euro-1992",
+      "playerId": "peter-nielsen-footballer",
+      "shirtNumber": 19
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "euro-1992",
+      "playerId": "peter-schmeichel",
+      "shirtNumber": 1
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "euro-1992",
+      "playerId": "torben-frank",
+      "shirtNumber": 14
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "euro-1992",
+      "playerId": "torben-piechnik",
+      "shirtNumber": 12
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "euro-1996",
+      "playerId": "allan-nielsen",
+      "shirtNumber": 17
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "euro-1996",
+      "playerId": "brian-laudrup",
+      "shirtNumber": 11
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "euro-1996",
+      "playerId": "brian-steen-nielsen",
+      "shirtNumber": 7
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "euro-1996",
+      "playerId": "claus-thomsen",
+      "shirtNumber": 8
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "euro-1996",
+      "playerId": "erik-bo-andersen",
+      "shirtNumber": 15
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "euro-1996",
+      "playerId": "henrik-larsen",
+      "shirtNumber": 13
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "euro-1996",
+      "playerId": "jacob-laursen",
+      "shirtNumber": 20
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "euro-1996",
+      "playerId": "jens-risager",
+      "shirtNumber": 14
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "euro-1996",
+      "playerId": "jes-hogh",
+      "shirtNumber": 5
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "euro-1996",
+      "playerId": "kim-vilfort",
+      "shirtNumber": 18
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "euro-1996",
+      "playerId": "lars-hogh",
+      "shirtNumber": 16
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "euro-1996",
+      "playerId": "lars-olsen",
+      "shirtNumber": 4
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "euro-1996",
+      "playerId": "marc-rieper",
+      "shirtNumber": 3
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "euro-1996",
+      "playerId": "michael-laudrup",
+      "shirtNumber": 10
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "euro-1996",
+      "playerId": "michael-schjonberg",
+      "shirtNumber": 6
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "euro-1996",
+      "playerId": "mikkel-beck",
+      "shirtNumber": 9
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "euro-1996",
+      "playerId": "mogens-krogh",
+      "shirtNumber": 22
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "euro-1996",
+      "playerId": "peter-schmeichel",
+      "shirtNumber": 1
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "euro-1996",
+      "playerId": "soren-andersen",
+      "shirtNumber": 21
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "euro-1996",
+      "playerId": "stig-tofting",
+      "shirtNumber": 19
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "euro-1996",
+      "playerId": "thomas-helveg",
+      "shirtNumber": 2
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "euro-1996",
+      "playerId": "torben-piechnik",
+      "shirtNumber": 12
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "euro-2000",
+      "playerId": "allan-nielsen",
+      "shirtNumber": 7
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "euro-2000",
+      "playerId": "bjarne-goldbaek",
+      "shirtNumber": 17
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "euro-2000",
+      "playerId": "brian-steen-nielsen",
+      "shirtNumber": 14
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "euro-2000",
+      "playerId": "ebbe-sand",
+      "shirtNumber": 11
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "euro-2000",
+      "playerId": "jan-heintze",
+      "shirtNumber": 5
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "euro-2000",
+      "playerId": "jes-hogh",
+      "shirtNumber": 4
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "euro-2000",
+      "playerId": "jesper-gronkjaer",
+      "shirtNumber": 8
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "euro-2000",
+      "playerId": "jon-dahl-tomasson",
+      "shirtNumber": 9
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "euro-2000",
+      "playerId": "martin-jorgensen",
+      "shirtNumber": 10
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "euro-2000",
+      "playerId": "martin-laursen",
+      "shirtNumber": 13
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "euro-2000",
+      "playerId": "michael-schjonberg",
+      "shirtNumber": 2
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "euro-2000",
+      "playerId": "mikkel-beck",
+      "shirtNumber": 21
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "euro-2000",
+      "playerId": "miklos-molnar",
+      "shirtNumber": 18
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "euro-2000",
+      "playerId": "morten-bisgaard",
+      "shirtNumber": 19
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "euro-2000",
+      "playerId": "peter-kjaer-footballer",
+      "shirtNumber": 22
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "euro-2000",
+      "playerId": "peter-schmeichel",
+      "shirtNumber": 1
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "euro-2000",
+      "playerId": "rene-henriksen",
+      "shirtNumber": 3
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "euro-2000",
+      "playerId": "soren-colding",
+      "shirtNumber": 12
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "euro-2000",
+      "playerId": "stig-tofting",
+      "shirtNumber": 15
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "euro-2000",
+      "playerId": "thomas-gravesen",
+      "shirtNumber": 20
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "euro-2000",
+      "playerId": "thomas-helveg",
+      "shirtNumber": 6
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "euro-2000",
+      "playerId": "thomas-sorensen",
+      "shirtNumber": 16
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "euro-2004",
+      "playerId": "brian-priske",
+      "shirtNumber": 18
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "euro-2004",
+      "playerId": "christian-poulsen",
+      "shirtNumber": 17
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "euro-2004",
+      "playerId": "claus-jensen",
+      "shirtNumber": 14
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "euro-2004",
+      "playerId": "daniel-jensen",
+      "shirtNumber": 15
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "euro-2004",
+      "playerId": "dennis-rommedahl",
+      "shirtNumber": 19
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "euro-2004",
+      "playerId": "ebbe-sand",
+      "shirtNumber": 11
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "euro-2004",
+      "playerId": "jesper-gronkjaer",
+      "shirtNumber": 8
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "euro-2004",
+      "playerId": "jon-dahl-tomasson",
+      "shirtNumber": 9
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "euro-2004",
+      "playerId": "kasper-bogelund",
+      "shirtNumber": 2
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "euro-2004",
+      "playerId": "kenneth-perez",
+      "shirtNumber": 20
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "euro-2004",
+      "playerId": "martin-jorgensen",
+      "shirtNumber": 10
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "euro-2004",
+      "playerId": "martin-laursen",
+      "shirtNumber": 4
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "euro-2004",
+      "playerId": "niclas-jensen",
+      "shirtNumber": 5
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "euro-2004",
+      "playerId": "per-kroldrup",
+      "shirtNumber": 13
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "euro-2004",
+      "playerId": "peter-lovenkrands",
+      "shirtNumber": 23
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "euro-2004",
+      "playerId": "peter-madsen-footballer",
+      "shirtNumber": 21
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "euro-2004",
+      "playerId": "peter-skov-jensen",
+      "shirtNumber": 16
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "euro-2004",
+      "playerId": "rene-henriksen",
+      "shirtNumber": 3
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "euro-2004",
+      "playerId": "stephan-andersen",
+      "shirtNumber": 22
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "euro-2004",
+      "playerId": "thomas-gravesen",
+      "shirtNumber": 7
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "euro-2004",
+      "playerId": "thomas-helveg",
+      "shirtNumber": 6
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "euro-2004",
+      "playerId": "thomas-kahlenberg",
+      "shirtNumber": 12
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "euro-2004",
+      "playerId": "thomas-sorensen",
+      "shirtNumber": 1
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "euro-2012",
+      "playerId": "anders-lindegaard",
+      "shirtNumber": 16
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "euro-2012",
+      "playerId": "andreas-bjelland",
+      "shirtNumber": 12
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "euro-2012",
+      "playerId": "christian-eriksen",
+      "shirtNumber": 8
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "euro-2012",
+      "playerId": "christian-poulsen",
+      "shirtNumber": 2
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "euro-2012",
+      "playerId": "daniel-agger",
+      "shirtNumber": 4
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "euro-2012",
+      "playerId": "daniel-wass",
+      "shirtNumber": 18
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "euro-2012",
+      "playerId": "dennis-rommedahl",
+      "shirtNumber": 10
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "euro-2012",
+      "playerId": "jakob-poulsen",
+      "shirtNumber": 19
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "euro-2012",
+      "playerId": "jores-okore",
+      "shirtNumber": 13
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "euro-2012",
+      "playerId": "kasper-schmeichel",
+      "shirtNumber": 22
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "euro-2012",
+      "playerId": "lars-jacobsen",
+      "shirtNumber": 6
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "euro-2012",
+      "playerId": "lasse-schone",
+      "shirtNumber": 14
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "euro-2012",
+      "playerId": "michael-krohn-dehli",
+      "shirtNumber": 9
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "euro-2012",
+      "playerId": "michael-silberbauer",
+      "shirtNumber": 15
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "euro-2012",
+      "playerId": "nicklas-bendtner",
+      "shirtNumber": 11
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "euro-2012",
+      "playerId": "nicklas-pedersen",
+      "shirtNumber": 17
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "euro-2012",
+      "playerId": "niki-zimling",
+      "shirtNumber": 21
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "euro-2012",
+      "playerId": "simon-kjaer",
+      "shirtNumber": 3
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "euro-2012",
+      "playerId": "simon-poulsen",
+      "shirtNumber": 5
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "euro-2012",
+      "playerId": "stephan-andersen",
+      "shirtNumber": 1
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "euro-2012",
+      "playerId": "thomas-kahlenberg",
+      "shirtNumber": 20
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "euro-2012",
+      "playerId": "tobias-mikkelsen",
+      "shirtNumber": 23
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "euro-2012",
+      "playerId": "william-kvist",
+      "shirtNumber": 7
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "euro-2020",
+      "playerId": "anders-christiansen",
+      "shirtNumber": 25
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "euro-2020",
+      "playerId": "andreas-christensen",
+      "shirtNumber": 6
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "euro-2020",
+      "playerId": "andreas-cornelius",
+      "shirtNumber": 21
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "euro-2020",
+      "playerId": "andreas-skov-olsen",
+      "shirtNumber": 11
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "euro-2020",
+      "playerId": "christian-eriksen",
+      "shirtNumber": 10
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "euro-2020",
+      "playerId": "christian-norgaard",
+      "shirtNumber": 15
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "euro-2020",
+      "playerId": "daniel-wass",
+      "shirtNumber": 18
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "euro-2020",
+      "playerId": "frederik-ronnow",
+      "shirtNumber": 22
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "euro-2020",
+      "playerId": "jannik-vestergaard",
+      "shirtNumber": 3
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "euro-2020",
+      "playerId": "jens-stryger-larsen",
+      "shirtNumber": 17
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "euro-2020",
+      "playerId": "joachim-andersen-footballer",
+      "shirtNumber": 2
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "euro-2020",
+      "playerId": "joakim-maehle",
+      "shirtNumber": 5
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "euro-2020",
+      "playerId": "jonas-lossl",
+      "shirtNumber": 16
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "euro-2020",
+      "playerId": "jonas-wind",
+      "shirtNumber": 19
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "euro-2020",
+      "playerId": "kasper-dolberg",
+      "shirtNumber": 12
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "euro-2020",
+      "playerId": "kasper-schmeichel",
+      "shirtNumber": 1
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "euro-2020",
+      "playerId": "martin-braithwaite",
+      "shirtNumber": 9
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "euro-2020",
+      "playerId": "mathias-jensen",
+      "shirtNumber": 24
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "euro-2020",
+      "playerId": "mathias-jorgensen",
+      "shirtNumber": 13
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "euro-2020",
+      "playerId": "mikkel-damsgaard",
+      "shirtNumber": 14
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "euro-2020",
+      "playerId": "nicolai-boilesen",
+      "shirtNumber": 26
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "euro-2020",
+      "playerId": "pierre-emile-hojbjerg",
+      "shirtNumber": 23
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "euro-2020",
+      "playerId": "robert-skov",
+      "shirtNumber": 7
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "euro-2020",
+      "playerId": "simon-kjaer",
+      "shirtNumber": 4
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "euro-2020",
+      "playerId": "thomas-delaney",
+      "shirtNumber": 8
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "euro-2020",
+      "playerId": "yussuf-poulsen",
+      "shirtNumber": 20
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "euro-2024",
+      "playerId": "alexander-bah",
+      "shirtNumber": 18
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "euro-2024",
+      "playerId": "anders-dreyer",
+      "shirtNumber": 24
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "euro-2024",
+      "playerId": "andreas-christensen",
+      "shirtNumber": 6
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "euro-2024",
+      "playerId": "andreas-skov-olsen",
+      "shirtNumber": 11
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "euro-2024",
+      "playerId": "christian-eriksen",
+      "shirtNumber": 10
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "euro-2024",
+      "playerId": "christian-norgaard",
+      "shirtNumber": 15
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "euro-2024",
+      "playerId": "frederik-ronnow",
+      "shirtNumber": 22
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "euro-2024",
+      "playerId": "jacob-bruun-larsen",
+      "shirtNumber": 26
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "euro-2024",
+      "playerId": "jannik-vestergaard",
+      "shirtNumber": 3
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "euro-2024",
+      "playerId": "joachim-andersen-footballer",
+      "shirtNumber": 2
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "euro-2024",
+      "playerId": "joakim-maehle",
+      "shirtNumber": 5
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "euro-2024",
+      "playerId": "jonas-wind",
+      "shirtNumber": 19
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "euro-2024",
+      "playerId": "kasper-dolberg",
+      "shirtNumber": 12
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "euro-2024",
+      "playerId": "kasper-schmeichel",
+      "shirtNumber": 1
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "euro-2024",
+      "playerId": "mads-hermansen",
+      "shirtNumber": 16
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "euro-2024",
+      "playerId": "mathias-jensen",
+      "shirtNumber": 7
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "euro-2024",
+      "playerId": "mathias-jorgensen",
+      "shirtNumber": 13
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "euro-2024",
+      "playerId": "mikkel-damsgaard",
+      "shirtNumber": 14
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "euro-2024",
+      "playerId": "morten-hjulmand",
+      "shirtNumber": 21
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "euro-2024",
+      "playerId": "pierre-emile-hojbjerg",
+      "shirtNumber": 23
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "euro-2024",
+      "playerId": "rasmus-hojlund",
+      "shirtNumber": 9
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "euro-2024",
+      "playerId": "rasmus-kristensen",
+      "shirtNumber": 25
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "euro-2024",
+      "playerId": "simon-kjaer",
+      "shirtNumber": 4
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "euro-2024",
+      "playerId": "thomas-delaney",
+      "shirtNumber": 8
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "euro-2024",
+      "playerId": "victor-kristiansen",
+      "shirtNumber": 17
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "euro-2024",
+      "playerId": "yussuf-poulsen",
+      "shirtNumber": 20
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "olympics-1908",
+      "playerId": "august-lindgren",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "olympics-1908",
+      "playerId": "bjorn-rasmussen",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "olympics-1908",
+      "playerId": "charles-buchwald",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "olympics-1908",
+      "playerId": "einar-middelboe",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "olympics-1908",
+      "playerId": "harald-bohr",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "olympics-1908",
+      "playerId": "harald-hansen-footballer",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "olympics-1908",
+      "playerId": "johannes-gandil",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "olympics-1908",
+      "playerId": "knud-hansen",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "olympics-1908",
+      "playerId": "kristian-middelboe",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "olympics-1908",
+      "playerId": "ludvig-drescher",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "olympics-1908",
+      "playerId": "magnus-beck",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "olympics-1908",
+      "playerId": "nils-middelboe",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "olympics-1908",
+      "playerId": "odbert-e-bjarnholt",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "olympics-1908",
+      "playerId": "oskar-nielsen",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "olympics-1908",
+      "playerId": "peter-marius-andersen",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "olympics-1908",
+      "playerId": "sophus-nielsen",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "olympics-1908",
+      "playerId": "vilhelm-wolfhagen",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "olympics-1912",
+      "playerId": "anthon-olsen",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "olympics-1912",
+      "playerId": "axel-dyrberg",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "olympics-1912",
+      "playerId": "axel-petersen-footballer",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "olympics-1912",
+      "playerId": "axel-thufason",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "olympics-1912",
+      "playerId": "charles-buchwald",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "olympics-1912",
+      "playerId": "christian-morville",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "olympics-1912",
+      "playerId": "emil-jorgensen",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "olympics-1912",
+      "playerId": "harald-hansen-footballer",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "olympics-1912",
+      "playerId": "hjalmar-christoffersen",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "olympics-1912",
+      "playerId": "ivar-lykke-footballer",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "olympics-1912",
+      "playerId": "ludvig-drescher",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "olympics-1912",
+      "playerId": "nils-middelboe",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "olympics-1912",
+      "playerId": "oskar-nielsen",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "olympics-1912",
+      "playerId": "paul-berth",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "olympics-1912",
+      "playerId": "poul-nielsen",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "olympics-1912",
+      "playerId": "sophus-hansen",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "olympics-1912",
+      "playerId": "sophus-nielsen",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "olympics-1912",
+      "playerId": "svend-aage-castella",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "olympics-1912",
+      "playerId": "viggo-malmqvist",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "olympics-1912",
+      "playerId": "vilhelm-wolfhagen",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "olympics-1920",
+      "playerId": "alf-olsen-footballer",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "olympics-1920",
+      "playerId": "bernhard-andersen",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "olympics-1920",
+      "playerId": "carl-hansen-footballer",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "olympics-1920",
+      "playerId": "christian-grothan",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "olympics-1920",
+      "playerId": "fritz-tarp",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "olympics-1920",
+      "playerId": "gunnar-aaby",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "olympics-1920",
+      "playerId": "holger-forchhammer",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "olympics-1920",
+      "playerId": "ivar-lykke-footballer",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "olympics-1920",
+      "playerId": "jens-jensen-footballer",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "olympics-1920",
+      "playerId": "kristian-middelboe",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "olympics-1920",
+      "playerId": "leo-dannin",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "olympics-1920",
+      "playerId": "michael-rohde-footballer",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "olympics-1920",
+      "playerId": "nils-middelboe",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "olympics-1920",
+      "playerId": "paul-berth",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "olympics-1920",
+      "playerId": "poul-graae",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "olympics-1920",
+      "playerId": "poul-nielsen-footballer-born-1895",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "olympics-1920",
+      "playerId": "samuel-thorsteinsson",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "olympics-1920",
+      "playerId": "sophus-hansen",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "olympics-1920",
+      "playerId": "steen-steensen-blicher-footballer",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "olympics-1920",
+      "playerId": "svend-ringsted",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "olympics-1920",
+      "playerId": "viggo-jorgensen",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "olympics-1920",
+      "playerId": "vilhelm-jorgensen",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "olympics-1948",
+      "playerId": "axel-pilmark",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "olympics-1948",
+      "playerId": "carl-aage-praest",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "olympics-1948",
+      "playerId": "dion-ornvold",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "olympics-1948",
+      "playerId": "edvin-hansen",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "olympics-1948",
+      "playerId": "eigil-nielsen-footballer-born-1918",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "olympics-1948",
+      "playerId": "erik-kuld-jensen",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "olympics-1948",
+      "playerId": "erling-sorensen",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "olympics-1948",
+      "playerId": "hans-colberg",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "olympics-1948",
+      "playerId": "holger-seebach",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "olympics-1948",
+      "playerId": "ivan-jensen",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "olympics-1948",
+      "playerId": "johannes-ploger",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "olympics-1948",
+      "playerId": "john-hansen-danish-footballer",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "olympics-1948",
+      "playerId": "jorgen-leschly-sorensen",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "olympics-1948",
+      "playerId": "jorgen-wagner-hansen",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "olympics-1948",
+      "playerId": "karl-aage-hansen",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "olympics-1948",
+      "playerId": "knud-bastrup-birk",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "olympics-1948",
+      "playerId": "knud-borge-overgaard",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "olympics-1948",
+      "playerId": "knud-lundberg",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "olympics-1948",
+      "playerId": "ove-jensen",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "olympics-1948",
+      "playerId": "per-knudsen-danish-footballer",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "olympics-1948",
+      "playerId": "poul-petersen-footballer",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "olympics-1948",
+      "playerId": "special-search-search-stand-by-players-danimarka-2",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "olympics-1948",
+      "playerId": "viggo-jensen-footballer-born-1921",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "olympics-1952",
+      "playerId": "aage-rou-jensen",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "olympics-1952",
+      "playerId": "carl-holm",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "olympics-1952",
+      "playerId": "erik-terkelsen",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "olympics-1952",
+      "playerId": "henry-from",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "olympics-1952",
+      "playerId": "holger-seebach",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "olympics-1952",
+      "playerId": "jens-peter-hansen",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "olympics-1952",
+      "playerId": "jens-torstensen",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "olympics-1952",
+      "playerId": "jorgen-johansen",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "olympics-1952",
+      "playerId": "jorgen-olesen",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "olympics-1952",
+      "playerId": "jorgen-w-hansen",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "olympics-1952",
+      "playerId": "knud-blak-jensen",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "olympics-1952",
+      "playerId": "knud-lundberg",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "olympics-1952",
+      "playerId": "per-knudsen-danish-footballer",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "olympics-1952",
+      "playerId": "poul-andersen-footballer-born-1928",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "olympics-1952",
+      "playerId": "poul-erik-petersen",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "olympics-1952",
+      "playerId": "poul-petersen-footballer",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "olympics-1952",
+      "playerId": "ralf-ginsborg",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "olympics-1952",
+      "playerId": "soren-andersen-footballer-born-1925",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "olympics-1952",
+      "playerId": "special-search-search-stand-by-players-danimarka-1",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "olympics-1952",
+      "playerId": "steen-blicher-footballer",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "olympics-1952",
+      "playerId": "svend-nielsen-footballer",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "olympics-1960",
+      "playerId": "bent-hansen-footballer",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "olympics-1960",
+      "playerId": "bent-krog",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "olympics-1960",
+      "playerId": "erik-gaardhoje",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "olympics-1960",
+      "playerId": "erling-linde-larsen",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "olympics-1960",
+      "playerId": "finn-sterobo",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "olympics-1960",
+      "playerId": "flemming-nielsen",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "olympics-1960",
+      "playerId": "hans-christian-nielsen",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "olympics-1960",
+      "playerId": "harald-nielsen",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "olympics-1960",
+      "playerId": "henning-enoksen",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "olympics-1960",
+      "playerId": "henning-helbrandt",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "olympics-1960",
+      "playerId": "henry-from",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "olympics-1960",
+      "playerId": "john-danielsen",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "olympics-1960",
+      "playerId": "jorgen-hansen-footballer",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "olympics-1960",
+      "playerId": "jorn-sorensen",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "olympics-1960",
+      "playerId": "poul-andersen-footballer-born-1930",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "olympics-1960",
+      "playerId": "poul-jensen-footballer-born-1934",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "olympics-1960",
+      "playerId": "poul-mejer",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "olympics-1960",
+      "playerId": "poul-pedersen",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "olympics-1960",
+      "playerId": "tommy-troelsen",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "olympics-1972",
+      "playerId": "allan-simonsen",
+      "shirtNumber": 9
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "olympics-1972",
+      "playerId": "flemming-ahlberg",
+      "shirtNumber": 2
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "olympics-1972",
+      "playerId": "flemming-pedersen-footballer",
+      "shirtNumber": 12
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "olympics-1972",
+      "playerId": "hans-ewald-hansen",
+      "shirtNumber": 6
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "olympics-1972",
+      "playerId": "heino-hansen",
+      "shirtNumber": 16
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "olympics-1972",
+      "playerId": "heinz-hildebrandt",
+      "shirtNumber": 18
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "olympics-1972",
+      "playerId": "helge-vonsyld",
+      "shirtNumber": 13
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "olympics-1972",
+      "playerId": "jack-hansen-danish-footballer",
+      "shirtNumber": 7
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "olympics-1972",
+      "playerId": "jorgen-rasmussen-footballer-born-1945",
+      "shirtNumber": 5
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "olympics-1972",
+      "playerId": "keld-bak",
+      "shirtNumber": 17
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "olympics-1972",
+      "playerId": "kristen-nygaard-footballer",
+      "shirtNumber": 8
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "olympics-1972",
+      "playerId": "kurt-berthelsen",
+      "shirtNumber": 10
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "olympics-1972",
+      "playerId": "leif-printzlau",
+      "shirtNumber": 11
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "olympics-1972",
+      "playerId": "max-rasmussen",
+      "shirtNumber": 15
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "olympics-1972",
+      "playerId": "mogens-therkildsen",
+      "shirtNumber": 1
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "olympics-1972",
+      "playerId": "per-rontved",
+      "shirtNumber": 4
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "olympics-1972",
+      "playerId": "sten-ziegler",
+      "shirtNumber": 14
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "olympics-1972",
+      "playerId": "svend-andresen",
+      "shirtNumber": 3
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "olympics-1972",
+      "playerId": "valdemar-hansen",
+      "shirtNumber": 19
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "olympics-1992",
+      "playerId": "brian-flies",
+      "shirtNumber": 16
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "olympics-1992",
+      "playerId": "claus-thomsen",
+      "shirtNumber": 4
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "olympics-1992",
+      "playerId": "jacob-laursen",
+      "shirtNumber": 3
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "olympics-1992",
+      "playerId": "jakob-kjeldbjerg",
+      "shirtNumber": 6
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "olympics-1992",
+      "playerId": "jens-christian-madsen",
+      "shirtNumber": 7
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "olympics-1992",
+      "playerId": "jens-christian-mosegaard-madsen",
+      "shirtNumber": 17
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "olympics-1992",
+      "playerId": "jens-risager",
+      "shirtNumber": 12
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "olympics-1992",
+      "playerId": "lars-hojer",
+      "shirtNumber": 14
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "olympics-1992",
+      "playerId": "michael-hansen-footballer",
+      "shirtNumber": 15
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "olympics-1992",
+      "playerId": "michael-johansen",
+      "shirtNumber": 20
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "olympics-1992",
+      "playerId": "michael-larsen-footballer",
+      "shirtNumber": 18
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "olympics-1992",
+      "playerId": "miklos-molnar",
+      "shirtNumber": 9
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "olympics-1992",
+      "playerId": "niels-jorgensen",
+      "shirtNumber": 1
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "olympics-1992",
+      "playerId": "per-frandsen",
+      "shirtNumber": 10
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "olympics-1992",
+      "playerId": "peter-frank-footballer",
+      "shirtNumber": 5
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "olympics-1992",
+      "playerId": "peter-moller",
+      "shirtNumber": 11
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "olympics-1992",
+      "playerId": "ronnie-ekelund",
+      "shirtNumber": 8
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "olympics-1992",
+      "playerId": "soren-andersen",
+      "shirtNumber": 19
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "olympics-1992",
+      "playerId": "stig-tofting",
+      "shirtNumber": 13
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "olympics-1992",
+      "playerId": "thomas-helveg",
+      "shirtNumber": 2
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "olympics-2016",
+      "playerId": "andreas-maxso",
+      "shirtNumber": 6
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "olympics-2016",
+      "playerId": "casper-nielsen",
+      "shirtNumber": 14
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "olympics-2016",
+      "playerId": "edigeison-gomes",
+      "shirtNumber": 4
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "olympics-2016",
+      "playerId": "emil-larsen",
+      "shirtNumber": 13
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "olympics-2016",
+      "playerId": "frederik-borsting",
+      "shirtNumber": 12
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "olympics-2016",
+      "playerId": "jacob-barrett-laursen",
+      "shirtNumber": 11
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "olympics-2016",
+      "playerId": "jacob-bruun-larsen",
+      "shirtNumber": 10
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "olympics-2016",
+      "playerId": "jakob-blabjerg",
+      "shirtNumber": 5
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "olympics-2016",
+      "playerId": "jens-jonsson",
+      "shirtNumber": 17
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "olympics-2016",
+      "playerId": "jeppe-hojbjerg",
+      "shirtNumber": 1
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "olympics-2016",
+      "playerId": "kasper-larsen",
+      "shirtNumber": 3
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "olympics-2016",
+      "playerId": "lasse-vibe",
+      "shirtNumber": 7
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "olympics-2016",
+      "playerId": "lukas-fernandes-footballer",
+      "shirtNumber": 18
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "olympics-2016",
+      "playerId": "mathias-hebo",
+      "shirtNumber": 8
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "olympics-2016",
+      "playerId": "mikkel-desler",
+      "shirtNumber": 2
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "olympics-2016",
+      "playerId": "nicolai-brock-madsen",
+      "shirtNumber": 9
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "olympics-2016",
+      "playerId": "pascal-gregor",
+      "shirtNumber": 15
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "olympics-2016",
+      "playerId": "robert-skov",
+      "shirtNumber": 16
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "world-cup-1986",
+      "playerId": "allan-simonsen",
+      "shirtNumber": 14
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "world-cup-1986",
+      "playerId": "flemming-christensen",
+      "shirtNumber": 18
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "world-cup-1986",
+      "playerId": "frank-arnesen",
+      "shirtNumber": 15
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "world-cup-1986",
+      "playerId": "henrik-andersen",
+      "shirtNumber": 21
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "world-cup-1986",
+      "playerId": "ivan-nielsen",
+      "shirtNumber": 5
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "world-cup-1986",
+      "playerId": "jan-bartram",
+      "shirtNumber": 20
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "world-cup-1986",
+      "playerId": "jan-molby",
+      "shirtNumber": 7
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "world-cup-1986",
+      "playerId": "jens-jorn-bertelsen",
+      "shirtNumber": 12
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "world-cup-1986",
+      "playerId": "jesper-olsen",
+      "shirtNumber": 8
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "world-cup-1986",
+      "playerId": "john-eriksen",
+      "shirtNumber": 19
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "world-cup-1986",
+      "playerId": "john-sivebaek",
+      "shirtNumber": 2
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "world-cup-1986",
+      "playerId": "kent-nielsen-footballer",
+      "shirtNumber": 17
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "world-cup-1986",
+      "playerId": "klaus-berggreen",
+      "shirtNumber": 9
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "world-cup-1986",
+      "playerId": "lars-hogh",
+      "shirtNumber": 22
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "world-cup-1986",
+      "playerId": "michael-laudrup",
+      "shirtNumber": 11
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "world-cup-1986",
+      "playerId": "morten-olsen",
+      "shirtNumber": 4
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "world-cup-1986",
+      "playerId": "ole-qvist",
+      "shirtNumber": 16
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "world-cup-1986",
+      "playerId": "per-frimann",
+      "shirtNumber": 13
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "world-cup-1986",
+      "playerId": "preben-elkjaer",
+      "shirtNumber": 10
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "world-cup-1986",
+      "playerId": "soren-busk",
+      "shirtNumber": 3
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "world-cup-1986",
+      "playerId": "soren-lerby",
+      "shirtNumber": 6
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "world-cup-1986",
+      "playerId": "troels-rasmussen",
+      "shirtNumber": 1
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "world-cup-1998",
+      "playerId": "allan-nielsen",
+      "shirtNumber": 7
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "world-cup-1998",
+      "playerId": "bjarne-goldbaek",
+      "shirtNumber": 17
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "world-cup-1998",
+      "playerId": "brian-laudrup",
+      "shirtNumber": 11
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "world-cup-1998",
+      "playerId": "ebbe-sand",
+      "shirtNumber": 19
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "world-cup-1998",
+      "playerId": "jacob-laursen",
+      "shirtNumber": 13
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "world-cup-1998",
+      "playerId": "jan-heintze",
+      "shirtNumber": 5
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "world-cup-1998",
+      "playerId": "jes-hogh",
+      "shirtNumber": 4
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "world-cup-1998",
+      "playerId": "marc-rieper",
+      "shirtNumber": 3
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "world-cup-1998",
+      "playerId": "martin-jorgensen",
+      "shirtNumber": 21
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "world-cup-1998",
+      "playerId": "michael-laudrup",
+      "shirtNumber": 10
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "world-cup-1998",
+      "playerId": "michael-schjonberg",
+      "shirtNumber": 2
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "world-cup-1998",
+      "playerId": "miklos-molnar",
+      "shirtNumber": 9
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "world-cup-1998",
+      "playerId": "mogens-krogh",
+      "shirtNumber": 16
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "world-cup-1998",
+      "playerId": "morten-wieghorst",
+      "shirtNumber": 14
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "world-cup-1998",
+      "playerId": "per-frandsen",
+      "shirtNumber": 8
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "world-cup-1998",
+      "playerId": "peter-kjaer-footballer",
+      "shirtNumber": 22
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "world-cup-1998",
+      "playerId": "peter-moller",
+      "shirtNumber": 18
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "world-cup-1998",
+      "playerId": "peter-schmeichel",
+      "shirtNumber": 1
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "world-cup-1998",
+      "playerId": "rene-henriksen",
+      "shirtNumber": 20
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "world-cup-1998",
+      "playerId": "soren-colding",
+      "shirtNumber": 12
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "world-cup-1998",
+      "playerId": "stig-tofting",
+      "shirtNumber": 15
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "world-cup-1998",
+      "playerId": "thomas-helveg",
+      "shirtNumber": 6
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "world-cup-2002",
+      "playerId": "brian-steen-nielsen",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "world-cup-2002",
+      "playerId": "christian-poulsen",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "world-cup-2002",
+      "playerId": "claus-jensen",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "world-cup-2002",
+      "playerId": "dennis-rommedahl",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "world-cup-2002",
+      "playerId": "ebbe-sand",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "world-cup-2002",
+      "playerId": "jan-heintze",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "world-cup-2002",
+      "playerId": "jan-michaelsen",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "world-cup-2002",
+      "playerId": "jesper-christiansen-footballer-born-1978",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "world-cup-2002",
+      "playerId": "jesper-gronkjaer",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "world-cup-2002",
+      "playerId": "jon-dahl-tomasson",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "world-cup-2002",
+      "playerId": "kasper-bogelund",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "world-cup-2002",
+      "playerId": "martin-jorgensen",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "world-cup-2002",
+      "playerId": "martin-laursen",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "world-cup-2002",
+      "playerId": "niclas-jensen",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "world-cup-2002",
+      "playerId": "peter-kjaer-footballer",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "world-cup-2002",
+      "playerId": "peter-lovenkrands",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "world-cup-2002",
+      "playerId": "peter-madsen-footballer",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "world-cup-2002",
+      "playerId": "rene-henriksen",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "world-cup-2002",
+      "playerId": "steven-lustu",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "world-cup-2002",
+      "playerId": "stig-tofting",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "world-cup-2002",
+      "playerId": "thomas-gravesen",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "world-cup-2002",
+      "playerId": "thomas-helveg",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "world-cup-2002",
+      "playerId": "thomas-sorensen",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "world-cup-2010",
+      "playerId": "christian-eriksen",
+      "shirtNumber": 21
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "world-cup-2010",
+      "playerId": "christian-poulsen",
+      "shirtNumber": 2
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "world-cup-2010",
+      "playerId": "daniel-agger",
+      "shirtNumber": 4
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "world-cup-2010",
+      "playerId": "daniel-jensen",
+      "shirtNumber": 7
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "world-cup-2010",
+      "playerId": "dennis-rommedahl",
+      "shirtNumber": 19
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "world-cup-2010",
+      "playerId": "jakob-poulsen",
+      "shirtNumber": 14
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "world-cup-2010",
+      "playerId": "jesper-christiansen-footballer-born-1978",
+      "shirtNumber": 22
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "world-cup-2010",
+      "playerId": "jesper-gronkjaer",
+      "shirtNumber": 8
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "world-cup-2010",
+      "playerId": "jon-dahl-tomasson",
+      "shirtNumber": 9
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "world-cup-2010",
+      "playerId": "lars-jacobsen",
+      "shirtNumber": 6
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "world-cup-2010",
+      "playerId": "martin-jorgensen",
+      "shirtNumber": 10
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "world-cup-2010",
+      "playerId": "mikkel-beckmann",
+      "shirtNumber": 17
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "world-cup-2010",
+      "playerId": "nicklas-bendtner",
+      "shirtNumber": 11
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "world-cup-2010",
+      "playerId": "patrick-mtiliga",
+      "shirtNumber": 23
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "world-cup-2010",
+      "playerId": "per-kroldrup",
+      "shirtNumber": 13
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "world-cup-2010",
+      "playerId": "simon-kjaer",
+      "shirtNumber": 3
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "world-cup-2010",
+      "playerId": "simon-poulsen",
+      "shirtNumber": 15
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "world-cup-2010",
+      "playerId": "soren-larsen",
+      "shirtNumber": 18
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "world-cup-2010",
+      "playerId": "stephan-andersen",
+      "shirtNumber": 16
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "world-cup-2010",
+      "playerId": "thomas-enevoldsen",
+      "shirtNumber": 20
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "world-cup-2010",
+      "playerId": "thomas-kahlenberg",
+      "shirtNumber": 12
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "world-cup-2010",
+      "playerId": "thomas-sorensen",
+      "shirtNumber": 1
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "world-cup-2010",
+      "playerId": "william-kvist",
+      "shirtNumber": 5
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "world-cup-2018",
+      "playerId": "andreas-christensen",
+      "shirtNumber": 6
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "world-cup-2018",
+      "playerId": "andreas-cornelius",
+      "shirtNumber": 21
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "world-cup-2018",
+      "playerId": "christian-eriksen",
+      "shirtNumber": 10
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "world-cup-2018",
+      "playerId": "frederik-ronnow",
+      "shirtNumber": 22
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "world-cup-2018",
+      "playerId": "henrik-dalsgaard",
+      "shirtNumber": 14
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "world-cup-2018",
+      "playerId": "jannik-vestergaard",
+      "shirtNumber": 3
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "world-cup-2018",
+      "playerId": "jens-stryger-larsen",
+      "shirtNumber": 17
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "world-cup-2018",
+      "playerId": "jonas-knudsen",
+      "shirtNumber": 5
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "world-cup-2018",
+      "playerId": "jonas-lossl",
+      "shirtNumber": 16
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "world-cup-2018",
+      "playerId": "kasper-dolberg",
+      "shirtNumber": 12
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "world-cup-2018",
+      "playerId": "kasper-schmeichel",
+      "shirtNumber": 1
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "world-cup-2018",
+      "playerId": "lasse-schone",
+      "shirtNumber": 19
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "world-cup-2018",
+      "playerId": "lukas-lerager",
+      "shirtNumber": 18
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "world-cup-2018",
+      "playerId": "martin-braithwaite",
+      "shirtNumber": 11
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "world-cup-2018",
+      "playerId": "mathias-jorgensen",
+      "shirtNumber": 13
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "world-cup-2018",
+      "playerId": "michael-krohn-dehli",
+      "shirtNumber": 2
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "world-cup-2018",
+      "playerId": "nicolai-jorgensen",
+      "shirtNumber": 9
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "world-cup-2018",
+      "playerId": "pione-sisto",
+      "shirtNumber": 23
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "world-cup-2018",
+      "playerId": "simon-kjaer",
+      "shirtNumber": 4
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "world-cup-2018",
+      "playerId": "thomas-delaney",
+      "shirtNumber": 8
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "world-cup-2018",
+      "playerId": "viktor-fischer",
+      "shirtNumber": 15
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "world-cup-2018",
+      "playerId": "william-kvist",
+      "shirtNumber": 7
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "world-cup-2018",
+      "playerId": "yussuf-poulsen",
+      "shirtNumber": 20
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "world-cup-2022",
+      "playerId": "alexander-bah",
+      "shirtNumber": 26
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "world-cup-2022",
+      "playerId": "andreas-christensen",
+      "shirtNumber": 6
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "world-cup-2022",
+      "playerId": "andreas-cornelius",
+      "shirtNumber": 21
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "world-cup-2022",
+      "playerId": "andreas-skov-olsen",
+      "shirtNumber": 11
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "world-cup-2022",
+      "playerId": "christian-eriksen",
+      "shirtNumber": 10
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "world-cup-2022",
+      "playerId": "christian-norgaard",
+      "shirtNumber": 15
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "world-cup-2022",
+      "playerId": "daniel-wass",
+      "shirtNumber": 18
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "world-cup-2022",
+      "playerId": "frederik-ronnow",
+      "shirtNumber": 22
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "world-cup-2022",
+      "playerId": "jens-stryger-larsen",
+      "shirtNumber": 17
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "world-cup-2022",
+      "playerId": "jesper-lindstrom",
+      "shirtNumber": 25
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "world-cup-2022",
+      "playerId": "joachim-andersen-footballer",
+      "shirtNumber": 2
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "world-cup-2022",
+      "playerId": "joakim-maehle",
+      "shirtNumber": 5
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "world-cup-2022",
+      "playerId": "jonas-wind",
+      "shirtNumber": 19
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "world-cup-2022",
+      "playerId": "kasper-dolberg",
+      "shirtNumber": 12
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "world-cup-2022",
+      "playerId": "kasper-schmeichel",
+      "shirtNumber": 1
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "world-cup-2022",
+      "playerId": "martin-braithwaite",
+      "shirtNumber": 9
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "world-cup-2022",
+      "playerId": "mathias-jensen",
+      "shirtNumber": 7
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "world-cup-2022",
+      "playerId": "mikkel-damsgaard",
+      "shirtNumber": 14
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "world-cup-2022",
+      "playerId": "oliver-christensen",
+      "shirtNumber": 16
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "world-cup-2022",
+      "playerId": "pierre-emile-hojbjerg",
+      "shirtNumber": 23
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "world-cup-2022",
+      "playerId": "rasmus-kristensen",
+      "shirtNumber": 13
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "world-cup-2022",
+      "playerId": "robert-skov",
+      "shirtNumber": 24
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "world-cup-2022",
+      "playerId": "simon-kjaer",
+      "shirtNumber": 4
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "world-cup-2022",
+      "playerId": "thomas-delaney",
+      "shirtNumber": 8
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "world-cup-2022",
+      "playerId": "victor-nelsson",
+      "shirtNumber": 3
+    },
+    {
+      "countryId": "danimarka",
+      "tournamentId": "world-cup-2022",
+      "playerId": "yussuf-poulsen",
+      "shirtNumber": 20
+    }
+  ]
+}

@@ -1,0 +1,374 @@
+---
+/** Shared body of the TR and EN player routes. */
+import BaseLayout from "../layouts/base.astro";
+import { getPlayerModel, yearLabel } from "../lib/data";
+import { fmtNumber } from "../lib/format";
+import {
+  countryName,
+  hrefCountry,
+  hrefPlayer,
+  hrefTournament,
+  otherLang,
+  t,
+  tournamentName,
+  type Lang,
+} from "../lib/i18n";
+import { disputeFieldFor, stripWikilinks } from "../lib/quality";
+
+interface Props {
+  id: string;
+  lang: Lang;
+}
+
+const { id, lang } = Astro.props;
+const model = getPlayerModel(id);
+const { player, history } = model;
+
+const count = fmtNumber(lang, history.length);
+const position = player.position ?? t(lang, "common.unknown");
+const countryList = model.countries.map((country) => countryName(country, lang)).join(" · ");
+
+let confidenceLine: string;
+switch (player.positionConfidence) {
+  case "confirmed":
+    confidenceLine = t(lang, "player.confidenceConfirmed");
+    break;
+  case "disputed": {
+    const dispute = disputeFieldFor(player.wikipediaTitle);
+    if (!dispute) throw new Error(`missing position dispute: ${player.wikipediaTitle}`);
+    confidenceLine = t(lang, "player.confidenceDisputed", {
+      position,
+      field: stripWikilinks(dispute.position_field),
+    });
+    break;
+  }
+  case "unverified":
+    confidenceLine = t(lang, "player.confidenceUnverified");
+    break;
+}
+---
+
+<BaseLayout
+  lang={lang}
+  title={t(lang, "meta.playerTitle", { player: player.name })}
+  description={t(lang, "meta.playerDescription", { player: player.name, count })}
+  otherHref={hrefPlayer(otherLang(lang), id)}
+>
+  <section class="hero">
+    <div class="hero__head">
+      <p class="hero__eyebrow">{t(lang, "player.eyebrow")}</p>
+      <h1>{player.name}</h1>
+      <ul class="hero__countries" aria-label={t(lang, "player.colCountry")}>
+        {model.countries.map((country) => (
+          <li>
+            <a href={hrefCountry(lang, country.id)}>
+              <span aria-hidden="true">{country.flagEmoji}</span>{countryName(country, lang)}
+            </a>
+          </li>
+        ))}
+      </ul>
+    </div>
+
+    <dl class="hero__facts">
+      <div>
+        <dt>{t(lang, "player.born")}</dt>
+        <dd class="tnum">{player.birthYear ?? t(lang, "common.unknown")}</dd>
+      </div>
+      <div>
+        <dt>{t(lang, "player.position")}</dt>
+        <dd>{position}</dd>
+      </div>
+      <div>
+        <dt>{t(lang, "player.colTournament")}</dt>
+        <dd class="tnum">{t(lang, "player.tournamentCount", { count })}</dd>
+      </div>
+    </dl>
+  </section>
+
+  <!-- Confidence is prose, not a colour badge: both disputed readings stay visible. -->
+  <section
+    class:list={["confidence", `is-${player.positionConfidence}`]}
+    aria-labelledby="confidence-heading"
+  >
+    <span class="confidence__mark" aria-hidden="true"></span>
+    <div>
+      <h2 id="confidence-heading">{t(lang, "player.position")}: {position}</h2>
+      <p>{confidenceLine}</p>
+      {model.countries.length > 1 && (
+        <p>{t(lang, "player.twoCountries", { name: player.name, countries: countryList })}</p>
+      )}
+    </div>
+  </section>
+
+  <section class="history" aria-labelledby="history-heading">
+    <h2 id="history-heading">{t(lang, "player.historyHeading")}</h2>
+
+    <div class="table-scroll" role="region" aria-labelledby="history-heading" tabindex="0">
+      <table>
+        <caption>{t(lang, "player.historyCaption", { player: player.name })}</caption>
+        <thead>
+          <tr>
+            <th scope="col">{t(lang, "player.colYear")}</th>
+            <th scope="col">{t(lang, "player.colTournament")}</th>
+            <th scope="col">{t(lang, "player.colCountry")}</th>
+            <th scope="col">{t(lang, "player.colShirt")}</th>
+          </tr>
+        </thead>
+        <tbody>
+          {history.map(({ tournament, country, shirtNumber }) => (
+            <tr>
+              <td class="tnum">{yearLabel(tournament)}</td>
+              <th scope="row">
+                <a href={hrefTournament(lang, tournament.id)}>{tournamentName(tournament, lang)}</a>
+              </th>
+              <td>
+                <a href={hrefCountry(lang, country.id)}>{country.flagEmoji} {countryName(country, lang)}</a>
+              </td>
+              <td class="tnum">{shirtNumber ?? t(lang, "player.noNumber")}</td>
+            </tr>
+          ))}
+        </tbody>
+      </table>
+    </div>
+  </section>
+
+  <section class="source" aria-labelledby="source-heading">
+    <h2 id="source-heading">{player.wikipediaTitle}</h2>
+    <p><a href={player.wikipediaUrl} rel="noreferrer">{t(lang, "player.wikipedia")}</a></p>
+  </section>
+</BaseLayout>
+
+<style>
+  /* Data detail page: a stat block above, tables below. */
+  .hero {
+    display: grid;
+    gap: var(--space-xl);
+    padding: var(--space-lg) var(--space-lg) var(--space-xl);
+    border: var(--rule-hair) solid var(--color-rule);
+    border-radius: var(--radius-container);
+    background: var(--color-paper-2);
+  }
+
+  .hero__head {
+    min-width: 0;
+  }
+
+  .hero__eyebrow {
+    margin: 0 0 var(--space-xs);
+    font-size: var(--text-sm);
+    letter-spacing: var(--tracking-caps);
+    text-transform: uppercase;
+    color: var(--color-ink-muted);
+  }
+
+  h1 {
+    margin: 0;
+    font-size: var(--text-display-s);
+  }
+
+  .hero__countries {
+    display: flex;
+    flex-wrap: wrap;
+    gap: var(--space-xs);
+    margin: var(--space-md) 0 0;
+    padding: 0;
+    list-style: none;
+  }
+
+  .hero__countries a {
+    display: inline-flex;
+    align-items: center;
+    gap: var(--space-2xs);
+    min-block-size: var(--size-control);
+    padding-inline: var(--space-sm);
+    white-space: nowrap;
+    text-decoration: none;
+    border: var(--rule-hair) solid var(--color-rule-strong);
+    border-radius: var(--radius-full);
+    background: var(--color-paper);
+  }
+
+  .hero__facts {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: var(--space-sm);
+    margin: 0;
+  }
+
+  .hero__facts > div {
+    min-width: 0;
+    padding: var(--space-md);
+    border-block-start: var(--rule-double) solid var(--color-ink);
+    background: var(--color-paper);
+  }
+
+  .hero__facts > div:last-child {
+    grid-column: 1 / -1;
+  }
+
+  .hero__facts dt {
+    font-size: var(--text-xs);
+    letter-spacing: var(--tracking-caps);
+    text-transform: uppercase;
+    color: var(--color-ink-muted);
+  }
+
+  .hero__facts dd {
+    margin: var(--space-2xs) 0 0;
+    font-family: var(--font-outlier);
+    font-size: var(--text-md);
+  }
+
+  /* ---- Position confidence ----------------------------------------- */
+  .confidence {
+    display: grid;
+    grid-template-columns: auto minmax(0, 1fr);
+    gap: var(--space-md);
+    margin-block-start: var(--space-xl);
+    padding: var(--space-lg);
+    border: var(--rule-hair) solid var(--color-rule);
+    border-radius: var(--radius-control);
+    background: var(--color-paper);
+  }
+
+  .confidence__mark {
+    display: grid;
+    place-items: center;
+    inline-size: var(--size-control);
+    block-size: var(--size-control);
+    font-family: var(--font-outlier);
+    border: var(--rule-hair) solid var(--color-rule-strong);
+    border-radius: var(--radius-full);
+    background: var(--color-paper-2);
+  }
+
+  .confidence.is-confirmed .confidence__mark::before {
+    content: "✓";
+  }
+
+  .confidence.is-disputed .confidence__mark::before {
+    content: "!";
+  }
+
+  .confidence.is-unverified .confidence__mark::before {
+    content: "?";
+  }
+
+  .confidence.is-disputed {
+    border-block-start-color: var(--color-accent);
+  }
+
+  .confidence.is-unverified {
+    border-block-start-style: dashed;
+  }
+
+  .confidence h2,
+  .history h2,
+  .source h2 {
+    margin: 0;
+    font-size: var(--text-lg);
+  }
+
+  .confidence p {
+    max-width: var(--measure-prose);
+    margin-block: var(--space-sm) 0;
+    color: var(--color-ink-muted);
+  }
+
+  /* ---- Tournament history ----------------------------------------- */
+  .history {
+    margin-block-start: var(--space-3xl);
+  }
+
+  .table-scroll {
+    max-width: 100%;
+    margin-block-start: var(--space-lg);
+    overflow-x: auto;
+    border-block: var(--rule-hair) solid var(--color-rule-strong);
+  }
+
+  table {
+    inline-size: max-content;
+    min-inline-size: 100%;
+    border-collapse: collapse;
+  }
+
+  caption {
+    padding-block: var(--space-sm);
+    text-align: start;
+    font-size: var(--text-sm);
+    color: var(--color-ink-muted);
+  }
+
+  th,
+  td {
+    padding: var(--space-sm) var(--space-md);
+    text-align: start;
+    border-block-end: var(--rule-hair) solid var(--color-rule);
+  }
+
+  thead th {
+    font-size: var(--text-xs);
+    letter-spacing: var(--tracking-caps);
+    text-transform: uppercase;
+    color: var(--color-ink-muted);
+    background: var(--color-paper-2);
+  }
+
+  tbody th {
+    font-weight: 400;
+  }
+
+  tbody tr:last-child > * {
+    border-block-end: 0;
+  }
+
+  td:last-child,
+  thead th:last-child {
+    text-align: end;
+  }
+
+  table a,
+  .source a {
+    white-space: nowrap;
+  }
+
+  a:hover {
+    text-decoration-thickness: var(--rule-hair);
+  }
+
+  a:active {
+    color: var(--color-accent);
+  }
+
+  a[aria-disabled="true"] {
+    color: var(--color-ink-muted);
+    cursor: not-allowed;
+  }
+
+  /* ---- Source ------------------------------------------------------ */
+  .source {
+    margin-block-start: var(--space-3xl);
+    padding-block-start: var(--space-lg);
+    border-block-start: var(--rule-double) solid var(--color-ink);
+  }
+
+  .source p {
+    margin-block: var(--space-sm) 0;
+  }
+
+  @media (min-width: 40rem) {
+    .hero {
+      grid-template-columns: minmax(0, 3fr) minmax(18rem, 2fr);
+      align-items: end;
+    }
+
+    .hero__facts {
+      grid-template-columns: repeat(3, minmax(0, 1fr));
+    }
+
+    .hero__facts > div:last-child {
+      grid-column: auto;
+    }
+  }
+</style>

@@ -1,0 +1,12 @@
+---
+import PlayerPage from "../../components/player-page.astro";
+import { players } from "../../lib/data";
+
+export function getStaticPaths() {
+  return players.map((player) => ({ params: { id: player.id } }));
+}
+
+const { id } = Astro.params;
+---
+
+<PlayerPage id={id!} lang="en" />

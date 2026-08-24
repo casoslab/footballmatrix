@@ -1,0 +1,74 @@
+name: deploy
+
+# A custom workflow rather than the classic Pages build: the classic path
+# carries a soft limit of 10 builds an hour, this one does not.
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+# Least privilege by default. The build job runs `npm ci` and third-party build
+# code, so it gets no deployment credentials; `pages: write` and `id-token: write`
+# are granted on the deploy job alone, which runs nothing but the deploy action.
+permissions:
+  contents: read
+
+# Never let two deploys race; let a newer push win.
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      # Actions are pinned to a full commit SHA: a tag can be moved, a SHA cannot.
+      # The version in the comment is what that SHA is; bump both together.
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4.4.0
+
+      - uses: actions/setup-node@49933ea5288caeca8642d1e84afbd3f7d6820020 # v4.4.0
+        with:
+          node-version: "22"
+          cache: npm
+          cache-dependency-path: site/package-lock.json
+
+      - name: Verify the dataset before publishing it
+        run: |
+          node tools/ts/lint-naming/lint-naming.mjs
+          node tools/ts/validate-data/validate-data.mjs
+
+      - run: npm ci
+        working-directory: site
+
+      - run: npm run build
+        working-directory: site
+
+      # ~18,000 files at ~230 MB. GitHub Pages caps a published site at 1 GB;
+      # fail loudly here rather than discovering it during upload.
+      - name: Check the published size against the 1 GB Pages limit
+        run: |
+          bytes=$(du -sb site/dist | cut -f1)
+          files=$(find site/dist -type f | wc -l)
+          echo "site/dist: $files files, $((bytes / 1024 / 1024)) MB"
+          if [ "$bytes" -gt 966367641 ]; then
+            echo "::error::site/dist exceeds 900 MB and is approaching the 1 GB GitHub Pages limit"
+            exit 1
+          fi
+
+      - uses: actions/upload-pages-artifact@56afc609e74202658d3ffba0e8f6dda462b719fa # v3.0.1
+        with:
+          path: site/dist
+
+  deploy:
+    needs: build
+    # The only job that may deploy, and it runs no project or dependency code.
+    permissions:
+      pages: write
+      id-token: write
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@d6db90164ac5ed86f2b6aed7e0febac5b3c0c03e # v4.0.5

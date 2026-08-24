@@ -1,0 +1,6571 @@
+{
+  "country": {
+    "id": "belcika",
+    "nameTr": "Belçika",
+    "nameEn": "Belgium",
+    "iso3": "BEL",
+    "flagEmoji": "🇧🇪",
+    "confederation": "UEFA",
+    "theme": {
+      "sky": "#d3212d",
+      "skySoft": "#fff1ce",
+      "navy": "#1a1a1a",
+      "gold": "#f6c453"
+    }
+  },
+  "tournaments": [
+    {
+      "id": "euro-1972",
+      "type": "continental",
+      "year": 1972,
+      "nameTr": "Avrupa Şampiyonası",
+      "nameEn": "UEFA European Championship",
+      "sourceUrl": "https://en.wikipedia.org/wiki/UEFA_Euro_1972_squads",
+      "retrievedAt": "2026-08-03"
+    },
+    {
+      "id": "euro-1980",
+      "type": "continental",
+      "year": 1980,
+      "nameTr": "Avrupa Şampiyonası",
+      "nameEn": "UEFA European Championship",
+      "sourceUrl": "https://en.wikipedia.org/wiki/UEFA_Euro_1980_squads",
+      "retrievedAt": "2026-08-03"
+    },
+    {
+      "id": "euro-1984",
+      "type": "continental",
+      "year": 1984,
+      "nameTr": "Avrupa Şampiyonası",
+      "nameEn": "UEFA European Championship",
+      "sourceUrl": "https://en.wikipedia.org/wiki/UEFA_Euro_1984_squads",
+      "retrievedAt": "2026-08-03"
+    },
+    {
+      "id": "euro-2000",
+      "type": "continental",
+      "year": 2000,
+      "nameTr": "Avrupa Şampiyonası",
+      "nameEn": "UEFA European Championship",
+      "sourceUrl": "https://en.wikipedia.org/wiki/UEFA_Euro_2000_squads",
+      "retrievedAt": "2026-08-03"
+    },
+    {
+      "id": "euro-2016",
+      "type": "continental",
+      "year": 2016,
+      "nameTr": "Avrupa Şampiyonası",
+      "nameEn": "UEFA European Championship",
+      "sourceUrl": "https://en.wikipedia.org/wiki/UEFA_Euro_2016_squads",
+      "retrievedAt": "2026-08-03"
+    },
+    {
+      "id": "euro-2020",
+      "type": "continental",
+      "year": 2020,
+      "nameTr": "Avrupa Şampiyonası",
+      "nameEn": "UEFA European Championship",
+      "sourceUrl": "https://en.wikipedia.org/wiki/UEFA_Euro_2020_squads",
+      "retrievedAt": "2026-08-03"
+    },
+    {
+      "id": "euro-2024",
+      "type": "continental",
+      "year": 2024,
+      "nameTr": "Avrupa Şampiyonası",
+      "nameEn": "UEFA European Championship",
+      "sourceUrl": "https://en.wikipedia.org/wiki/UEFA_Euro_2024_squads",
+      "retrievedAt": "2026-08-03"
+    },
+    {
+      "id": "olympics-1920",
+      "type": "olympic",
+      "year": 1920,
+      "nameTr": "Olimpiyat",
+      "nameEn": "Summer Olympics men's football tournament",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Football_at_the_1920_Summer_Olympics_%E2%80%93_Men%27s_team_squads",
+      "retrievedAt": "2026-08-03"
+    },
+    {
+      "id": "olympics-1924",
+      "type": "olympic",
+      "year": 1924,
+      "nameTr": "Olimpiyat",
+      "nameEn": "Summer Olympics men's football tournament",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Football_at_the_1924_Summer_Olympics_%E2%80%93_Men%27s_team_squads",
+      "retrievedAt": "2026-08-03"
+    },
+    {
+      "id": "olympics-1928",
+      "type": "olympic",
+      "year": 1928,
+      "nameTr": "Olimpiyat",
+      "nameEn": "Summer Olympics men's football tournament",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Football_at_the_1928_Summer_Olympics_%E2%80%93_Men%27s_team_squads",
+      "retrievedAt": "2026-08-03"
+    },
+    {
+      "id": "olympics-2008",
+      "type": "olympic",
+      "year": 2008,
+      "nameTr": "Olimpiyat",
+      "nameEn": "Summer Olympics men's football tournament",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Football_at_the_2008_Summer_Olympics_%E2%80%93_Men%27s_team_squads",
+      "retrievedAt": "2026-08-03"
+    },
+    {
+      "id": "world-cup-1930",
+      "type": "world-cup",
+      "year": 1930,
+      "nameTr": "Dünya Kupası",
+      "nameEn": "FIFA World Cup",
+      "sourceUrl": "https://en.wikipedia.org/wiki/1930_FIFA_World_Cup_squads",
+      "retrievedAt": "2026-08-03"
+    },
+    {
+      "id": "world-cup-1934",
+      "type": "world-cup",
+      "year": 1934,
+      "nameTr": "Dünya Kupası",
+      "nameEn": "FIFA World Cup",
+      "sourceUrl": "https://en.wikipedia.org/wiki/1934_FIFA_World_Cup_squads",
+      "retrievedAt": "2026-08-03"
+    },
+    {
+      "id": "world-cup-1938",
+      "type": "world-cup",
+      "year": 1938,
+      "nameTr": "Dünya Kupası",
+      "nameEn": "FIFA World Cup",
+      "sourceUrl": "https://en.wikipedia.org/wiki/1938_FIFA_World_Cup_squads",
+      "retrievedAt": "2026-08-03"
+    },
+    {
+      "id": "world-cup-1954",
+      "type": "world-cup",
+      "year": 1954,
+      "nameTr": "Dünya Kupası",
+      "nameEn": "FIFA World Cup",
+      "sourceUrl": "https://en.wikipedia.org/wiki/1954_FIFA_World_Cup_squads",
+      "retrievedAt": "2026-08-03"
+    },
+    {
+      "id": "world-cup-1970",
+      "type": "world-cup",
+      "year": 1970,
+      "nameTr": "Dünya Kupası",
+      "nameEn": "FIFA World Cup",
+      "sourceUrl": "https://en.wikipedia.org/wiki/1970_FIFA_World_Cup_squads",
+      "retrievedAt": "2026-08-03"
+    },
+    {
+      "id": "world-cup-1982",
+      "type": "world-cup",
+      "year": 1982,
+      "nameTr": "Dünya Kupası",
+      "nameEn": "FIFA World Cup",
+      "sourceUrl": "https://en.wikipedia.org/wiki/1982_FIFA_World_Cup_squads",
+      "retrievedAt": "2026-08-03"
+    },
+    {
+      "id": "world-cup-1986",
+      "type": "world-cup",
+      "year": 1986,
+      "nameTr": "Dünya Kupası",
+      "nameEn": "FIFA World Cup",
+      "sourceUrl": "https://en.wikipedia.org/wiki/1986_FIFA_World_Cup_squads",
+      "retrievedAt": "2026-08-03"
+    },
+    {
+      "id": "world-cup-1990",
+      "type": "world-cup",
+      "year": 1990,
+      "nameTr": "Dünya Kupası",
+      "nameEn": "FIFA World Cup",
+      "sourceUrl": "https://en.wikipedia.org/wiki/1990_FIFA_World_Cup_squads",
+      "retrievedAt": "2026-08-03"
+    },
+    {
+      "id": "world-cup-1994",
+      "type": "world-cup",
+      "year": 1994,
+      "nameTr": "Dünya Kupası",
+      "nameEn": "FIFA World Cup",
+      "sourceUrl": "https://en.wikipedia.org/wiki/1994_FIFA_World_Cup_squads",
+      "retrievedAt": "2026-08-03"
+    },
+    {
+      "id": "world-cup-1998",
+      "type": "world-cup",
+      "year": 1998,
+      "nameTr": "Dünya Kupası",
+      "nameEn": "FIFA World Cup",
+      "sourceUrl": "https://en.wikipedia.org/wiki/1998_FIFA_World_Cup_squads",
+      "retrievedAt": "2026-08-03"
+    },
+    {
+      "id": "world-cup-2002",
+      "type": "world-cup",
+      "year": 2002,
+      "nameTr": "Dünya Kupası",
+      "nameEn": "FIFA World Cup",
+      "sourceUrl": "https://en.wikipedia.org/wiki/2002_FIFA_World_Cup_squads",
+      "retrievedAt": "2026-08-03"
+    },
+    {
+      "id": "world-cup-2014",
+      "type": "world-cup",
+      "year": 2014,
+      "nameTr": "Dünya Kupası",
+      "nameEn": "FIFA World Cup",
+      "sourceUrl": "https://en.wikipedia.org/wiki/2014_FIFA_World_Cup_squads",
+      "retrievedAt": "2026-08-03"
+    },
+    {
+      "id": "world-cup-2018",
+      "type": "world-cup",
+      "year": 2018,
+      "nameTr": "Dünya Kupası",
+      "nameEn": "FIFA World Cup",
+      "sourceUrl": "https://en.wikipedia.org/wiki/2018_FIFA_World_Cup_squads",
+      "retrievedAt": "2026-08-03"
+    },
+    {
+      "id": "world-cup-2022",
+      "type": "world-cup",
+      "year": 2022,
+      "nameTr": "Dünya Kupası",
+      "nameEn": "FIFA World Cup",
+      "sourceUrl": "https://en.wikipedia.org/wiki/2022_FIFA_World_Cup_squads",
+      "retrievedAt": "2026-08-03"
+    },
+    {
+      "id": "world-cup-2026",
+      "type": "world-cup",
+      "year": 2026,
+      "nameTr": "Dünya Kupası",
+      "nameEn": "FIFA World Cup",
+      "sourceUrl": "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+      "retrievedAt": "2026-08-03"
+    }
+  ],
+  "players": [
+    {
+      "id": "achille-schelstraete",
+      "name": "Achille Schelstraete",
+      "wikipediaTitle": "Achille Schelstraete",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Achille_Schelstraete",
+      "birthYear": 1897,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "adnan-januzaj",
+      "name": "Adnan Januzaj",
+      "wikipediaTitle": "Adnan Januzaj",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Adnan_Januzaj",
+      "birthYear": 1995,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "albert-henderickx",
+      "name": "Albert Henderickx",
+      "wikipediaTitle": "Albert Henderickx",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Albert_Henderickx",
+      "birthYear": 1903,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "albert-heremans",
+      "name": "Albert Heremans",
+      "wikipediaTitle": "Albert Heremans",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Albert_Heremans",
+      "birthYear": 1906,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "alexandre-czerniatynski",
+      "name": "Alexandre Czerniatynski",
+      "wikipediaTitle": "Alexandre Czerniatynski",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Alexandre_Czerniatynski",
+      "birthYear": 1960,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "alexis-chantraine",
+      "name": "Alexis Chantraine",
+      "wikipediaTitle": "Alexis Chantraine",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Alexis_Chantraine",
+      "birthYear": 1901,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "alexis-saelemaekers",
+      "name": "Alexis Saelemaekers",
+      "wikipediaTitle": "Alexis Saelemaekers",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Alexis_Saelemaekers",
+      "birthYear": 1999,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "alfons-de-winter",
+      "name": "Alfons De Winter",
+      "wikipediaTitle": "Alfons De Winter",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Alfons_De_Winter",
+      "birthYear": 1908,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "alfons-peeters",
+      "name": "Alfons Peeters",
+      "wikipediaTitle": "Alfons Peeters",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Alfons_Peeters",
+      "birthYear": 1943,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "alfons-van-brandt",
+      "name": "Alfons Van Brandt",
+      "wikipediaTitle": "Alfons Van Brandt",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Alfons_Van_Brandt",
+      "birthYear": 1927,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "amadou-onana",
+      "name": "Amadou Onana",
+      "wikipediaTitle": "Amadou Onana",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Amadou_Onana",
+      "birthYear": 2001,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "andre-fierens",
+      "name": "André Fierens",
+      "wikipediaTitle": "André Fierens",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/André_Fierens",
+      "birthYear": 1898,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "andre-saeys",
+      "name": "André Saeys",
+      "wikipediaTitle": "André Saeys",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/André_Saeys",
+      "birthYear": 1911,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "andre-vandeweyer",
+      "name": "André Vandeweyer",
+      "wikipediaTitle": "André Vandeweyer",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/André_Vandeweyer",
+      "birthYear": 1909,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "andre-vandewyer",
+      "name": "André Vandewyer",
+      "wikipediaTitle": "André Vandewyer",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/André_Vandewyer",
+      "birthYear": 1909,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "anthony-vanden-borre",
+      "name": "Anthony Vanden Borre",
+      "wikipediaTitle": "Anthony Vanden Borre",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Anthony_Vanden_Borre",
+      "birthYear": 1987,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "armand-swartenbroeks",
+      "name": "Armand Swartenbroeks",
+      "wikipediaTitle": "Armand Swartenbroeks",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Armand_Swartenbroeks",
+      "birthYear": 1892,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "arnold-badjou",
+      "name": "Arnold Badjou",
+      "wikipediaTitle": "Arnold Badjou",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Arnold_Badjou",
+      "birthYear": 1909,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "arthur-ceuleers",
+      "name": "Arthur Ceuleers",
+      "wikipediaTitle": "Arthur Ceuleers",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Arthur_Ceuleers",
+      "birthYear": 1916,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "arthur-theate",
+      "name": "Arthur Theate",
+      "wikipediaTitle": "Arthur Theate",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Arthur_Theate",
+      "birthYear": 2000,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "arthur-vermeeren",
+      "name": "Arthur Vermeeren",
+      "wikipediaTitle": "Arthur Vermeeren",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Arthur_Vermeeren",
+      "birthYear": 2005,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "aster-vranckx",
+      "name": "Aster Vranckx",
+      "wikipediaTitle": "Aster Vranckx",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Aster_Vranckx",
+      "birthYear": 2002,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "august-hellemans",
+      "name": "August Hellemans",
+      "wikipediaTitle": "August Hellemans",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/August_Hellemans",
+      "birthYear": 1907,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "august-pelsmaeker",
+      "name": "August Pelsmaeker",
+      "wikipediaTitle": "August Pelsmaeker",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/August_Pelsmaeker",
+      "birthYear": 1899,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "august-ruyssevelt",
+      "name": "August Ruyssevelt",
+      "wikipediaTitle": "August Ruyssevelt",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/August_Ruyssevelt",
+      "birthYear": 1896,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "auguste-hellemans",
+      "name": "Auguste Hellemans",
+      "wikipediaTitle": "Auguste Hellemans",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Auguste_Hellemans",
+      "birthYear": 1907,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "auguste-pelsmaeker",
+      "name": "Auguste Pelsmaeker",
+      "wikipediaTitle": "Auguste Pelsmaeker",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Auguste_Pelsmaeker",
+      "birthYear": 1899,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "axel-witsel",
+      "name": "Axel Witsel",
+      "wikipediaTitle": "Axel Witsel",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Axel_Witsel",
+      "birthYear": 1989,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "bart-goor",
+      "name": "Bart Goor",
+      "wikipediaTitle": "Bart Goor",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Bart_Goor",
+      "birthYear": 1973,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "bernard-voorhoof",
+      "name": "Bernard Voorhoof",
+      "wikipediaTitle": "Bernard Voorhoof",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Bernard_Voorhoof",
+      "birthYear": 1910,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "bernd-thijs",
+      "name": "Bernd Thijs",
+      "wikipediaTitle": "Bernd Thijs",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Bernd_Thijs",
+      "birthYear": 1978,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "bertrand-crasson",
+      "name": "Bertrand Crasson",
+      "wikipediaTitle": "Bertrand Crasson",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Bertrand_Crasson",
+      "birthYear": 1971,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "brandon-mechele",
+      "name": "Brandon Mechele",
+      "wikipediaTitle": "Brandon Mechele",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Brandon_Mechele",
+      "birthYear": 1993,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "branko-strupar",
+      "name": "Branko Strupar",
+      "wikipediaTitle": "Branko Strupar",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Branko_Strupar",
+      "birthYear": 1970,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "bruno-versavel",
+      "name": "Bruno Versavel",
+      "wikipediaTitle": "Bruno Versavel",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Bruno_Versavel",
+      "birthYear": 1967,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "charles-de-ketelaere",
+      "name": "Charles De Ketelaere",
+      "wikipediaTitle": "Charles De Ketelaere",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Charles_De_Ketelaere",
+      "birthYear": 2001,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "charles-geerts-footballer",
+      "name": "Charles Geerts",
+      "wikipediaTitle": "Charles Geerts (footballer)",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Charles_Geerts_(footballer)",
+      "birthYear": 1930,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "charles-simons-footballer",
+      "name": "Charles Simons",
+      "wikipediaTitle": "Charles Simons (footballer)",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Charles_Simons_(footballer)",
+      "birthYear": 1906,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "charles-vanden-wouwer",
+      "name": "Charles Vanden Wouwer",
+      "wikipediaTitle": "Charles Vanden Wouwer",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Charles_Vanden_Wouwer",
+      "birthYear": 1916,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "christian-benteke",
+      "name": "Christian Benteke",
+      "wikipediaTitle": "Christian Benteke",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Christian_Benteke",
+      "birthYear": 1990,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "christian-kabasele",
+      "name": "Christian Kabasele",
+      "wikipediaTitle": "Christian Kabasele",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Christian_Kabasele",
+      "birthYear": 1991,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "christian-piot",
+      "name": "Christian Piot",
+      "wikipediaTitle": "Christian Piot",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Christian_Piot",
+      "birthYear": 1947,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "constant-huysmans",
+      "name": "Constant Huysmans",
+      "wikipediaTitle": "Constant Huysmans",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Constant_Huysmans",
+      "birthYear": 1928,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "constant-joacim",
+      "name": "Constant Joacim",
+      "wikipediaTitle": "Constant Joacim",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Constant_Joacim",
+      "birthYear": 1908,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "corneel-seys",
+      "name": "Corneel Seys",
+      "wikipediaTitle": "Corneel Seys",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Corneel_Seys",
+      "birthYear": 1912,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "daniel-van-buyten",
+      "name": "Daniel Van Buyten",
+      "wikipediaTitle": "Daniel Van Buyten",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Daniel_Van_Buyten",
+      "birthYear": 1978,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "daniel-veyt",
+      "name": "Daniel Veyt",
+      "wikipediaTitle": "Daniel Veyt",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Daniel_Veyt",
+      "birthYear": 1956,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "danny-boffin",
+      "name": "Danny Boffin",
+      "wikipediaTitle": "Danny Boffin",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Danny_Boffin",
+      "birthYear": 1965,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "dany-verlinden",
+      "name": "Dany Verlinden",
+      "wikipediaTitle": "Dany Verlinden",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Dany_Verlinden",
+      "birthYear": 1963,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "dedryck-boyata",
+      "name": "Dedryck Boyata",
+      "wikipediaTitle": "Dedryck Boyata",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Dedryck_Boyata",
+      "birthYear": 1990,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "denis-houf",
+      "name": "Denis Houf",
+      "wikipediaTitle": "Denis Houf",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Denis_Houf",
+      "birthYear": 1932,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "dennis-praet",
+      "name": "Dennis Praet",
+      "wikipediaTitle": "Dennis Praet",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Dennis_Praet",
+      "birthYear": 1994,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "desire-bastin",
+      "name": "Désiré Bastin",
+      "wikipediaTitle": "Désiré Bastin",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Désiré_Bastin",
+      "birthYear": 1900,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "desire-bourgeois",
+      "name": "Désiré Bourgeois",
+      "wikipediaTitle": "Désiré Bourgeois",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Désiré_Bourgeois",
+      "birthYear": 1908,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "diego-moreira",
+      "name": "Diego Moreira",
+      "wikipediaTitle": "Diego Moreira",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Diego_Moreira",
+      "birthYear": 2004,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "dirk-medved",
+      "name": "Dirk Medved",
+      "wikipediaTitle": "Dirk Medved",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Dirk_Medved",
+      "birthYear": 1968,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "divock-origi",
+      "name": "Divock Origi",
+      "wikipediaTitle": "Divock Origi",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Divock_Origi",
+      "birthYear": 1995,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "dodi-lukebakio",
+      "name": "Dodi Lukébakio",
+      "wikipediaTitle": "Dodi Lukébakio",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Dodi_Lukébakio",
+      "birthYear": 1997,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "dries-mertens",
+      "name": "Dries Mertens",
+      "wikipediaTitle": "Dries Mertens",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Dries_Mertens",
+      "birthYear": 1987,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "eddy-voordeckers",
+      "name": "Eddy Voordeckers",
+      "wikipediaTitle": "Eddy Voordeckers",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Eddy_Voordeckers",
+      "birthYear": 1960,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "eden-hazard",
+      "name": "Eden Hazard",
+      "wikipediaTitle": "Eden Hazard",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Eden_Hazard",
+      "birthYear": 1991,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "emile-hanse",
+      "name": "Émile Hanse",
+      "wikipediaTitle": "Émile Hanse",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Émile_Hanse",
+      "birthYear": 1892,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "emile-mpenza",
+      "name": "Émile Mpenza",
+      "wikipediaTitle": "Émile Mpenza",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Émile_Mpenza",
+      "birthYear": 1978,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "emile-stijnen",
+      "name": "Émile Stijnen",
+      "wikipediaTitle": "Émile Stijnen",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Émile_Stijnen",
+      "birthYear": 1907,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "enzo-scifo",
+      "name": "Enzo Scifo",
+      "wikipediaTitle": "Enzo Scifo",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Enzo_Scifo",
+      "birthYear": 1966,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "eric-deflandre",
+      "name": "Eric Deflandre",
+      "wikipediaTitle": "Eric Deflandre",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Eric_Deflandre",
+      "birthYear": 1973,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "eric-gerets",
+      "name": "Eric Gerets",
+      "wikipediaTitle": "Eric Gerets",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Eric_Gerets",
+      "birthYear": 1954,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "eric-van-meir",
+      "name": "Eric Van Meir",
+      "wikipediaTitle": "Eric Van Meir",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Eric_Van_Meir",
+      "birthYear": 1968,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "erwin-vandenbergh",
+      "name": "Erwin Vandenbergh",
+      "wikipediaTitle": "Erwin Vandenbergh",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Erwin_Vandenbergh",
+      "birthYear": 1959,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "erwin-vandendaele",
+      "name": "Erwin Vandendaele",
+      "wikipediaTitle": "Erwin Vandendaele",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Erwin_Vandendaele",
+      "birthYear": 1945,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "faris-haroun",
+      "name": "Faris Haroun",
+      "wikipediaTitle": "Faris Haroun",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Faris_Haroun",
+      "birthYear": 1985,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "felix-balyu",
+      "name": "Félix Balyu",
+      "wikipediaTitle": "Félix Balyu",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Félix_Balyu",
+      "birthYear": 1891,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "felix-welkenhuysen",
+      "name": "Félix Welkenhuysen",
+      "wikipediaTitle": "Félix Welkenhuysen",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Félix_Welkenhuysen",
+      "birthYear": 1908,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "ferdinand-adams",
+      "name": "Ferdinand Adams",
+      "wikipediaTitle": "Ferdinand Adams",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ferdinand_Adams",
+      "birthYear": 1903,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "fernand-buyle",
+      "name": "Fernand Buyle",
+      "wikipediaTitle": "Fernand Buyle",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Fernand_Buyle",
+      "birthYear": 1918,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "fernand-lorphevre",
+      "name": "Fernand Lorphèvre",
+      "wikipediaTitle": "Fernand Lorphèvre",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Fernand_Lorphèvre?action=edit&redlink=1",
+      "birthYear": null,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "fernand-nisot",
+      "name": "Fernand Nisot",
+      "wikipediaTitle": "Fernand Nisot",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Fernand_Nisot",
+      "birthYear": 1895,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "fernand-wertz",
+      "name": "Fernand Wertz",
+      "wikipediaTitle": "Fernand Wertz",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Fernand_Wertz",
+      "birthYear": 1894,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "filip-de-wilde",
+      "name": "Filip De Wilde",
+      "wikipediaTitle": "Filip De Wilde",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Filip_De_Wilde",
+      "birthYear": 1964,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "florimond-vanhalme",
+      "name": "Florimond Vanhalme",
+      "wikipediaTitle": "Florimond Vanhalme",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Florimond_Vanhalme",
+      "birthYear": 1895,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "francois-demol",
+      "name": "François Demol",
+      "wikipediaTitle": "François Demol",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/François_Demol",
+      "birthYear": 1895,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "francois-devries",
+      "name": "François Devries",
+      "wikipediaTitle": "François Devries",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/François_Devries",
+      "birthYear": 1913,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "francois-dogaer",
+      "name": "François Dogaer",
+      "wikipediaTitle": "François Dogaer",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/François_Dogaer",
+      "birthYear": 1897,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "francois-ledent",
+      "name": "Francois Ledent",
+      "wikipediaTitle": "Francois Ledent",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Francois_Ledent",
+      "birthYear": 1908,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "francois-van-der-elst",
+      "name": "François Van Der Elst",
+      "wikipediaTitle": "François Van Der Elst",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/François_Van_Der_Elst",
+      "birthYear": 1954,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "franky-van-der-elst",
+      "name": "Franky Van der Elst",
+      "wikipediaTitle": "Franky Van der Elst",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Franky_Van_der_Elst",
+      "birthYear": 1961,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "franky-vandendriessche",
+      "name": "Franky Vandendriessche",
+      "wikipediaTitle": "Franky Vandendriessche",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Franky_Vandendriessche",
+      "birthYear": 1971,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "franky-vercauteren",
+      "name": "Franky Vercauteren",
+      "wikipediaTitle": "Franky Vercauteren",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Franky_Vercauteren",
+      "birthYear": 1956,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "frans-gommers",
+      "name": "Frans Gommers",
+      "wikipediaTitle": "Frans Gommers",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Frans_Gommers",
+      "birthYear": 1917,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "frans-janssens",
+      "name": "Frans Janssens",
+      "wikipediaTitle": "Frans Janssens",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Frans_Janssens",
+      "birthYear": 1945,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "frans-peeraer",
+      "name": "Frans Peeraer",
+      "wikipediaTitle": "Frans Peeraer",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Frans_Peeraer",
+      "birthYear": 1913,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "frederic-herpoel",
+      "name": "Frédéric Herpoel",
+      "wikipediaTitle": "Frédéric Herpoel",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Frédéric_Herpoel",
+      "birthYear": 1974,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "gaetan-englebert",
+      "name": "Gaëtan Englebert",
+      "wikipediaTitle": "Gaëtan Englebert",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Gaëtan_Englebert",
+      "birthYear": 1976,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "geert-de-vlieger",
+      "name": "Geert De Vlieger",
+      "wikipediaTitle": "Geert De Vlieger",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Geert_De_Vlieger",
+      "birthYear": 1971,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "georges-de-spae",
+      "name": "Georges De Spae",
+      "wikipediaTitle": "Georges De Spae",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Georges_De_Spae",
+      "birthYear": 1900,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "georges-ditzler",
+      "name": "Georges Ditzler",
+      "wikipediaTitle": "Georges Ditzler",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Georges_Ditzler",
+      "birthYear": 1897,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "georges-grun",
+      "name": "Georges Grün",
+      "wikipediaTitle": "Georges Grün",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Georges_Grün",
+      "birthYear": 1962,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "georges-hebdin",
+      "name": "Georges Hebdin",
+      "wikipediaTitle": "Georges Hebdin",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Georges_Hebdin",
+      "birthYear": 1889,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "georges-heylens",
+      "name": "Georges Heylens",
+      "wikipediaTitle": "Georges Heylens",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Georges_Heylens",
+      "birthYear": 1941,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "georges-michel-footballer",
+      "name": "Georges Michel",
+      "wikipediaTitle": "Georges Michel (footballer)",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Georges_Michel_(footballer)",
+      "birthYear": 1898,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "gerard-delbeke",
+      "name": "Gérard Delbeke",
+      "wikipediaTitle": "Gérard Delbeke",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Gérard_Delbeke",
+      "birthYear": 1898,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "gerard-devos",
+      "name": "Gérard Devos",
+      "wikipediaTitle": "Gérard Devos",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Gérard_Devos",
+      "birthYear": 1903,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "gerard-plessers",
+      "name": "Gerard Plessers",
+      "wikipediaTitle": "Gerard Plessers",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Gerard_Plessers",
+      "birthYear": 1959,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "gert-verheyen",
+      "name": "Gert Verheyen",
+      "wikipediaTitle": "Gert Verheyen",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Gert_Verheyen",
+      "birthYear": 1970,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "gilbert-bodart",
+      "name": "Gilbert Bodart",
+      "wikipediaTitle": "Gilbert Bodart",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Gilbert_Bodart",
+      "birthYear": 1962,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "gilbert-van-binst",
+      "name": "Gilbert van Binst",
+      "wikipediaTitle": "Gilbert Van Binst",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Gilbert_Van_Binst",
+      "birthYear": 1951,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "gilles-de-bilde",
+      "name": "Gilles De Bilde",
+      "wikipediaTitle": "Gilles De Bilde",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Gilles_De_Bilde",
+      "birthYear": 1971,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "glen-de-boeck",
+      "name": "Glen De Boeck",
+      "wikipediaTitle": "Glen De Boeck",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Glen_De_Boeck",
+      "birthYear": 1971,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "gordan-vidovic",
+      "name": "Gordan Vidović",
+      "wikipediaTitle": "Gordan Vidović",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Gordan_Vidović",
+      "birthYear": 1968,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "gustave-boesman",
+      "name": "Gustave Boesman",
+      "wikipediaTitle": "Gustave Boesman",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Gustave_Boesman",
+      "birthYear": 1899,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "guy-dardenne",
+      "name": "Guy Dardenne",
+      "wikipediaTitle": "Guy Dardenne",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Guy_Dardenne",
+      "birthYear": 1954,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "guy-vandersmissen",
+      "name": "Guy Vandersmissen",
+      "wikipediaTitle": "Guy Vandersmissen",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Guy_Vandersmissen",
+      "birthYear": 1957,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "hans-vanaken",
+      "name": "Hans Vanaken",
+      "wikipediaTitle": "Hans Vanaken",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Hans_Vanaken",
+      "birthYear": 1992,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "hendrik-isemborghs",
+      "name": "Hendrik Isemborghs",
+      "wikipediaTitle": "Hendrik Isemborghs",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Hendrik_Isemborghs",
+      "birthYear": 1914,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "henri-bierna",
+      "name": "Henri Bierna",
+      "wikipediaTitle": "Henri Bierna",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Henri_Bierna",
+      "birthYear": 1905,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "henri-coppens",
+      "name": "Henri Coppens",
+      "wikipediaTitle": "Henri Coppens",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Henri_Coppens",
+      "birthYear": 1930,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "henri-de-deken",
+      "name": "Henri De Deken",
+      "wikipediaTitle": "Henri De Deken",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Henri_De_Deken",
+      "birthYear": 1907,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "henri-dirickx",
+      "name": "Henri Dirickx",
+      "wikipediaTitle": "Henri Dirickx",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Henri_Dirickx",
+      "birthYear": 1927,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "henri-larnoe",
+      "name": "Henri Larnoe",
+      "wikipediaTitle": "Henri Larnoe",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Henri_Larnoe",
+      "birthYear": 1897,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "henri-van-averbeke",
+      "name": "Henri Van Averbeke",
+      "wikipediaTitle": "Henri Van Averbeke",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Henri_Van_Averbeke",
+      "birthYear": 1901,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "hippolyte-van-den-bosch",
+      "name": "Hippolyte Van Den Bosch",
+      "wikipediaTitle": "Hippolyte Van Den Bosch",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Hippolyte_Van_Den_Bosch",
+      "birthYear": 1926,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "hugo-broos",
+      "name": "Hugo Broos",
+      "wikipediaTitle": "Hugo Broos",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Hugo_Broos",
+      "birthYear": 1952,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "ivan-thys",
+      "name": "Ivan Thys",
+      "wikipediaTitle": "Ivan Thys",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ivan_Thys",
+      "birthYear": 1897,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "jacky-munaron",
+      "name": "Jacky Munaron",
+      "wikipediaTitle": "Jacky Munaron",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Jacky_Munaron",
+      "birthYear": 1956,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "jacky-peeters",
+      "name": "Jacky Peeters",
+      "wikipediaTitle": "Jacky Peeters",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Jacky_Peeters",
+      "birthYear": 1969,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "jacques-beurlet",
+      "name": "Jacques Beurlet",
+      "wikipediaTitle": "Jacques Beurlet",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Jacques_Beurlet",
+      "birthYear": 1944,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "jacques-duquesne-footballer",
+      "name": "Jacques Duquesne",
+      "wikipediaTitle": "Jacques Duquesne (footballer)",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Jacques_Duquesne_(footballer)",
+      "birthYear": 1940,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "jacques-moeschal-footballer",
+      "name": "Jacques Moeschal",
+      "wikipediaTitle": "Jacques Moeschal (footballer)",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Jacques_Moeschal_(footballer)",
+      "birthYear": 1900,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "jacques-teugels",
+      "name": "Jacques Teugels",
+      "wikipediaTitle": "Jacques Teugels",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Jacques_Teugels",
+      "birthYear": 1946,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "jan-ceulemans",
+      "name": "Jan Ceulemans",
+      "wikipediaTitle": "Jan Ceulemans",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Jan_Ceulemans",
+      "birthYear": 1957,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "jan-diddens",
+      "name": "Jan Diddens",
+      "wikipediaTitle": "Jan Diddens",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Jan_Diddens",
+      "birthYear": 1906,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "jan-verheyen-footballer",
+      "name": "Jan Verheyen",
+      "wikipediaTitle": "Jan Verheyen (footballer)",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Jan_Verheyen_(footballer)",
+      "birthYear": 1944,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "jan-vertonghen",
+      "name": "Jan Vertonghen",
+      "wikipediaTitle": "Jan Vertonghen",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Jan_Vertonghen",
+      "birthYear": 1987,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "jason-denayer",
+      "name": "Jason Denayer",
+      "wikipediaTitle": "Jason Denayer",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Jason_Denayer",
+      "birthYear": 1995,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "jean-brichaut",
+      "name": "Jean Brichaut",
+      "wikipediaTitle": "Jean Brichaut",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Jean_Brichaut",
+      "birthYear": 1911,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "jean-capelle-footballer",
+      "name": "Jean Capelle",
+      "wikipediaTitle": "Jean Capelle (footballer)",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Jean_Capelle_(footballer)",
+      "birthYear": 1913,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "jean-caudron",
+      "name": "Jean Caudron",
+      "wikipediaTitle": "Jean Caudron",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Jean_Caudron",
+      "birthYear": 1895,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "jean-claessens",
+      "name": "Jean Claessens",
+      "wikipediaTitle": "Jean Claessens",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Jean_Claessens",
+      "birthYear": 1908,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "jean-de-bie",
+      "name": "Jean De Bie",
+      "wikipediaTitle": "Jean De Bie",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Jean_De_Bie",
+      "birthYear": 1892,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "jean-de-clercq",
+      "name": "Jean De Clercq",
+      "wikipediaTitle": "Jean De Clercq",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Jean_De_Clercq",
+      "birthYear": 1905,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "jean-dockx",
+      "name": "Jean Dockx",
+      "wikipediaTitle": "Jean Dockx",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Jean_Dockx",
+      "birthYear": 1941,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "jean-fievez",
+      "name": "Jean Fievez",
+      "wikipediaTitle": "Jean Fievez",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Jean_Fievez",
+      "birthYear": 1910,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "jean-francois-de-sart",
+      "name": "Jean-François De Sart",
+      "wikipediaTitle": "Jean-François De Sart",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Jean-François_De_Sart",
+      "birthYear": 1961,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "jean-francois-gillet",
+      "name": "Jean-François Gillet",
+      "wikipediaTitle": "Jean-François Gillet",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Jean-François_Gillet",
+      "birthYear": 1979,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "jean-marie-pfaff",
+      "name": "Jean-Marie Pfaff",
+      "wikipediaTitle": "Jean-Marie Pfaff",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Jean-Marie_Pfaff",
+      "birthYear": 1953,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "jean-marie-trappeniers",
+      "name": "Jean-Marie Trappeniers",
+      "wikipediaTitle": "Jean-Marie Trappeniers",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Jean-Marie_Trappeniers",
+      "birthYear": 1942,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "jean-petit-footballer-born-1914",
+      "name": "Jean Petit",
+      "wikipediaTitle": "Jean Petit (footballer, born 1914)",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Jean_Petit_(footballer,_born_1914)",
+      "birthYear": 1914,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "jean-thissen",
+      "name": "Jean Thissen",
+      "wikipediaTitle": "Jean Thissen",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Jean_Thissen",
+      "birthYear": 1946,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "jean-van-steen",
+      "name": "Jean Van Steen",
+      "wikipediaTitle": "Jean Van Steen",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Jean_Van_Steen",
+      "birthYear": 1929,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "jef-van-der-linden",
+      "name": "Jef Van Der Linden",
+      "wikipediaTitle": "Jef Van Der Linden",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Jef_Van_Der_Linden",
+      "birthYear": 1927,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "jeremy-doku",
+      "name": "Jérémy Doku",
+      "wikipediaTitle": "Jérémy Doku",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Jérémy_Doku",
+      "birthYear": 2002,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "jeroen-simaeys",
+      "name": "Jeroen Simaeys",
+      "wikipediaTitle": "Jeroen Simaeys",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Jeroen_Simaeys",
+      "birthYear": 1985,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "jo-backaert",
+      "name": "Jo Backaert",
+      "wikipediaTitle": "Jo Backaert",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Jo_Backaert",
+      "birthYear": 1921,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "joaquin-seys",
+      "name": "Joaquin Seys",
+      "wikipediaTitle": "Joaquin Seys",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Joaquin_Seys",
+      "birthYear": 2005,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "johan-bakayoko",
+      "name": "Johan Bakayoko",
+      "wikipediaTitle": "Johan Bakayoko",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Johan_Bakayoko",
+      "birthYear": 2003,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "johan-devrindt",
+      "name": "Johan Devrindt",
+      "wikipediaTitle": "Johan Devrindt",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Johan_Devrindt",
+      "birthYear": 1944,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "johan-walem",
+      "name": "Johan Walem",
+      "wikipediaTitle": "Johan Walem",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Johan_Walem",
+      "birthYear": 1972,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "john-thio",
+      "name": "John Thio",
+      "wikipediaTitle": "John Thio",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/John_Thio",
+      "birthYear": 1944,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "john-van-alphen",
+      "name": "John Van Alphen",
+      "wikipediaTitle": "John Van Alphen",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/John_Van_Alphen",
+      "birthYear": 1914,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "joos-valgaeren",
+      "name": "Joos Valgaeren",
+      "wikipediaTitle": "Joos Valgaeren",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Joos_Valgaeren",
+      "birthYear": 1976,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "jordan-lukaku",
+      "name": "Jordan Lukaku",
+      "wikipediaTitle": "Jordan Lukaku",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Jordan_Lukaku",
+      "birthYear": 1994,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "jos-daerden",
+      "name": "Jos Daerden",
+      "wikipediaTitle": "Jos Daerden",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Jos_Daerden",
+      "birthYear": 1954,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "jos-heyligen",
+      "name": "Jos Heyligen",
+      "wikipediaTitle": "Jos Heyligen",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Jos_Heyligen",
+      "birthYear": 1947,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "joseph-mermans",
+      "name": "Joseph Mermans",
+      "wikipediaTitle": "Joseph Mermans",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Joseph_Mermans",
+      "birthYear": 1922,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "joseph-musch",
+      "name": "Joseph Musch",
+      "wikipediaTitle": "Joseph Musch",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Joseph_Musch",
+      "birthYear": 1893,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "joseph-nelis",
+      "name": "Joseph Nelis",
+      "wikipediaTitle": "Joseph Nelis",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Joseph_Nelis",
+      "birthYear": 1917,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "joseph-paty",
+      "name": "Joseph Paty",
+      "wikipediaTitle": "Joseph Paty",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Joseph_Paty",
+      "birthYear": 1896,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "joseph-van-ingelgem",
+      "name": "Joseph Van Ingelgem",
+      "wikipediaTitle": "Joseph Van Ingelgem",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Joseph_Van_Ingelgem",
+      "birthYear": 1912,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "josip-weber",
+      "name": "Josip Weber",
+      "wikipediaTitle": "Josip Weber",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Josip_Weber",
+      "birthYear": 1964,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "jozef-vliers",
+      "name": "Jozef Vliers",
+      "wikipediaTitle": "Jozef Vliers",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Jozef_Vliers",
+      "birthYear": 1932,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "jules-lavigne",
+      "name": "Jules Lavigne",
+      "wikipediaTitle": "Jules Lavigne",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Jules_Lavigne",
+      "birthYear": 1901,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "jules-pappaert",
+      "name": "Jules Pappaert",
+      "wikipediaTitle": "Jules Pappaert",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Jules_Pappaert",
+      "birthYear": 1905,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "julien-cnudde",
+      "name": "Julien Cnudde",
+      "wikipediaTitle": "Julien Cnudde",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Julien_Cnudde",
+      "birthYear": 1897,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "julien-cools",
+      "name": "Julien Cools",
+      "wikipediaTitle": "Julien Cools",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Julien_Cools",
+      "birthYear": 1947,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "kevin-de-bruyne",
+      "name": "Kevin De Bruyne",
+      "wikipediaTitle": "Kevin De Bruyne",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Kevin_De_Bruyne",
+      "birthYear": 1991,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "kevin-mirallas",
+      "name": "Kevin Mirallas",
+      "wikipediaTitle": "Kevin Mirallas",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Kevin_Mirallas",
+      "birthYear": 1987,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "koen-casteels",
+      "name": "Koen Casteels",
+      "wikipediaTitle": "Koen Casteels",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Koen_Casteels",
+      "birthYear": 1992,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "koni-de-winter",
+      "name": "Koni De Winter",
+      "wikipediaTitle": "Koni De Winter",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Koni_De_Winter",
+      "birthYear": 2002,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "landry-mulemo",
+      "name": "Landry Mulemo",
+      "wikipediaTitle": "Landry Mulemo",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Landry_Mulemo",
+      "birthYear": 1986,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "laurent-ciman",
+      "name": "Laurent Ciman",
+      "wikipediaTitle": "Laurent Ciman",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Laurent_Ciman",
+      "birthYear": 1985,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "laurent-grimmonprez",
+      "name": "Laurent Grimmonprez",
+      "wikipediaTitle": "Laurent Grimmonprez",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Laurent_Grimmonprez",
+      "birthYear": 1902,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "leander-dendoncker",
+      "name": "Leander Dendoncker",
+      "wikipediaTitle": "Leander Dendoncker",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Leander_Dendoncker",
+      "birthYear": 1995,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "leandro-trossard",
+      "name": "Leandro Trossard",
+      "wikipediaTitle": "Leandro Trossard",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Leandro_Trossard",
+      "birthYear": 1994,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "lei-clijsters",
+      "name": "Lei Clijsters",
+      "wikipediaTitle": "Lei Clijsters",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Lei_Clijsters",
+      "birthYear": 1956,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "leo-clijsters",
+      "name": "Leo Clijsters",
+      "wikipediaTitle": "Leo Clijsters",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Leo_Clijsters",
+      "birthYear": 1956,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "leo-van-der-elst",
+      "name": "Leo Van Der Elst",
+      "wikipediaTitle": "Leo Van Der Elst",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Leo_Van_Der_Elst",
+      "birthYear": 1962,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "leon-de-coninck",
+      "name": "Leon De Coninck",
+      "wikipediaTitle": "Leon De Coninck",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Leon_De_Coninck?action=edit&redlink=1",
+      "birthYear": null,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "leon-dolmans",
+      "name": "Léon Dolmans",
+      "wikipediaTitle": "Léon Dolmans",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Léon_Dolmans",
+      "birthYear": 1945,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "leon-jeck",
+      "name": "Léon Jeck",
+      "wikipediaTitle": "Léon Jeck",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Léon_Jeck",
+      "birthYear": 1947,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "leon-semmeling",
+      "name": "Leon Semmeling",
+      "wikipediaTitle": "Leon Semmeling",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Leon_Semmeling",
+      "birthYear": 1940,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "leon-vandermeiren",
+      "name": "Léon Vandermeiren",
+      "wikipediaTitle": "Léon Vandermeiren",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Léon_Vandermeiren",
+      "birthYear": 1896,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "leopold-anoul",
+      "name": "Léopold Anoul",
+      "wikipediaTitle": "Léopold Anoul",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Léopold_Anoul",
+      "birthYear": 1922,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "leopold-de-groof",
+      "name": "Léopold De Groof",
+      "wikipediaTitle": "Léopold De Groof",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Léopold_De_Groof",
+      "birthYear": 1896,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "leopold-gernaey",
+      "name": "Léopold Gernaey",
+      "wikipediaTitle": "Léopold Gernaey",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Léopold_Gernaey",
+      "birthYear": 1927,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "logan-bailly",
+      "name": "Logan Bailly",
+      "wikipediaTitle": "Logan Bailly",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Logan_Bailly",
+      "birthYear": 1985,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "lois-openda",
+      "name": "Loïs Openda",
+      "wikipediaTitle": "Loïs Openda",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Loïs_Openda",
+      "birthYear": 2000,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "lorenzo-staelens",
+      "name": "Lorenzo Staelens",
+      "wikipediaTitle": "Lorenzo Staelens",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Lorenzo_Staelens",
+      "birthYear": 1964,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "louis-carre-footballer",
+      "name": "Louis Carré",
+      "wikipediaTitle": "Louis Carré (footballer)",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Louis_Carré_(footballer)",
+      "birthYear": 1925,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "louis-van-hege",
+      "name": "Louis Van Hege",
+      "wikipediaTitle": "Louis Van Hege",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Louis_Van_Hege",
+      "birthYear": 1889,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "louis-versyp",
+      "name": "Louis Versyp",
+      "wikipediaTitle": "Louis Versyp",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Louis_Versyp",
+      "birthYear": 1908,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "luc-millecamps",
+      "name": "Luc Millecamps",
+      "wikipediaTitle": "Luc Millecamps",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Luc_Millecamps",
+      "birthYear": 1951,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "luc-nilis",
+      "name": "Luc Nilis",
+      "wikipediaTitle": "Luc Nilis",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Luc_Nilis",
+      "birthYear": 1967,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "luc-sanders",
+      "name": "Luc Sanders",
+      "wikipediaTitle": "Luc Sanders",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Luc_Sanders",
+      "birthYear": 1945,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "luc-van-hoyweghen",
+      "name": "Luc Van Hoyweghen",
+      "wikipediaTitle": "Luc Van Hoyweghen",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Luc_Van_Hoyweghen",
+      "birthYear": 1929,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "ludo-coeck",
+      "name": "Ludo Coeck",
+      "wikipediaTitle": "Ludo Coeck",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ludo_Coeck",
+      "birthYear": 1955,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "luis-oliveira",
+      "name": "Luís Oliveira",
+      "wikipediaTitle": "Luís Oliveira",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Luís_Oliveira",
+      "birthYear": 1969,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "maarten-martens",
+      "name": "Maarten Martens",
+      "wikipediaTitle": "Maarten Martens",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Maarten_Martens",
+      "birthYear": 1984,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "marc-baecke",
+      "name": "Marc Baecke",
+      "wikipediaTitle": "Marc Baecke",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Marc_Baecke",
+      "birthYear": 1956,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "marc-degryse",
+      "name": "Marc Degryse",
+      "wikipediaTitle": "Marc Degryse",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Marc_Degryse",
+      "birthYear": 1965,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "marc-emmers",
+      "name": "Marc Emmers",
+      "wikipediaTitle": "Marc Emmers",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Marc_Emmers",
+      "birthYear": 1966,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "marc-hendrikx",
+      "name": "Marc Hendrikx",
+      "wikipediaTitle": "Marc Hendrikx",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Marc_Hendrikx",
+      "birthYear": 1974,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "marc-millecamps",
+      "name": "Marc Millecamps",
+      "wikipediaTitle": "Marc Millecamps",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Marc_Millecamps",
+      "birthYear": 1950,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "marc-van-der-linden",
+      "name": "Marc Van Der Linden",
+      "wikipediaTitle": "Marc Van Der Linden",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Marc_Van_Der_Linden",
+      "birthYear": 1964,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "marc-wilmots",
+      "name": "Marc Wilmots",
+      "wikipediaTitle": "Marc Wilmots",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Marc_Wilmots",
+      "birthYear": 1969,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "marcel-dries",
+      "name": "Marcel Dries",
+      "wikipediaTitle": "Marcel Dries",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Marcel_Dries",
+      "birthYear": 1929,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "marouane-fellaini",
+      "name": "Marouane Fellaini",
+      "wikipediaTitle": "Marouane Fellaini",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Marouane_Fellaini",
+      "birthYear": 1987,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "mathieu-bragard",
+      "name": "Mathieu Bragard",
+      "wikipediaTitle": "Mathieu Bragard",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Mathieu_Bragard",
+      "birthYear": 1895,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "matias-fernandez-pardo",
+      "name": "Matias Fernandez-Pardo",
+      "wikipediaTitle": "Matias Fernandez-Pardo",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Matias_Fernandez-Pardo",
+      "birthYear": 2005,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "matz-sels",
+      "name": "Matz Sels",
+      "wikipediaTitle": "Matz Sels",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Matz_Sels",
+      "birthYear": 1992,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "maurice-gillis",
+      "name": "Maurice Gillis",
+      "wikipediaTitle": "Maurice Gillis",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Maurice_Gillis",
+      "birthYear": 1897,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "maurice-martens",
+      "name": "Maurice Martens",
+      "wikipediaTitle": "Maurice Martens",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Maurice_Martens",
+      "birthYear": 1947,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "maurits-de-schrijver",
+      "name": "Maurits De Schrijver",
+      "wikipediaTitle": "Maurits De Schrijver",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Maurits_De_Schrijver",
+      "birthYear": 1951,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "maxim-de-cuyper",
+      "name": "Maxim De Cuyper",
+      "wikipediaTitle": "Maxim De Cuyper",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Maxim_De_Cuyper",
+      "birthYear": 2000,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "mbo-mpenza",
+      "name": "Mbo Mpenza",
+      "wikipediaTitle": "Mbo Mpenza",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Mbo_Mpenza",
+      "birthYear": 1976,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "michel-de-wolf",
+      "name": "Michel De Wolf",
+      "wikipediaTitle": "Michel De Wolf",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Michel_De_Wolf",
+      "birthYear": 1958,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "michel-preud-homme",
+      "name": "Michel Preud'homme",
+      "wikipediaTitle": "Michel Preud'homme",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Michel_Preud'homme",
+      "birthYear": 1959,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "michel-renquin",
+      "name": "Michel Renquin",
+      "wikipediaTitle": "Michel Renquin",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Michel_Renquin",
+      "birthYear": 1955,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "michy-batshuayi",
+      "name": "Michy Batshuayi",
+      "wikipediaTitle": "Michy Batshuayi",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Michy_Batshuayi",
+      "birthYear": 1993,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "mike-penders",
+      "name": "Mike Penders",
+      "wikipediaTitle": "Mike Penders",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Mike_Penders",
+      "birthYear": 2005,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "mike-verstraeten",
+      "name": "Mike Verstraeten",
+      "wikipediaTitle": "Mike Verstraeten",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Mike_Verstraeten",
+      "birthYear": 1967,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "mousa-dembele-belgian-footballer",
+      "name": "Mousa Dembélé",
+      "wikipediaTitle": "Mousa Dembélé (Belgian footballer)",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Mousa_Dembélé_(Belgian_footballer)",
+      "birthYear": 1987,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "nacer-chadli",
+      "name": "Nacer Chadli",
+      "wikipediaTitle": "Nacer Chadli",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Nacer_Chadli",
+      "birthYear": 1989,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "nathan-ngoy",
+      "name": "Nathan Ngoy",
+      "wikipediaTitle": "Nathan Ngoy",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Nathan_Ngoy",
+      "birthYear": 2003,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "nico-claesen",
+      "name": "Nico Claesen",
+      "wikipediaTitle": "Nico Claesen",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Nico_Claesen",
+      "birthYear": 1962,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "nico-van-kerckhoven",
+      "name": "Nico Van Kerckhoven",
+      "wikipediaTitle": "Nico Van Kerckhoven",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Nico_Van_Kerckhoven",
+      "birthYear": 1970,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "nicolas-dewalque",
+      "name": "Nicolas Dewalque",
+      "wikipediaTitle": "Nicolas Dewalque",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Nicolas_Dewalque",
+      "birthYear": 1945,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "nicolas-hoydonckx",
+      "name": "Nicolas Hoydonckx",
+      "wikipediaTitle": "Nicolas Hoydonckx",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Nicolas_Hoydonckx",
+      "birthYear": 1900,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "nicolas-lombaerts",
+      "name": "Nicolas Lombaerts",
+      "wikipediaTitle": "Nicolas Lombaerts",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Nicolas_Lombaerts",
+      "birthYear": 1985,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "nicolas-raskin",
+      "name": "Nicolas Raskin",
+      "wikipediaTitle": "Nicolas Raskin",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Nicolas_Raskin",
+      "birthYear": 2001,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "odilon-polleunis",
+      "name": "Odilon Polleunis",
+      "wikipediaTitle": "Odilon Polleunis",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Odilon_Polleunis",
+      "birthYear": 1943,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "orel-mangala",
+      "name": "Orel Mangala",
+      "wikipediaTitle": "Orel Mangala",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Orel_Mangala",
+      "birthYear": 1998,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "oscar-verbeeck",
+      "name": "Oscar Verbeeck",
+      "wikipediaTitle": "Oscar Verbeeck",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Oscar_Verbeeck",
+      "birthYear": 1891,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "pascal-plovie",
+      "name": "Pascal Plovie",
+      "wikipediaTitle": "Pascal Plovie",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Pascal_Plovie",
+      "birthYear": 1965,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "pascal-renier",
+      "name": "Pascal Renier",
+      "wikipediaTitle": "Pascal Renier",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Pascal_Renier",
+      "birthYear": 1971,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "patrick-vervoort",
+      "name": "Patrick Vervoort",
+      "wikipediaTitle": "Patrick Vervoort",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Patrick_Vervoort",
+      "birthYear": 1965,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "paul-henry-belgian-footballer",
+      "name": "Paul Henry",
+      "wikipediaTitle": "Paul Henry (Belgian footballer)",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Paul_Henry_(Belgian_footballer)",
+      "birthYear": 1912,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "paul-lambrichts",
+      "name": "Paul Lambrichts",
+      "wikipediaTitle": "Paul Lambrichts",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Paul_Lambrichts",
+      "birthYear": 1954,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "paul-van-himst",
+      "name": "Paul van Himst",
+      "wikipediaTitle": "Paul Van Himst",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Paul_Van_Himst",
+      "birthYear": 1943,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "peter-van-der-heyden",
+      "name": "Peter Van der Heyden",
+      "wikipediaTitle": "Peter Van der Heyden",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Peter_Van_der_Heyden",
+      "birthYear": 1976,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "philibert-smellinckx",
+      "name": "Philibert Smellinckx",
+      "wikipediaTitle": "Philibert Smellinckx",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Philibert_Smellinckx",
+      "birthYear": 1911,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "philippe-albert",
+      "name": "Philippe Albert",
+      "wikipediaTitle": "Philippe Albert",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Philippe_Albert",
+      "birthYear": 1967,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "philippe-clement",
+      "name": "Philippe Clement",
+      "wikipediaTitle": "Philippe Clement",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Philippe_Clement",
+      "birthYear": 1974,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "philippe-desmet",
+      "name": "Philippe Desmet",
+      "wikipediaTitle": "Philippe Desmet",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Philippe_Desmet",
+      "birthYear": 1958,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "philippe-leonard",
+      "name": "Philippe Léonard",
+      "wikipediaTitle": "Philippe Léonard",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Philippe_Léonard",
+      "birthYear": 1974,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "philippe-vande-walle",
+      "name": "Philippe Vande Walle",
+      "wikipediaTitle": "Philippe Vande Walle",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Philippe_Vande_Walle",
+      "birthYear": 1961,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "pierre-braine",
+      "name": "Pierre Braine",
+      "wikipediaTitle": "Pierre Braine",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Pierre_Braine",
+      "birthYear": 1900,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "pierre-carteus",
+      "name": "Pierre Carteus",
+      "wikipediaTitle": "Pierre Carteus",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Pierre_Carteus",
+      "birthYear": 1943,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "pierre-dalem",
+      "name": "Pierre Dalem",
+      "wikipediaTitle": "Pierre Dalem",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Pierre_Dalem",
+      "birthYear": 1912,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "pieter-van-den-bosch-footballer",
+      "name": "Pieter Van Den Bosch",
+      "wikipediaTitle": "Pieter van den Bosch (footballer)",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Pieter_van_den_Bosch_(footballer)",
+      "birthYear": 1927,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "radja-nainggolan",
+      "name": "Radja Nainggolan",
+      "wikipediaTitle": "Radja Nainggolan",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Radja_Nainggolan",
+      "birthYear": 1988,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "raoul-lambert",
+      "name": "Raoul Lambert",
+      "wikipediaTitle": "Raoul Lambert",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Raoul_Lambert",
+      "birthYear": 1944,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "raymond-ausloos",
+      "name": "Raymond Ausloos",
+      "wikipediaTitle": "Raymond Ausloos",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Raymond_Ausloos",
+      "birthYear": 1928,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "raymond-braine",
+      "name": "Raymond Braine",
+      "wikipediaTitle": "Raymond Braine",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Raymond_Braine",
+      "birthYear": 1907,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "raymond-mommens",
+      "name": "Raymond Mommens",
+      "wikipediaTitle": "Raymond Mommens",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Raymond_Mommens",
+      "birthYear": 1958,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "rene-vandereycken",
+      "name": "René Vandereycken",
+      "wikipediaTitle": "René Vandereycken",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/René_Vandereycken",
+      "birthYear": 1953,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "rene-verheyen",
+      "name": "René Verheyen",
+      "wikipediaTitle": "René Verheyen",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/René_Verheyen",
+      "birthYear": 1952,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "robert-braet",
+      "name": "Robert Braet",
+      "wikipediaTitle": "Robert Braet",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Robert_Braet",
+      "birthYear": 1912,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "robert-coppee",
+      "name": "Robert Coppée",
+      "wikipediaTitle": "Robert Coppée",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Robert_Coppée",
+      "birthYear": 1895,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "robert-lamoot",
+      "name": "Robert Lamoot",
+      "wikipediaTitle": "Robert Lamoot",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Robert_Lamoot",
+      "birthYear": 1911,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "robert-maertens",
+      "name": "Robert Maertens",
+      "wikipediaTitle": "Robert Maertens",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Robert_Maertens",
+      "birthYear": 1930,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "robert-paverick",
+      "name": "Robert Paverick",
+      "wikipediaTitle": "Robert Paverick",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Robert_Paverick",
+      "birthYear": 1912,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "robert-van-kerkhoven",
+      "name": "Robert Van Kerkhoven",
+      "wikipediaTitle": "Robert Van Kerkhoven",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Robert_Van_Kerkhoven",
+      "birthYear": 1924,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "romelu-lukaku",
+      "name": "Romelu Lukaku",
+      "wikipediaTitle": "Romelu Lukaku",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Romelu_Lukaku",
+      "birthYear": 1993,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "ronny-martens",
+      "name": "Ronny Martens",
+      "wikipediaTitle": "Ronny Martens",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ronny_Martens",
+      "birthYear": 1958,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "rudi-smidts",
+      "name": "Rudi Smidts",
+      "wikipediaTitle": "Rudi Smidts",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Rudi_Smidts",
+      "birthYear": 1963,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "sammy-bossut",
+      "name": "Sammy Bossut",
+      "wikipediaTitle": "Sammy Bossut",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Sammy_Bossut",
+      "birthYear": 1985,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "sebastien-pocognoli",
+      "name": "Sébastien Pocognoli",
+      "wikipediaTitle": "Sébastien Pocognoli",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Sébastien_Pocognoli",
+      "birthYear": 1987,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "sebastien-verhulst",
+      "name": "Sébastien Verhulst",
+      "wikipediaTitle": "Sébastien Verhulst",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Sébastien_Verhulst",
+      "birthYear": 1907,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "senne-lammens",
+      "name": "Senne Lammens",
+      "wikipediaTitle": "Senne Lammens",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Senne_Lammens",
+      "birthYear": 2002,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "sepp-de-roover",
+      "name": "Sepp de Roover",
+      "wikipediaTitle": "Sepp De Roover",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Sepp_De_Roover",
+      "birthYear": 1984,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "simon-mignolet",
+      "name": "Simon Mignolet",
+      "wikipediaTitle": "Simon Mignolet",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Simon_Mignolet",
+      "birthYear": 1988,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "stephan-van-der-heyden",
+      "name": "Stephan Van der Heyden",
+      "wikipediaTitle": "Stephan Van Der Heyden",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Stephan_Van_Der_Heyden",
+      "birthYear": 1969,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "stephane-demol",
+      "name": "Stéphane Demol",
+      "wikipediaTitle": "Stéphane Demol",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Stéphane_Demol",
+      "birthYear": 1966,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "steven-defour",
+      "name": "Steven Defour",
+      "wikipediaTitle": "Steven Defour",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Steven_Defour",
+      "birthYear": 1988,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "stijn-de-smet",
+      "name": "Stijn de Smet",
+      "wikipediaTitle": "Stijn De Smet",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Stijn_De_Smet",
+      "birthYear": 1985,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "sven-vermant",
+      "name": "Sven Vermant",
+      "wikipediaTitle": "Sven Vermant",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Sven_Vermant",
+      "birthYear": 1973,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "theo-custers",
+      "name": "Theo Custers",
+      "wikipediaTitle": "Theo Custers",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Theo_Custers",
+      "birthYear": 1950,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "theodore-nouwens",
+      "name": "Théodore Nouwens",
+      "wikipediaTitle": "Théodore Nouwens",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Théodore_Nouwens",
+      "birthYear": 1908,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "thibaut-courtois",
+      "name": "Thibaut Courtois",
+      "wikipediaTitle": "Thibaut Courtois",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Thibaut_Courtois",
+      "birthYear": 1992,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "thomas-kaminski",
+      "name": "Thomas Kaminski",
+      "wikipediaTitle": "Thomas Kaminski",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Thomas_Kaminski",
+      "birthYear": 1992,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "thomas-meunier",
+      "name": "Thomas Meunier",
+      "wikipediaTitle": "Thomas Meunier",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Thomas_Meunier",
+      "birthYear": 1991,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "thomas-vermaelen",
+      "name": "Thomas Vermaelen",
+      "wikipediaTitle": "Thomas Vermaelen",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Thomas_Vermaelen",
+      "birthYear": 1985,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "thorgan-hazard",
+      "name": "Thorgan Hazard",
+      "wikipediaTitle": "Thorgan Hazard",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Thorgan_Hazard",
+      "birthYear": 1993,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "timmy-simons",
+      "name": "Timmy Simons",
+      "wikipediaTitle": "Timmy Simons",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Timmy_Simons",
+      "birthYear": 1976,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "timothy-castagne",
+      "name": "Timothy Castagne",
+      "wikipediaTitle": "Timothy Castagne",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Timothy_Castagne",
+      "birthYear": 1995,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "toby-alderweireld",
+      "name": "Toby Alderweireld",
+      "wikipediaTitle": "Toby Alderweireld",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Toby_Alderweireld",
+      "birthYear": 1989,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "tom-de-mul",
+      "name": "Tom de Mul",
+      "wikipediaTitle": "Tom De Mul",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Tom_De_Mul",
+      "birthYear": 1986,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "vadis-odjidja-ofoe",
+      "name": "Vadis Odjidja-Ofoe",
+      "wikipediaTitle": "Vadis Odjidja-Ofoe",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Vadis_Odjidja-Ofoe",
+      "birthYear": 1989,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "victor-houet",
+      "name": "Victor Houet",
+      "wikipediaTitle": "Victor Houet",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Victor_Houet",
+      "birthYear": 1900,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "victor-mees",
+      "name": "Victor Mees",
+      "wikipediaTitle": "Victor Mees",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Victor_Mees",
+      "birthYear": 1927,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "victor-putmans",
+      "name": "Victor Putmans",
+      "wikipediaTitle": "Victor Putmans",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Victor_Putmans",
+      "birthYear": 1914,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "vincent-kompany",
+      "name": "Vincent Kompany",
+      "wikipediaTitle": "Vincent Kompany",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Vincent_Kompany",
+      "birthYear": 1986,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "vital-borkelmans",
+      "name": "Vital Borkelmans",
+      "wikipediaTitle": "Vital Borkelmans",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Vital_Borkelmans",
+      "birthYear": 1963,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "walter-de-greef",
+      "name": "Walter De Greef",
+      "wikipediaTitle": "Walter De Greef",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Walter_De_Greef",
+      "birthYear": 1957,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "walter-meeuws",
+      "name": "Walter Meeuws",
+      "wikipediaTitle": "Walter Meeuws",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Walter_Meeuws",
+      "birthYear": 1951,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "wesley-sonck",
+      "name": "Wesley Sonck",
+      "wikipediaTitle": "Wesley Sonck",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Wesley_Sonck",
+      "birthYear": 1978,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "wilfried-puis",
+      "name": "Wilfried Puis",
+      "wikipediaTitle": "Wilfried Puis",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Wilfried_Puis",
+      "birthYear": 1943,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "wilfried-van-moer",
+      "name": "Wilfried Van Moer",
+      "wikipediaTitle": "Wilfried Van Moer",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Wilfried_Van_Moer",
+      "birthYear": 1945,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "willy-wellens",
+      "name": "Willy Wellens",
+      "wikipediaTitle": "Willy Wellens",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Willy_Wellens",
+      "birthYear": 1954,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "wim-de-coninck",
+      "name": "Wim De Coninck",
+      "wikipediaTitle": "Wim De Coninck",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Wim_De_Coninck",
+      "birthYear": 1959,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "wout-faes",
+      "name": "Wout Faes",
+      "wikipediaTitle": "Wout Faes",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Wout_Faes",
+      "birthYear": 1998,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "yannick-carrasco",
+      "name": "Yannick Carrasco",
+      "wikipediaTitle": "Yannick Carrasco",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Yannick_Carrasco",
+      "birthYear": 1993,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "youri-tielemans",
+      "name": "Youri Tielemans",
+      "wikipediaTitle": "Youri Tielemans",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Youri_Tielemans",
+      "birthYear": 1997,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "yves-de-winter",
+      "name": "Yves de Winter",
+      "wikipediaTitle": "Yves De Winter",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Yves_De_Winter",
+      "birthYear": 1987,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "yves-ma-kalambay",
+      "name": "Yves Ma-Kalambay",
+      "wikipediaTitle": "Yves Ma-Kalambay",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Yves_Ma-Kalambay",
+      "birthYear": 1986,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "yves-vanderhaeghe",
+      "name": "Yves Vanderhaeghe",
+      "wikipediaTitle": "Yves Vanderhaeghe",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Yves_Vanderhaeghe",
+      "birthYear": 1970,
+      "position": null,
+      "positionConfidence": "unverified"
+    },
+    {
+      "id": "zeno-debast",
+      "name": "Zeno Debast",
+      "wikipediaTitle": "Zeno Debast",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Zeno_Debast",
+      "birthYear": 2003,
+      "position": null,
+      "positionConfidence": "unverified"
+    }
+  ],
+  "squadEntries": [
+    {
+      "countryId": "belcika",
+      "tournamentId": "euro-1972",
+      "playerId": "christian-piot",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "euro-1972",
+      "playerId": "erwin-vandendaele",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "euro-1972",
+      "playerId": "frans-janssens",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "euro-1972",
+      "playerId": "georges-heylens",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "euro-1972",
+      "playerId": "gilbert-van-binst",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "euro-1972",
+      "playerId": "jacques-teugels",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "euro-1972",
+      "playerId": "jan-verheyen-footballer",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "euro-1972",
+      "playerId": "jean-dockx",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "euro-1972",
+      "playerId": "jean-thissen",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "euro-1972",
+      "playerId": "john-thio",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "euro-1972",
+      "playerId": "leon-dolmans",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "euro-1972",
+      "playerId": "leon-semmeling",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "euro-1972",
+      "playerId": "luc-sanders",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "euro-1972",
+      "playerId": "maurice-martens",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "euro-1972",
+      "playerId": "odilon-polleunis",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "euro-1972",
+      "playerId": "paul-van-himst",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "euro-1972",
+      "playerId": "raoul-lambert",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "euro-1980",
+      "playerId": "eric-gerets",
+      "shirtNumber": 2
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "euro-1980",
+      "playerId": "erwin-vandenbergh",
+      "shirtNumber": 10
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "euro-1980",
+      "playerId": "francois-van-der-elst",
+      "shirtNumber": 9
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "euro-1980",
+      "playerId": "gerard-plessers",
+      "shirtNumber": 14
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "euro-1980",
+      "playerId": "guy-dardenne",
+      "shirtNumber": 18
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "euro-1980",
+      "playerId": "jan-ceulemans",
+      "shirtNumber": 11
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "euro-1980",
+      "playerId": "jean-marie-pfaff",
+      "shirtNumber": 12
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "euro-1980",
+      "playerId": "jos-heyligen",
+      "shirtNumber": 21
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "euro-1980",
+      "playerId": "julien-cools",
+      "shirtNumber": 6
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "euro-1980",
+      "playerId": "luc-millecamps",
+      "shirtNumber": 3
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "euro-1980",
+      "playerId": "marc-millecamps",
+      "shirtNumber": 16
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "euro-1980",
+      "playerId": "maurice-martens",
+      "shirtNumber": 13
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "euro-1980",
+      "playerId": "michel-preud-homme",
+      "shirtNumber": 20
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "euro-1980",
+      "playerId": "michel-renquin",
+      "shirtNumber": 5
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "euro-1980",
+      "playerId": "raymond-mommens",
+      "shirtNumber": 17
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "euro-1980",
+      "playerId": "rene-vandereycken",
+      "shirtNumber": 7
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "euro-1980",
+      "playerId": "rene-verheyen",
+      "shirtNumber": 15
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "euro-1980",
+      "playerId": "ronny-martens",
+      "shirtNumber": 22
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "euro-1980",
+      "playerId": "theo-custers",
+      "shirtNumber": 1
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "euro-1980",
+      "playerId": "walter-meeuws",
+      "shirtNumber": 4
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "euro-1980",
+      "playerId": "wilfried-van-moer",
+      "shirtNumber": 8
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "euro-1980",
+      "playerId": "willy-wellens",
+      "shirtNumber": 19
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "euro-1984",
+      "playerId": "alexandre-czerniatynski",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "euro-1984",
+      "playerId": "eddy-voordeckers",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "euro-1984",
+      "playerId": "enzo-scifo",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "euro-1984",
+      "playerId": "erwin-vandenbergh",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "euro-1984",
+      "playerId": "franky-vercauteren",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "euro-1984",
+      "playerId": "georges-grun",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "euro-1984",
+      "playerId": "jacky-munaron",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "euro-1984",
+      "playerId": "jan-ceulemans",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "euro-1984",
+      "playerId": "jean-marie-pfaff",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "euro-1984",
+      "playerId": "leo-clijsters",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "euro-1984",
+      "playerId": "ludo-coeck",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "euro-1984",
+      "playerId": "marc-baecke",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "euro-1984",
+      "playerId": "michel-de-wolf",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "euro-1984",
+      "playerId": "nico-claesen",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "euro-1984",
+      "playerId": "paul-lambrichts",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "euro-1984",
+      "playerId": "raymond-mommens",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "euro-1984",
+      "playerId": "rene-vandereycken",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "euro-1984",
+      "playerId": "rene-verheyen",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "euro-1984",
+      "playerId": "walter-de-greef",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "euro-1984",
+      "playerId": "wim-de-coninck",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "euro-2000",
+      "playerId": "bart-goor",
+      "shirtNumber": 8
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "euro-2000",
+      "playerId": "branko-strupar",
+      "shirtNumber": 10
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "euro-2000",
+      "playerId": "emile-mpenza",
+      "shirtNumber": 9
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "euro-2000",
+      "playerId": "eric-deflandre",
+      "shirtNumber": 2
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "euro-2000",
+      "playerId": "eric-van-meir",
+      "shirtNumber": 19
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "euro-2000",
+      "playerId": "filip-de-wilde",
+      "shirtNumber": 1
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "euro-2000",
+      "playerId": "frederic-herpoel",
+      "shirtNumber": 13
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "euro-2000",
+      "playerId": "geert-de-vlieger",
+      "shirtNumber": 12
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "euro-2000",
+      "playerId": "gert-verheyen",
+      "shirtNumber": 11
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "euro-2000",
+      "playerId": "gilles-de-bilde",
+      "shirtNumber": 20
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "euro-2000",
+      "playerId": "jacky-peeters",
+      "shirtNumber": 15
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "euro-2000",
+      "playerId": "johan-walem",
+      "shirtNumber": 14
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "euro-2000",
+      "playerId": "joos-valgaeren",
+      "shirtNumber": 3
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "euro-2000",
+      "playerId": "lorenzo-staelens",
+      "shirtNumber": 4
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "euro-2000",
+      "playerId": "luc-nilis",
+      "shirtNumber": 16
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "euro-2000",
+      "playerId": "marc-hendrikx",
+      "shirtNumber": 22
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "euro-2000",
+      "playerId": "marc-wilmots",
+      "shirtNumber": 7
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "euro-2000",
+      "playerId": "mbo-mpenza",
+      "shirtNumber": 21
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "euro-2000",
+      "playerId": "nico-van-kerckhoven",
+      "shirtNumber": 18
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "euro-2000",
+      "playerId": "philippe-clement",
+      "shirtNumber": 5
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "euro-2000",
+      "playerId": "philippe-leonard",
+      "shirtNumber": 17
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "euro-2000",
+      "playerId": "yves-vanderhaeghe",
+      "shirtNumber": 6
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "euro-2016",
+      "playerId": "axel-witsel",
+      "shirtNumber": 6
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "euro-2016",
+      "playerId": "christian-benteke",
+      "shirtNumber": 20
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "euro-2016",
+      "playerId": "christian-kabasele",
+      "shirtNumber": 18
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "euro-2016",
+      "playerId": "divock-origi",
+      "shirtNumber": 17
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "euro-2016",
+      "playerId": "dries-mertens",
+      "shirtNumber": 14
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "euro-2016",
+      "playerId": "eden-hazard",
+      "shirtNumber": 10
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "euro-2016",
+      "playerId": "jan-vertonghen",
+      "shirtNumber": 5
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "euro-2016",
+      "playerId": "jason-denayer",
+      "shirtNumber": 15
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "euro-2016",
+      "playerId": "jean-francois-gillet",
+      "shirtNumber": 13
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "euro-2016",
+      "playerId": "jordan-lukaku",
+      "shirtNumber": 21
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "euro-2016",
+      "playerId": "kevin-de-bruyne",
+      "shirtNumber": 7
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "euro-2016",
+      "playerId": "laurent-ciman",
+      "shirtNumber": 23
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "euro-2016",
+      "playerId": "marouane-fellaini",
+      "shirtNumber": 8
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "euro-2016",
+      "playerId": "michy-batshuayi",
+      "shirtNumber": 22
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "euro-2016",
+      "playerId": "mousa-dembele-belgian-footballer",
+      "shirtNumber": 19
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "euro-2016",
+      "playerId": "radja-nainggolan",
+      "shirtNumber": 4
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "euro-2016",
+      "playerId": "romelu-lukaku",
+      "shirtNumber": 9
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "euro-2016",
+      "playerId": "simon-mignolet",
+      "shirtNumber": 12
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "euro-2016",
+      "playerId": "thibaut-courtois",
+      "shirtNumber": 1
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "euro-2016",
+      "playerId": "thomas-meunier",
+      "shirtNumber": 16
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "euro-2016",
+      "playerId": "thomas-vermaelen",
+      "shirtNumber": 3
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "euro-2016",
+      "playerId": "toby-alderweireld",
+      "shirtNumber": 2
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "euro-2016",
+      "playerId": "yannick-carrasco",
+      "shirtNumber": 11
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "euro-2020",
+      "playerId": "axel-witsel",
+      "shirtNumber": 6
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "euro-2020",
+      "playerId": "christian-benteke",
+      "shirtNumber": 20
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "euro-2020",
+      "playerId": "dedryck-boyata",
+      "shirtNumber": 4
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "euro-2020",
+      "playerId": "dennis-praet",
+      "shirtNumber": 26
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "euro-2020",
+      "playerId": "dries-mertens",
+      "shirtNumber": 14
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "euro-2020",
+      "playerId": "eden-hazard",
+      "shirtNumber": 10
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "euro-2020",
+      "playerId": "hans-vanaken",
+      "shirtNumber": 17
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "euro-2020",
+      "playerId": "jan-vertonghen",
+      "shirtNumber": 5
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "euro-2020",
+      "playerId": "jason-denayer",
+      "shirtNumber": 18
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "euro-2020",
+      "playerId": "jeremy-doku",
+      "shirtNumber": 25
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "euro-2020",
+      "playerId": "kevin-de-bruyne",
+      "shirtNumber": 7
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "euro-2020",
+      "playerId": "leander-dendoncker",
+      "shirtNumber": 19
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "euro-2020",
+      "playerId": "leandro-trossard",
+      "shirtNumber": 24
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "euro-2020",
+      "playerId": "matz-sels",
+      "shirtNumber": 13
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "euro-2020",
+      "playerId": "michy-batshuayi",
+      "shirtNumber": 23
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "euro-2020",
+      "playerId": "nacer-chadli",
+      "shirtNumber": 22
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "euro-2020",
+      "playerId": "romelu-lukaku",
+      "shirtNumber": 9
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "euro-2020",
+      "playerId": "simon-mignolet",
+      "shirtNumber": 12
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "euro-2020",
+      "playerId": "thibaut-courtois",
+      "shirtNumber": 1
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "euro-2020",
+      "playerId": "thomas-kaminski",
+      "shirtNumber": 12
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "euro-2020",
+      "playerId": "thomas-meunier",
+      "shirtNumber": 15
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "euro-2020",
+      "playerId": "thomas-vermaelen",
+      "shirtNumber": 3
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "euro-2020",
+      "playerId": "thorgan-hazard",
+      "shirtNumber": 16
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "euro-2020",
+      "playerId": "timothy-castagne",
+      "shirtNumber": 21
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "euro-2020",
+      "playerId": "toby-alderweireld",
+      "shirtNumber": 2
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "euro-2020",
+      "playerId": "yannick-carrasco",
+      "shirtNumber": 11
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "euro-2020",
+      "playerId": "youri-tielemans",
+      "shirtNumber": 8
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "euro-2024",
+      "playerId": "amadou-onana",
+      "shirtNumber": 24
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "euro-2024",
+      "playerId": "arthur-theate",
+      "shirtNumber": 3
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "euro-2024",
+      "playerId": "arthur-vermeeren",
+      "shirtNumber": 23
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "euro-2024",
+      "playerId": "aster-vranckx",
+      "shirtNumber": 16
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "euro-2024",
+      "playerId": "axel-witsel",
+      "shirtNumber": 6
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "euro-2024",
+      "playerId": "charles-de-ketelaere",
+      "shirtNumber": 17
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "euro-2024",
+      "playerId": "dodi-lukebakio",
+      "shirtNumber": 14
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "euro-2024",
+      "playerId": "jan-vertonghen",
+      "shirtNumber": 5
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "euro-2024",
+      "playerId": "jeremy-doku",
+      "shirtNumber": 22
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "euro-2024",
+      "playerId": "johan-bakayoko",
+      "shirtNumber": 19
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "euro-2024",
+      "playerId": "kevin-de-bruyne",
+      "shirtNumber": 7
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "euro-2024",
+      "playerId": "koen-casteels",
+      "shirtNumber": 1
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "euro-2024",
+      "playerId": "leandro-trossard",
+      "shirtNumber": 9
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "euro-2024",
+      "playerId": "lois-openda",
+      "shirtNumber": 20
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "euro-2024",
+      "playerId": "matz-sels",
+      "shirtNumber": 13
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "euro-2024",
+      "playerId": "maxim-de-cuyper",
+      "shirtNumber": 25
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "euro-2024",
+      "playerId": "orel-mangala",
+      "shirtNumber": 18
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "euro-2024",
+      "playerId": "romelu-lukaku",
+      "shirtNumber": 10
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "euro-2024",
+      "playerId": "thomas-kaminski",
+      "shirtNumber": 12
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "euro-2024",
+      "playerId": "thomas-meunier",
+      "shirtNumber": 15
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "euro-2024",
+      "playerId": "timothy-castagne",
+      "shirtNumber": 21
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "euro-2024",
+      "playerId": "wout-faes",
+      "shirtNumber": 4
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "euro-2024",
+      "playerId": "yannick-carrasco",
+      "shirtNumber": 11
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "euro-2024",
+      "playerId": "youri-tielemans",
+      "shirtNumber": 8
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "euro-2024",
+      "playerId": "zeno-debast",
+      "shirtNumber": 2
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "olympics-1920",
+      "playerId": "andre-fierens",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "olympics-1920",
+      "playerId": "armand-swartenbroeks",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "olympics-1920",
+      "playerId": "august-pelsmaeker",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "olympics-1920",
+      "playerId": "desire-bastin",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "olympics-1920",
+      "playerId": "emile-hanse",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "olympics-1920",
+      "playerId": "felix-balyu",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "olympics-1920",
+      "playerId": "fernand-nisot",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "olympics-1920",
+      "playerId": "fernand-wertz",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "olympics-1920",
+      "playerId": "francois-dogaer",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "olympics-1920",
+      "playerId": "georges-hebdin",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "olympics-1920",
+      "playerId": "georges-michel-footballer",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "olympics-1920",
+      "playerId": "henri-larnoe",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "olympics-1920",
+      "playerId": "ivan-thys",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "olympics-1920",
+      "playerId": "jean-de-bie",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "olympics-1920",
+      "playerId": "joseph-musch",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "olympics-1920",
+      "playerId": "julien-cnudde",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "olympics-1920",
+      "playerId": "leon-vandermeiren",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "olympics-1920",
+      "playerId": "leopold-de-groof",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "olympics-1920",
+      "playerId": "louis-van-hege",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "olympics-1920",
+      "playerId": "mathieu-bragard",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "olympics-1920",
+      "playerId": "oscar-verbeeck",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "olympics-1920",
+      "playerId": "robert-coppee",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "olympics-1924",
+      "playerId": "achille-schelstraete",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "olympics-1924",
+      "playerId": "albert-henderickx",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "olympics-1924",
+      "playerId": "andre-fierens",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "olympics-1924",
+      "playerId": "armand-swartenbroeks",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "olympics-1924",
+      "playerId": "auguste-pelsmaeker",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "olympics-1924",
+      "playerId": "desire-bastin",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "olympics-1924",
+      "playerId": "emile-hanse",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "olympics-1924",
+      "playerId": "fernand-lorphevre",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "olympics-1924",
+      "playerId": "florimond-vanhalme",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "olympics-1924",
+      "playerId": "francois-demol",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "olympics-1924",
+      "playerId": "georges-de-spae",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "olympics-1924",
+      "playerId": "henri-larnoe",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "olympics-1924",
+      "playerId": "ivan-thys",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "olympics-1924",
+      "playerId": "jean-de-bie",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "olympics-1924",
+      "playerId": "joseph-musch",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "olympics-1924",
+      "playerId": "joseph-paty",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "olympics-1924",
+      "playerId": "laurent-grimmonprez",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "olympics-1924",
+      "playerId": "louis-van-hege",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "olympics-1924",
+      "playerId": "maurice-gillis",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "olympics-1924",
+      "playerId": "oscar-verbeeck",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "olympics-1924",
+      "playerId": "robert-coppee",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "olympics-1924",
+      "playerId": "victor-houet",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "olympics-1928",
+      "playerId": "august-ruyssevelt",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "olympics-1928",
+      "playerId": "auguste-hellemans",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "olympics-1928",
+      "playerId": "bernard-voorhoof",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "olympics-1928",
+      "playerId": "florimond-vanhalme",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "olympics-1928",
+      "playerId": "georges-de-spae",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "olympics-1928",
+      "playerId": "georges-ditzler",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "olympics-1928",
+      "playerId": "gerard-devos",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "olympics-1928",
+      "playerId": "gustave-boesman",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "olympics-1928",
+      "playerId": "henri-bierna",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "olympics-1928",
+      "playerId": "henri-de-deken",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "olympics-1928",
+      "playerId": "henri-van-averbeke",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "olympics-1928",
+      "playerId": "jacques-moeschal-footballer",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "olympics-1928",
+      "playerId": "jan-diddens",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "olympics-1928",
+      "playerId": "jean-caudron",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "olympics-1928",
+      "playerId": "jean-de-bie",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "olympics-1928",
+      "playerId": "jules-lavigne",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "olympics-1928",
+      "playerId": "leon-de-coninck",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "olympics-1928",
+      "playerId": "louis-versyp",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "olympics-1928",
+      "playerId": "nicolas-hoydonckx",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "olympics-1928",
+      "playerId": "pierre-braine",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "olympics-1928",
+      "playerId": "raymond-braine",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "olympics-1928",
+      "playerId": "sebastien-verhulst",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "olympics-2008",
+      "playerId": "anthony-vanden-borre",
+      "shirtNumber": 16
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "olympics-2008",
+      "playerId": "faris-haroun",
+      "shirtNumber": 8
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "olympics-2008",
+      "playerId": "jan-vertonghen",
+      "shirtNumber": 10
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "olympics-2008",
+      "playerId": "jeroen-simaeys",
+      "shirtNumber": 15
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "olympics-2008",
+      "playerId": "kevin-mirallas",
+      "shirtNumber": 9
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "olympics-2008",
+      "playerId": "landry-mulemo",
+      "shirtNumber": 14
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "olympics-2008",
+      "playerId": "laurent-ciman",
+      "shirtNumber": 13
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "olympics-2008",
+      "playerId": "logan-bailly",
+      "shirtNumber": 1
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "olympics-2008",
+      "playerId": "maarten-martens",
+      "shirtNumber": 11
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "olympics-2008",
+      "playerId": "marouane-fellaini",
+      "shirtNumber": 6
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "olympics-2008",
+      "playerId": "mousa-dembele-belgian-footballer",
+      "shirtNumber": 18
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "olympics-2008",
+      "playerId": "sebastien-pocognoli",
+      "shirtNumber": 5
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "olympics-2008",
+      "playerId": "sepp-de-roover",
+      "shirtNumber": 2
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "olympics-2008",
+      "playerId": "stijn-de-smet",
+      "shirtNumber": 17
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "olympics-2008",
+      "playerId": "thomas-vermaelen",
+      "shirtNumber": 4
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "olympics-2008",
+      "playerId": "tom-de-mul",
+      "shirtNumber": 7
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "olympics-2008",
+      "playerId": "vadis-odjidja-ofoe",
+      "shirtNumber": 19
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "olympics-2008",
+      "playerId": "vincent-kompany",
+      "shirtNumber": 3
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "olympics-2008",
+      "playerId": "yves-de-winter",
+      "shirtNumber": 22
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "olympics-2008",
+      "playerId": "yves-ma-kalambay",
+      "shirtNumber": 12
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-1930",
+      "playerId": "alexis-chantraine",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-1930",
+      "playerId": "andre-saeys",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-1930",
+      "playerId": "arnold-badjou",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-1930",
+      "playerId": "august-hellemans",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-1930",
+      "playerId": "bernard-voorhoof",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-1930",
+      "playerId": "ferdinand-adams",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-1930",
+      "playerId": "gerard-delbeke",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-1930",
+      "playerId": "henri-de-deken",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-1930",
+      "playerId": "jacques-moeschal-footballer",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-1930",
+      "playerId": "jan-diddens",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-1930",
+      "playerId": "jean-de-bie",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-1930",
+      "playerId": "jean-de-clercq",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-1930",
+      "playerId": "louis-versyp",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-1930",
+      "playerId": "nicolas-hoydonckx",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-1930",
+      "playerId": "pierre-braine",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-1930",
+      "playerId": "theodore-nouwens",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-1934",
+      "playerId": "albert-heremans",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-1934",
+      "playerId": "andre-vandewyer",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-1934",
+      "playerId": "arnold-badjou",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-1934",
+      "playerId": "august-hellemans",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-1934",
+      "playerId": "bernard-voorhoof",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-1934",
+      "playerId": "charles-simons-footballer",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-1934",
+      "playerId": "constant-joacim",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-1934",
+      "playerId": "desire-bourgeois",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-1934",
+      "playerId": "felix-welkenhuysen",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-1934",
+      "playerId": "francois-devries",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-1934",
+      "playerId": "francois-ledent",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-1934",
+      "playerId": "frans-peeraer",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-1934",
+      "playerId": "jean-brichaut",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-1934",
+      "playerId": "jean-capelle-footballer",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-1934",
+      "playerId": "jean-claessens",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-1934",
+      "playerId": "joseph-van-ingelgem",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-1934",
+      "playerId": "jules-pappaert",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-1934",
+      "playerId": "laurent-grimmonprez",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-1934",
+      "playerId": "louis-versyp",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-1934",
+      "playerId": "philibert-smellinckx",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-1934",
+      "playerId": "robert-lamoot",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-1934",
+      "playerId": "victor-putmans",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-1938",
+      "playerId": "alfons-de-winter",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-1938",
+      "playerId": "andre-vandeweyer",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-1938",
+      "playerId": "arnold-badjou",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-1938",
+      "playerId": "arthur-ceuleers",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-1938",
+      "playerId": "bernard-voorhoof",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-1938",
+      "playerId": "charles-vanden-wouwer",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-1938",
+      "playerId": "corneel-seys",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-1938",
+      "playerId": "emile-stijnen",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-1938",
+      "playerId": "fernand-buyle",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-1938",
+      "playerId": "frans-gommers",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-1938",
+      "playerId": "hendrik-isemborghs",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-1938",
+      "playerId": "jean-capelle-footballer",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-1938",
+      "playerId": "jean-fievez",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-1938",
+      "playerId": "jean-petit-footballer-born-1914",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-1938",
+      "playerId": "john-van-alphen",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-1938",
+      "playerId": "joseph-nelis",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-1938",
+      "playerId": "paul-henry-belgian-footballer",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-1938",
+      "playerId": "philibert-smellinckx",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-1938",
+      "playerId": "pierre-dalem",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-1938",
+      "playerId": "raymond-braine",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-1938",
+      "playerId": "robert-braet",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-1938",
+      "playerId": "robert-paverick",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-1954",
+      "playerId": "alfons-van-brandt",
+      "shirtNumber": 3
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-1954",
+      "playerId": "charles-geerts-footballer",
+      "shirtNumber": 12
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-1954",
+      "playerId": "constant-huysmans",
+      "shirtNumber": 4
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-1954",
+      "playerId": "denis-houf",
+      "shirtNumber": 8
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-1954",
+      "playerId": "henri-coppens",
+      "shirtNumber": 9
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-1954",
+      "playerId": "henri-dirickx",
+      "shirtNumber": 13
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-1954",
+      "playerId": "hippolyte-van-den-bosch",
+      "shirtNumber": 15
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-1954",
+      "playerId": "jean-van-steen",
+      "shirtNumber": 21
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-1954",
+      "playerId": "jef-van-der-linden",
+      "shirtNumber": 18
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-1954",
+      "playerId": "jo-backaert",
+      "shirtNumber": 19
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-1954",
+      "playerId": "joseph-mermans",
+      "shirtNumber": 11
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-1954",
+      "playerId": "jozef-vliers",
+      "shirtNumber": 7
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-1954",
+      "playerId": "leopold-anoul",
+      "shirtNumber": 10
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-1954",
+      "playerId": "leopold-gernaey",
+      "shirtNumber": 1
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-1954",
+      "playerId": "louis-carre-footballer",
+      "shirtNumber": 5
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-1954",
+      "playerId": "luc-van-hoyweghen",
+      "shirtNumber": 22
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-1954",
+      "playerId": "marcel-dries",
+      "shirtNumber": 2
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-1954",
+      "playerId": "pieter-van-den-bosch-footballer",
+      "shirtNumber": 16
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-1954",
+      "playerId": "raymond-ausloos",
+      "shirtNumber": 17
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-1954",
+      "playerId": "robert-maertens",
+      "shirtNumber": 20
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-1954",
+      "playerId": "robert-van-kerkhoven",
+      "shirtNumber": 14
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-1954",
+      "playerId": "victor-mees",
+      "shirtNumber": 6
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-1970",
+      "playerId": "alfons-peeters",
+      "shirtNumber": 20
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-1970",
+      "playerId": "christian-piot",
+      "shirtNumber": 1
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-1970",
+      "playerId": "erwin-vandendaele",
+      "shirtNumber": 15
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-1970",
+      "playerId": "frans-janssens",
+      "shirtNumber": 21
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-1970",
+      "playerId": "georges-heylens",
+      "shirtNumber": 2
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-1970",
+      "playerId": "jacques-beurlet",
+      "shirtNumber": 13
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-1970",
+      "playerId": "jacques-duquesne-footballer",
+      "shirtNumber": 22
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-1970",
+      "playerId": "jan-verheyen-footballer",
+      "shirtNumber": 17
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-1970",
+      "playerId": "jean-dockx",
+      "shirtNumber": 6
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-1970",
+      "playerId": "jean-marie-trappeniers",
+      "shirtNumber": 12
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-1970",
+      "playerId": "jean-thissen",
+      "shirtNumber": 3
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-1970",
+      "playerId": "johan-devrindt",
+      "shirtNumber": 9
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-1970",
+      "playerId": "leon-jeck",
+      "shirtNumber": 5
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-1970",
+      "playerId": "leon-semmeling",
+      "shirtNumber": 7
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-1970",
+      "playerId": "maurice-martens",
+      "shirtNumber": 14
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-1970",
+      "playerId": "nicolas-dewalque",
+      "shirtNumber": 4
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-1970",
+      "playerId": "odilon-polleunis",
+      "shirtNumber": 16
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-1970",
+      "playerId": "paul-van-himst",
+      "shirtNumber": 10
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-1970",
+      "playerId": "pierre-carteus",
+      "shirtNumber": 19
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-1970",
+      "playerId": "raoul-lambert",
+      "shirtNumber": 18
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-1970",
+      "playerId": "wilfried-puis",
+      "shirtNumber": 11
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-1970",
+      "playerId": "wilfried-van-moer",
+      "shirtNumber": 8
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-1982",
+      "playerId": "alexandre-czerniatynski",
+      "shirtNumber": 21
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-1982",
+      "playerId": "eric-gerets",
+      "shirtNumber": 2
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-1982",
+      "playerId": "erwin-vandenbergh",
+      "shirtNumber": 9
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-1982",
+      "playerId": "francois-van-der-elst",
+      "shirtNumber": 13
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-1982",
+      "playerId": "franky-vercauteren",
+      "shirtNumber": 6
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-1982",
+      "playerId": "gerard-plessers",
+      "shirtNumber": 16
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-1982",
+      "playerId": "guy-vandersmissen",
+      "shirtNumber": 20
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-1982",
+      "playerId": "jacky-munaron",
+      "shirtNumber": 22
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-1982",
+      "playerId": "jan-ceulemans",
+      "shirtNumber": 11
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-1982",
+      "playerId": "jean-marie-pfaff",
+      "shirtNumber": 1
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-1982",
+      "playerId": "jos-daerden",
+      "shirtNumber": 7
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-1982",
+      "playerId": "luc-millecamps",
+      "shirtNumber": 3
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-1982",
+      "playerId": "ludo-coeck",
+      "shirtNumber": 10
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-1982",
+      "playerId": "marc-baecke",
+      "shirtNumber": 14
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-1982",
+      "playerId": "marc-millecamps",
+      "shirtNumber": 19
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-1982",
+      "playerId": "maurits-de-schrijver",
+      "shirtNumber": 15
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-1982",
+      "playerId": "michel-renquin",
+      "shirtNumber": 5
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-1982",
+      "playerId": "raymond-mommens",
+      "shirtNumber": 18
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-1982",
+      "playerId": "rene-verheyen",
+      "shirtNumber": 17
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-1982",
+      "playerId": "theo-custers",
+      "shirtNumber": 12
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-1982",
+      "playerId": "walter-meeuws",
+      "shirtNumber": 4
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-1982",
+      "playerId": "wilfried-van-moer",
+      "shirtNumber": 8
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-1986",
+      "playerId": "daniel-veyt",
+      "shirtNumber": 18
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-1986",
+      "playerId": "enzo-scifo",
+      "shirtNumber": 8
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-1986",
+      "playerId": "eric-gerets",
+      "shirtNumber": 2
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-1986",
+      "playerId": "erwin-vandenbergh",
+      "shirtNumber": 9
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-1986",
+      "playerId": "franky-van-der-elst",
+      "shirtNumber": 3
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-1986",
+      "playerId": "franky-vercauteren",
+      "shirtNumber": 6
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-1986",
+      "playerId": "georges-grun",
+      "shirtNumber": 13
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-1986",
+      "playerId": "gilbert-bodart",
+      "shirtNumber": 20
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-1986",
+      "playerId": "hugo-broos",
+      "shirtNumber": 19
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-1986",
+      "playerId": "jacky-munaron",
+      "shirtNumber": 12
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-1986",
+      "playerId": "jan-ceulemans",
+      "shirtNumber": 11
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-1986",
+      "playerId": "jean-marie-pfaff",
+      "shirtNumber": 1
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-1986",
+      "playerId": "leo-clijsters",
+      "shirtNumber": 14
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-1986",
+      "playerId": "leo-van-der-elst",
+      "shirtNumber": 15
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-1986",
+      "playerId": "michel-de-wolf",
+      "shirtNumber": 4
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-1986",
+      "playerId": "michel-renquin",
+      "shirtNumber": 5
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-1986",
+      "playerId": "nico-claesen",
+      "shirtNumber": 16
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-1986",
+      "playerId": "patrick-vervoort",
+      "shirtNumber": 22
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-1986",
+      "playerId": "philippe-desmet",
+      "shirtNumber": 10
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-1986",
+      "playerId": "raymond-mommens",
+      "shirtNumber": 17
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-1986",
+      "playerId": "rene-vandereycken",
+      "shirtNumber": 7
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-1986",
+      "playerId": "stephane-demol",
+      "shirtNumber": 21
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-1990",
+      "playerId": "bruno-versavel",
+      "shirtNumber": 5
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-1990",
+      "playerId": "enzo-scifo",
+      "shirtNumber": 10
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-1990",
+      "playerId": "eric-gerets",
+      "shirtNumber": 2
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-1990",
+      "playerId": "filip-de-wilde",
+      "shirtNumber": 20
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-1990",
+      "playerId": "franky-van-der-elst",
+      "shirtNumber": 8
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-1990",
+      "playerId": "georges-grun",
+      "shirtNumber": 13
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-1990",
+      "playerId": "gilbert-bodart",
+      "shirtNumber": 12
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-1990",
+      "playerId": "jan-ceulemans",
+      "shirtNumber": 11
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-1990",
+      "playerId": "jean-francois-de-sart",
+      "shirtNumber": 15
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-1990",
+      "playerId": "lei-clijsters",
+      "shirtNumber": 4
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-1990",
+      "playerId": "lorenzo-staelens",
+      "shirtNumber": 18
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-1990",
+      "playerId": "marc-degryse",
+      "shirtNumber": 9
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-1990",
+      "playerId": "marc-emmers",
+      "shirtNumber": 6
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-1990",
+      "playerId": "marc-van-der-linden",
+      "shirtNumber": 19
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-1990",
+      "playerId": "marc-wilmots",
+      "shirtNumber": 21
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-1990",
+      "playerId": "michel-de-wolf",
+      "shirtNumber": 16
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-1990",
+      "playerId": "michel-preud-homme",
+      "shirtNumber": 1
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-1990",
+      "playerId": "nico-claesen",
+      "shirtNumber": 14
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-1990",
+      "playerId": "pascal-plovie",
+      "shirtNumber": 17
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-1990",
+      "playerId": "patrick-vervoort",
+      "shirtNumber": 22
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-1990",
+      "playerId": "philippe-albert",
+      "shirtNumber": 3
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-1990",
+      "playerId": "stephane-demol",
+      "shirtNumber": 7
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-1994",
+      "playerId": "alexandre-czerniatynski",
+      "shirtNumber": 11
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-1994",
+      "playerId": "danny-boffin",
+      "shirtNumber": 16
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-1994",
+      "playerId": "dany-verlinden",
+      "shirtNumber": 20
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-1994",
+      "playerId": "dirk-medved",
+      "shirtNumber": 2
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-1994",
+      "playerId": "enzo-scifo",
+      "shirtNumber": 10
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-1994",
+      "playerId": "eric-van-meir",
+      "shirtNumber": 19
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-1994",
+      "playerId": "filip-de-wilde",
+      "shirtNumber": 12
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-1994",
+      "playerId": "franky-van-der-elst",
+      "shirtNumber": 7
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-1994",
+      "playerId": "georges-grun",
+      "shirtNumber": 13
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-1994",
+      "playerId": "josip-weber",
+      "shirtNumber": 17
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-1994",
+      "playerId": "lorenzo-staelens",
+      "shirtNumber": 6
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-1994",
+      "playerId": "luc-nilis",
+      "shirtNumber": 8
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-1994",
+      "playerId": "marc-degryse",
+      "shirtNumber": 9
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-1994",
+      "playerId": "marc-emmers",
+      "shirtNumber": 15
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-1994",
+      "playerId": "marc-wilmots",
+      "shirtNumber": 18
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-1994",
+      "playerId": "michel-de-wolf",
+      "shirtNumber": 14
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-1994",
+      "playerId": "michel-preud-homme",
+      "shirtNumber": 1
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-1994",
+      "playerId": "pascal-renier",
+      "shirtNumber": 22
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-1994",
+      "playerId": "philippe-albert",
+      "shirtNumber": 4
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-1994",
+      "playerId": "rudi-smidts",
+      "shirtNumber": 5
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-1994",
+      "playerId": "stephan-van-der-heyden",
+      "shirtNumber": 21
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-1994",
+      "playerId": "vital-borkelmans",
+      "shirtNumber": 3
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-1998",
+      "playerId": "bertrand-crasson",
+      "shirtNumber": 2
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-1998",
+      "playerId": "danny-boffin",
+      "shirtNumber": 21
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-1998",
+      "playerId": "dany-verlinden",
+      "shirtNumber": 13
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-1998",
+      "playerId": "emile-mpenza",
+      "shirtNumber": 20
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-1998",
+      "playerId": "enzo-scifo",
+      "shirtNumber": 14
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-1998",
+      "playerId": "eric-deflandre",
+      "shirtNumber": 22
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-1998",
+      "playerId": "eric-van-meir",
+      "shirtNumber": 19
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-1998",
+      "playerId": "filip-de-wilde",
+      "shirtNumber": 1
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-1998",
+      "playerId": "franky-van-der-elst",
+      "shirtNumber": 6
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-1998",
+      "playerId": "gert-verheyen",
+      "shirtNumber": 18
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-1998",
+      "playerId": "glen-de-boeck",
+      "shirtNumber": 16
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-1998",
+      "playerId": "gordan-vidovic",
+      "shirtNumber": 4
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-1998",
+      "playerId": "lorenzo-staelens",
+      "shirtNumber": 3
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-1998",
+      "playerId": "luc-nilis",
+      "shirtNumber": 10
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-1998",
+      "playerId": "luis-oliveira",
+      "shirtNumber": 8
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-1998",
+      "playerId": "marc-wilmots",
+      "shirtNumber": 7
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-1998",
+      "playerId": "mbo-mpenza",
+      "shirtNumber": 9
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-1998",
+      "playerId": "mike-verstraeten",
+      "shirtNumber": 17
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-1998",
+      "playerId": "nico-van-kerckhoven",
+      "shirtNumber": 11
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-1998",
+      "playerId": "philippe-clement",
+      "shirtNumber": 15
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-1998",
+      "playerId": "philippe-vande-walle",
+      "shirtNumber": 12
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-1998",
+      "playerId": "vital-borkelmans",
+      "shirtNumber": 5
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-2002",
+      "playerId": "bart-goor",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-2002",
+      "playerId": "bernd-thijs",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-2002",
+      "playerId": "branko-strupar",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-2002",
+      "playerId": "daniel-van-buyten",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-2002",
+      "playerId": "danny-boffin",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-2002",
+      "playerId": "eric-deflandre",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-2002",
+      "playerId": "eric-van-meir",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-2002",
+      "playerId": "franky-vandendriessche",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-2002",
+      "playerId": "frederic-herpoel",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-2002",
+      "playerId": "gaetan-englebert",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-2002",
+      "playerId": "geert-de-vlieger",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-2002",
+      "playerId": "gert-verheyen",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-2002",
+      "playerId": "glen-de-boeck",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-2002",
+      "playerId": "jacky-peeters",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-2002",
+      "playerId": "johan-walem",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-2002",
+      "playerId": "marc-wilmots",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-2002",
+      "playerId": "mbo-mpenza",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-2002",
+      "playerId": "nico-van-kerckhoven",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-2002",
+      "playerId": "peter-van-der-heyden",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-2002",
+      "playerId": "sven-vermant",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-2002",
+      "playerId": "timmy-simons",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-2002",
+      "playerId": "wesley-sonck",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-2002",
+      "playerId": "yves-vanderhaeghe",
+      "shirtNumber": null
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-2014",
+      "playerId": "adnan-januzaj",
+      "shirtNumber": 20
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-2014",
+      "playerId": "anthony-vanden-borre",
+      "shirtNumber": 21
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-2014",
+      "playerId": "axel-witsel",
+      "shirtNumber": 6
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-2014",
+      "playerId": "daniel-van-buyten",
+      "shirtNumber": 15
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-2014",
+      "playerId": "divock-origi",
+      "shirtNumber": 17
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-2014",
+      "playerId": "dries-mertens",
+      "shirtNumber": 14
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-2014",
+      "playerId": "eden-hazard",
+      "shirtNumber": 10
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-2014",
+      "playerId": "jan-vertonghen",
+      "shirtNumber": 5
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-2014",
+      "playerId": "kevin-de-bruyne",
+      "shirtNumber": 7
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-2014",
+      "playerId": "kevin-mirallas",
+      "shirtNumber": 11
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-2014",
+      "playerId": "laurent-ciman",
+      "shirtNumber": 23
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-2014",
+      "playerId": "marouane-fellaini",
+      "shirtNumber": 8
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-2014",
+      "playerId": "mousa-dembele-belgian-footballer",
+      "shirtNumber": 19
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-2014",
+      "playerId": "nacer-chadli",
+      "shirtNumber": 22
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-2014",
+      "playerId": "nicolas-lombaerts",
+      "shirtNumber": 18
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-2014",
+      "playerId": "romelu-lukaku",
+      "shirtNumber": 9
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-2014",
+      "playerId": "sammy-bossut",
+      "shirtNumber": 13
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-2014",
+      "playerId": "simon-mignolet",
+      "shirtNumber": 12
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-2014",
+      "playerId": "steven-defour",
+      "shirtNumber": 16
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-2014",
+      "playerId": "thibaut-courtois",
+      "shirtNumber": 1
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-2014",
+      "playerId": "thomas-vermaelen",
+      "shirtNumber": 3
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-2014",
+      "playerId": "toby-alderweireld",
+      "shirtNumber": 2
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-2014",
+      "playerId": "vincent-kompany",
+      "shirtNumber": 4
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-2018",
+      "playerId": "adnan-januzaj",
+      "shirtNumber": 18
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-2018",
+      "playerId": "axel-witsel",
+      "shirtNumber": 6
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-2018",
+      "playerId": "dedryck-boyata",
+      "shirtNumber": 20
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-2018",
+      "playerId": "dries-mertens",
+      "shirtNumber": 14
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-2018",
+      "playerId": "eden-hazard",
+      "shirtNumber": 10
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-2018",
+      "playerId": "jan-vertonghen",
+      "shirtNumber": 5
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-2018",
+      "playerId": "kevin-de-bruyne",
+      "shirtNumber": 7
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-2018",
+      "playerId": "koen-casteels",
+      "shirtNumber": 13
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-2018",
+      "playerId": "leander-dendoncker",
+      "shirtNumber": 23
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-2018",
+      "playerId": "marouane-fellaini",
+      "shirtNumber": 8
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-2018",
+      "playerId": "michy-batshuayi",
+      "shirtNumber": 21
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-2018",
+      "playerId": "mousa-dembele-belgian-footballer",
+      "shirtNumber": 19
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-2018",
+      "playerId": "nacer-chadli",
+      "shirtNumber": 22
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-2018",
+      "playerId": "romelu-lukaku",
+      "shirtNumber": 9
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-2018",
+      "playerId": "simon-mignolet",
+      "shirtNumber": 12
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-2018",
+      "playerId": "thibaut-courtois",
+      "shirtNumber": 1
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-2018",
+      "playerId": "thomas-meunier",
+      "shirtNumber": 15
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-2018",
+      "playerId": "thomas-vermaelen",
+      "shirtNumber": 3
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-2018",
+      "playerId": "thorgan-hazard",
+      "shirtNumber": 16
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-2018",
+      "playerId": "toby-alderweireld",
+      "shirtNumber": 2
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-2018",
+      "playerId": "vincent-kompany",
+      "shirtNumber": 4
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-2018",
+      "playerId": "yannick-carrasco",
+      "shirtNumber": 11
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-2018",
+      "playerId": "youri-tielemans",
+      "shirtNumber": 17
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-2022",
+      "playerId": "amadou-onana",
+      "shirtNumber": 18
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-2022",
+      "playerId": "arthur-theate",
+      "shirtNumber": 3
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-2022",
+      "playerId": "axel-witsel",
+      "shirtNumber": 6
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-2022",
+      "playerId": "charles-de-ketelaere",
+      "shirtNumber": 22
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-2022",
+      "playerId": "dries-mertens",
+      "shirtNumber": 14
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-2022",
+      "playerId": "eden-hazard",
+      "shirtNumber": 10
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-2022",
+      "playerId": "hans-vanaken",
+      "shirtNumber": 20
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-2022",
+      "playerId": "jan-vertonghen",
+      "shirtNumber": 5
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-2022",
+      "playerId": "jeremy-doku",
+      "shirtNumber": 25
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-2022",
+      "playerId": "kevin-de-bruyne",
+      "shirtNumber": 7
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-2022",
+      "playerId": "koen-casteels",
+      "shirtNumber": 13
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-2022",
+      "playerId": "leander-dendoncker",
+      "shirtNumber": 19
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-2022",
+      "playerId": "leandro-trossard",
+      "shirtNumber": 17
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-2022",
+      "playerId": "lois-openda",
+      "shirtNumber": 24
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-2022",
+      "playerId": "michy-batshuayi",
+      "shirtNumber": 23
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-2022",
+      "playerId": "romelu-lukaku",
+      "shirtNumber": 9
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-2022",
+      "playerId": "simon-mignolet",
+      "shirtNumber": 12
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-2022",
+      "playerId": "thibaut-courtois",
+      "shirtNumber": 1
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-2022",
+      "playerId": "thomas-meunier",
+      "shirtNumber": 15
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-2022",
+      "playerId": "thorgan-hazard",
+      "shirtNumber": 16
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-2022",
+      "playerId": "timothy-castagne",
+      "shirtNumber": 21
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-2022",
+      "playerId": "toby-alderweireld",
+      "shirtNumber": 2
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-2022",
+      "playerId": "wout-faes",
+      "shirtNumber": 4
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-2022",
+      "playerId": "yannick-carrasco",
+      "shirtNumber": 11
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-2022",
+      "playerId": "youri-tielemans",
+      "shirtNumber": 8
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-2022",
+      "playerId": "zeno-debast",
+      "shirtNumber": 26
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-2026",
+      "playerId": "alexis-saelemaekers",
+      "shirtNumber": 22
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-2026",
+      "playerId": "amadou-onana",
+      "shirtNumber": 24
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-2026",
+      "playerId": "arthur-theate",
+      "shirtNumber": 3
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-2026",
+      "playerId": "axel-witsel",
+      "shirtNumber": 6
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-2026",
+      "playerId": "brandon-mechele",
+      "shirtNumber": 4
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-2026",
+      "playerId": "charles-de-ketelaere",
+      "shirtNumber": 17
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-2026",
+      "playerId": "diego-moreira",
+      "shirtNumber": 19
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-2026",
+      "playerId": "dodi-lukebakio",
+      "shirtNumber": 14
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-2026",
+      "playerId": "hans-vanaken",
+      "shirtNumber": 20
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-2026",
+      "playerId": "jeremy-doku",
+      "shirtNumber": 11
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-2026",
+      "playerId": "joaquin-seys",
+      "shirtNumber": 18
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-2026",
+      "playerId": "kevin-de-bruyne",
+      "shirtNumber": 7
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-2026",
+      "playerId": "koni-de-winter",
+      "shirtNumber": 16
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-2026",
+      "playerId": "leandro-trossard",
+      "shirtNumber": 10
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-2026",
+      "playerId": "matias-fernandez-pardo",
+      "shirtNumber": 26
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-2026",
+      "playerId": "maxim-de-cuyper",
+      "shirtNumber": 5
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-2026",
+      "playerId": "mike-penders",
+      "shirtNumber": 13
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-2026",
+      "playerId": "nathan-ngoy",
+      "shirtNumber": 25
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-2026",
+      "playerId": "nicolas-raskin",
+      "shirtNumber": 23
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-2026",
+      "playerId": "romelu-lukaku",
+      "shirtNumber": 9
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-2026",
+      "playerId": "senne-lammens",
+      "shirtNumber": 12
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-2026",
+      "playerId": "thibaut-courtois",
+      "shirtNumber": 1
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-2026",
+      "playerId": "thomas-meunier",
+      "shirtNumber": 15
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-2026",
+      "playerId": "timothy-castagne",
+      "shirtNumber": 21
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-2026",
+      "playerId": "youri-tielemans",
+      "shirtNumber": 8
+    },
+    {
+      "countryId": "belcika",
+      "tournamentId": "world-cup-2026",
+      "playerId": "zeno-debast",
+      "shirtNumber": 2
+    }
+  ]
+}
