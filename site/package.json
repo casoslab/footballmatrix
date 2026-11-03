@@ -13,10 +13,10 @@
     "@fontsource-variable/newsreader": "^5.2.5",
     "@fontsource/ibm-plex-sans": "^5.2.5",
     "@fontsource/jetbrains-mono": "^5.2.5",
-    "astro": "^5.12.0"
+    "astro": "^7.4.5"
   },
   "devDependencies": {
-    "@astrojs/check": "^0.9.4",
+    "@astrojs/check": "^0.9.12",
     "typescript": "^5.8.3"
   }
 }

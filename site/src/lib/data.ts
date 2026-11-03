@@ -1,4 +1,5 @@
 import { readFileSync } from "node:fs";
+import { pathToFileURL } from "node:url";
 import type { Country, Player, SquadEntry, Tournament, TournamentType } from "./types";
 
 /**
@@ -8,7 +9,7 @@ import type { Country, Player, SquadEntry, Tournament, TournamentType } from "./
  * and shared by every page.
  */
 function loadJson<T>(name: string): T {
-  const url = new URL(`../../../data/dist/${name}`, import.meta.url);
+  const url = new URL(`../data/dist/${name}`, pathToFileURL(`${process.cwd()}/`));
   return JSON.parse(readFileSync(url, "utf8")) as T;
 }
 

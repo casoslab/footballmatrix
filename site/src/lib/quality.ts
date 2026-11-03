@@ -1,11 +1,12 @@
 import { readFileSync } from "node:fs";
+import { pathToFileURL } from "node:url";
 import { countries, playerByWikipediaTitle, players } from "./data";
 import type { Country, Player, Position, PositionMismatch } from "./types";
 
 /** Derivations for the data quality page. All counts trace to data/dist. */
 
 function loadJson<T>(name: string): T {
-  const url = new URL(`../../../data/dist/${name}`, import.meta.url);
+  const url = new URL(`../data/dist/${name}`, pathToFileURL(`${process.cwd()}/`));
   return JSON.parse(readFileSync(url, "utf8")) as T;
 }
 
